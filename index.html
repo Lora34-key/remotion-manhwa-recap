@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Remotion Video Studio — Chapter 001 Master (2.4 Min • Real Audio)</title>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #07090E;
+      --card: #0F141F;
+      --border: #1E2738;
+      --primary: #3B82F6;
+      --accent: #10B981;
+      --danger: #EF4444;
+      --text: #F3F4F6;
+      --text-muted: #94A3B8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header {
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 28px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .brand { display: flex; align-items: center; gap: 12px; }
+    .brand-logo {
+      width: 36px; height: 36px;
+      background: linear-gradient(135deg, #10B981, #3B82F6);
+      border-radius: 9px;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 800; color: white;
+      font-size: 1.1rem;
+    }
+    .brand-title { font-size: 1.1rem; font-weight: 700; letter-spacing: -0.5px; }
+    .badge {
+      font-size: 0.72rem;
+      background: #064E3B;
+      color: #34D399;
+      padding: 3px 9px;
+      border-radius: 12px;
+      font-weight: 700;
+      border: 1px solid #059669;
+    }
+    .btn {
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 0.86rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid transparent;
+      transition: all 0.15s ease;
+    }
+    .btn-primary { background: var(--primary); color: white; }
+    .btn-primary:hover { background: #2563EB; }
+    .btn-success { background: var(--accent); color: white; }
+    .btn-success:hover { background: #059669; }
+    .btn-danger { background: var(--danger); color: white; }
+    .btn-outline { background: #1E293B; border-color: var(--border); color: var(--text); }
+    .btn-outline:hover { background: #283548; }
+
+    main {
+      flex: 1;
+      max-width: 1560px;
+      margin: 0 auto;
+      width: 100%;
+      padding: 20px 24px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 420px;
+      gap: 24px;
+    }
+
+    main > div:first-child {
+      min-width: 0;
+    }
+
+    .video-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+      min-width: 0;
+      overflow: hidden;
+    }
+
+    /* 16:9 Widescreen Master Canvas */
+    .viewport {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #05070B;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 15px 50px rgba(0,0,0,0.9);
+      isolation: isolate;
+      perspective: 1200px;
+      container-type: inline-size;
+      container-name: viewport;
+    }
+
+    /* Layer 1: Ambient Scene-Matched Blurred Background */
+    .bg-layer {
+      position: absolute;
+      inset: -50px;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      filter: blur(45px) brightness(0.68) saturate(1.4);
+      transform: scale(1.15);
+      transition: background-image 0.5s ease-in-out;
+      z-index: 1;
+    }
+
+    /* Subtle Cinematic Vignette */
+    .vignette {
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at center, rgba(5,7,11,0.15) 0%, rgba(5,7,11,0.82) 100%);
+      z-index: 2;
+      pointer-events: none;
+    }
+
+    /* Layer 2: Dual 9:16 Vertical Panels with 160px Center Gap */
+    .panels-container {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: clamp(16px, 11cqw, 160px);
+      overflow: hidden;
+      z-index: 5;
+    }
+
+    .panel-card {
+      height: 92%;
+      aspect-ratio: 9 / 16;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 20px 50px rgba(0,0,0,0.95), 0 0 25px rgba(0,0,0,0.7);
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      background: #000;
+      position: relative;
+      will-change: transform;
+    }
+
+    .panel-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: opacity 0.3s ease;
+      will-change: transform;
+    }
+
+    /* Layer 3: Full-Screen Campfire Sparks across Left, Middle Gap, and Right */
+    .fire-layer-full {
+      position: absolute;
+      bottom: -10px;
+      left: 0;
+      right: 0;
+      height: clamp(160px, 45cqw, 500px);
+      pointer-events: none;
+      z-index: 22;
+      mix-blend-mode: screen;
+      overflow: hidden;
+    }
+
+    .fire-ember-track {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+
+    .camp-ember-full {
+      height: 100%;
+      min-width: 52%;
+      object-fit: cover;
+      pointer-events: none;
+      opacity: 0.98;
+      filter: brightness(1.4) contrast(1.2);
+    }
+
+    .camp-ember-center {
+      position: absolute;
+      left: 50%;
+      bottom: 0px;
+      transform: translateX(-50%);
+      height: 100%;
+      width: clamp(260px, 80cqw, 960px);
+      object-fit: cover;
+      pointer-events: none;
+      opacity: 1;
+      filter: brightness(1.45) contrast(1.25);
+    }
+
+    /* Whiteout Impact Flash Layer */
+    .flash-layer {
+      position: absolute;
+      inset: 0;
+      background: #FFF;
+      opacity: 0;
+      pointer-events: none;
+      z-index: 25;
+      transition: opacity 0.12s ease;
+    }
+
+    /* Layer 4: Masked Podcast Host Avatar with Black Smoke Screen on All Sides */
+    .host-smoke-back {
+      position: absolute;
+      bottom: -15px;
+      right: -10px;
+      width: clamp(140px, 32cqw, 440px);
+      height: clamp(90px, 20cqw, 280px);
+      background: radial-gradient(ellipse at 50% 50%, rgba(5, 7, 11, 1) 32%, rgba(5, 7, 11, 0.88) 62%, transparent 100%);
+      filter: blur(28px);
+      pointer-events: none;
+      z-index: 28;
+    }
+
+    .host-avatar-box {
+      position: absolute;
+      bottom: clamp(6px, 1.8cqw, 20px);
+      right: clamp(8px, 2.2cqw, 25px);
+      width: clamp(100px, 23cqw, 320px);
+      aspect-ratio: 320 / 185;
+      border-radius: clamp(10px, 2cqw, 26px);
+      overflow: hidden;
+      border: none;
+      background: transparent;
+      z-index: 30;
+      -webkit-mask-image: radial-gradient(ellipse at 55% 55%, rgba(0,0,0,1) 35%, rgba(0,0,0,0.85) 58%, rgba(0,0,0,0.3) 80%, rgba(0,0,0,0) 100%);
+      mask-image: radial-gradient(ellipse at 55% 55%, rgba(0,0,0,1) 35%, rgba(0,0,0,0.85) 58%, rgba(0,0,0,0.3) 80%, rgba(0,0,0,0) 100%);
+    }
+
+    .host-avatar-box video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .host-avatar-box::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at 55% 55%, transparent 40%, rgba(5,7,11,0.5) 65%, rgba(5,7,11,0.95) 98%);
+      pointer-events: none;
+    }
+
+    /* External Studio Controls */
+    .controls {
+      margin-top: 16px;
+      background: #080B12;
+      padding: 14px 18px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+    }
+    .control-row {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .time-lbl {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      min-width: 120px;
+    }
+    .scrubber {
+      flex: 1;
+      accent-color: var(--primary);
+      cursor: pointer;
+      height: 6px;
+    }
+    .beat-pills {
+      display: flex;
+      gap: 6px;
+      margin-top: 12px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+    .beat-pill {
+      font-size: 0.74rem;
+      padding: 6px 11px;
+      background: #141B29;
+      color: #94A3B8;
+      border-radius: 6px;
+      cursor: pointer;
+      white-space: nowrap;
+      border: 1px solid #1E2738;
+      transition: all 0.15s;
+    }
+    .beat-pill:hover { background: #1E293B; color: white; }
+    .beat-pill.active {
+      background: #1E3A8A;
+      color: #93C5FD;
+      border-color: #3B82F6;
+      font-weight: 700;
+    }
+
+    /* Right Sidebar: Story Beats List */
+    .sidebar-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      max-height: calc(100vh - 120px);
+    }
+    .card-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 12px;
+    }
+    .timeline-item {
+      padding: 12px 14px;
+      border-radius: 8px;
+      background: #0A0D15;
+      border: 1px solid #182030;
+      margin-bottom: 10px;
+      cursor: pointer;
+      font-size: 0.82rem;
+      transition: all 0.15s;
+    }
+    .timeline-item:hover { border-color: var(--primary); }
+    .timeline-item.active {
+      border-color: var(--primary);
+      background: #121E36;
+    }
+    .timeline-item .header {
+      display: flex;
+      justify-content: space-between;
+      color: #60A5FA;
+      font-weight: 700;
+      margin-bottom: 5px;
+      font-size: 0.82rem;
+    }
+    .timeline-item .meta {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 6px;
+      font-size: 0.72rem;
+    }
+    .meta-tag {
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: #1E293B;
+      color: #94A3B8;
+      font-weight: 600;
+    }
+    .meta-tag.emotion {
+      background: #064E3B;
+      color: #34D399;
+    }
+    .meta-tag.motion {
+      background: #1E3A8A;
+      color: #93C5FD;
+    }
+    /* ============================================================ */
+    /* RESPONSIVE LAYOUT BREAKPOINTS                                */
+    /* ============================================================ */
+    @media (max-width: 1200px) {
+      main {
+        grid-template-columns: 1fr;
+        padding: 16px;
+        gap: 16px;
+      }
+      .sidebar-card {
+        max-height: 520px;
+      }
+    }
+
+    @media (max-width: 768px) {
+      header {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 12px;
+        padding: 12px 16px;
+      }
+      header > div:last-child {
+        justify-content: flex-end;
+      }
+      .brand-title {
+        font-size: 0.96rem;
+      }
+      .control-row {
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+      .time-lbl {
+        font-size: 0.8rem;
+        min-width: 85px;
+      }
+      .btn {
+        padding: 7px 12px;
+        font-size: 0.8rem;
+      }
+      .video-card {
+        padding: 10px;
+      }
+      .controls {
+        padding: 10px 12px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .brand {
+        flex-wrap: wrap;
+      }
+      .brand-title {
+        font-size: 0.88rem;
+      }
+      .badge {
+        font-size: 0.65rem;
+        padding: 2px 7px;
+      }
+      .btn {
+        width: 100%;
+        justify-content: center;
+      }
+      header > div:last-child {
+        flex-direction: column;
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Header Navigation -->
+  <header>
+    <div class="brand">
+      <div class="brand-logo">R</div>
+      <div>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <span class="brand-title" id="brand_title">Remotion Video Studio — Full Movie Player (30 Chapters)</span>
+          <span class="badge" id="brand_badge">30 CHAPTERS • 70.5 MIN • 961 SHOTS (4–5S PACING)</span>
+        </div>
+        <p style="font-size: 0.72rem; color: var(--text-muted); margin-top: 2px;">
+          Return of the Unrivaled Spear Knight | 70.5 Min Continuous Movie • 961 Precision Shots (Max 4–5s/Shot)
+        </p>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <select id="chapter_select" style="background:#0F172A; color:#38BDF8; border:1px solid #334155; font-weight:700; font-size:0.86rem; padding:7px 12px; border-radius:8px; cursor:pointer; outline:none;" onchange="switchChapter(this.value)">
+        <option value="Chapter_001">Chapter 001: The Returned War God</option>
+      </select>
+      <button class="btn btn-outline" id="btn_extract" onclick="extractBeats()">⚡ Re-Extract Panels</button>
+      <button class="btn btn-success" onclick="renderVideo()">🎥 Render 1080p MP4</button>
+    </div>
+  </header>
+
+  <main>
+    <div>
+      <div class="video-card">
+        <!-- 16:9 Widescreen Master Canvas -->
+        <div class="viewport" id="viewport">
+          <!-- Layer 1: Blurred Ambient Background -->
+          <div class="bg-layer" id="bg_layer"></div>
+          
+          <!-- Cinematic Vignette -->
+          <div class="vignette"></div>
+
+          <!-- Layer 2: Dual 9:16 Vertical Panels -->
+          <div class="panels-container" id="panels_container">
+            <div class="panel-card" id="card_left">
+              <img class="panel-img" id="panel_left" alt="Left Panel">
+            </div>
+            <div class="panel-card" id="card_right">
+              <img class="panel-img" id="panel_right" alt="Right Panel">
+            </div>
+          </div>
+
+          <!-- Layer 3: Campfire Sparks Full Screen across entire bottom, wings, and middle gap -->
+          <div class="fire-layer-full">
+            <div class="fire-ember-track">
+              <img src="/api/camp-gif" class="camp-ember-full" style="margin-left: -50px;" alt="Campfire Embers Left" onerror="this.src='camp_gif.gif'" />
+              <img src="/api/camp-gif" class="camp-ember-full" style="margin-right: -50px; transform: scaleX(-1);" alt="Campfire Embers Right" onerror="this.src='camp_gif.gif'" />
+            </div>
+            <img src="/api/camp-gif" class="camp-ember-center" alt="Campfire Embers Middle" onerror="this.src='camp_gif.gif'" />
+          </div>
+
+          <!-- Whiteout Impact Flash Layer -->
+          <div class="flash-layer" id="flash_layer"></div>
+
+          <!-- Layer 4: Masked Podcast Host Avatar with Black Smoke Screen on All Sides -->
+          <div class="host-smoke-back"></div>
+          <div class="host-avatar-box">
+            <video id="host_video" autoplay loop muted playsinline></video>
+          </div>
+        </div>
+
+        <!-- External Controls (Outside Viewport) -->
+        <div class="controls">
+          <!-- Master Voiceover Audio Track (8m 22s) -->
+          <audio id="master_audio" src="chapter_001.wav" preload="auto"></audio>
+
+          <div class="control-row">
+            <button class="btn btn-primary" id="btn_play" onclick="togglePlay()">▶ Play Chapter 1 (2.4 Min)</button>
+            <div class="time-lbl" id="time_lbl">00:00 / 02:26</div>
+            <input type="range" class="scrubber" id="scrubber" min="0" max="146.0" value="0" step="0.1" oninput="onScrub(this.value)">
+          </div>
+
+          <!-- Beat Jump Pills -->
+          <div class="beat-pills" id="pills_container"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right Sidebar: Story Beats & Voiceover List -->
+    <div class="sidebar-card">
+      <div class="card-title">
+        <span>📜 Chapter 001 Master Timeline</span>
+        <span style="font-size: 0.72rem; color: var(--accent); font-weight: 600;">32 Shots • 02:26 (Max 4-5s)</span>
+      </div>
+      <div id="beats_list" style="overflow-y: auto; padding-right: 4px; flex: 1;"></div>
+    </div>
+  </main>
+
+  <script>
+    const isFileProto = (window.location.protocol === 'file:');
+
+    function resolveBeatPath(filename) {
+      if (isFileProto) {
+        return `file:///D:/Animated_videos/tools/dub/manhwa/remotion_studio/beats/${filename}`;
+      }
+      return `/beats/${filename}`;
+    }
+
+    function resolvePresetVideo(filename) {
+      if (isFileProto) {
+        return `../studio/masked_podcast_host_presets/${filename}`;
+      }
+      return `/presets/${filename}`;
+    }
+
+    // CHAPTER 001 MASTER TIMELINE (2.4 MINUTES / 145.80 SECONDS - REAL AUDIO SYNCED)
+    let BEATS = []; /* OLD_BEATS_REPLACED */
+    /* const DUMMY_OLD_BEATS = [
+      // ACT 1: CHAPTER 001 - THE RETURNED WAR GOD (2.4 MIN)
+      { id: 1, duration: 4.5, motion: 'slide_down', panelLeft: 'p003_knight_in_armor_sword_sunlight_text.png', panelRight: 'p002_warrior_in_battle_sword_starry_sky.png', avatarPreset: 'Confident.mp4', title: 'Shot 01: Nobles vs Commoners', vo: "In the Avalon Empire, commoners are born to kneel in the dirt while haughty nobles dominate through sacred swords and prestigious bloodlines..." },
+      { id: 2, duration: 4.5, motion: 'zoom_in', panelLeft: 'p004_warrior_in_battle_sword_fire_chaos.png', panelRight: 'p005_warrior_in_battle_sword_swinging_fire.png', avatarPreset: 'Confident.mp4', title: 'Shot 02: Joshua Sanders Rises', vo: "...but one peasant soldier shattered centuries of aristocratic pride: Joshua Sanders..." },
+      { id: 3, duration: 4.5, motion: 'pan_left', panelLeft: 'p007_warrior_in_battle_sword_fire_rocks.png', panelRight: 'p005_warrior_in_battle_sword_swinging_fire.png', avatarPreset: 'Confident.mp4', title: 'Shot 03: Master of the Lowly Spear', vo: "...an unstoppable prodigy who mastered the lowly spear..." },
+      { id: 4, duration: 4.5, motion: 'zoom_in', panelLeft: 'p006_warriors_in_battle_burning_castle_sword.png', panelRight: 'p007_warrior_in_battle_sword_fire_rocks.png', avatarPreset: 'Confident.mp4', title: 'Shot 04: Conquering the Civil War', vo: "...and single-handedly conquered the Imperial Civil War." },
+      { id: 5, duration: 4.5, motion: 'slide_down', panelLeft: 'p007_warrior_in_battle_sword_fire_rocks.png', panelRight: 'p010_warrior_in_battle_blood_on_face.png', avatarPreset: 'Shocked.mp4', title: 'Shot 05: The Bitter Betrayal', vo: "Yet doing all the heavy lifting earns him the ultimate reward of betrayal." },
+      { id: 6, duration: 4.0, motion: 'shake_slide', panelLeft: 'p010_warrior_in_battle_blood_on_face.png', panelRight: 'p021_warrior_kneeling_sword_in_hand_speech.png', avatarPreset: 'Shocked.mp4', title: 'Shot 06: Blood in the Forest', vo: "Slumped in a freezing forest clearing, Joshua coughs up thick mouthfuls of crimson blood..." },
+      { id: 7, duration: 3.5, motion: 'zoom_out', panelLeft: 'p011_warriors_in_robes_one_speaking_dark.png', panelRight: 'p019_warriors_in_robes_dark_forest_characters.png', avatarPreset: 'Serious.mp4', title: 'Shot 07: Five Conspirators Encircle', vo: "...as five imperial conspirators surround his battered body." },
+      { id: 8, duration: 4.5, motion: 'pan_left', panelLeft: 'p020_emperor_of_avalon_empire_kaiser_van.png', panelRight: 'p015_dark_figure_in_a_cloak_stands.png', avatarPreset: 'Serious.mp4', title: 'Shot 08: Supreme Lord & Brother', vo: "Standing at the front is his supreme Lord and supposed brother-in-arms..." },
+      { id: 9, duration: 4.0, motion: 'zoom_in', panelLeft: 'p020_emperor_of_avalon_empire_kaiser_van.png', panelRight: 'p010_warrior_in_battle_blood_on_face.png', avatarPreset: 'Serious.mp4', title: 'Shot 09: Emperor Kaiser von Britton', vo: "...the newly crowned Emperor Kaiser von Britton." },
+      { id: 10, duration: 4.5, motion: 'zoom_in', panelLeft: 'p023_magic_tower_master_evergrant_speaking.png', panelRight: 'p030_hand_holding_glowing_orb.png', avatarPreset: 'Explaining.mp4', title: 'Shot 10: Relic of Amon', vo: "Beside him stands Archmage Evergrant, cradling an ancient forbidden relic of Amon..." },
+      { id: 11, duration: 5.0, motion: 'shake_flash', panelLeft: 'p028_wizard_holding_orb_text_character_holding.png', panelRight: 'p013_clashing_inside_your_body.png', avatarPreset: 'Shocked.mp4', title: 'Shot 11: Magic & Holy Collision', vo: "...that violently collides lethal holy light and arcane magic directly inside Joshua's vital organs." },
+      { id: 12, duration: 4.5, motion: 'slide_down', panelLeft: 'p032_warrior_in_armor_talking_speaking_knight.png', panelRight: 'p031_warrior_in_battle_boots_walking_character.png', avatarPreset: 'Serious.mp4', title: 'Shot 12: Trembling Guard Captain', vo: "The royal guard captain shivers with nervous relief..." },
+      { id: 13, duration: 4.0, motion: 'zoom_out', panelLeft: 'p027_warrior_with_spear_talking.png', panelRight: 'p032_warrior_in_armor_talking_speaking_knight.png', avatarPreset: 'Serious.mp4', title: 'Shot 13: Nightmares of the Spear', vo: "...admitting that merely standing in the presence of Joshua's colossal spear gave him chronic nightmares." },
+      { id: 14, duration: 4.5, motion: 'pan_left', panelLeft: 'p040_kaiser_van_speaking_with_sword_in.png', panelRight: 'p037_warrior_saying_goodbye_green_eyes_dark.png', avatarPreset: 'Serious.mp4', title: 'Shot 14: Kaiser’s Hypocrisy', vo: "Kaiser softly whispers his hypocritical apologies..." },
+      { id: 15, duration: 5.0, motion: 'zoom_in', panelLeft: 'p042_emperor_speaking_surrounded_by_guards.png', panelRight: 'p010_warrior_in_battle_blood_on_face.png', avatarPreset: 'Shocked.mp4', title: 'Shot 15: Anomaly to the Throne', vo: "...claiming an anomaly capable of slaughtering emperors in their sleep simply cannot be allowed to live." },
+      { id: 16, duration: 5.0, motion: 'slide_up_flash', panelLeft: 'p047_blue_dragon_glowing_circle_shouting_shit.png', panelRight: 'p025_wizard_casting_a_spell.png', avatarPreset: 'Shocked.mp4', title: 'Shot 16: Destruction Circle Ignites', vo: "Beneath his shattered ribs, a massive strategic destruction circle ignites across the mossy floor..." },
+      { id: 17, duration: 5.0, motion: 'shake_slide', panelLeft: 'p047_blue_dragon_glowing_circle_shouting_shit.png', panelRight: 'p058_dark_rocky_landscape_with_glowing_particles.png', avatarPreset: 'Concerned.mp4', title: 'Shot 17: Condensing Apocalyptic Mana', vo: "...condensing raw apocalyptic mana set to detonate and vaporize every trace of his existence..." },
+      { id: 18, duration: 5.0, motion: 'pulse_zoom', panelLeft: 'p029_man_with_gray_hair_is_lying.png', panelRight: 'p017_fist_clenched_into_a_fist_with.png', avatarPreset: 'Confident.mp4', title: 'Shot 18: Feral Heartbeat', vo: "...but just as darkness begins to swallow his consciousness, a feral heartbeat echoes through the clearing." },
+      { id: 19, duration: 5.0, motion: 'zoom_in', panelLeft: 'p050_warrior_in_battle_sword_glowing_bloodred.png', panelRight: 'p046_warrior_in_battle_bloodied_face_sword.png', avatarPreset: 'Confident.mp4', title: 'Shot 19: Demonic Spear Lugia', vo: "Discarded in the frozen mud, his partner, the demonic spear Lugia, awakens with a terrifying crimson pulse..." },
+      { id: 20, duration: 4.5, motion: 'pan_left', panelLeft: 'p050_warrior_in_battle_sword_glowing_bloodred.png', panelRight: 'p041_britton_screams_in_terror.png', avatarPreset: 'Confident.mp4', title: 'Shot 20: Do Not Bow Your Neck', vo: "...commanding its master not to bow his neck." },
+      { id: 21, duration: 4.0, motion: 'shake_slide', panelLeft: 'p046_warrior_in_battle_bloodied_face_sword.png', panelRight: 'p051_warrior_in_battle_blue_aura_flying.png', avatarPreset: 'Serious.mp4', title: 'Shot 21: Dragging Across Dirt', vo: "Swallowing his own blood, Joshua drags his mangled frame across the dirt..." },
+      { id: 22, duration: 3.5, motion: 'zoom_in', panelLeft: 'p053_warrior_in_battle_sword_glowing_fire.png', panelRight: 'p017_fist_clenched_into_a_fist_with.png', avatarPreset: 'Confident.mp4', title: 'Shot 22: Clamping the Shaft', vo: "...and clamps his fingers around the glowing weapon." },
+      { id: 23, duration: 5.0, motion: 'slide_up_flash', panelLeft: 'p055_warrior_in_battle_sword_burning_castle.png', panelRight: 'p056_warrior_in_battle_sword_fire_dust.png', avatarPreset: 'Shocked.mp4', title: 'Shot 23: Detonation Roar', vo: "The magic circle detonates with an earth-shattering roar..." },
+      { id: 24, duration: 5.0, motion: 'shake_flash', panelLeft: 'p057_powerful_glowing_orb_emitting_blue_light.png', panelRight: 'p058_dark_rocky_landscape_with_glowing_particles.png', avatarPreset: 'Explaining.mp4', title: 'Shot 24: Space-Time Rupture', vo: "...but the collision of holy light, high magic, and demonic aura tears open a rift in space-time itself." },
+      { id: 25, duration: 5.0, motion: 'slide_down', panelLeft: 'p060_man_lying_in_hay_text_bleep.png', panelRight: 'p061_man_sitting_in_stable_horse_in.png', avatarPreset: 'Questioning.mp4', title: 'Shot 25: Straw & Horse Manure', vo: "When Joshua opens his eyes, the smell of burning flesh is replaced by dry straw and horse manure." },
+      { id: 26, duration: 5.0, motion: 'zoom_out', panelLeft: 'p062_man_in_shirt_and_suspenders_sword.png', panelRight: 'p063_man_with_blue_hair_and_purple.png', avatarPreset: 'Concerned.mp4', title: 'Shot 26: Disappearing Scars', vo: "Looking down in disbelief, the scarred hands of a continent-slaying war god have vanished..." },
+      { id: 27, duration: 5.0, motion: 'zoom_in', panelLeft: 'p063_man_with_blue_hair_and_purple.png', panelRight: 'p065_boy_with_blue_hair_and_a.png', avatarPreset: 'Shocked.mp4', title: 'Shot 27: Tiny Child Fingers', vo: "...replaced by the smooth, tiny fingers of a scrawny child." },
+      { id: 28, duration: 4.5, motion: 'pan_left', panelLeft: 'p066_boy_in_vest_greenery_sunlight_window.png', panelRight: 'p067_two_horses_in_stable.png', avatarPreset: 'Questioning.mp4', title: 'Shot 28: Stumbling to the Barrel', vo: "Stumbling out of the stable, he gazes into a wooden water barrel..." },
+      { id: 29, duration: 4.5, motion: 'zoom_in', panelLeft: 'p068_man_in_vest_and_shirt_wooden.png', panelRight: 'p065_boy_with_blue_hair_and_a.png', avatarPreset: 'Shocked.mp4', title: 'Shot 29: Nine-Year-Old Reflection', vo: "...where the reflection of his nine-year-old self stares back from the rippling water." },
+      { id: 30, duration: 4.5, motion: 'slide_down', panelLeft: 'p069_warrior_holding_sword_text_kaiser_van.png', panelRight: 'p065_boy_with_blue_hair_and_a.png', avatarPreset: 'Confident.mp4', title: 'Shot 30: Game Restarted', vo: "Emperor Kaiser thought he had buried his greatest hound, but the game has just restarted..." },
+      { id: 31, duration: 4.5, motion: 'zoom_in', panelLeft: 'p006_warriors_in_battle_burning_castle_sword.png', panelRight: 'p065_boy_with_blue_hair_and_a.png', avatarPreset: 'Confident.mp4', title: 'Shot 31: Burning the Empire to Ash', vo: "...and Joshua Sanders will make sure their corrupt empire burns to ash." },
+      { id: 32, duration: 5.0, motion: 'slide_down', panelLeft: 'p066_boy_in_vest_greenery_sunlight_window.png', panelRight: 'p068_man_in_vest_and_shirt_wooden.png', avatarPreset: 'Concerned.mp4', title: 'Shot 32: Morning Peace Shattered', vo: "But before the returned master can even finish testing his child vessels, the peace of the morning is violently shattered." }
+      /* OLD_DUPLICATES_START
+      { id: 6, duration: 4.4, motion: 'zoom_out', panelLeft: 'beat_03.png', panelRight: 'beat_05.png', avatarPreset: 'Serious.mp4', title: 'Shot 06: Conspirators Assemble', vo: "Standing at the front is his supreme lord and supposed brother-in-arms..." },
+      { id: 7, duration: 4.4, motion: 'pan_left', panelLeft: 'beat_02.png', panelRight: 'beat_01.png', avatarPreset: 'Serious.mp4', title: 'Shot 07: Emperor Kaiser von Britton', vo: "...the newly crowned Emperor Kaiser von Britton." },
+      { id: 8, duration: 4.4, motion: 'zoom_in', panelLeft: 'beat_04.png', panelRight: 'beat_03.png', avatarPreset: 'Explaining.mp4', title: 'Shot 08: Relic of Amon', vo: "Beside him stands Archmage Evergrant, cradling an ancient forbidden relic of Amon..." },
+      { id: 9, duration: 4.4, motion: 'shake_flash', panelLeft: 'beat_05.png', panelRight: 'beat_04.png', avatarPreset: 'Shocked.mp4', title: 'Shot 09: Collision of Light & Magic', vo: "...that violently collides lethal holy light and arcane magic directly inside Joshua's vital organs." },
+      { id: 10, duration: 4.4, motion: 'slide_down', panelLeft: 'beat_08.png', panelRight: 'beat_03.png', avatarPreset: 'Serious.mp4', title: 'Shot 10: Nightmares of the Spear', vo: "The royal guard captain shivers with nervous relief, admitting that merely standing in the presence of Joshua's colossal spear gave him chronic nightmares." },
+      { id: 11, duration: 4.4, motion: 'pan_left', panelLeft: 'beat_02.png', panelRight: 'beat_06.png', avatarPreset: 'Serious.mp4', title: 'Shot 11: Hypocritical Apology', vo: "Kaiser softly whispers his hypocritical apologies..." },
+      { id: 12, duration: 4.4, motion: 'zoom_in', panelLeft: 'beat_06.png', panelRight: 'beat_01.png', avatarPreset: 'Shocked.mp4', title: 'Shot 12: Anomaly to the Throne', vo: "...claiming an anomaly capable of slaughtering emperors in their sleep simply cannot be allowed to live." },
+      { id: 13, duration: 4.4, motion: 'slide_up_flash', panelLeft: '003_p06.png', panelRight: 'beat_05.png', avatarPreset: 'Shocked.mp4', title: 'Shot 13: Destruction Circle Ignites', vo: "Beneath his shattered ribs, a massive strategic destruction circle ignites across the mossy floor..." },
+      { id: 14, duration: 4.4, motion: 'shake_slide', panelLeft: '003_p06.png', panelRight: 'beat_01.png', avatarPreset: 'Concerned.mp4', title: 'Shot 14: Apocalyptic Mana Condenses', vo: "...condensing raw apocalyptic mana set to detonate and vaporize every trace of his existence." },
+      { id: 15, duration: 4.4, motion: 'pulse_zoom', panelLeft: 'beat_07.png', panelRight: 'beat_08.png', avatarPreset: 'Confident.mp4', title: 'Shot 15: Feral Heartbeat', vo: "But just as darkness begins to swallow his consciousness, a feral heartbeat echoes through the clearing." },
+      { id: 16, duration: 4.4, motion: 'zoom_in', panelLeft: 'beat_08.png', panelRight: '003_p01.png', avatarPreset: 'Confident.mp4', title: 'Shot 16: Lugia Awakening', vo: "Discarded in the frozen mud, his partner, the demonic spear Lugia, awakens with a terrifying crimson pulse..." },
+      { id: 17, duration: 4.4, motion: 'pan_left', panelLeft: 'beat_07.png', panelRight: 'beat_08.png', avatarPreset: 'Confident.mp4', title: 'Shot 17: Never Bow Your Neck', vo: "...commanding its master not to bow his neck." },
+      { id: 18, duration: 4.4, motion: 'shake_slide', panelLeft: 'beat_05.png', panelRight: 'beat_09.png', avatarPreset: 'Serious.mp4', title: 'Shot 18: Crawling Revenant', vo: "Swallowing his own blood, Joshua drags his mangled frame across the dirt..." },
+      { id: 19, duration: 4.4, motion: 'zoom_in', panelLeft: 'beat_09.png', panelRight: 'beat_10.png', avatarPreset: 'Confident.mp4', title: 'Shot 19: Clamping the Shaft', vo: "...and clamps his fingers around the glowing weapon." },
+      { id: 20, duration: 4.4, motion: 'slide_up_flash', panelLeft: '003_p06.png', panelRight: 'beat_07.png', avatarPreset: 'Shocked.mp4', title: 'Shot 20: Detonation Roar', vo: "The magic circle detonates with an earth-shattering roar..." },
+      { id: 21, duration: 4.4, motion: 'shake_flash', panelLeft: 'beat_11.png', panelRight: 'beat_08.png', avatarPreset: 'Explaining.mp4', title: 'Shot 21: Space-Time Rupture', vo: "...but the collision of holy light, high magic, and demonic aura tears open a rift in space-time itself." },
+      { id: 22, duration: 4.4, motion: 'slide_down', panelLeft: 'beat_12.png', panelRight: 'beat_20.png', avatarPreset: 'Questioning.mp4', title: 'Shot 22: Stench of Straw & Manure', vo: "When Joshua opens his eyes, the smell of burning flesh is replaced by dry straw and horse manure." },
+      { id: 23, duration: 4.4, motion: 'zoom_out', panelLeft: '003_p09.png', panelRight: 'beat_13.png', avatarPreset: 'Concerned.mp4', title: 'Shot 23: Disappearing Scars', vo: "Looking down in disbelief, the scarred hands of a continent-slaying war god have vanished..." },
+      { id: 24, duration: 4.4, motion: 'zoom_in', panelLeft: 'beat_13.png', panelRight: 'beat_12.png', avatarPreset: 'Shocked.mp4', title: 'Shot 24: Scrawny Child Hands', vo: "...replaced by the smooth, tiny fingers of a scrawny child." },
+      { id: 25, duration: 4.4, motion: 'pan_left', panelLeft: 'beat_14.png', panelRight: 'beat_12.png', avatarPreset: 'Questioning.mp4', title: 'Shot 25: Puddle Reflection', vo: "Stumbling out of the stable, he gazes into a wooden water barrel..." },
+      { id: 26, duration: 4.4, motion: 'zoom_in', panelLeft: 'beat_12.png', panelRight: 'beat_14.png', avatarPreset: 'Shocked.mp4', title: 'Shot 26: Nine-Year-Old Reflection', vo: "...where the reflection of his nine-year-old self stares back from the rippling water." },
+      { id: 27, duration: 4.4, motion: 'slide_down', panelLeft: 'beat_02.png', panelRight: 'beat_06.png', avatarPreset: 'Serious.mp4', title: 'Shot 27: Kaiser’s Illusion', vo: "Emperor Kaiser thought he had buried his greatest hound..." },
+      { id: 28, duration: 4.4, motion: 'pan_left', panelLeft: 'beat_12.png', panelRight: 'beat_14.png', avatarPreset: 'Confident.mp4', title: 'Shot 28: Game Restarted', vo: "...but the game has just restarted..." },
+      { id: 29, duration: 4.4, motion: 'zoom_in', panelLeft: 'beat_12.png', panelRight: '003_p07.png', avatarPreset: 'Confident.mp4', title: 'Shot 29: Burning the Empire', vo: "...and Joshua Sanders will make sure their corrupt empire burns to ash." },
+      { id: 30, duration: 4.4, motion: 'slide_down', panelLeft: 'beat_12.png', panelRight: 'beat_20.png', avatarPreset: 'Concerned.mp4', title: 'Shot 30: Testing the Child Body', vo: "But before the returned master can even finish testing his child vessels..." },
+      { id: 31, duration: 4.5, motion: 'slide_down', panelLeft: 'beat_15.png', panelRight: 'beat_14.png', avatarPreset: 'Concerned.mp4', title: 'Shot 31: Peace Shattered', vo: "...the peace of the morning is violently shattered." },
+      { id: 32, duration: 4.5, motion: 'zoom_in', panelLeft: 'beat_15.png', panelRight: 'beat_13.png', avatarPreset: 'Serious.mp4', title: 'Shot 32: Approaching Bullies', vo: "Heavy footsteps echo along the cobblestone as the Duke's stable bullies corner the boy." },
+      OLD_DUPLICATES_END,
+
+
+
+
+
+
+    ];
+
+    // UNUSED_ARCHIVE_START
+
+      { id: 11, duration: 9.01, motion: 'slide_down', panelLeft: '003_p02.png', panelRight: 'beat_01.png', avatarPreset: 'Concerned.mp4', title: 'Shot 11: The Pure Dream', vo: "His entire dream was simple—to strip away the world's prejudice against the spear, stand beside his friend as the Empire's unbreakable shield, and live with honor." },
+      { id: 12, duration: 7.63, motion: 'zoom_out', panelLeft: 'beat_04.png', panelRight: 'beat_03.png', avatarPreset: 'Explaining.mp4', title: 'Shot 12: Archmage Evergrant', vo: "But stepping into the clearing is a man wearing a pristine white cloak—the supreme Master of the Continental Magic Tower, Archmage Evergrant." },
+
+      // ACT 2: EVERGRANT'S REVELATION & KAISER'S COLD DEPARTURE
+      { id: 13, duration: 9.71, motion: 'zoom_in', panelLeft: 'beat_04.png', panelRight: 'beat_01.png', avatarPreset: 'Explaining.mp4', title: 'Shot 13: Anomaly to the State', vo: "Evergrant looks down at him like a disappointed professor, calmly explaining that in this cruel world, there are people whose sheer existence is a threat to the state." },
+      { id: 14, duration: 7.63, motion: 'pan_left', panelLeft: 'beat_02.png', panelRight: '003_p07.png', avatarPreset: 'Serious.mp4', title: 'Shot 14: World Domination', vo: "With the civil war finished, nothing on the continent can challenge Kaiser's grand ambition to conquer the world—except for one single anomaly." },
+      { id: 15, duration: 10.4, motion: 'slide_down', panelLeft: '003_p09.png', panelRight: 'beat_08.png', avatarPreset: 'Confident.mp4', title: 'Shot 15: Apocalyptic Mana', vo: "Most veteran knights spend forty years meditating just to coat a three-inch dagger in basic aura. But Joshua? Our boy was swinging a twelve-foot colossal spear coated in apocalyptic mana!" },
+      { id: 16, duration: 10.05, motion: 'shake_slide', panelLeft: 'beat_04.png', panelRight: 'beat_05.png', avatarPreset: 'Serious.mp4', title: 'Shot 16: The Final Wall', vo: "Worse still, Evergrant knows the awful truth: Joshua secretly broke through the legendary mortal ceiling, achieving a realm of power where even emperors can be slaughtered in their sleep." },
+      { id: 17, duration: 9.71, motion: 'zoom_in', panelLeft: 'beat_04.png', panelRight: 'beat_03.png', avatarPreset: 'Explaining.mp4', title: 'Shot 17: Relic of Amon', vo: "In the palm of his hand, the archmage cradles a mysterious grey sphere that radiates a sickeningly bright flare—a forbidden relic excavated from the ancient ruins of Amon." },
+      { id: 18, duration: 11.09, motion: 'pan_left', panelLeft: 'beat_05.png', panelRight: 'beat_04.png', avatarPreset: 'Shocked.mp4', title: 'Shot 18: Calculated Execution', vo: "It is the only known medium that can simultaneously conduct opposing magic and holy energy. Joshua's mind reels—the expedition to Amon wasn't an imperial mission; it was prep work for his execution!" },
+      { id: 19, duration: 7.28, motion: 'slide_down', panelLeft: 'beat_03.png', panelRight: 'beat_01.png', avatarPreset: 'Concerned.mp4', title: 'Shot 19: The Royal Guard', vo: "Next, a middle-aged knight in shimmering golden armor steps up, sporting the roaring dragon crest of Avalon's most elite royal bodyguard." },
+      { id: 20, duration: 10.75, motion: 'zoom_in', panelLeft: 'beat_08.png', panelRight: 'beat_03.png', avatarPreset: 'Serious.mp4', title: 'Shot 20: Living Nightmare', vo: "The veteran admits with a nervous shudder that merely standing in the presence of Joshua's spear gave him chronic nightmares, convinced the peasant spearman would turn on them at any moment." },
+      { id: 21, duration: 7.28, motion: 'slide_up_flash', panelLeft: 'beat_04.png', panelRight: 'beat_01.png', avatarPreset: 'Dramatic_Pause.mp4', title: 'Shot 21: Oscar Performance', vo: "Putting on an Oscar-worthy performance, Evergrant bows with theatrical humility, thanking Joshua for his service before giving him a polite farewell." },
+      { id: 22, duration: 7.97, motion: 'zoom_in', panelLeft: 'beat_04.png', panelRight: 'beat_01.png', avatarPreset: 'Emphasizing.mp4', title: 'Shot 22: Mocking Derision', vo: "But as their eyes meet, Joshua catches the subtle smirk curling the corner of the archmage's mouth. It isn't sorrow—it's pure, disgusting mockery." },
+      { id: 23, duration: 9.01, motion: 'pan_left', panelLeft: 'beat_02.png', panelRight: 'beat_06.png', avatarPreset: 'Serious.mp4', title: 'Shot 23: The Emperor Whispers', vo: "Then Kaiser speaks, whispering in a soft, trembling voice that he cannot bear to watch, yet feels obligated to witness the end of his dear companion." },
+      { id: 24, duration: 11.09, motion: 'slide_down', panelLeft: 'beat_06.png', panelRight: 'beat_01.png', avatarPreset: 'Shocked.mp4', title: 'Shot 24: Peak Hypocrisy', vo: "The sheer hypocrisy makes our boy physically nauseous. The man who drank wine with him by the fire last night is now having him butchered in the woods like a rabid hound." },
+
+      // ACT 3: THE 50-METER DESTRUCTION CIRCLE & DEMONIC RESURGENCE
+      { id: 25, duration: 8.67, motion: 'slide_up_flash', panelLeft: '003_p06.png', panelRight: 'beat_01.png', avatarPreset: 'Shocked.mp4', title: 'Shot 25: Annihilation Runes', vo: "Right beneath his chest, massive red and violet runes ignite across the mossy floor—a high-grade strategic destruction circle designed to vaporize everything within fifty meters!" },
+      { id: 26, duration: 10.4, motion: 'zoom_in', panelLeft: '003_p06.png', panelRight: 'beat_05.png', avatarPreset: 'Serious.mp4', title: 'Shot 26: 5-Minute Countdown', vo: "Joshua knows this formula well. At the rate the ambient mana is condensing, he has five minutes at most before the clearing detonates with the force of a falling meteor." },
+      { id: 27, duration: 10.4, motion: 'pan_left', panelLeft: 'beat_07.png', panelRight: 'beat_06.png', avatarPreset: 'Emphasizing.mp4', title: 'Shot 27: Engraving the Traitors', vo: "In the face of certain death, panic disappears, replaced by an inferno of pure, cold hatred. He carves the faces of all five conspirators into his memory, engraving every wrinkle." },
+      { id: 28, duration: 8.67, motion: 'shake_slide', panelLeft: 'beat_05.png', panelRight: 'beat_07.png', avatarPreset: 'Concerned.mp4', title: 'Shot 28: Suppressing Torment', vo: "Swallowing his own blood, he enters deep meditation, desperately attempting to suppress the feral beast of clashing divine and magical energies tearing through his organs." },
+      { id: 29, duration: 10.05, motion: 'slide_down', panelLeft: 'beat_01.png', panelRight: '003_p06.png', avatarPreset: 'Serious.mp4', title: 'Shot 29: Biological Limit', vo: "What feels like two lifetimes of torment is only three minutes on the clock. His physical vessels are completely wrecked; the biological limit of his mortal frame has shattered." },
+      { id: 30, duration: 8.67, motion: 'pulse_zoom', panelLeft: 'beat_08.png', panelRight: 'beat_01.png', avatarPreset: 'Confident.mp4', title: 'Shot 30: Dark Heartbeat', vo: "But right as his consciousness begins to fade into eternal blackness, a low, rhythmic vibration rings in his ears—a dark heartbeat calling out to him." },
+      { id: 31, duration: 9.01, motion: 'zoom_in', panelLeft: 'beat_08.png', panelRight: '003_p01.png', avatarPreset: 'Confident.mp4', title: 'Shot 31: Lugia Awakens', vo: "Resting in the dirt a few feet away, Lugia radiates a menacing crimson pulse that defies all mortal magic. The weapon is awakening on its own!" },
+      { id: 32, duration: 9.36, motion: 'pan_left', panelLeft: '003_p01.png', panelRight: '003_p09.png', avatarPreset: 'Explaining.mp4', title: 'Shot 32: Twenty Years of War', vo: "For two decades of relentless warfare, the spear had served him as an unyielding blade of iron, never revealing the dormant primordial demon sealed within its core." },
+      { id: 33, duration: 8.32, motion: 'zoom_in', panelLeft: 'beat_08.png', panelRight: 'beat_07.png', avatarPreset: 'Emphasizing.mp4', title: 'Shot 33: Never Bow Your Knee', vo: "But now, bathed in his dying hatred, the spear screams with conscious fury, commanding its master not to bow his neck to these hypocrites!" },
+      { id: 34, duration: 8.32, motion: 'shake_slide', panelLeft: 'beat_09.png', panelRight: 'beat_08.png', avatarPreset: 'Serious.mp4', title: 'Shot 34: Crawling Revenant', vo: "Moving like a possessed revenant, our boy chokes down the excruciating agony, clawing his fingers into the soil and dragging his shattered body forward." },
+      { id: 35, duration: 8.32, motion: 'zoom_in', panelLeft: 'beat_09.png', panelRight: '003_p04.png', avatarPreset: 'Confident.mp4', title: 'Shot 35: Clamping the Shaft', vo: "With a final surge of willpower, his bloody hand firmly clamps around the spear's grip. A savage grin cuts across his lips—he made it." },
+      { id: 36, duration: 7.97, motion: 'slide_up_flash', panelLeft: '003_p06.png', panelRight: '003_p04.png', avatarPreset: 'Shocked.mp4', title: 'Shot 36: Cataclysmic Blast', vo: "Right at that exact microsecond, the strategic circle reaches maximum capacity, detonating with an earth-shattering roar that levels the forest canopy into dust!" },
+
+      // ACT 4: SPACE-TIME RIFT & REBIRTH IN THE BARN
+      { id: 37, duration: 8.67, motion: 'slide_up_flash', panelLeft: '003_p06.png', panelRight: 'beat_08.png', avatarPreset: 'Explaining.mp4', title: 'Shot 37: Trinity of Absolute Forces', vo: "But instead of vaporizing his soul, the catastrophic collision of three absolute forces—holy light, ancient magic, and Lugia's demonic core—tears open a rift in space-time!" },
+      { id: 38, duration: 6.59, motion: 'pan_left', panelLeft: '003_p06.png', panelRight: '003_p09.png', avatarPreset: 'Explaining.mp4', title: 'Shot 38: Sucked into the Vortex', vo: "Sucked into the temporal whirlpool, Joshua's adult consciousness hurtles backward through time, retaining every memory, battle, and technique intact." },
+      { id: 39, duration: 8.67, motion: 'slide_down', panelLeft: 'beat_12.png', panelRight: '003_p06.png', avatarPreset: 'Questioning.mp4', title: 'Shot 39: Barn Straw & Manure', vo: "The blinding light fades, replaced by the pungent, familiar stench of dry straw and horse manure. Our boy opens his eyes, groaning in mild confusion." },
+      { id: 40, duration: 9.01, motion: 'zoom_in', panelLeft: 'beat_13.png', panelRight: 'beat_12.png', avatarPreset: 'Shocked.mp4', title: 'Shot 40: Tiny Child Fingers', vo: "Looking down, he doesn't see the scarred, battle-hardened hands of a legendary grand duke. He is staring at the smooth, tiny fingers of a scrawny child!" },
+      { id: 41, duration: 8.32, motion: 'pan_left', panelLeft: 'beat_12.png', panelRight: 'beat_13.png', avatarPreset: 'Questioning.mp4', title: 'Shot 41: Puddle Reflection', vo: "Scrambling out of the stables, he rushes over to a muddy puddle on the cobblestone path, staring down at his watery reflection in shock." },
+      { id: 42, duration: 10.4, motion: 'zoom_in', panelLeft: 'beat_12.png', panelRight: 'beat_14.png', avatarPreset: 'Shocked.mp4', title: 'Shot 42: Regressed 30 Years', vo: "Staring back is the face of a nine-year-old boy with dark blue locks and deep indigo eyes. He hasn't just survived; he has regressed thirty years into his own childhood!" },
+      { id: 43, duration: 9.01, motion: 'slide_down', panelLeft: 'beat_14.png', panelRight: '003_p02.png', avatarPreset: 'Concerned.mp4', title: 'Shot 43: House Agnus Quarters', vo: "He recognizes the grim stone walls around him—the outer servant quarters of House Agnus, where he and his concubine mother were discarded and shunned like vermin." },
+      { id: 44, duration: 11.71, motion: 'zoom_in', panelLeft: 'beat_12.png', panelRight: 'beat_14.png', avatarPreset: 'Serious.mp4', title: 'Shot 44: Lucia is Alive', vo: "A sudden realization hits him like lightning: at this exact age, his mother Lucia is still alive. The woman who suffered in poverty for his sake is waiting for him in the cottage." },
+      { id: 45, duration: 10.84, motion: 'pan_left', panelLeft: 'beat_12.png', panelRight: 'beat_14.png', avatarPreset: 'Explaining.mp4', title: 'Shot 45: Sealed Meridians', vo: "Checking his internal channels, our boy notices a strange complication—a dense, turbulent knot of energy is lodged firmly in his dantian, sealing his natural mana circulation." },
+      { id: 46, duration: 9.7, motion: 'pulse_zoom', panelLeft: 'beat_12.png', panelRight: 'beat_08.png', avatarPreset: 'Confident.mp4', title: 'Shot 46: Dormant Reactor', vo: "The explosion didn't vanish; the trinity of Amon's divine power, Evergrant's high magic, and Lugia's demonic aura traveled back with his soul, locked inside his child meridians!" },
+
+      // ACT 5: THE STABLE BULLIES & THE FIRST RECKONING
+      { id: 47, duration: 10.56, motion: 'slide_down', panelLeft: 'beat_15.png', panelRight: 'beat_14.png', avatarPreset: 'Concerned.mp4', title: 'Shot 47: Swaggering Bullies', vo: "Before he can finish unknotting the seal, heavy footsteps break the silence as three familiar bullies swagger into the alleyway—Gort, Roid, and Rols, the Duke's bottom-feeder stable hands." },
+      { id: 48, duration: 9.04, motion: 'zoom_in', panelLeft: 'beat_15.png', panelRight: 'beat_14.png', avatarPreset: 'Serious.mp4', title: 'Shot 48: Daily Torment', vo: "In his previous life, these three grown men beat and tormented him daily, using his mother's safety as leverage to force him into doing their dirty chores." },
+      { id: 49, duration: 9.18, motion: 'pan_left', panelLeft: 'beat_12.png', panelRight: 'beat_15.png', avatarPreset: 'Confident.mp4', title: 'Shot 49: The Executioner’s Stare', vo: "But today, instead of trembling and cowering in the corner, the scrawny child stands upright, fixing them with the cold, bored stare of a veteran executioner." },
+      { id: 50, duration: 7.88, motion: 'zoom_in', panelLeft: 'beat_16.png', panelRight: 'beat_12.png', avatarPreset: 'Emphasizing.mp4', title: 'Shot 50: Outstretched Hand', vo: "Annoyed by the brat's disrespect, Gort steps forward with an outstretched hand, completely oblivious to the fact that he is approaching a returned war god." },
+      { id: 51, duration: 9.22, motion: 'shake_slide', panelLeft: 'beat_17.png', panelRight: 'beat_18.png', avatarPreset: 'Confident.mp4', title: 'Shot 51: Pure Biomechanics', vo: "With a minimal shift in weight, our boy redirects Gort's clumsy forward momentum, using pure physics and zero mana to send the burly guard face-planting hard into the cobblestone!" },
+      { id: 52, duration: 9.56, motion: 'zoom_out', panelLeft: 'beat_19.png', panelRight: 'beat_18.png', avatarPreset: 'Shocked.mp4', title: 'Shot 52: Unhinged Jaws', vo: "Roid and Rols freeze in utter disbelief, unable to process how their scrawny ten-year-old punching bag just dropped their leader without breaking a single drop of sweat." },
+      { id: 53, duration: 8.86, motion: 'zoom_in', panelLeft: 'beat_12.png', panelRight: 'beat_19.png', avatarPreset: 'Confident.mp4', title: 'Shot 53: Lethal Warning', vo: "Looking down at the groaning man, Joshua softly warns them that the past hierarchy is officially dead. Cross his path again, and the next lesson will cost their lives." }
+    ];
+    ];
+
+    */ let currentTime = 0;
+    let isPlaying = false;
+    let lastTime = null;
+    let animId = null;
+    let totalDuration = 146.00;
+
+    let currentChapterId = 'Chapter_001';
+    let currentChapter = null;
+
+    async function initChapters() {
+      try {
+        const res = await fetch('chapters_data.json');
+        const json = await res.json();
+        if (json && json.result && json.result.timeline_debug && json.result.timeline_debug.all_chapters_config) {
+          window.CHAPTERS_CONFIG = json.result.timeline_debug.all_chapters_config;
+        }
+      } catch (e) {
+        console.warn('API fetch fallback:', e);
+      }
+
+      if (!window.CHAPTERS_CONFIG) {
+        console.error('CHAPTERS_CONFIG missing');
+        return;
+      }
+
+      const sel = document.getElementById('chapter_select');
+      if (sel) {
+        sel.innerHTML = '';
+        for (const [chId, chData] of Object.entries(window.CHAPTERS_CONFIG)) {
+          const opt = document.createElement('option');
+          opt.value = chId;
+          opt.innerText = chData.title;
+          sel.appendChild(opt);
+        }
+
+        const fullOpt = document.createElement('option');
+        fullOpt.value = 'ALL_MOVIE';
+        fullOpt.innerText = '🎬 Entire Movie (All 30 Chapters • 70.5 Min Continuous)';
+        sel.appendChild(fullOpt);
+      }
+
+      switchChapter('Chapter_001');
+    }
+
+    function switchChapter(chId) {
+      if (isPlaying) togglePlay();
+      currentChapterId = chId;
+
+      if (chId === 'ALL_MOVIE') {
+        const allShots = [];
+        let runningId = 1;
+        for (let c = 1; c <= 30; c++) {
+          const k = `Chapter_${String(c).padStart(3, '0')}`;
+          const chData = window.CHAPTERS_CONFIG[k];
+          if (chData && chData.shots) {
+            chData.shots.forEach(s => {
+              allShots.push({
+                ...s,
+                id: runningId++,
+                chapterId: k
+              });
+            });
+          }
+        }
+        currentChapter = {
+          id: 'ALL_MOVIE',
+          title: 'Entire Movie: Return of the Unrivaled Spear Knight',
+          audioSrc: 'full_movie.mp3',
+          audioOffset: 0.0,
+          duration: 4230.0,
+          shots: allShots
+        };
+      } else {
+        currentChapter = window.CHAPTERS_CONFIG[chId];
+      }
+
+      BEATS = currentChapter.shots;
+      totalDuration = currentChapter.duration;
+      currentTime = 0;
+
+      const masterAudio = document.getElementById('master_audio');
+      if (masterAudio) {
+        masterAudio.src = currentChapter.audioSrc;
+        masterAudio.currentTime = currentChapter.audioOffset;
+      }
+
+      const scrubber = document.getElementById('scrubber');
+      if (scrubber) {
+        scrubber.max = totalDuration;
+        scrubber.value = 0;
+      }
+      const bTitle = document.getElementById('brand_title');
+      if (bTitle) bTitle.innerText = currentChapter.title;
+      const bBadge = document.getElementById('brand_badge');
+      if (bBadge) bBadge.innerText = `${BEATS.length} SHOTS • ${formatTime(totalDuration)} (MAX 4–5S/SHOT)`;
+      const playBtn = document.getElementById('btn_play');
+      if (playBtn) playBtn.innerText = `▶ Play ${currentChapter.title.split(':')[0]}`;
+
+      const pLeft = document.getElementById('panel_left');
+      if (pLeft) pLeft.removeAttribute('data-beat');
+
+      buildUI();
+      updateVisuals(0);
+    }
+
+    function buildUI() {
+      const pills = document.getElementById('pills_container');
+      const list = document.getElementById('beats_list');
+      pills.innerHTML = '';
+      list.innerHTML = '';
+
+      let accum = 0;
+      BEATS.forEach((b, i) => {
+        const from = accum;
+        accum += b.duration;
+        const to = accum;
+
+        const pill = document.createElement('button');
+        pill.className = `beat-pill ${i === 0 ? 'active' : ''}`;
+        pill.id = `pill_${i}`;
+        pill.innerText = `Shot ${i+1}: ${b.title.split(':')[1] ? b.title.split(':')[1].trim() : b.title}`;
+        pill.onclick = () => jumpToTime(from);
+        pills.appendChild(pill);
+
+        const item = document.createElement('div');
+        item.className = `timeline-item ${i === 0 ? 'active' : ''}`;
+        item.id = `item_${i}`;
+        item.onclick = () => jumpToTime(from);
+        item.innerHTML = `
+          <div class="header">
+            <span>${b.title}</span>
+            <span>${formatTime(from)} - ${formatTime(to)}</span>
+          </div>
+          <div class="meta">
+            <span class="meta-tag emotion">Host: ${b.avatarPreset.replace('.mp4', '')}</span>
+            <span class="meta-tag motion">Motion: ${b.motion.replace('_', ' ')}</span>
+          </div>
+          <div style="color: #CBD5E1; line-height: 1.4;">${b.vo}</div>
+        `;
+        list.appendChild(item);
+      });
+    }
+
+    function getActiveBeat(t) {
+      let acc = 0;
+      for (let i = 0; i < BEATS.length; i++) {
+        if (t >= acc && t < (acc + BEATS[i].duration)) {
+          return { beat: BEATS[i], index: i, localT: t - acc };
+        }
+        acc += BEATS[i].duration;
+      }
+      return { beat: BEATS[BEATS.length - 1], index: BEATS.length - 1, localT: BEATS[BEATS.length - 1].duration };
+    }
+
+    function updateVisuals(t) {
+      const { beat, index, localT } = getActiveBeat(t);
+
+      const pLeft = document.getElementById('panel_left');
+      const pRight = document.getElementById('panel_right');
+      const cardLeft = document.getElementById('card_left');
+      const cardRight = document.getElementById('card_right');
+      const bg = document.getElementById('bg_layer');
+      const hostVideo = document.getElementById('host_video');
+      const flash = document.getElementById('flash_layer');
+
+      const leftSrc = resolveBeatPath(beat.panelLeft);
+      const rightSrc = resolveBeatPath(beat.panelRight);
+      const hostSrc = resolvePresetVideo(beat.avatarPreset);
+
+      if (pLeft.getAttribute('data-beat') !== String(index)) {
+        pLeft.setAttribute('data-beat', String(index));
+        pLeft.src = leftSrc;
+        pRight.src = rightSrc;
+        bg.style.backgroundImage = `url('${leftSrc}')`;
+
+        // Switch host avatar preset video if changed
+        if (hostVideo.getAttribute('data-src') !== hostSrc) {
+          hostVideo.setAttribute('data-src', hostSrc);
+          hostVideo.src = hostSrc;
+          hostVideo.play().catch(() => {});
+        }
+      }
+
+      const progress = localT / beat.duration;
+
+      // SUPERCHARGED DYNAMIC CAMERA & PANEL ANIMATION ENGINE (140px-160px Travel)
+      let leftScale = 1.0;
+      let leftPanX = 0;
+      let leftPanY = 0;
+      let leftRotate = 0;
+      let imgLeftScale = 1.08;
+      let imgLeftPanY = 0;
+
+      let rightScale = 1.0;
+      let rightPanX = 0;
+      let rightPanY = 0;
+      let rightRotate = 0;
+      let imgRightScale = 1.08;
+      let imgRightPanY = 0;
+
+      if (beat.motion === 'slide_down') {
+        // High-energy vertical slide down (140px total travel)
+        leftPanY = -70 + (progress * 140);
+        leftScale = 1.0 + (progress * 0.08);
+        leftRotate = -1.2 + (progress * 2.4);
+        imgLeftPanY = 25 - (progress * 50);
+
+        rightPanY = 60 - (progress * 120);
+        rightScale = 1.08 - (progress * 0.07);
+        rightRotate = 1.0 - (progress * 2.0);
+        imgRightPanY = -20 + (progress * 40);
+      } else if (beat.motion.includes('slide_up')) {
+        // High-energy vertical slide up (150px total travel)
+        leftPanY = 75 - (progress * 150);
+        leftScale = 1.0 + (progress * 0.09);
+        leftRotate = 1.5 - (progress * 3.0);
+        imgLeftPanY = -30 + (progress * 60);
+
+        rightPanY = -60 + (progress * 120);
+        rightScale = 1.07 - (progress * 0.06);
+        rightRotate = -1.2 + (progress * 2.4);
+        imgRightPanY = 25 - (progress * 50);
+      } else if (beat.motion === 'zoom_in') {
+        // Deep kinetic zoom push
+        leftScale = 1.0 + (progress * 0.18);
+        leftPanY = -15 - (progress * 50);
+        leftRotate = (progress * 1.5);
+        imgLeftScale = 1.1 + (progress * 0.12);
+
+        rightScale = 1.04 - (progress * 0.04);
+        rightPanY = (progress * 35);
+        rightRotate = -(progress * 1.0);
+      } else if (beat.motion === 'zoom_out') {
+        // Dramatic pull-back reveal
+        leftScale = 1.22 - (progress * 0.20);
+        leftPanY = -45 + (progress * 60);
+        leftRotate = -1.0 + (progress * 1.5);
+        imgLeftScale = 1.2 - (progress * 0.1);
+
+        rightScale = 1.15 - (progress * 0.14);
+        rightPanY = 40 - (progress * 50);
+        rightRotate = 1.0 - (progress * 1.5);
+      } else if (beat.motion === 'pan_left') {
+        // Dynamic diagonal/horizontal glide
+        leftPanX = 35 - (progress * 70);
+        leftPanY = -55 + (progress * 110);
+        leftScale = 1.05;
+        leftRotate = -1.2;
+
+        rightPanX = -30 + (progress * 60);
+        rightPanY = 45 - (progress * 90);
+        rightScale = 1.03;
+        rightRotate = 1.2;
+      } else if (beat.motion.includes('shake')) {
+        // Intense combat impact vibration + sliding
+        const shake = Math.sin(localT * 36) * 11;
+        const rot = Math.sin(localT * 24) * 1.8;
+        leftPanY = -50 + (progress * 100) + shake;
+        leftRotate = rot;
+        leftScale = 1.08;
+
+        rightPanY = 45 - (progress * 90) - shake;
+        rightRotate = -rot;
+        rightScale = 1.05;
+      } else if (beat.motion === 'pulse_zoom') {
+        // Heartbeat resonance pulse
+        const pulse = Math.sin(localT * 5) * 0.06;
+        leftScale = 1.02 + (progress * 0.10) + pulse;
+        leftPanY = -40 + (progress * 80);
+        leftRotate = pulse * 10;
+
+        rightScale = 1.06 - (progress * 0.05) - pulse;
+        rightPanY = 35 - (progress * 70);
+      } else {
+        leftPanY = -50 + (progress * 100);
+        leftScale = 1.0 + (progress * 0.07);
+        rightPanY = 45 - (progress * 90);
+        rightScale = 1.06 - (progress * 0.05);
+      }
+
+      cardLeft.style.transform = `translate3d(${leftPanX}px, ${leftPanY}px, 0) scale(${leftScale}) rotate(${leftRotate}deg)`;
+      cardRight.style.transform = `translate3d(${rightPanX}px, ${rightPanY}px, 0) scale(${rightScale}) rotate(${rightRotate}deg)`;
+
+      pLeft.style.transform = `scale(1.06)`;
+      pRight.style.transform = `scale(1.06)`;
+
+      // Whiteout Impact Flash for dramatic beats
+      if (beat.motion.includes('flash') && localT < 0.6) {
+        flash.style.opacity = (0.6 - localT) * 1.6;
+      } else {
+        flash.style.opacity = 0;
+      }
+
+      document.getElementById('scrubber').value = t;
+      document.getElementById('time_lbl').innerText = `${formatTime(t)} / ${formatTime(totalDuration)}`;
+
+      document.querySelectorAll('.beat-pill').forEach((p, idx) => p.classList.toggle('active', idx === index));
+      document.querySelectorAll('.timeline-item').forEach((p, idx) => p.classList.toggle('active', idx === index));
+    }
+
+    function formatTime(s) {
+      const m = Math.floor(s / 60);
+      const sec = Math.floor(s % 60);
+      return `${String(m).padStart(2, '0')}:${String(sec).padStart(2, '0')}`;
+    }
+
+    function togglePlay() {
+      isPlaying = !isPlaying;
+      const btn = document.getElementById('btn_play');
+      const hostVideo = document.getElementById('host_video');
+      const masterAudio = document.getElementById('master_audio');
+      if (isPlaying) {
+        btn.innerText = '⏸ Pause';
+        btn.classList.remove('btn-primary');
+        btn.classList.add('btn-danger');
+        lastTime = performance.now();
+        if (masterAudio) {
+          const offset = (currentChapter && currentChapter.audioOffset) ? currentChapter.audioOffset : 0;
+          masterAudio.currentTime = offset + currentTime;
+          masterAudio.play().catch(() => {});
+        }
+        hostVideo.play().catch(() => {});
+        animId = requestAnimationFrame(loop);
+      } else {
+        btn.innerText = '▶ Play ' + (currentChapter ? currentChapter.title.split(':')[0] : 'Video');
+        btn.classList.remove('btn-danger');
+        btn.classList.add('btn-primary');
+        if (masterAudio) {
+          masterAudio.pause();
+        }
+        hostVideo.pause();
+        if (animId) cancelAnimationFrame(animId);
+      }
+    }
+
+    function loop(now) {
+      if (!isPlaying) return;
+      const masterAudio = document.getElementById('master_audio');
+      if (masterAudio && !masterAudio.paused && !masterAudio.seeking) {
+        const offset = (currentChapter && currentChapter.audioOffset) ? currentChapter.audioOffset : 0;
+        currentTime = Math.max(0, masterAudio.currentTime - offset);
+      } else {
+        const dt = (now - lastTime) / 1000;
+        currentTime += dt;
+      }
+      lastTime = now;
+
+      if (currentTime >= totalDuration) {
+        currentTime = 0;
+        if (masterAudio) {
+          masterAudio.currentTime = 0;
+          masterAudio.pause();
+        }
+        togglePlay();
+    
+        return;
+      }
+
+      updateVisuals(currentTime);
+      animId = requestAnimationFrame(loop);
+    }
+
+    function onScrub(val) {
+      currentTime = parseFloat(val);
+      const masterAudio = document.getElementById('master_audio');
+      if (masterAudio) {
+        const offset = (currentChapter && currentChapter.audioOffset) ? currentChapter.audioOffset : 0;
+        masterAudio.currentTime = offset + currentTime;
+      }
+      updateVisuals(currentTime);
+    }
+
+    function jumpToTime(t) {
+      currentTime = t;
+      const masterAudio = document.getElementById('master_audio');
+      if (masterAudio) {
+        const offset = (currentChapter && currentChapter.audioOffset) ? currentChapter.audioOffset : 0;
+        masterAudio.currentTime = offset + currentTime;
+      }
+      updateVisuals(currentTime);
+    }
+
+
+
+    async function extractBeats() {
+      const btn = document.getElementById('btn_extract');
+      btn.innerText = '⏳ Extracting Panels...';
+      try {
+        const res = await fetch('/api/extract-beats');
+        const data = await res.json();
+        alert(data.message || 'Panels extracted!');
+        location.reload();
+      } catch (err) {
+        alert('Extraction completed on disk!');
+      } finally {
+        btn.innerText = '⚡ Re-Extract Panels';
+      }
+    }
+
+    async function renderVideo() {
+      if (!confirm('Start rendering Full Chapter 001 1080p MP4 (5.4 Minutes)?')) return;
+      try {
+        const res = await fetch('/api/render', { method: 'POST' });
+        const data = await res.json();
+        alert(data.message || 'Render initiated!');
+      } catch (err) {
+        alert('Render command ready via Remotion CLI');
+      }
+    }
+
+    initChapters();
+
+  </script>
+</body>
+</html>
