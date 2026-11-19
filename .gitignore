@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+# Node / Remotion
+node_modules/
+.remotion/
+out/
+build/
+*.mp4
+
+# Windows / OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Bulk Manhwa Images (Large data stored on HuggingFace / disk)
+# Comment out if you want to track specific images with Git LFS
+**/manhwa/
