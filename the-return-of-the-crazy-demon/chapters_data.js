@@ -3664,7 +3664,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.33,
     "motion": "slide_down",
     "panelLeft": "c08_p001_warrior_speaking_to_emperor.webp",
-    "panelRight": "c08_p030_warrior_in_battle_blood_on_face.webp",
+    "panelRight": "c08_p006_warrior_in_battle_sword_boots_castle.webp",
     "avatarPreset": "Emphasizing.mp4",
     "title": "Shot 08: Cave Boy'S Chest Yeezahod",
     "vo": "cave in our boy's chest but yeezahod doesn't even bother"
@@ -3704,7 +3704,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.63,
     "motion": "zoom_in",
     "panelLeft": "c08_p021_character_holding_a_sword_in_a.webp",
-    "panelRight": "c08_p009_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c08_p010_two_men_in_battle_one_falling.webp",
     "avatarPreset": "Quiet_Laughter.mp4",
     "title": "Shot 12: Detonates Through Council Hall",
     "vo": "detonates through the council hall shattering floorboards and sending choe il gwan"
@@ -3774,7 +3774,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.71,
     "motion": "zoom_in",
     "panelLeft": "c08_p034_warrior_slaps_emperor_says_youre_sloppy.webp",
-    "panelRight": "c08_p008_warrior_in_battle_sword_swinging_explosion.webp",
+    "panelRight": "c08_p072_two_men_in_a_fight_one.webp",
     "avatarPreset": "Concerned.mp4",
     "title": "Shot 19: Thousand Life Death Wars",
     "vo": "a thousand life and death wars before the terrified boss can draw his steel zaha"
@@ -3784,7 +3784,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.21,
     "motion": "slide_up",
     "panelLeft": "c08_p025_warrior_entering_a_temple.webp",
-    "panelRight": "c08_p039_warrior_fallen_soldiers_in_background_dialogue.webp",
+    "panelRight": "c08_p038_warrior_in_a_room_looking_up.webp",
     "avatarPreset": "Dramatic_Pause.mp4",
     "title": "Shot 20: Closes Distance Ghost Flash",
     "vo": "closes the distance in a ghost like flash seizing cho il"
@@ -4162,7 +4162,7 @@ window.CHAPTERS_CONFIG = {
     "id": 4,
     "duration": 4.53,
     "motion": "pan_left",
-    "panelLeft": "c09_p009_warrior_in_battle_sword_drawn_fighting.webp",
+    "panelLeft": "c09_p012_warrior_crying_asking_where.webp",
     "panelRight": "c09_p014_warrior_in_bath_emperor_in_room.webp",
     "avatarPreset": "Confident.mp4",
     "title": "Shot 04: Drawn Knife Earlier Threatening",
@@ -4282,7 +4282,7 @@ window.CHAPTERS_CONFIG = {
     "id": 16,
     "duration": 4.25,
     "motion": "pan_right",
-    "panelLeft": "c09_p039_warrior_in_red_robe_shouting_urgent.webp",
+    "panelLeft": "c09_p003_woman_in_bath_lantern_light_plants.webp",
     "panelRight": "c09_p038_emperor_speaking_character_thinking_burning_castle.webp",
     "avatarPreset": "Questioning.mp4",
     "title": "Shot 16: Unhinged Homicidal Maniac Tries",
@@ -4302,8 +4302,8 @@ window.CHAPTERS_CONFIG = {
     "id": 18,
     "duration": 4.45,
     "motion": "slide_down",
-    "panelLeft": "c09_p019_host_greets_people_expects_behavior.webp",
-    "panelRight": "c09_p044_warriors_burning_castle.webp",
+    "panelLeft": "c09_p039_warrior_in_red_robe_shouting_urgent.webp",
+    "panelRight": "c09_p019_host_greets_people_expects_behavior.webp",
     "avatarPreset": "Concerned.mp4",
     "title": "Shot 18: Violent Urgency Chase Sung",
     "vo": "violent urgency chase sung tae bursts into the steam his silver hair disheveled and"
@@ -4343,7 +4343,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.21,
     "motion": "zoom_in",
     "panelLeft": "c09_p043_fire_consuming_building.webp",
-    "panelRight": "c09_p018_warrior_in_battle_talking_to_someone.webp",
+    "panelRight": "c09_p044_warriors_burning_castle.webp",
     "avatarPreset": "Default_Talking.mp4",
     "title": "Shot 22: Fire Didn'T Start Anywhere",
     "vo": "fire didn't start anywhere in the entertainment district someone just torched zaha's"
@@ -4583,7 +4583,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.29,
     "motion": "pan_right",
     "panelLeft": "c09_p115_warrior_in_battle_sword_drawn_fiery.webp",
-    "panelRight": "c09_p116_redeyed_figure_with_laser_beam.webp",
+    "panelRight": "c09_p047_warrior_in_yellow_robe_talking_to.webp",
     "avatarPreset": "Questioning.mp4",
     "title": "Shot 46: Nealing Groaning Mercenary Zahat",
     "vo": "nealing over the groaning mercenary zahat inspects the bronze medallion"
