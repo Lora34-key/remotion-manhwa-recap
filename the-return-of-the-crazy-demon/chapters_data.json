@@ -9496,7 +9496,7 @@
        "duration": 4.42,
        "motion": "pulse_zoom",
        "panelLeft": "c19_p013_warrior_in_black_robe_seated_looking.webp",
-       "panelRight": "c19_p014_warrior_in_conversation_asking_about_ranking.webp",
+       "panelRight": "c19_p004_warrior_in_battle_shouting_get_up.webp",
        "avatarPreset": "Emphasizing.mp4",
        "title": "Shot 07: Regional Syndicate Assassins Silverhaired",
        "vo": "of regional syndicate assassins the silverhaired brothal manager ceases the opportunity"
@@ -9556,7 +9556,7 @@
        "duration": 4.49,
        "motion": "slide_up",
        "panelLeft": "c19_p005_warrior_waking_up_shouting_wake_the.webp",
-       "panelRight": "c19_p027_warrior_in_combat_shouting_strange.webp",
+       "panelRight": "c19_p008_warrior_in_battle_speaking_im_still.webp",
        "avatarPreset": "Explaining.mp4",
        "title": "Shot 13: Resort Demands Intruder Wake",
        "vo": "resort and demands the intruder wake the hell up gasping"
@@ -9566,7 +9566,7 @@
        "duration": 4.21,
        "motion": "pan_left",
        "panelLeft": "c19_p028_warrior_in_battle.webp",
-       "panelRight": "c19_p029_warrior_in_battle_character_speaking_boots.webp",
+       "panelRight": "c19_p009_three_men_in_traditional_clothing_one.webp",
        "avatarPreset": "Confident.mp4",
        "title": "Shot 14: Air Joltes Awake Gunpion",
        "vo": "for air as he joltes awake so gunpion clutches his throbbing"
@@ -9826,7 +9826,7 @@
        "duration": 4.6,
        "motion": "slide_up",
        "panelLeft": "c19_p080_emperor_speaking_goodbye_to_subordinates.webp",
-       "panelRight": "c19_p081_warrior_in_battle_sword_drawn_intense.webp",
+       "panelRight": "c19_p077_warrior_in_a_room_talking_to.webp",
        "avatarPreset": "Shocked.mp4",
        "title": "Shot 40: Acquisition Completes Trifecta Zahaz",
        "vo": "acquisition completes the trifecta of zahaz core organization cima b"
@@ -10385,7 +10385,7 @@
        "duration": 4.33,
        "motion": "pan_left",
        "panelLeft": "c20_p025_ncient_chinese_palace.webp",
-       "panelRight": "c20_p094_warrior_in_battle_shouting_at_enemy.webp",
+       "panelRight": "c20_p017_warrior_in_conversation_asking_about_time.webp",
        "avatarPreset": "Serious.mp4",
        "title": "Shot 44: Less Minutes Chasom Thai",
        "vo": "in less than two minutes chasom thai is left trembling where he sits realizing"
@@ -10394,7 +10394,7 @@
        "id": 45,
        "duration": 4.33,
        "motion": "zoom_out",
-       "panelLeft": "c20_p017_warrior_in_conversation_asking_about_time.webp",
+       "panelLeft": "c20_p094_warrior_in_battle_shouting_at_enemy.webp",
        "panelRight": "c20_p095_warrior_shouting_shut_up.webp",
        "avatarPreset": "Questioning.mp4",
        "title": "Shot 45: Trying Double Cross Man",
