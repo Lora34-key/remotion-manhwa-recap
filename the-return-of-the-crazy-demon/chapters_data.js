@@ -5191,7 +5191,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.51,
     "motion": "slide_up",
     "panelLeft": "c11_p030_warrior_speaking_to_errand_boy.webp",
-    "panelRight": "c11_p005_master_of_twelve_heavenly_palm_slaughterer.webp",
+    "panelRight": "c11_p020_warrior_in_kimono_sword_and_armor.webp",
     "avatarPreset": "Serious.mp4",
     "title": "Shot 03: Boy Zahah Let Walk",
     "vo": "boy ye zahah let them walk out alive instead of executing them on the spot"
@@ -5261,7 +5261,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.11,
     "motion": "slide_up",
     "panelLeft": "c11_p019_man_eating_with_chopsticks.webp",
-    "panelRight": "c11_p020_warrior_in_kimono_sword_and_armor.webp",
+    "panelRight": "c11_p005_master_of_twelve_heavenly_palm_slaughterer.webp",
     "avatarPreset": "Default_Talking.mp4",
     "title": "Shot 10: Long Quotas Paid Time",
     "vo": "long as the quotas are paid on time and drawing the personal attention of the slaughterer the"
@@ -5321,7 +5321,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.71,
     "motion": "pan_right",
     "panelLeft": "c11_p042_emperor_speaking_warning_to_be_careful.webp",
-    "panelRight": "c11_p078_warrior_in_battle_rain_warning.webp",
+    "panelRight": "c11_p030_warrior_speaking_to_errand_boy.webp",
     "avatarPreset": "Concerned.mp4",
     "title": "Shot 16: Death Threat Casually Warning",
     "vo": "death threat casually warning some day that if a single silver coin goes missing from the"
@@ -5350,8 +5350,8 @@ window.CHAPTERS_CONFIG = {
     "id": 19,
     "duration": 4.47,
     "motion": "zoom_in",
-    "panelLeft": "c11_p039_blackclad_figure_in_traditional_attire.webp",
-    "panelRight": "c11_p040_warrior_in_dark_intense_gaze.webp",
+    "panelLeft": "c11_p018_warrior_in_room_swords_monk_writing.webp",
+    "panelRight": "c11_p026_two_men_in_traditional_clothing_one.webp",
     "avatarPreset": "Quiet_Laughter.mp4",
     "title": "Shot 19: Standard Company Policy Ties",
     "vo": "standard company policy some ties scurries off to manage the books with"
@@ -5441,7 +5441,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.0,
     "motion": "slide_down",
     "panelLeft": "c11_p039_blackclad_figure_in_traditional_attire.webp",
-    "panelRight": "c11_p060_sword_and_a_castle_in_the.webp",
+    "panelRight": "c11_p040_warrior_in_dark_intense_gaze.webp",
     "avatarPreset": "Shocked.mp4",
     "title": "Shot 28: Tavern Errand Boy Audacity",
     "vo": "a tavern errand boy had the audacity to execute their undercover operative"
@@ -5521,7 +5521,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.25,
     "motion": "pan_right",
     "panelLeft": "c11_p091_emperor_speaking_warrior_in_battle_burning.webp",
-    "panelRight": "c11_p074_man_in_rain_holding_umbrella.webp",
+    "panelRight": "c11_p050_man_in_cloak_head_turned_dark.webp",
     "avatarPreset": "Concerned.mp4",
     "title": "Shot 36: Burning Syndicates Local Investments",
     "vo": "burning down the syndicates local investments zaha doesn't flinch instead"
@@ -5630,8 +5630,8 @@ window.CHAPTERS_CONFIG = {
     "id": 47,
     "duration": 4.57,
     "motion": "pulse_zoom",
-    "panelLeft": "c11_p100_warrior_in_battle_sword_rain_shouting.webp",
-    "panelRight": "c11_p103_man_lying_down_rain_pouring_down.webp",
+    "panelLeft": "c11_p099_warrior_in_battle_sword_drawn_dark.webp",
+    "panelRight": "c11_p098_warrior_in_battle_shouting_you.webp",
     "avatarPreset": "Dramatic_Pause.mp4",
     "title": "Shot 47: Sawn'T Woo Draws Jagged",
     "vo": "we sawn't woo draws his jagged broadsword the rain hissing against cold steel"
@@ -5640,8 +5640,8 @@ window.CHAPTERS_CONFIG = {
     "id": 48,
     "duration": 3.83,
     "motion": "slide_down",
-    "panelLeft": "c11_p099_warrior_in_battle_sword_drawn_dark.webp",
-    "panelRight": "c11_p098_warrior_in_battle_shouting_you.webp",
+    "panelLeft": "c11_p100_warrior_in_battle_sword_rain_shouting.webp",
+    "panelRight": "c11_p101_warrior_in_battle_using_a_powerful.webp",
     "avatarPreset": "Shocked.mp4",
     "title": "Shot 48: Dark Alley Transforms Lethal",
     "vo": "as the dark alley transforms into a lethal execution"
@@ -5650,8 +5650,8 @@ window.CHAPTERS_CONFIG = {
     "id": 49,
     "duration": 4.74,
     "motion": "zoom_in",
-    "panelLeft": "c11_p101_warrior_in_battle_using_a_powerful.webp",
-    "panelRight": "c11_p102_warrior_in_battle_flying_sword_enemy.webp",
+    "panelLeft": "c11_p102_warrior_in_battle_flying_sword_enemy.webp",
+    "panelRight": "c11_p103_man_lying_down_rain_pouring_down.webp",
     "avatarPreset": "Quiet_Laughter.mp4",
     "title": "Shot 49: Ground Thanks Watching Don'T",
     "vo": "ground thanks for watching and don't forget to like and subscribe for more videos"
@@ -5691,7 +5691,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.86,
     "motion": "slide_up",
     "panelLeft": "c11_p080_warrior_in_battle_rain_sword_mountains.webp",
-    "panelRight": "c11_p100_warrior_in_battle_sword_rain_shouting.webp",
+    "panelRight": "c11_p099_warrior_in_battle_sword_drawn_dark.webp",
     "avatarPreset": "Serious.mp4",
     "title": "Shot 53: Fighting Steel Flashing Through",
     "vo": "fighting in and with steel flashing through the storm the rain soaked dual begins"
