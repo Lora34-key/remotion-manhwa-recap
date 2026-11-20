@@ -1,0 +1,17738 @@
+window.CHAPTERS_CONFIG = {
+ "Chapter_001": {
+  "id": "Chapter_001",
+  "title": "Chapter 001",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 0,
+  "duration": 233,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c01_p015_warrior_on_cliff_talking_about_martial.webp",
+    "panelRight": "c01_p001_warrior_stands_on_cliff_speaks_looks.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 01: Martial Artists World Completely",
+    "vo": "most martial artists in the world are completely out of their minds spending decades"
+   },
+   {
+    "id": 2,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p005_crazy_demon.webp",
+    "panelRight": "c01_p017_crazy_demon_speaking_long_hair_red.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 02: Meditating Freezing Caves Swinging",
+    "vo": "meditating and freezing caves and swinging swords like crazy monkeys just to"
+   },
+   {
+    "id": 3,
+    "duration": 4.36,
+    "motion": "slide_up",
+    "panelLeft": "c01_p018_warrior_in_black_robes_standing_with.webp",
+    "panelRight": "c01_p006_demon_cult_left_hand_of_illuminating.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 03: Prove They'Re Slightly Better",
+    "vo": "prove they're slightly better at violence than the monkey standing next to them but in a"
+   },
+   {
+    "id": 4,
+    "duration": 4.34,
+    "motion": "pan_left",
+    "panelLeft": "c01_p008_warrior_holding_red_ball_hand_holding.webp",
+    "panelRight": "c01_p009_warrior_in_front_of_soldiers_holding.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 04: Realm Packed Certified Lunatics",
+    "vo": "realm packed with certified lunatics our boy yizaha proudly stands"
+   },
+   {
+    "id": 5,
+    "duration": 4.55,
+    "motion": "zoom_out",
+    "panelLeft": "c01_p011_warrior_in_red_robe_black_hair.webp",
+    "panelRight": "c01_p010_warrior_in_red_cloak_talking_about.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 05: Undisputed Ceo Absolute Madness",
+    "vo": "as the undisputed ceo of absolute madness known across the"
+   },
+   {
+    "id": 6,
+    "duration": 3.85,
+    "motion": "pan_right",
+    "panelLeft": "c01_p021_demon_cult_member_on_wanted_list.webp",
+    "panelRight": "c01_p027_madman_with_crazy_expression.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 06: Entire Continent Crazy Demon",
+    "vo": "entire continent as the crazy demon zahann never cared about noble"
+   },
+   {
+    "id": 7,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c01_p016_monks_in_black_robes_one_with.webp",
+    "panelRight": "c01_p014_warrior_in_red_robe_soldiers_in.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 07: Clans Prestigious Martial Alliances",
+    "vo": "clans prestigious martial alliances or demonic cults if someone acted"
+   },
+   {
+    "id": 8,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c01_p019_warrior_in_battle_talking_to_a.webp",
+    "panelRight": "c01_p020_warrior_in_battle_sword_drawn_sky.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 08: Corrupt Scumbag Simply Showed",
+    "vo": "like a corrupt scumbag he simply showed up broke their balance and taught"
+   },
+   {
+    "id": 9,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p030_warrior_throws_sword_into_cliff.webp",
+    "panelRight": "c01_p036_warrior_on_cliff_sword_pointing_text.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 09: Lesson Humility Brings Windy",
+    "vo": "them a lesson in humility that brings us to the windy peak of the mile cliff where"
+   },
+   {
+    "id": 10,
+    "duration": 4.29,
+    "motion": "slide_up",
+    "panelLeft": "c01_p022_man_with_long_black_hair_holding.webp",
+    "panelRight": "c01_p013_two_men_with_red_eyes_one.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 10: Boy Battered Bleeding Completely",
+    "vo": "our boy is battered bleeding and completely surrounded by an army of elite"
+   },
+   {
+    "id": 11,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c01_p093_stolen_sacred_item_demon_cult_life.webp",
+    "panelRight": "c01_p026_warrior_in_battle_holding_sword_facing.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 11: Demon Cult Enforcers Pulling",
+    "vo": "demon cult enforcers after pulling off the most absurd heist in history"
+   },
+   {
+    "id": 12,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p024_warrior_apologizes_to_emperor.webp",
+    "panelRight": "c01_p028_warrior_in_red_robe_soldiers_in.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 12: Broke Demon Cult'S Inner",
+    "vo": "he just broke into the demon cult's inner vault and stole their most sacred"
+   },
+   {
+    "id": 13,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c01_p105_warrior_with_question_about_swallowing_heavenly.webp",
+    "panelRight": "c01_p029_warrior_speaking_bloodlust_respect.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 13: Treasure Legendary Heavenly Pearl",
+    "vo": "treasure the legendary heavenly pearl for three days"
+   },
+   {
+    "id": 14,
+    "duration": 4.65,
+    "motion": "pan_left",
+    "panelLeft": "c01_p043_warrior_in_battle_sword_in_hand.webp",
+    "panelRight": "c01_p059_warrior_in_battle_sword_in_hand.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 14: Three Nights Cult'S Top",
+    "vo": "and three nights the cult's top executioner the left hand of light"
+   },
+   {
+    "id": 15,
+    "duration": 4.18,
+    "motion": "zoom_out",
+    "panelLeft": "c01_p120_ncient_chinesestyle_house_mountains_starry_sky.webp",
+    "panelRight": "c01_p034_man_with_long_hair_pointing_gun.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 15: Hunting Across Mountains Without",
+    "vo": "has been hunting him across mountains without giving him a single second of rest most"
+   },
+   {
+    "id": 16,
+    "duration": 4.37,
+    "motion": "pan_right",
+    "panelLeft": "c01_p037_warriors_in_black_robes.webp",
+    "panelRight": "c01_p038_emperor_crying_tears_streaming_down_his.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 16: People Trapped Against Bottomless",
+    "vo": "people trapped against a bottomless gorge would panic cry or beg"
+   },
+   {
+    "id": 17,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c01_p039_warrior_on_cliff_speech_bubble_taste.webp",
+    "panelRight": "c01_p040_warrior_in_red_robe_talking_clouds.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 17: Lives Zaha Looks Handsome",
+    "vo": "for their lives but zaha looks at the handsome assassin and immediately begins"
+   },
+   {
+    "id": 18,
+    "duration": 4.47,
+    "motion": "slide_down",
+    "panelLeft": "c01_p118_character_with_glowing_red_eyes_says.webp",
+    "panelRight": "c01_p042_emperor_speaking_looking_angry.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 18: Roasting Terrible Life Choices",
+    "vo": "roasting his terrible life choices dengling the glowing celestial orb"
+   },
+   {
+    "id": 19,
+    "duration": 4.46,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p049_two_warriors_in_battle_one_in.webp",
+    "panelRight": "c01_p044_warrior_in_battle_shouting_kill_him.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 19: Thousand Foot Drop Piece",
+    "vo": "over the thousand foot drop like a piece of cheap fruit zaha casually warns"
+   },
+   {
+    "id": 20,
+    "duration": 4.54,
+    "motion": "slide_up",
+    "panelLeft": "c01_p046_warriors_in_battle_swords_drawn_sky.webp",
+    "panelRight": "c01_p047_warrior_in_red_robe_holding_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 20: Everyone Keep Distance Probably",
+    "vo": "everyone to keep their distance probably bragging that he is a master of deception who never"
+   },
+   {
+    "id": 21,
+    "duration": 4.13,
+    "motion": "slide_down",
+    "panelLeft": "c01_p045_cult_leader_commands_followers.webp",
+    "panelRight": "c01_p067_warrior_in_battle_speaking_back.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 21: Falls Honey Traps Cult",
+    "vo": "falls for honey traps the cult master dead pans right back"
+   },
+   {
+    "id": 22,
+    "duration": 4.53,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p051_warrior_in_action_sword_drawn_flying.webp",
+    "panelRight": "c01_p052_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 22: Emotionally Damaging Boy Pointing",
+    "vo": "emotionally damaging our boy by pointing out that he never fell for honey"
+   },
+   {
+    "id": 23,
+    "duration": 4.42,
+    "motion": "slide_up",
+    "panelLeft": "c01_p053_warrior_in_battle_flying_crows_sword.webp",
+    "panelRight": "c01_p054_warrior_in_red_cloak_sword_drawn.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 23: Traps Because Women Simply",
+    "vo": "traps because women simply found him too terrifying to approach forcing the cult"
+   },
+   {
+    "id": 24,
+    "duration": 4.45,
+    "motion": "pan_left",
+    "panelLeft": "c01_p056_characters_arm_is_being_sliced_off.webp",
+    "panelRight": "c01_p055_masked_figure_holding_a_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 24: Hire Everyday Villager Get",
+    "vo": "to hire an everyday villager just to get his attention deeply offended by"
+   },
+   {
+    "id": 25,
+    "duration": 4.3,
+    "motion": "zoom_out",
+    "panelLeft": "c01_p058_blood_spewing_from_a_wound.webp",
+    "panelRight": "c01_p050_warrior_in_battle_sword_blood_shouting.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 25: Roast Zah Complains Three",
+    "vo": "the roast zah complains that three days of running meant zero food zero"
+   },
+   {
+    "id": 26,
+    "duration": 4.25,
+    "motion": "pan_right",
+    "panelLeft": "c01_p061_warrior_in_battle_sword_swinging_boots.webp",
+    "panelRight": "c01_p060_warriors_in_battle_sword_chaos_destruction.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 26: Sleep Worst Zero Bathroom",
+    "vo": "sleep and worst of all zero bathroom breaks when the"
+   },
+   {
+    "id": 27,
+    "duration": 4.58,
+    "motion": "pulse_zoom",
+    "panelLeft": "c01_p063_two_men_in_black_robes_with.webp",
+    "panelRight": "c01_p062_warriors_fighting_swords_drawn_chaos_battle.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 27: Cult Master Demands Sacred",
+    "vo": "cult master demands the sacred treasure back zah had dropped all negotiations pops"
+   },
+   {
+    "id": 28,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c01_p065_warrior_confronts_emperor_asks_about_underlings.webp",
+    "panelRight": "c01_p066_warrior_in_forest_shouting_myself.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 28: Ancient Divine Relic Mouth",
+    "vo": "the ancient divine relic into his mouth like a throat lozenge and happily"
+   },
+   {
+    "id": 29,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p068_warrior_speaking_to_emperor.webp",
+    "panelRight": "c01_p069_warrior_in_battle_shouting_shut_up.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 29: Announces Tastes Fresh Peaches",
+    "vo": "announces that it tastes like fresh peaches the cult commander completely loses his"
+   },
+   {
+    "id": 30,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c01_p070_warrior_in_red_robe_flying_sword.webp",
+    "panelRight": "c01_p071_warrior_shouting_hand_raised_speech_bubble.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 30: Temper Ordering Entire Squad",
+    "vo": "temper ordering his entire squad to charge in a desperate frenzy but"
+   },
+   {
+    "id": 31,
+    "duration": 4.2,
+    "motion": "slide_down",
+    "panelLeft": "c01_p064_warriors_in_black_robes_swords_drawn.webp",
+    "panelRight": "c01_p048_warrior_in_red_skirt_and_black.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 31: Even Running Empty Boy",
+    "vo": "even running on empty our boy demonstrates pure black air force"
+   },
+   {
+    "id": 32,
+    "duration": 4.73,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p075_warrior_in_red_clothing_is_about.webp",
+    "panelRight": "c01_p074_warrior_speaking_illuminating_light_taking_enemy.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 32: Energy Slipping Beneath Flashing",
+    "vo": "energy slipping beneath flashing blades with supernatural footwork zaha"
+   },
+   {
+    "id": 33,
+    "duration": 4.27,
+    "motion": "slide_up",
+    "panelLeft": "c01_p025_warrior_in_red_robe_talking_soldiers.webp",
+    "panelRight": "c01_p077_warrior_in_red_outfit_holding_sword.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 33: Unleashes Thunderous Palm Strikes",
+    "vo": "unleashes thunderous palm strikes that shatter iron armor and launch cult soldiers tumbling"
+   },
+   {
+    "id": 34,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c01_p076_warrior_in_battle_using_lightning.webp",
+    "panelRight": "c01_p079_warriors_in_battle_sword_swinging_boots.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 34: Across Rocky Bluffs Left",
+    "vo": "across the rocky bluffs when the left hand lunges forward with"
+   },
+   {
+    "id": 35,
+    "duration": 4.4,
+    "motion": "zoom_out",
+    "panelLeft": "c01_p082_snowy_cave_with_ice_formations.webp",
+    "panelRight": "c01_p083_red_vehicle_in_sky.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 35: Crackling Electric Chi Violent",
+    "vo": "crackling electric chi the violent collision detonates the cliff edge hurling"
+   },
+   {
+    "id": 36,
+    "duration": 4.2,
+    "motion": "pan_right",
+    "panelLeft": "c01_p087_warrior_falling_from_sky_character_watching.webp",
+    "panelRight": "c01_p095_warrior_in_red_robe_falling_boots.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 36: Zaha Straight Backward Misty",
+    "vo": "zaha straight backward into the misty void falling towards certain doom"
+   },
+   {
+    "id": 37,
+    "duration": 4.69,
+    "motion": "pulse_zoom",
+    "panelLeft": "c01_p086_warrior_in_battle_holding_sword_snow.webp",
+    "panelRight": "c01_p088_warrior_speaking_blood_shouting_character_holding.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 37: Zaha Bursts Laughing Gives",
+    "vo": "zaha bursts out laughing gives the entire cult a cheeky wave goodbye and"
+   },
+   {
+    "id": 38,
+    "duration": 4.38,
+    "motion": "slide_down",
+    "panelLeft": "c01_p096_warrior_in_red_robe_walking.webp",
+    "panelRight": "c01_p098_warrior_in_red_robe_white_robe.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 38: Leaves Ultimate Headache Instead",
+    "vo": "leaves them with the ultimate headache but instead of turning into a red smudge at the"
+   },
+   {
+    "id": 39,
+    "duration": 4.53,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p092_warrior_speaking_bloodied_face_shouting_find.webp",
+    "panelRight": "c01_p091_warrior_on_mountain_peak.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 39: Bottom Canyon Zaha'S Soul",
+    "vo": "bottom of the canyon zaha's soul enters a glowing celestial realm inside the"
+   },
+   {
+    "id": 40,
+    "duration": 4.2,
+    "motion": "slide_up",
+    "panelLeft": "c01_p094_warrior_in_battle_with_a_sword.webp",
+    "panelRight": "c01_p097_warrior_asking_where.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 40: Ancient Relic Towering Divine",
+    "vo": "ancient relic a towering divine spirit appears before"
+   },
+   {
+    "id": 41,
+    "duration": 4.6,
+    "motion": "slide_down",
+    "panelLeft": "c01_p099_warrior_speaking_to_old_man_old.webp",
+    "panelRight": "c01_p100_old_man_speaking_young_woman_listening.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 41: Demanding Know Why Madman",
+    "vo": "him demanding to know why a madman stole the sacred pearl"
+   },
+   {
+    "id": 42,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p115_warrior_turns_away_emperor_speaks_warrior.webp",
+    "panelRight": "c01_p116_warrior_speaking_looking_serious.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 42: Looking Deity Dead Eye",
+    "vo": "looking at the deity dead in the eye zaha speaks with complete honesty he took"
+   },
+   {
+    "id": 43,
+    "duration": 3.9,
+    "motion": "slide_up",
+    "panelLeft": "c01_p101_emperor_speaking_warrior_in_red_burning.webp",
+    "panelRight": "c01_p102_emperor_speaking_warrior_in_background_character.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 43: Because Corrupt Cult Tyrants",
+    "vo": "it because corrupt cult tyrants view regular people as disposable"
+   },
+   {
+    "id": 44,
+    "duration": 4.6,
+    "motion": "pan_left",
+    "panelLeft": "c01_p104_warrior_in_red_robe_question_mark.webp",
+    "panelRight": "c01_p103_old_man_in_white_robe_young.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 44: Insects Refused Let Become",
+    "vo": "insects and he refused to let them become invincible gods pleased by his"
+   },
+   {
+    "id": 45,
+    "duration": 4.2,
+    "motion": "zoom_out",
+    "panelLeft": "c01_p106_warrior_with_long_hair_red_robe.webp",
+    "panelRight": "c01_p107_warrior_in_battle_warrior_speaking_character.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 45: Chaotic Yet Righteous Heart",
+    "vo": "chaotic yet righteous heart the ancient spirit grants him a"
+   },
+   {
+    "id": 46,
+    "duration": 4.66,
+    "motion": "pan_right",
+    "panelLeft": "c01_p108_old_man_with_white_beard_speech.webp",
+    "panelRight": "c01_p110_old_man_with_speech_bubble_asking.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 46: Miraculous Final Lifeline Blinding",
+    "vo": "miraculous final lifeline a blinding light envelopes his vision and when"
+   },
+   {
+    "id": 47,
+    "duration": 4.48,
+    "motion": "pulse_zoom",
+    "panelLeft": "c01_p085_bloodied_feet_feet_walking_blood_on.webp",
+    "panelRight": "c01_p120_ncient_chinesestyle_house_mountains_starry_sky.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 47: Zahas Finally Opens Eyes",
+    "vo": "zahas finally opens his eyes the smell of burning blood is replaced by"
+   },
+   {
+    "id": 48,
+    "duration": 4.52,
+    "motion": "slide_down",
+    "panelLeft": "c01_p122_woman_lying_on_bed_talking_looking.webp",
+    "panelRight": "c01_p113_emperor_speaking_saying_yes_that_is.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 48: Morning Rain Cheap Tavern",
+    "vo": "morning rain and cheap tavern wine looking down at his hands his"
+   },
+   {
+    "id": 49,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p112_warrior_in_battle_speaking_to_emperor.webp",
+    "panelRight": "c01_p003_warrior_in_red_robe_mountain_background.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 49: Battle Hardened Scars Vanished",
+    "vo": "battle hardened scars have vanished replaced by the smooth skinny fingers of"
+   },
+   {
+    "id": 50,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c01_p117_ncient_chinese_sage_in_white_robe.webp",
+    "panelRight": "c01_p119_warrior_in_a_red_cloak_and.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 50: Broke Year Old Waiter",
+    "vo": "a broke year old waiter he just progressed years into the"
+   },
+   {
+    "id": 51,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c01_p121_man_sitting_on_ledge_with_exclamation.webp",
+    "panelRight": "c01_p123_man_sitting_on_bed_bookshelf_window.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 51: Past Waking Inside Humble",
+    "vo": "past waking up inside the humble inn where his journey first began the local thugs"
+   },
+   {
+    "id": 52,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c01_p124_warrior_crying_talking_about_childhood.webp",
+    "panelRight": "c01_p114_man_with_long_hair_and_a.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 52: Think Easy Target Bullied",
+    "vo": "think he is just an easy target who can be bullied for loose change"
+   },
+   {
+    "id": 53,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c01_p089_warrior_speaking_kicking_fighting_kicking_fighting.webp",
+    "panelRight": "c01_p084_warrior_in_battle_bloodied_face_sword.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 53: Completely Unaware Reincarnated Demon",
+    "vo": "completely unaware that a reincarnated demon just clocked in for his morning shift"
+   }
+  ]
+ },
+ "Chapter_002": {
+  "id": "Chapter_002",
+  "title": "Chapter 002",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 233,
+  "duration": 210,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c02_p002_bedroom_with_a_bed_bookshelf_and.webp",
+    "panelRight": "c02_p001_man_in_traditional_clothing_sitting_on.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 01: Waking Battered Wooden Bedroom",
+    "vo": "waking up in a battered wooden bedroom our boy yizaha sits up on his"
+   },
+   {
+    "id": 2,
+    "duration": 4.25,
+    "motion": "zoom_in",
+    "panelLeft": "c02_p007_man_with_long_hair_shocked_expression.webp",
+    "panelRight": "c02_p004_small_cluttered_room_with_a_dresser.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 02: Straw Mattress Blinking Total",
+    "vo": "straw mattress blinking in total disbelief as the early morning light filters"
+   },
+   {
+    "id": 3,
+    "duration": 4.75,
+    "motion": "slide_up",
+    "panelLeft": "c02_p005_man_sitting_talking_looking_thoughtful.webp",
+    "panelRight": "c02_p016_emperor_speaking_character_holding_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 03: Through Cracked Paper Windows",
+    "vo": "through the cracked paper windows this isn't a fever dream or an illusion before death"
+   },
+   {
+    "id": 4,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c02_p003_room_with_a_sliding_door_and.webp",
+    "panelRight": "c02_p024_woman_in_room_talking_doors_open.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 04: Really Returned Tiny Private",
+    "vo": "he really has returned to his tiny private room at the local inn"
+   },
+   {
+    "id": 5,
+    "duration": 4.43,
+    "motion": "zoom_out",
+    "panelLeft": "c02_p013_warrior_in_conversation_asking_about_injury.webp",
+    "panelRight": "c02_p039_warrior_in_room_talking_looking_at.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 05: Stuck Inside Year Old",
+    "vo": "stuck inside his year old body looking down at his bruised arms he"
+   },
+   {
+    "id": 6,
+    "duration": 4.57,
+    "motion": "pan_right",
+    "panelLeft": "c02_p011_warrior_speaking_fist_clenched_determined_expression.webp",
+    "panelRight": "c02_p012_warrior_holding_sword_injured_crying.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 06: Notices Cuts Scrapes Littering",
+    "vo": "notices the cuts and scrapes littering his skin and the painful memories of"
+   },
+   {
+    "id": 7,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c02_p043_warrior_in_village_looking_at_houses.webp",
+    "panelRight": "c02_p058_woman_looking_at_man_with_concern.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 07: Previous Youth Instantly Flood",
+    "vo": "his previous youth instantly flood back into his mind in his looking down at his bruised arms he notices the cuts and scrapes littering his skin and the painful memories of his previous youth instantly flood back into his mind in his past life the local"
+   },
+   {
+    "id": 8,
+    "duration": 4.07,
+    "motion": "slide_down",
+    "panelLeft": "c02_p014_empty_room_with_broken_furniture.webp",
+    "panelRight": "c02_p015_wrecked_classroom.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 08: Street Thugs Beat Half",
+    "vo": "street thugs beat him half to death and completely trashed a ground"
+   },
+   {
+    "id": 9,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c02_p048_warrior_asks_about_zaha_inn_character.webp",
+    "panelRight": "c02_p056_warrior_in_battle_shouting_ill_make.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 09: Floor Inn Spreading Fake",
+    "vo": "floor of the inn after spreading a fake rumor that zahah tried to make a move on"
+   },
+   {
+    "id": 10,
+    "duration": 4.14,
+    "motion": "slide_up",
+    "panelLeft": "c02_p018_man_in_traditional_clothing_talking_with.webp",
+    "panelRight": "c02_p019_character_is_dreaming_of_a_song.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 10: Town'S Popular Kurdistan Shay",
+    "vo": "the town's most popular kurdistan shay hayang it was a"
+   },
+   {
+    "id": 11,
+    "duration": 4.36,
+    "motion": "slide_down",
+    "panelLeft": "c02_p020_three_men_eating_one_holding_drum.webp",
+    "panelRight": "c02_p021_three_men_in_conversation.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 11: Completely Fabricated Setup Designed",
+    "vo": "completely fabricated setup designed to shake down the in keeper for protection money"
+   },
+   {
+    "id": 12,
+    "duration": 4.7,
+    "motion": "zoom_in",
+    "panelLeft": "c02_p022_man_talking_to_another_man.webp",
+    "panelRight": "c02_p023_man_making_joke_about_chaehyang.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 12: Back Young Zaha Weak",
+    "vo": "and back then young zaha was too weak and terrified to do anything except"
+   },
+   {
+    "id": 13,
+    "duration": 4.3,
+    "motion": "slide_up",
+    "panelLeft": "c02_p025_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c02_p026_man_meditating_in_traditional_clothing.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 13: Swallow Humiliation Sweep Shattered",
+    "vo": "swallow the humiliation sweep up the shattered porcelain and nurse his cracked"
+   },
+   {
+    "id": 14,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c02_p041_man_in_robe_sitting_on_bed.webp",
+    "panelRight": "c02_p006_man_in_traditional_clothing_talking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 14: Ribs Silence Sitting Cross",
+    "vo": "ribs and silence but sitting cross legged on the floor today zaha closes his eyes"
+   },
+   {
+    "id": 15,
+    "duration": 4.0,
+    "motion": "zoom_out",
+    "panelLeft": "c02_p028_character_with_long_hair_and_a.webp",
+    "panelRight": "c02_p027_man_in_robe_speech_bubble_text.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 15: Inspect Internal Meridians Expecting",
+    "vo": "to inspect his internal meridians expecting an empty fragile"
+   },
+   {
+    "id": 16,
+    "duration": 4.71,
+    "motion": "pan_right",
+    "panelLeft": "c02_p030_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c02_p029_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 16: Dantian Instead Eyes Snap",
+    "vo": "dantian instead his eyes snap open and shock as a warm heavy"
+   },
+   {
+    "id": 17,
+    "duration": 3.79,
+    "motion": "pulse_zoom",
+    "panelLeft": "c02_p032_man_with_black_hair_and_a.webp",
+    "panelRight": "c02_p037_warrior_speaking_holding_sword_looking_at.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 17: River Celestial Keypulse'S Through",
+    "vo": "river of celestial keypulse's through his veins the"
+   },
+   {
+    "id": 18,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c02_p034_mountains_roof_starry_sky_village.webp",
+    "panelRight": "c02_p033_ncient_chinese_village_at_sunset.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 18: Divine Energy Heavenly Pearl",
+    "vo": "divine energy from the heavenly pearl followed his soul through space"
+   },
+   {
+    "id": 19,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c02_p050_man_in_robes_old_man_speech.webp",
+    "panelRight": "c02_p009_warrior_speaking_pointing_confident.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 19: Time Gifting Massive Cheat",
+    "vo": "and time gifting him a massive cheat code right at level back in his old"
+   },
+   {
+    "id": 20,
+    "duration": 4.48,
+    "motion": "slide_up",
+    "panelLeft": "c02_p038_man_with_long_black_hair_finger.webp",
+    "panelRight": "c02_p036_warrior_in_room_kneeling_talking.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 20: Life Starve Bleed Meditate",
+    "vo": "life he had to starve bleed and meditate in freezing snow"
+   },
+   {
+    "id": 21,
+    "duration": 4.36,
+    "motion": "slide_down",
+    "panelLeft": "c02_p040_warrior_in_robe_talking_about_strength.webp",
+    "panelRight": "c02_p042_warrior_in_battle_holding_sword.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 21: Decades Condense Single Droplet",
+    "vo": "for decades just to condense a single droplet of internal force but"
+   },
+   {
+    "id": 22,
+    "duration": 3.83,
+    "motion": "zoom_in",
+    "panelLeft": "c02_p044_warrior_in_blue_robe_standing_in.webp",
+    "panelRight": "c02_p045_warrior_and_emperor_in_conversation.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 22: Young Vessels Overflowing Refined",
+    "vo": "now his young vessels are overflowing with refined primordial"
+   },
+   {
+    "id": 23,
+    "duration": 4.81,
+    "motion": "slide_up",
+    "panelLeft": "c02_p046_man_in_traditional_clothing_talking_about.webp",
+    "panelRight": "c02_p031_man_in_robe_text_text_text.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 23: Energy Without Wasting Single",
+    "vo": "energy without wasting a single second zahab begins circulating the"
+   },
+   {
+    "id": 24,
+    "duration": 4.46,
+    "motion": "pan_left",
+    "panelLeft": "c02_p049_warrior_walks_away_others_watch.webp",
+    "panelRight": "c02_p051_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 24: Art Journey Through Steel",
+    "vo": "art of the journey through the steel lakes his signature cultivation technique"
+   },
+   {
+    "id": 25,
+    "duration": 4.4,
+    "motion": "zoom_out",
+    "panelLeft": "c02_p052_warrior_in_courtyard_lanterns_boots_walking.webp",
+    "panelRight": "c02_p008_warrior_with_text_i_can_start.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 25: Past Life Crazy Demon",
+    "vo": "from his past life as the crazy demon in a matter of minutes the dense"
+   },
+   {
+    "id": 26,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c02_p054_character_is_trying_to_sleep_with.webp",
+    "panelRight": "c02_p055_warrior_fighting_character_speaking_fighting_character.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 26: Silver Energy Clears Away",
+    "vo": "silver energy clears away his internal bruising repairs his strained muscles"
+   },
+   {
+    "id": 27,
+    "duration": 4.42,
+    "motion": "pulse_zoom",
+    "panelLeft": "c02_p057_person_with_a_hole_in_their.webp",
+    "panelRight": "c02_p059_person_with_red_eye_saying_i.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 27: Reactivates Apex Combat Instincts",
+    "vo": "and reactivates his apex combat instincts knowing that having the mind of an"
+   },
+   {
+    "id": 28,
+    "duration": 4.58,
+    "motion": "slide_down",
+    "panelLeft": "c02_p060_warriors_restraining_a_character.webp",
+    "panelRight": "c02_p061_man_in_robe_near_door_saying.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 28: Unhinged Martial Grandmaster Inside",
+    "vo": "unhinged martial grandmaster inside a youthful key filled vessel is"
+   },
+   {
+    "id": 29,
+    "duration": 4.22,
+    "motion": "zoom_in",
+    "panelLeft": "c02_p062_warrior_beaten_to_pulp.webp",
+    "panelRight": "c02_p063_character_with_a_hollow_eye_asking.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 29: Practically Illegal Zahal Lets",
+    "vo": "practically illegal zahal lets out a menacing smirk steps out of bed and walks down"
+   },
+   {
+    "id": 30,
+    "duration": 4.24,
+    "motion": "slide_up",
+    "panelLeft": "c02_p066_warrior_speaking_lantern_character_walking.webp",
+    "panelRight": "c02_p064_man_with_long_hair_speech_bubble.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 30: Lantern Lit Streets Iliang",
+    "vo": "into the lantern lit streets of iliang prefecture to handle some"
+   },
+   {
+    "id": 31,
+    "duration": 4.63,
+    "motion": "slide_down",
+    "panelLeft": "c02_p065_man_with_black_hair_scar_on.webp",
+    "panelRight": "c02_p067_warrior_in_conversation_plum_blossom_discussion.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 31: Unfinished Business Night Air",
+    "vo": "unfinished business the night air is cool and peaceful but that quiet is immediately"
+   },
+   {
+    "id": 32,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c02_p070_warrior_walking_emperor_asking.webp",
+    "panelRight": "c02_p047_warrior_in_dark_attire_night_scene.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 32: Ruined Local Thug Silk",
+    "vo": "ruined when a local thug and silk blue robes spots him walking down"
+   },
+   {
+    "id": 33,
+    "duration": 4.41,
+    "motion": "slide_up",
+    "panelLeft": "c02_p068_warrior_speaking_to_emperor_emperor_asking.webp",
+    "panelRight": "c02_p069_warrior_and_enemy_in_confrontation.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 33: Cobblestone Road Arrogant Bully",
+    "vo": "the cobblestone road this arrogant bully was one of the exact goons who jumped"
+   },
+   {
+    "id": 34,
+    "duration": 4.38,
+    "motion": "pan_left",
+    "panelLeft": "c02_p071_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c02_p072_warrior_in_battle_shouting_fucker.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 34: Zaha Few Days Ago",
+    "vo": "zaha a few days ago and he immediately starts laughing loudly mocking"
+   },
+   {
+    "id": 35,
+    "duration": 4.07,
+    "motion": "zoom_out",
+    "panelLeft": "c02_p073_man_with_arm_raised_text_ok.webp",
+    "panelRight": "c02_p084_man_in_robe_hand_on_chest.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 35: Boy Daring Show Face",
+    "vo": "our boy for daring to show his face after getting beaten into"
+   },
+   {
+    "id": 36,
+    "duration": 4.68,
+    "motion": "pan_right",
+    "panelLeft": "c02_p087_man_with_long_hair_wearing_traditional.webp",
+    "panelRight": "c02_p066_warrior_speaking_lantern_character_walking.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 36: Pulp Walking Right Zaha'S",
+    "vo": "a pulp walking right up into zaha's face with peak npc energy the"
+   },
+   {
+    "id": 37,
+    "duration": 4.42,
+    "motion": "pulse_zoom",
+    "panelLeft": "c02_p065_man_with_black_hair_scar_on.webp",
+    "panelRight": "c02_p067_warrior_in_conversation_plum_blossom_discussion.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 37: Thug Asks Boy Went",
+    "vo": "thug asks if our boy went completely dead from the beat down zaha stares"
+   },
+   {
+    "id": 38,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c02_p074_warrior_in_battle_sword_swinging_red.webp",
+    "panelRight": "c02_p077_man_asking_name_dead_man_shocked.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 38: Blankly Loudmouth Casually Asks",
+    "vo": "blankly at the loudmouth casually asks for his name and the split second"
+   },
+   {
+    "id": 39,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c02_p075_woman_in_blue_clothes_attacking_man.webp",
+    "panelRight": "c02_p076_warrior_in_battle_sword_flying_character.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 39: Thud Pauses Confusion Zaha",
+    "vo": "the thud pauses in confusion zaha delivers an explosive backhand"
+   },
+   {
+    "id": 40,
+    "duration": 4.1,
+    "motion": "slide_up",
+    "panelLeft": "c02_p091_man_in_traditional_clothing_with_a.webp",
+    "panelRight": "c02_p083_man_lying_on_ground_gasping_smoke.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 40: Slap Spins Man Top",
+    "vo": "slap that spins the man like a top before dropping him face first"
+   },
+   {
+    "id": 41,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c02_p080_warrior_attacking_boy_with_sword.webp",
+    "panelRight": "c02_p084_man_in_robe_hand_on_chest.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 41: Dirt Thugs Partner Charges",
+    "vo": "into the dirt the thugs partner charges forward with wild swings but"
+   },
+   {
+    "id": 42,
+    "duration": 4.56,
+    "motion": "zoom_in",
+    "panelLeft": "c02_p081_warrior_in_battle_fighting_with_a.webp",
+    "panelRight": "c02_p082_warrior_attacking_enemy_shouting_urgh.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 42: Zaha Effortlessly Ducks Beneath",
+    "vo": "zaha effortlessly ducks beneath the telegraphed punch clamps his hand over the bullies face"
+   },
+   {
+    "id": 43,
+    "duration": 4.04,
+    "motion": "slide_up",
+    "panelLeft": "c02_p010_fist_clenched_into_a_fist.webp",
+    "panelRight": "c02_p087_man_with_long_hair_wearing_traditional.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 43: Basketball Slams Head Directly",
+    "vo": "like a basketball and slams his head directly into the stone ground standing over"
+   },
+   {
+    "id": 44,
+    "duration": 4.65,
+    "motion": "pan_left",
+    "panelLeft": "c02_p077_man_asking_name_dead_man_shocked.webp",
+    "panelRight": "c02_p085_guest_service_is_a_mess.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 44: Groaning Dunes Zahha Shakes",
+    "vo": "the two groaning dunes zahha shakes his head in disappointment remarking"
+   },
+   {
+    "id": 45,
+    "duration": 4.25,
+    "motion": "zoom_out",
+    "panelLeft": "c02_p047_warrior_in_dark_attire_night_scene.webp",
+    "panelRight": "c02_p090_warrior_in_red_robe_carrying_cake.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 45: Customer Service Neighborhood Truly",
+    "vo": "that the customer service in this neighborhood has truly hit rock bottom dusting"
+   },
+   {
+    "id": 46,
+    "duration": 4.36,
+    "motion": "pan_right",
+    "panelLeft": "c02_p053_man_with_long_hair_speech_bubble.webp",
+    "panelRight": "c02_p078_warrior_in_front_of_door_looking.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 46: Off Sleeves Boy Turns",
+    "vo": "off his sleeves our boy turns his attention toward the glowing red lanterns of"
+   },
+   {
+    "id": 47,
+    "duration": 4.57,
+    "motion": "pulse_zoom",
+    "panelLeft": "c02_p088_warrior_in_battle_emperor_speaking_burning.webp",
+    "panelRight": "c02_p079_warrior_in_conversation_emperors_reaction.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 47: Plum Blossom Brothel Street",
+    "vo": "the plum blossom brothel down the street kicks the double doors wide open and announces to"
+   },
+   {
+    "id": 48,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c02_p086_people_eating_in_restaurant_woman_serving.webp",
+    "panelRight": "c02_p089_three_men_in_a_room_one.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 48: Entire Gambling Parlor Thirsty",
+    "vo": "the entire gambling parlor that a thirsty customer has officially arrived"
+   }
+  ]
+ },
+ "Chapter_003": {
+  "id": "Chapter_003",
+  "title": "Chapter 003",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 443,
+  "duration": 218,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c03_p002_ncient_chinesestyle_building.webp",
+    "panelRight": "c03_p001_warriors_in_battle_night_sky_speech.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 01: Kicking Open Grand Double",
+    "vo": "kicking open the grand double doors of the plum blossom brothel"
+   },
+   {
+    "id": 2,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p004_boy_in_a_red_robe_walks.webp",
+    "panelRight": "c03_p021_warrior_in_red_robe_asks_about.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 02: Boy Yezahah Stroll Straight",
+    "vo": "our boy yezahah stroll straight into the crowded establishment with the swagger of"
+   },
+   {
+    "id": 3,
+    "duration": 4.24,
+    "motion": "slide_up",
+    "panelLeft": "c03_p006_warrior_in_battle_emperor_speaking_character.webp",
+    "panelRight": "c03_p009_warrior_in_red_robe_emperor_character.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 03: Emperor Inspecting Royal Estate",
+    "vo": "an emperor inspecting his royal estate the entire ground floor freezes"
+   },
+   {
+    "id": 4,
+    "duration": 4.13,
+    "motion": "pan_left",
+    "panelLeft": "c03_p008_warrior_in_battle_shouting_what.webp",
+    "panelRight": "c03_p007_warrior_speaking_smiling_drinking_looking_at.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 04: Stuns Silence Gamblers Hostesses",
+    "vo": "and stuns silence as gamblers hostesses and armed"
+   },
+   {
+    "id": 5,
+    "duration": 4.7,
+    "motion": "zoom_out",
+    "panelLeft": "c03_p010_three_men_with_surprised_expressions.webp",
+    "panelRight": "c03_p011_character_remembers_a_person.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 05: Bouncers Turn Stare Scrawny",
+    "vo": "bouncers turn to stare at the scrawny kid who was supposed to be weeping in"
+   },
+   {
+    "id": 6,
+    "duration": 4.0,
+    "motion": "pan_right",
+    "panelLeft": "c03_p015_three_men_in_robes_one_speaking.webp",
+    "panelRight": "c03_p014_man_with_long_black_hair_and.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 06: Bed Broken Ribs Whispers",
+    "vo": "bed with broken ribs whispers immediately spread like wildfire across"
+   },
+   {
+    "id": 7,
+    "duration": 4.64,
+    "motion": "pulse_zoom",
+    "panelLeft": "c03_p106_warriors_eating_talking_laughing_sitting_at.webp",
+    "panelRight": "c03_p107_warriors_laughing_and_chatting_at_table.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 07: Gambling Tables Thugs Laughing",
+    "vo": "the gambling tables with thugs laughing that the local aeronboy must have suffered severe"
+   },
+   {
+    "id": 8,
+    "duration": 4.52,
+    "motion": "slide_down",
+    "panelLeft": "c03_p018_warrior_ascending_stairs_text_yes_boss.webp",
+    "panelRight": "c03_p017_warrior_in_traditional_attire_standing_in.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 08: Brain Damage Recent Beating",
+    "vo": "brain damage from his recent beating to willingly march right back into the lion's"
+   },
+   {
+    "id": 9,
+    "duration": 4.05,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p063_woman_in_red_dress_red_eyes.webp",
+    "panelRight": "c03_p073_character_with_a_flower_in_their.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 09: Den Eyes Aeronboy Absolute",
+    "vo": "den in their eyes an aeronboy is the absolute lowest organism in"
+   },
+   {
+    "id": 10,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c03_p024_warrior_in_robe_talking_to_someone.webp",
+    "panelRight": "c03_p044_warrior_in_traditional_attire_seated_talking.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 10: Martial Food Chain Someone",
+    "vo": "the martial food chain someone who exists purely to mop floors and take punches"
+   },
+   {
+    "id": 11,
+    "duration": 4.14,
+    "motion": "slide_down",
+    "panelLeft": "c03_p025_warrior_in_red_robe_stern_expression.webp",
+    "panelRight": "c03_p026_warrior_in_conversation_warrior_in_background.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 11: Without Complaining Heavily Muscled",
+    "vo": "without complaining two heavily muscled bancers step forward cracking their"
+   },
+   {
+    "id": 12,
+    "duration": 4.03,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p023_warrior_sitting_asking_why.webp",
+    "panelRight": "c03_p022_warrior_in_red_headband_talking_to.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 12: Knuckles Demanding Know Why",
+    "vo": "knuckles and demanding to know why a complete nobody has the nerve to"
+   },
+   {
+    "id": 13,
+    "duration": 4.65,
+    "motion": "slide_up",
+    "panelLeft": "c03_p019_warrior_leading_another_pointing_to_the.webp",
+    "panelRight": "c03_p068_warrior_in_battle_talking_about_something.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 13: Crash Private Establishment Zahah",
+    "vo": "crash their private establishment zahah merely gives them a dead panster pointing"
+   },
+   {
+    "id": 14,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c03_p093_man_holding_jug_asking_for_drink.webp",
+    "panelRight": "c03_p034_emperor_speaking_character_holding_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 14: Entertainment House Asking Habit",
+    "vo": "out that this is an entertainment house and asking if they are in the habit of interrogating paying customers"
+   },
+   {
+    "id": 15,
+    "duration": 4.25,
+    "motion": "zoom_out",
+    "panelLeft": "c03_p039_warrior_in_red_robe_shouting_at.webp",
+    "panelRight": "c03_p041_emperor_speaking_surprised.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 15: Simply Want Cold Drink",
+    "vo": "who simply want a cold drink before the goons can drag him"
+   },
+   {
+    "id": 16,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c03_p013_customer_in_a_red_robe.webp",
+    "panelRight": "c03_p053_warrior_in_battle_shouting_urgh.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 16: Alleyway Smooth Condescending Voice",
+    "vo": "into the alleyway a smooth condescending voice echoes down from the second"
+   },
+   {
+    "id": 17,
+    "duration": 4.17,
+    "motion": "pulse_zoom",
+    "panelLeft": "c03_p012_plum_blossom_brothel_manager_cha_sungtae.webp",
+    "panelRight": "c03_p038_chinesestyle_room_with_red_curtains.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 17: Floor Balcony Weaning Polished",
+    "vo": "floor balcony weaning over the polished banister is chasson tie the brothel"
+   },
+   {
+    "id": 18,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c03_p046_warrior_in_red_robe_holding_cup.webp",
+    "panelRight": "c03_p050_warrior_in_red_robe_speaking_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 18: Silver Haired Manager Sporting",
+    "vo": "silver haired manager sporting a sharp red silk robe and an amused smirk song"
+   },
+   {
+    "id": 19,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p033_two_men_in_traditional_chinese_attire.webp",
+    "panelRight": "c03_p020_two_men_in_traditional_chinese_attire.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 19: Tae Waves Hand Casually",
+    "vo": "tae waves his hand casually ordering his men to stand down because turning"
+   },
+   {
+    "id": 20,
+    "duration": 4.21,
+    "motion": "slide_up",
+    "panelLeft": "c03_p045_man_in_traditional_clothing_pouring_liquid.webp",
+    "panelRight": "c03_p047_man_drinking_talking_holding_cup.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 20: Away Paying Customer Bad",
+    "vo": "away a paying customer is bad for business entirely unaware that"
+   },
+   {
+    "id": 21,
+    "duration": 4.83,
+    "motion": "slide_down",
+    "panelLeft": "c03_p028_warrior_in_traditional_clothing_dining_table.webp",
+    "panelRight": "c03_p027_warrior_in_a_room_holding_a.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 21: Invited Unstoppable Apex Predator",
+    "vo": "he just invited an unstoppable apex predator into his dining room lead"
+   },
+   {
+    "id": 22,
+    "duration": 4.27,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p051_warrior_in_battle_emperor_speaking_sword.webp",
+    "panelRight": "c03_p052_emperor_speaking_serious_expression_dark_hair.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 22: Lavish Private Booth Zahas",
+    "vo": "into a lavish private booth zahas sits down cross"
+   },
+   {
+    "id": 23,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c03_p055_warrior_holding_cup_talking_about_dogs.webp",
+    "panelRight": "c03_p084_man_pouring_drink_saying_let_me.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 23: Legged Porous Himself Cup",
+    "vo": "legged porous himself a cup of house liquor and immediately grimaces in disgust"
+   },
+   {
+    "id": 24,
+    "duration": 3.8,
+    "motion": "pan_left",
+    "panelLeft": "c03_p100_man_pouring_water.webp",
+    "panelRight": "c03_p104_warrior_in_kimono_pouring_water.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 24: Realizing Serving Overpriced Water",
+    "vo": "realizing they are serving overpriced water down garbage to"
+   },
+   {
+    "id": 25,
+    "duration": 4.7,
+    "motion": "zoom_out",
+    "panelLeft": "c03_p030_woman_holding_vase_saying_top_quality.webp",
+    "panelRight": "c03_p058_warrior_in_red_robe_with_blood.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 25: Guests Complain Terrible Beverage",
+    "vo": "their guests before he can complain about the terrible beverage quality the private"
+   },
+   {
+    "id": 26,
+    "duration": 4.64,
+    "motion": "pan_right",
+    "panelLeft": "c03_p060_warrior_in_red_robe_holding_sword.webp",
+    "panelRight": "c03_p061_woman_in_traditional_clothing_eating_red.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 26: Door Slams Open Revealing",
+    "vo": "door slams open revealing donguk the massive thug captain who personally led"
+   },
+   {
+    "id": 27,
+    "duration": 4.29,
+    "motion": "pulse_zoom",
+    "panelLeft": "c03_p035_emperor_seated_at_table_holding_sword.webp",
+    "panelRight": "c03_p099_warrior_in_battle_warrior_in_battle.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 27: Mob Jumped Zaha Few",
+    "vo": "the mob that jumped zaha a few days ago towering over the table with"
+   },
+   {
+    "id": 28,
+    "duration": 4.37,
+    "motion": "slide_down",
+    "panelLeft": "c03_p065_warrior_in_robe_talking_to_another.webp",
+    "panelRight": "c03_p064_man_in_traditional_attire_holds_a.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 28: Veins Popping Forehead Donguk",
+    "vo": "veins popping on his forehead donguk starts screaming obscenities asking"
+   },
+   {
+    "id": 29,
+    "duration": 4.2,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p016_warriors_in_chinesestyle_inn_order_drinks.webp",
+    "panelRight": "c03_p040_man_in_a_suit_drinks_from.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 29: How Insignificant Tavern Arren",
+    "vo": "how an insignificant tavern arren boy has the audacity to order drinks"
+   },
+   {
+    "id": 30,
+    "duration": 4.74,
+    "motion": "slide_up",
+    "panelLeft": "c03_p066_man_in_traditional_clothing_woman_eating.webp",
+    "panelRight": "c03_p097_warrior_holding_cup.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 30: Roof While Normal People",
+    "vo": "under their roof while most normal people would be trembling in terror having obscenities asking how an insignificant tavern errand boy has the audacity to order drinks under their roof while most normal people would be trembling in"
+   },
+   {
+    "id": 31,
+    "duration": 4.26,
+    "motion": "slide_down",
+    "panelLeft": "c03_p096_man_in_robe_drinking_tea_contemplative.webp",
+    "panelRight": "c03_p036_warrior_holding_cup_smelling_judging_talking.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 31: Terror Zaha Remains Completely",
+    "vo": "terror zaha remains completely unfazed calmly sipping his tea and casually pouring a"
+   },
+   {
+    "id": 32,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p071_hand_holding_a_cup_with_a.webp",
+    "panelRight": "c03_p043_warrior_approaching_emperor_speaking_warrior_in.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 32: Cup Raging Giant Politely",
+    "vo": "cup for the raging giant he politely asks don guck to take"
+   },
+   {
+    "id": 33,
+    "duration": 3.95,
+    "motion": "slide_up",
+    "panelLeft": "c03_p077_woman_with_shocked_expression.webp",
+    "panelRight": "c03_p076_man_with_dark_hair_speech_bubble.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 33: Seat Acting Friendly Uncle",
+    "vo": "a seat acting like a friendly uncle trying to have a civilized chat"
+   },
+   {
+    "id": 34,
+    "duration": 4.71,
+    "motion": "pan_left",
+    "panelLeft": "c03_p079_closeup_of_a_characters_eyes_with.webp",
+    "panelRight": "c03_p080_three_men_in_robes_one_holding.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 34: Unruly Toddler Confused Boys",
+    "vo": "with an unruly toddler confused by our boys absolute lack of survival instinct"
+   },
+   {
+    "id": 35,
+    "duration": 4.25,
+    "motion": "zoom_out",
+    "panelLeft": "c03_p081_warrior_in_red_robe_speech_bubble.webp",
+    "panelRight": "c03_p082_warrior_in_red_robes_emperor_sword.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 35: Guck Sits Across Sneering",
+    "vo": "don guck sits down across from him sneering that getting his head bashed"
+   },
+   {
+    "id": 36,
+    "duration": 4.25,
+    "motion": "pan_right",
+    "panelLeft": "c03_p031_warrior_in_traditional_attire_talking_to.webp",
+    "panelRight": "c03_p085_three_warriors_in_traditional_attire_one.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 36: Must Knocked Zahaz Common",
+    "vo": "in must have knocked zahaz common sense loose to make the"
+   },
+   {
+    "id": 37,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c03_p070_emperor_in_traditional_attire_talking_about.webp",
+    "panelRight": "c03_p087_three_men_in_red_robes_one.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 37: Scene Even Wilder Zahaz",
+    "vo": "scene even wilder zahaz specifically requests that khorazan chehaiang be brought in"
+   },
+   {
+    "id": 38,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c03_p089_warrior_in_discussion_with_emperor.webp",
+    "panelRight": "c03_p088_three_warriors_in_red_robes_one.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 38: Poor Drinks Proving Once",
+    "vo": "to poor their drinks proving once and for all that he doesn't hold a grudge"
+   },
+   {
+    "id": 39,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p091_warriors_discussing_unfair_treatment.webp",
+    "panelRight": "c03_p090_warrior_enters_calls_chaehyang_seated.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 39: Fabricated Rumors Donggook'S Crew",
+    "vo": "over the fabricated rumors donggook's crew gathers around the private"
+   },
+   {
+    "id": 40,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c03_p094_warrior_in_red_robe_speaking_haa.webp",
+    "panelRight": "c03_p092_warrior_in_battle_looking_at_viewer.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 40: Chamber Bursting Loud Mocking",
+    "vo": "chamber bursting into loud mocking laughter as they marvel at the"
+   },
+   {
+    "id": 41,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c03_p057_chaehyang_a_warrior_looks_angry.webp",
+    "panelRight": "c03_p069_woman_with_piercing_eyes_speech_bubble.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 41: Aaron Boy'S Suicidal Confidence",
+    "vo": "aaron boy's suicidal confidence outside the door chey haiang clutches her"
+   },
+   {
+    "id": 42,
+    "duration": 4.28,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p067_woman_in_red_dress_red_eyes.webp",
+    "panelRight": "c03_p032_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 42: Silk Dress Nervous Dread",
+    "vo": "silk dress in nervous dread convinced that the poor boy is about to"
+   },
+   {
+    "id": 43,
+    "duration": 4.02,
+    "motion": "slide_up",
+    "panelLeft": "c03_p101_man_in_robe_with_speech_bubble.webp",
+    "panelRight": "c03_p102_two_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 43: Buried Floorboards Donggooks Smirks",
+    "vo": "be buried under the floorboards donggooks smirks with"
+   },
+   {
+    "id": 44,
+    "duration": 4.7,
+    "motion": "pan_left",
+    "panelLeft": "c03_p103_three_warriors_in_traditional_attire_one.webp",
+    "panelRight": "c03_p105_three_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 44: Cruel Satisfaction Admitting Known",
+    "vo": "cruel satisfaction admitting that if he had known the boy had this much spine he would have beaten"
+   },
+   {
+    "id": 45,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c03_p108_two_warriors_in_battle_swords_drawn.webp",
+    "panelRight": "c03_p056_emperor_speaking_warrior_preparing_food_woman.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 45: Twice Hard During Last",
+    "vo": "him twice as hard during their last encounter telling the hostesses"
+   },
+   {
+    "id": 46,
+    "duration": 4.0,
+    "motion": "pan_right",
+    "panelLeft": "c03_p098_warrior_in_red_robe_seated_in.webp",
+    "panelRight": "c03_p049_fist_punching_a_wall.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 46: Step Outside Gang Captain",
+    "vo": "to step outside the gang captain leans across the table cracking his"
+   },
+   {
+    "id": 47,
+    "duration": 4.71,
+    "motion": "pulse_zoom",
+    "panelLeft": "c03_p095_three_men_in_traditional_clothing_one.webp",
+    "panelRight": "c03_p083_warrior_speaking_blood_pain_cleaning.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 47: Heavy Fists Tells Zaha",
+    "vo": "heavy fists and tells zaha to finish his final drink before they drag him out back"
+   },
+   {
+    "id": 48,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c03_p048_man_holding_cup_saying_hey_dongguak.webp",
+    "panelRight": "c03_p062_man_with_long_black_hair_wearing.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 48: Properly Finish Job Zaha",
+    "vo": "to properly finish the job zaha calmly sets down his porcelain"
+   },
+   {
+    "id": 49,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c03_p042_person_holding_a_cup_saying_hey.webp",
+    "panelRight": "c03_p117_warrior_in_traditional_attire_standing_in.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 49: Cup Offers Last Polite",
+    "vo": "cup offers them one last polite smile and prepares to teach these over"
+   },
+   {
+    "id": 50,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c03_p078_emperor_orders_to_leave.webp",
+    "panelRight": "c03_p086_warrior_in_robe_holding_a_sword.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 50: Confident Mobsters Why Never",
+    "vo": "confident mobsters why you should never provoke a retired demon"
+   }
+  ]
+ },
+ "Chapter_004": {
+  "id": "Chapter_004",
+  "title": "Chapter 004",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 661,
+  "duration": 220,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c04_p001_woman_in_traditional_clothing_holding_a.webp",
+    "panelRight": "c04_p002_emperor_speaking_holding_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 01: Moment Sliding Paper Doors",
+    "vo": "the moment the sliding paper doors closed the private dining chamber e"
+   },
+   {
+    "id": 2,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p004_woman_fighting_sword_red_lanterns_chaos.webp",
+    "panelRight": "c04_p003_warrior_in_battle_shouting_a_joke.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 02: Rups Violent Sided Chaos",
+    "vo": "rups into violent one sided chaos that rattles the entire brothel"
+   },
+   {
+    "id": 3,
+    "duration": 4.25,
+    "motion": "slide_up",
+    "panelLeft": "c04_p008_blackhaired_man_with_piercing_eyes_dark.webp",
+    "panelRight": "c04_p015_warriors_ascending_stairs_holding_swords.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 03: Foundation Polished Hallway Cortison",
+    "vo": "foundation out in the polished hallway cortison and chehaiang trembles with wide eyes"
+   },
+   {
+    "id": 4,
+    "duration": 4.58,
+    "motion": "pan_left",
+    "panelLeft": "c04_p028_warrior_in_red_robe_emperor_in.webp",
+    "panelRight": "c04_p024_man_in_kimono_red_background_speech.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 04: Deafening Thuds Cracking Wood",
+    "vo": "as deafening thuds cracking wood and muffled screams echo through the"
+   },
+   {
+    "id": 5,
+    "duration": 4.1,
+    "motion": "zoom_out",
+    "panelLeft": "c04_p005_warrior_in_traditional_attire_pondering.webp",
+    "panelRight": "c04_p012_warriors_in_battle_character_speaking_chaos.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 05: Wooden Walls Expects Arrogant",
+    "vo": "wooden walls she expects the arrogant thugs to drag out a mangled errand boy"
+   },
+   {
+    "id": 6,
+    "duration": 4.57,
+    "motion": "pan_right",
+    "panelLeft": "c04_p019_man_with_long_hair_speech_bubble.webp",
+    "panelRight": "c04_p014_man_with_long_hair_smiles_looking.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 06: Door Suddenly Bursts Open",
+    "vo": "but the door suddenly bursts open revealing a spectacle that defies every rule"
+   },
+   {
+    "id": 7,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c04_p034_two_pairs_of_feet_walking_one.webp",
+    "panelRight": "c04_p016_warriors_in_red_robes_one_with.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 07: Underworld Walking Through Splintered",
+    "vo": "of the underworld walking through the splintered frame with dead eyed"
+   },
+   {
+    "id": 8,
+    "duration": 4.28,
+    "motion": "slide_down",
+    "panelLeft": "c04_p018_man_with_blonde_hair_crying.webp",
+    "panelRight": "c04_p017_warrior_in_red_cloak_sword_in.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 08: Composure Boy Yizahah Drags",
+    "vo": "composure our boy yizahah drags donguk by his silk collar like a sack of"
+   },
+   {
+    "id": 9,
+    "duration": 4.22,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p020_warriors_gathered_fallen_warrior_broken_items.webp",
+    "panelRight": "c04_p021_man_in_robe_broken_dishes.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 09: Dirty Laundry Casually Tossing",
+    "vo": "dirty laundry casually tossing the pound squad leader onto a"
+   },
+   {
+    "id": 10,
+    "duration": 4.75,
+    "motion": "slide_up",
+    "panelLeft": "c04_p046_warrior_walks_through_corpses_speaks_about.webp",
+    "panelRight": "c04_p022_three_men_lying_on_the_ground.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 10: Groaning Pile Battered Goons",
+    "vo": "groaning pile of his own battered goons within two minutes of stepping into the"
+   },
+   {
+    "id": 11,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c04_p026_warriors_in_room_fallen_warrior_red.webp",
+    "panelRight": "c04_p010_warrior_in_room_red_carpet_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 11: Back Room Boy Dismantled",
+    "vo": "back room our boy dismantled six season mobsters with bare fists dishing"
+   },
+   {
+    "id": 12,
+    "duration": 4.25,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p031_man_with_white_hair_and_a.webp",
+    "panelRight": "c04_p036_man_with_long_hair_and_a.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 12: Severe Emotional Physical Damage",
+    "vo": "out severe emotional and physical damage without musting a single strand of hair every single"
+   },
+   {
+    "id": 13,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c04_p030_man_with_a_determined_expression_holding.webp",
+    "panelRight": "c04_p048_bloodied_face_speech_bubble_empty_eyes.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 13: Bully Laughed Defenseless Aaron",
+    "vo": "bully who laughed at the defenseless aaron boy days ago is now stacked"
+   },
+   {
+    "id": 14,
+    "duration": 4.29,
+    "motion": "pan_left",
+    "panelLeft": "c04_p051_warrior_with_bloodied_face_sword_and.webp",
+    "panelRight": "c04_p032_man_with_broken_glasses_sword_in.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 14: Cordwood Across Floorboards Clutching",
+    "vo": "like cordwood across the floorboards clutching shattered jaws fractured ribs and"
+   },
+   {
+    "id": 15,
+    "duration": 4.38,
+    "motion": "zoom_out",
+    "panelLeft": "c04_p035_warriors_in_red_robes_one_speaking.webp",
+    "panelRight": "c04_p037_warriors_gathered_emperor_speaks_no_one.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 15: Praying Lives Taking Seat",
+    "vo": "praying for their lives taking a seat directly on top of the"
+   },
+   {
+    "id": 16,
+    "duration": 4.56,
+    "motion": "pan_right",
+    "panelLeft": "c04_p038_character_with_dark_hair_and_red.webp",
+    "panelRight": "c04_p039_three_warriors_in_red_robes_standing.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 16: Groaning Pile Gangsters Luxury",
+    "vo": "groaning pile of gangsters like its luxury leather couch zahak casually crosses his legs"
+   },
+   {
+    "id": 17,
+    "duration": 4.18,
+    "motion": "pulse_zoom",
+    "panelLeft": "c04_p090_woman_in_traditional_attire_red_robe.webp",
+    "panelRight": "c04_p009_old_hag_angry_speech_bubble_boots.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 17: Calls Terrified Madame Standing",
+    "vo": "and calls out to the terrified madame standing in the corridor he"
+   },
+   {
+    "id": 18,
+    "duration": 4.6,
+    "motion": "slide_down",
+    "panelLeft": "c04_p007_old_hag_im_sorry_but_its.webp",
+    "panelRight": "c04_p006_warrior_saying_hey_old_hag_bring.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 18: Rudely Addresses Old Hag",
+    "vo": "rudely addresses her as an old hag and demands a fresh bottle of duquang liquor"
+   },
+   {
+    "id": 19,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p063_man_with_long_hair_and_serious.webp",
+    "panelRight": "c04_p056_man_in_kimono_with_blood_on.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 19: Pointing Previous Drinks Tasted",
+    "vo": "pointing out that their previous drinks tasted like watered down gutter juice trimbling"
+   },
+   {
+    "id": 20,
+    "duration": 4.1,
+    "motion": "slide_up",
+    "panelLeft": "c04_p065_warrior_with_long_hair_serious_expression.webp",
+    "panelRight": "c04_p058_warrior_in_robe_with_blood_on.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 20: Silk Robes Madam Frantically",
+    "vo": "in her silk robes the madam frantically stammered that their wine is"
+   },
+   {
+    "id": 21,
+    "duration": 4.75,
+    "motion": "slide_down",
+    "panelLeft": "c04_p057_man_in_robe_with_speech_bubble.webp",
+    "panelRight": "c04_p049_emperor_speaking_red_eyes_sword_cross.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 21: Top Shelf Zaha Merely",
+    "vo": "top shelf but zaha merely glares at her with icy malice calmly"
+   },
+   {
+    "id": 22,
+    "duration": 4.25,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p087_warrior_with_golden_eyes_intense_expression.webp",
+    "panelRight": "c04_p053_man_with_white_hair_speech_bubble.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 22: Reminding While Makes Strict",
+    "vo": "reminding her that while he makes it a strict personal rule never to strike women who don't"
+   },
+   {
+    "id": 23,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c04_p050_warrior_with_sword_text_finish_pulling.webp",
+    "panelRight": "c04_p041_warrior_holding_sword_text_yayayo.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 23: Practice Martial Arts Better",
+    "vo": "practice martial arts she had better watch her tone before she finds out"
+   },
+   {
+    "id": 24,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c04_p025_warrior_saying_yes_emperor_looking_angry.webp",
+    "panelRight": "c04_p040_man_with_blood_on_face_red.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 24: Happens Patience Runs Looking",
+    "vo": "what happens when his patience runs out looking down at dongook who is gasping for"
+   },
+   {
+    "id": 25,
+    "duration": 4.35,
+    "motion": "zoom_out",
+    "panelLeft": "c04_p047_warrior_with_eye_like_emperor.webp",
+    "panelRight": "c04_p027_man_with_crossed_eyes_laughing.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 25: Breath Beneath Boots Zaha",
+    "vo": "breath beneath his boots zaha gently pats the gang captain on the head"
+   },
+   {
+    "id": 26,
+    "duration": 4.25,
+    "motion": "pan_right",
+    "panelLeft": "c04_p013_warrior_being_attacked_character_speaking.webp",
+    "panelRight": "c04_p064_warrior_in_battle_injured_speech_bubble.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 26: Tells Start Laughing Asking",
+    "vo": "and tells him to start laughing asking why the comedians who found him"
+   },
+   {
+    "id": 27,
+    "duration": 4.55,
+    "motion": "pulse_zoom",
+    "panelLeft": "c04_p060_warrior_in_red_robe_emperor_in.webp",
+    "panelRight": "c04_p071_man_with_long_hair_and_a.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 27: Hilarious Five Minutes Ago",
+    "vo": "so hilarious five minutes ago are suddenly so quiet before the panic"
+   },
+   {
+    "id": 28,
+    "duration": 4.45,
+    "motion": "slide_down",
+    "panelLeft": "c04_p042_sungtae_think_before_you_act.webp",
+    "panelRight": "c04_p066_emperor_being_carried.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 28: Spread Through Rest Building",
+    "vo": "can spread through the rest of the building brawlmanager chasung thai rushes"
+   },
+   {
+    "id": 29,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p043_warrior_drawing_sword_emperor_speaking.webp",
+    "panelRight": "c04_p044_warrior_in_battle_sword_shouting_burning.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 29: Room Freeze Dead Tracks",
+    "vo": "into the room only to freeze dead in his tracks cold sweat pours down"
+   },
+   {
+    "id": 30,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c04_p103_man_with_long_hair_and_red.webp",
+    "panelRight": "c04_p091_warrior_in_red_robe_questioning.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 30: Silver Haired Manager'S Neck",
+    "vo": "the silver haired manager's neck as his mind fails to process the terrifying reality"
+   },
+   {
+    "id": 31,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c04_p073_warrior_in_conversation_warrior_in_surprise.webp",
+    "panelRight": "c04_p075_businessman_speaking_holding_cup_pouring_liquid.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 31: Scrawny Orphan Sweeps Inflores",
+    "vo": "before him the scrawny orphan who sweeps the inflores just single handedly"
+   },
+   {
+    "id": 32,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p077_warrior_in_red_robe_talking_on.webp",
+    "panelRight": "c04_p079_warrior_in_kimono_talking_to_another.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 32: Folded Entire Security Detail",
+    "vo": "folded his entire security detail like lawn chairs some"
+   },
+   {
+    "id": 33,
+    "duration": 4.52,
+    "motion": "slide_up",
+    "panelLeft": "c04_p083_warrior_in_conversation_discussing_past_events.webp",
+    "panelRight": "c04_p081_warrior_in_traditional_clothing_speech_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 33: Thai Always Prided Himself",
+    "vo": "thai always prided himself on being a cunning underworld mastermind who could outsmart anyone in"
+   },
+   {
+    "id": 34,
+    "duration": 4.14,
+    "motion": "pan_left",
+    "panelLeft": "c04_p082_man_saying_bullshit_with_angry_expression.webp",
+    "panelRight": "c04_p059_warrior_with_red_eyes.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 34: Prefecture Staring Zahaz Blinking",
+    "vo": "the in the prefecture but staring into zahaz on blinking psychotic gaze"
+   },
+   {
+    "id": 35,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c04_p084_warrior_in_a_restaurant_talking_to.webp",
+    "panelRight": "c04_p085_two_men_in_conversation_one_apologizing.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 35: Realizes Life Hanging Razor",
+    "vo": "he realizes his life is hanging by a razor thin thread"
+   },
+   {
+    "id": 36,
+    "duration": 4.3,
+    "motion": "pan_right",
+    "panelLeft": "c04_p086_warrior_in_discussion_holding_sword.webp",
+    "panelRight": "c04_p078_man_in_red_robe_laughing.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 36: Immediately Switches Full Survival",
+    "vo": "he immediately switches into full survival mode plastering a"
+   },
+   {
+    "id": 37,
+    "duration": 4.53,
+    "motion": "pulse_zoom",
+    "panelLeft": "c04_p061_warrior_in_corridor_orders_table_setup.webp",
+    "panelRight": "c04_p072_warrior_pouring_liquor_into_glass.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 37: Polite Professional Customer Service",
+    "vo": "polite professional customer service smile across his face he personally brings out"
+   },
+   {
+    "id": 38,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c04_p100_woman_pouring_sake_from_jug_into.webp",
+    "panelRight": "c04_p070_red_and_white_jug_with_a.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 38: Authentic Unopened Ceramic Jug",
+    "vo": "an authentic unopened ceramic jug of vintage duquan wine bowing low as"
+   },
+   {
+    "id": 39,
+    "duration": 4.2,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p080_man_with_long_hair_holding_phone.webp",
+    "panelRight": "c04_p045_warrior_in_traditional_attire_talking_to.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 39: Pours Boy Fresh Cup",
+    "vo": "he pours our boy a fresh cup zahah takes a"
+   },
+   {
+    "id": 40,
+    "duration": 4.51,
+    "motion": "slide_up",
+    "panelLeft": "c04_p074_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c04_p097_man_in_kimono_woman_in_red.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 40: Slow Sip Nodding Approval",
+    "vo": "slow sip nodding an approval before calling out the brothel's scam noting that they only serve"
+   },
+   {
+    "id": 41,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c04_p098_man_holding_magnifying_glass_text_appears.webp",
+    "panelRight": "c04_p096_warrior_in_red_robe_emperor_speaking.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 41: Real Quality Once Beat",
+    "vo": "real quality once you beat their staff half to death when song"
+   },
+   {
+    "id": 42,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p114_warrior_in_robe_pointing_finger.webp",
+    "panelRight": "c04_p102_man_in_red_robe_woman_in.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 42: Tai Tries Speak Zahah",
+    "vo": "tai tries to speak zahah cuts him off mid sentence coldly ordering him"
+   },
+   {
+    "id": 43,
+    "duration": 4.44,
+    "motion": "slide_up",
+    "panelLeft": "c04_p105_emperor_speaking_red_eyes_dark_hair.webp",
+    "panelRight": "c04_p104_woman_with_braided_hair_red_eyes.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 43: Stop Speaking Casually Warning",
+    "vo": "to stop speaking so casually and warning him that his slai narrow eyes are making her"
+   },
+   {
+    "id": 44,
+    "duration": 4.22,
+    "motion": "pan_left",
+    "panelLeft": "c04_p106_warrior_with_speech_bubble.webp",
+    "panelRight": "c04_p107_woman_with_red_eyes_exclamation_mark.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 44: Boy Feel Personally Disrespected",
+    "vo": "boy feel personally disrespected recognizing the predatory aura of"
+   },
+   {
+    "id": 45,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c04_p111_man_in_kimono_woman_in_red.webp",
+    "panelRight": "c04_p088_man_apologizes_to_woman.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 45: Absolute Lunatic Killed Thousands",
+    "vo": "an absolute lunatic who has killed thousands sontai swallows his"
+   },
+   {
+    "id": 46,
+    "duration": 4.64,
+    "motion": "pan_right",
+    "panelLeft": "c04_p089_man_kneeling_crying_talking.webp",
+    "panelRight": "c04_p120_old_man_in_red_robe_bowing.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 46: Pride Bows Head Deep",
+    "vo": "pride bows his head in deep submission and promises to speak with"
+   },
+   {
+    "id": 47,
+    "duration": 4.36,
+    "motion": "pulse_zoom",
+    "panelLeft": "c04_p113_man_in_kimono_asks_question_another.webp",
+    "panelRight": "c04_p112_man_in_kimono_with_speech_bubble.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 47: Absolute Reverence Saha Studies",
+    "vo": "absolute reverence saha studies the trembling manager with a terrifying smile giving"
+   },
+   {
+    "id": 48,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c04_p115_man_in_kimono_with_speech_bubble.webp",
+    "panelRight": "c04_p116_man_with_dark_hair_speech_bubble.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 48: High Marks Polite Manners",
+    "vo": "him high marks for his polite manners fully aware that he just acquired his"
+   },
+   {
+    "id": 49,
+    "duration": 4.58,
+    "motion": "zoom_in",
+    "panelLeft": "c04_p118_red_eyes_dark_hair_shadow_sword.webp",
+    "panelRight": "c04_p117_man_with_white_hair_speech_bubble.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 49: First Lackey Brothel'S Security",
+    "vo": "very first lackey and with the brothel's security thoroughly"
+   },
+   {
+    "id": 50,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c04_p119_closeup_of_a_characters_eye_possibly.webp",
+    "panelRight": "c04_p062_warriors_healing_discussing_discomfort.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 50: Crushed Real Restructuring Town'S",
+    "vo": "crushed the real restructuring of the town's criminal underworld is officially about to begin"
+   }
+  ]
+ },
+ "Chapter_005": {
+  "id": "Chapter_005",
+  "title": "Chapter 005",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 881,
+  "duration": 215,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c05_p002_man_in_robe_with_chopsticks_bowl.webp",
+    "panelRight": "c05_p003_warrior_in_robe_with_bowl.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 01: Joining Warm Bowl Beef",
+    "vo": "in joining a warm bowl of beef broth while sitting across from his"
+   },
+   {
+    "id": 2,
+    "duration": 4.08,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p011_warrior_in_robe_seated_talking.webp",
+    "panelRight": "c05_p004_man_in_kimono_holding_cup_speech.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 02: Newly Reformed Lackey Boy",
+    "vo": "newly reformed lackey our boy yizahah listens intently as chasun"
+   },
+   {
+    "id": 3,
+    "duration": 4.17,
+    "motion": "slide_up",
+    "panelLeft": "c05_p005_warrior_with_speech_bubble.webp",
+    "panelRight": "c05_p006_man_in_kimono_holding_cup_talking.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 03: Thai Spills Every Single",
+    "vo": "thai spills every single secret about the local criminal hierarchy somte"
+   },
+   {
+    "id": 4,
+    "duration": 4.75,
+    "motion": "pan_left",
+    "panelLeft": "c05_p008_black_cat_union_steps_in.webp",
+    "panelRight": "c05_p007_warrior_in_battle.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 04: Nervously Explains Brothels True",
+    "vo": "nervously explains that the brothels true owner isn't just some everyday pimps he"
+   },
+   {
+    "id": 5,
+    "duration": 4.25,
+    "motion": "zoom_out",
+    "panelLeft": "c05_p009_emperor_speaking_warrior_in_background.webp",
+    "panelRight": "c05_p010_man_holding_cup_character_holding_sword.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 05: Currently Meeting High Ranking",
+    "vo": "is currently meeting with high ranking envoys from the infamous black cat"
+   },
+   {
+    "id": 6,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c05_p012_emperor_speaking_looking_skeptical.webp",
+    "panelRight": "c05_p013_warrior_in_conversation_asking_about_actions.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 06: Union Brutal Criminal Syndicate",
+    "vo": "union a brutal criminal syndicate that controls several surrounding"
+   },
+   {
+    "id": 7,
+    "duration": 4.2,
+    "motion": "pulse_zoom",
+    "panelLeft": "c05_p014_warrior_in_robe_holding_cup.webp",
+    "panelRight": "c05_p015_man_in_robe_drinking_talking_holding.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 07: Plan Officially Merge Forces",
+    "vo": "the plan is to officially merge forces and establish an"
+   },
+   {
+    "id": 8,
+    "duration": 4.55,
+    "motion": "slide_down",
+    "panelLeft": "c05_p017_man_with_speech_bubble_saying_you.webp",
+    "panelRight": "c05_p016_man_with_white_hair_speech_bubble.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 08: Untouchable Underworld Empire Right",
+    "vo": "untouchable underworld empire right here in iliang prefecture meaning anyone who"
+   },
+   {
+    "id": 9,
+    "duration": 4.54,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p019_character_speaks_about_creating_a_sect.webp",
+    "panelRight": "c05_p018_character_in_a_kimono_offers_to.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 09: Steps Line Swiftly Erased",
+    "vo": "steps out of line will be swiftly erased from existence instead"
+   },
+   {
+    "id": 10,
+    "duration": 4.21,
+    "motion": "slide_up",
+    "panelLeft": "c05_p021_warrior_in_kimono_asking_why_character.webp",
+    "panelRight": "c05_p022_warrior_in_traditional_attire_talking_red.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 10: Trembling Fear Sensible Person",
+    "vo": "of trembling in fear like any sensible person would zahal calmly takes another"
+   },
+   {
+    "id": 11,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c05_p023_warrior_in_battle_yes.webp",
+    "panelRight": "c05_p024_man_with_white_hair_and_red.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 11: Sip Soup White'S Mouth",
+    "vo": "sip of his soup white's mouth with a napkin and casually drops an"
+   },
+   {
+    "id": 12,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p025_warrior_in_red_robe_emperor_in.webp",
+    "panelRight": "c05_p027_warriors_in_meeting_red_lanterns_traditional.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 12: Absolute Bombshell Decides Right",
+    "vo": "absolute bombshell he decides right then and there that he's going to create his own"
+   },
+   {
+    "id": 13,
+    "duration": 4.38,
+    "motion": "slide_up",
+    "panelLeft": "c05_p028_man_with_long_black_hair_and.webp",
+    "panelRight": "c05_p029_warriors_in_corridor_warrior_in_middle.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 13: Martial Sect Expects Song",
+    "vo": "martial sect and he expects song tai the brothel owner and every single"
+   },
+   {
+    "id": 14,
+    "duration": 4.49,
+    "motion": "pan_left",
+    "panelLeft": "c05_p030_man_with_long_hair_two_men.webp",
+    "panelRight": "c05_p031_warrior_in_ancient_attire_asking_about.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 14: Thug Town Sign Obedient",
+    "vo": "thug in town to sign up as his obedient low wage employees song"
+   },
+   {
+    "id": 15,
+    "duration": 4.3,
+    "motion": "zoom_out",
+    "panelLeft": "c05_p020_warrior_in_battle_emperor_speaking_burning.webp",
+    "panelRight": "c05_p032_warrior_shouting_character_in_background.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 15: Tai Stares Grew Second",
+    "vo": "tai stares at him like he just grew a second head stammering that hardened"
+   },
+   {
+    "id": 16,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c05_p033_warrior_waking_up_talking_to_emperor.webp",
+    "panelRight": "c05_p034_warrior_in_battle_shouting_at_enemy.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 16: Gangbosses Dozens Armed Killers",
+    "vo": "gangbosses with dozens of armed killers would rather swallow burning coals than take orders from"
+   },
+   {
+    "id": 17,
+    "duration": 4.14,
+    "motion": "pulse_zoom",
+    "panelLeft": "c05_p036_warrior_in_red_clothing_attacking_a.webp",
+    "panelRight": "c05_p037_woman_in_robe_sword_fallen_warrior.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 17: Lowly Tavern Errand Boy",
+    "vo": "a lowly tavern errand boy zaha merely smiles with dead"
+   },
+   {
+    "id": 18,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c05_p039_warrior_being_beaten_up_speech_bubble.webp",
+    "panelRight": "c05_p038_people_in_traditional_chinese_attire_red.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 18: Eyed Confidence Replying Whether",
+    "vo": "eyed confidence replying that whether they are willing or not doesn't matter because he has already made"
+   },
+   {
+    "id": 19,
+    "duration": 4.14,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p041_warrior_in_court_standing_looking_serious.webp",
+    "panelRight": "c05_p040_warriors_in_red_robes_woman_in.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 19: Mind Arguing Historically Terrible",
+    "vo": "up his mind and arguing with him is historically terrible for"
+   },
+   {
+    "id": 20,
+    "duration": 4.14,
+    "motion": "slide_up",
+    "panelLeft": "c05_p088_warrior_with_red_eyes_and_long.webp",
+    "panelRight": "c05_p056_warrior_holding_sword_white_dragon_whip.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 20: One'S Long Term Life",
+    "vo": "one's long term life expectancy realizing that running a brand new martial"
+   },
+   {
+    "id": 21,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c05_p051_warrior_in_robe_speaking_to_another.webp",
+    "panelRight": "c05_p047_dragon_head_smithy_character_speaking_place.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 21: Sect Requires Proper Lethal",
+    "vo": "sect requires proper lethal gear rather than wooden"
+   },
+   {
+    "id": 22,
+    "duration": 4.83,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p049_blacksmiths_working_in_workshop_hammering_metal.webp",
+    "panelRight": "c05_p071_dragon_head_smithy_master_kum_chulyong.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 22: Broomsticks Zahoff Strolls Local",
+    "vo": "broomsticks zahoff strolls down to the local dragonhead smithy a legendary underground workshop"
+   },
+   {
+    "id": 23,
+    "duration": 4.17,
+    "motion": "slide_up",
+    "panelLeft": "c05_p052_warrior_in_robe_crossed_arms_speech.webp",
+    "panelRight": "c05_p048_warrior_preparing_for_battle.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 23: Run Burley Redhared Blacksmith",
+    "vo": "run by a burley redhared blacksmith known for forging the sharpest steel"
+   },
+   {
+    "id": 24,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c05_p061_three_feet_walking.webp",
+    "panelRight": "c05_p069_warrior_in_debate_boots_walking_dialogue.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 24: Province Walking Through Blinding",
+    "vo": "in the province walking through the blinding sparks and cleaning hammers"
+   },
+   {
+    "id": 25,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c05_p054_warrior_with_crossed_arms_speech_bubble.webp",
+    "panelRight": "c05_p055_warrior_in_conversation_with_emperor.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 25: Boy Surrounded Hooking Iron",
+    "vo": "our boy is surrounded by hooking iron workers who scoff at the skinny kid browsing for"
+   },
+   {
+    "id": 26,
+    "duration": 4.27,
+    "motion": "pan_right",
+    "panelLeft": "c05_p073_warrior_seeking_weapons_3_brothers_50.webp",
+    "panelRight": "c05_p057_warrior_in_red_robe_crossed_arms.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 26: Weapons Master Smith Steps",
+    "vo": "weapons but when the master smith steps forward to test"
+   },
+   {
+    "id": 27,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c05_p076_warrior_and_young_man_conversing.webp",
+    "panelRight": "c05_p059_character_with_red_eyes_and_a.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 27: Young Strangers Resolve Zaha",
+    "vo": "the young strangers resolve zaha doesn't flinch for a microsecond"
+   },
+   {
+    "id": 28,
+    "duration": 4.71,
+    "motion": "slide_down",
+    "panelLeft": "c05_p062_three_men_in_a_room_one.webp",
+    "panelRight": "c05_p060_man_with_intense_eyes_possibly_a.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 28: Inspecting Heavy Iron Blades",
+    "vo": "inspecting the heavy iron blades with the seasoned eye of a martial grandmaster who"
+   },
+   {
+    "id": 29,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p063_warrior_in_battle_speaking_sword_boots.webp",
+    "panelRight": "c05_p064_warrior_demands_90_nyangs.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 29: Broken Countless Sacred Weapons",
+    "vo": "has broken countless sacred weapons across hundreds of bloody battlefields are boy speaks with the"
+   },
+   {
+    "id": 30,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c05_p066_warrior_in_conversation_discount_offered.webp",
+    "panelRight": "c05_p065_man_with_dark_hair_and_piercing.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 30: Cold Authority Ancient Warlord",
+    "vo": "cold authority of an ancient warlord making it crystal clear that he"
+   },
+   {
+    "id": 31,
+    "duration": 4.06,
+    "motion": "slide_down",
+    "panelLeft": "c05_p068_warrior_in_robe_arms_crossed_speech.webp",
+    "panelRight": "c05_p067_warrior_in_traditional_attire_crossed_arms.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 31: Isn'T Play Petty Street",
+    "vo": "isn't here to play petty street games he is here to cleanse this rotten prefecture of"
+   },
+   {
+    "id": 32,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p070_two_men_in_traditional_clothing_one.webp",
+    "panelRight": "c05_p072_warriors_gathered_discussing_warrior_in_red.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 32: Trash Establish Absolute Order",
+    "vo": "trash and establish absolute order completely captivated by the boy's"
+   },
+   {
+    "id": 33,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c05_p075_warrior_speaking_talking_about_chicken_noodle.webp",
+    "panelRight": "c05_p077_warrior_in_conversation_with_another.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 33: Terrifying Intensity Unshakable Aura",
+    "vo": "terrifying intensity and unshakable aura the master blacksmith lets out a"
+   },
+   {
+    "id": 34,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c05_p078_warrior_in_battle_speaking_to_someone.webp",
+    "panelRight": "c05_p079_warrior_in_conversation_with_emperor_and.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 34: Hearty Laugh Hands Entire",
+    "vo": "hearty laugh hands over an entire crate of premium daggers and sabers completely"
+   },
+   {
+    "id": 35,
+    "duration": 4.64,
+    "motion": "zoom_out",
+    "panelLeft": "c05_p080_warrior_with_speech_bubble.webp",
+    "panelRight": "c05_p081_warrior_in_conversation_with_another.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 35: Free Charge Tells Boy",
+    "vo": "free of charge and tells our boy they can finish their business if he manages to"
+   },
+   {
+    "id": 36,
+    "duration": 4.52,
+    "motion": "pan_right",
+    "panelLeft": "c05_p043_warriors_in_red_robes_one_holding.webp",
+    "panelRight": "c05_p082_warrior_in_battle_talking_to_emperor.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 36: Survive Night Slipping Cold",
+    "vo": "survive the night slipping the cold steel beneath his robes zahas strolls back"
+   },
+   {
+    "id": 37,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c05_p042_boy_enjoying_night_sky.webp",
+    "panelRight": "c05_p045_street_with_traditional_japanese_architecture_at.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 37: Inn Cover Midnight Ready",
+    "vo": "to the inn under the cover of midnight ready for a well deserved nap"
+   },
+   {
+    "id": 38,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c05_p085_man_in_traditional_clothing_talking_with.webp",
+    "panelRight": "c05_p107_warrior_holding_sword_serious_expression.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 38: Rounds Street Corner Finds",
+    "vo": "but as he rounds the street corner he finds a bizarre spectacle waiting in"
+   },
+   {
+    "id": 39,
+    "duration": 4.38,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p103_warriors_digging_talking_standing_sitting.webp",
+    "panelRight": "c05_p046_man_in_traditional_clothing_walking_in.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 39: Courtyard Several Armed Mobsters",
+    "vo": "the courtyard several armed mobsters are sweating under the moonlight furiously digging a massive six foot"
+   },
+   {
+    "id": 40,
+    "duration": 4.54,
+    "motion": "slide_up",
+    "panelLeft": "c05_p044_warrior_in_front_of_palace.webp",
+    "panelRight": "c05_p106_fist_pressing_a_jackhammer_against_a.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 40: Hole Directly Front Inzmain",
+    "vo": "hole directly in front of the inzmain entrance sitting comfortably on a wooden"
+   },
+   {
+    "id": 41,
+    "duration": 4.32,
+    "motion": "slide_down",
+    "panelLeft": "c05_p104_warrior_with_sword_seated_on_bench.webp",
+    "panelRight": "c05_p090_warrior_in_robe_fist_clenched_speech.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 41: Bench While Sharpening Jagged",
+    "vo": "bench while sharpening a jagged hunting dagger is chogwon the notorious"
+   },
+   {
+    "id": 42,
+    "duration": 4.03,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p105_warrior_in_armor_talking_looking_angry.webp",
+    "panelRight": "c05_p092_warrior_speaking_dirty_words.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 42: Second Brother Chogrime Family",
+    "vo": "second brother of the chogrime family looking up with a sadistic"
+   },
+   {
+    "id": 43,
+    "duration": 4.65,
+    "motion": "slide_up",
+    "panelLeft": "c05_p042_boy_enjoying_night_sky.webp",
+    "panelRight": "c05_p102_man_with_long_hair_and_a.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 43: Grin Gang Enforcer Casually",
+    "vo": "grin the gang enforcer casually greets our boy gleefully announcing that they were"
+   },
+   {
+    "id": 44,
+    "duration": 4.42,
+    "motion": "pan_left",
+    "panelLeft": "c05_p097_warrior_in_robe_speech_bubble_youll.webp",
+    "panelRight": "c05_p085_man_in_traditional_clothing_talking_with.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 44: Planned Drag Zaha Outside",
+    "vo": "planned to drag zaha outside the moment they finished digging his fresh"
+   },
+   {
+    "id": 45,
+    "duration": 4.58,
+    "motion": "zoom_out",
+    "panelLeft": "c05_p103_warriors_digging_talking_standing_sitting.webp",
+    "panelRight": "c05_p100_person_in_traditional_clothing_meditating_in.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 45: Grave Minds Burying Orphan",
+    "vo": "grave in their minds burying an orphan air in boy is just an"
+   },
+   {
+    "id": 46,
+    "duration": 4.31,
+    "motion": "pan_right",
+    "panelLeft": "c05_p101_man_with_long_hair_and_a.webp",
+    "panelRight": "c05_p044_warrior_in_front_of_palace.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 46: Easy Weekend Chore Requires",
+    "vo": "easy weekend chore that requires zero effort completely oblivious to the fact that they"
+   },
+   {
+    "id": 47,
+    "duration": 4.24,
+    "motion": "pulse_zoom",
+    "panelLeft": "c05_p104_warrior_with_sword_seated_on_bench.webp",
+    "panelRight": "c05_p090_warrior_in_robe_fist_clenched_speech.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 47: Spent Three Exhausting Hours",
+    "vo": "just spent three exhausting hours digging their own burial plot and as"
+   },
+   {
+    "id": 48,
+    "duration": 4.63,
+    "motion": "slide_down",
+    "panelLeft": "c05_p108_man_with_long_black_hair_and.webp",
+    "panelRight": "c05_p107_warrior_holding_sword_serious_expression.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 48: Zahas Slowly Loosens Shoulders",
+    "vo": "zahas slowly loosens his shoulders with a dangerous grin the quiet night is about"
+   },
+   {
+    "id": 49,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c05_p093_redeyed_figure_with_dark_hair_possibly.webp",
+    "panelRight": "c05_p035_warrior_in_battle_sword_in_hand.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 49: Erupt Peer Unadulterated Violence",
+    "vo": "to erupt and to peer unadulterated violence"
+   }
+  ]
+ },
+ "Chapter_006": {
+  "id": "Chapter_006",
+  "title": "Chapter 006",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 1096,
+  "duration": 233,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c06_p081_old_man_in_white_robe_young.webp",
+    "panelRight": "c06_p001_warriors_entering_monk_looking_on.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 01: Pale Glow Midnight Moon",
+    "vo": "under the pale glow of the midnight moon the courtyard of the zaha inn becomes the stage"
+   },
+   {
+    "id": 2,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p003_man_with_long_hair_speech_bubble.webp",
+    "panelRight": "c06_p002_warrior_speaking_to_brothers_approval_from.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 02: Psychological Masterclass Underworld Discipline",
+    "vo": "for a psychological masterclass in underworld discipline sitting casually at"
+   },
+   {
+    "id": 3,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c06_p004_warrior_in_red_robe_thinking_speech.webp",
+    "panelRight": "c06_p005_warrior_with_angry_expression_shouting_tell.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 03: Outdoor Wooden Bench Chogwon",
+    "vo": "the outdoor wooden bench chogwon the arrogant second brother of the"
+   },
+   {
+    "id": 4,
+    "duration": 4.7,
+    "motion": "pan_left",
+    "panelLeft": "c06_p006_warrior_in_battle_character_speaking_warrior.webp",
+    "panelRight": "c06_p007_man_with_long_hair_and_white.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 04: Local Crime Family Looks",
+    "vo": "local crime family looks down his nose at our boy ye zaha puffed up with"
+   },
+   {
+    "id": 5,
+    "duration": 4.17,
+    "motion": "zoom_out",
+    "panelLeft": "c06_p009_warrior_in_battle_fist_clenched_speech.webp",
+    "panelRight": "c06_p011_warrior_with_sharp_eyes_and_scars.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 05: Pride Enforcer Brags Gang",
+    "vo": "under and pride the enforcer brags that their gang just received official backing"
+   },
+   {
+    "id": 6,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c06_p010_warrior_holding_sword_smiling.webp",
+    "panelRight": "c06_p014_warrior_in_red_robe_talking_about.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 06: Regional Blackcat Union Meaning",
+    "vo": "from the regional blackcat union meaning their criminal syndicate now holds absolute jurisdiction"
+   },
+   {
+    "id": 7,
+    "duration": 4.2,
+    "motion": "pulse_zoom",
+    "panelLeft": "c06_p017_warrior_in_battle_talking_to_another.webp",
+    "panelRight": "c06_p018_warrior_pointing_at_another_congratulating.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 07: Entire Prefecture Choguan'S Twisted",
+    "vo": "over the entire prefecture in choguan's twisted mind this"
+   },
+   {
+    "id": 8,
+    "duration": 4.8,
+    "motion": "slide_down",
+    "panelLeft": "c06_p015_warrior_in_red_robe_and_black.webp",
+    "panelRight": "c06_p016_warrior_in_red_robe_speech_bubble.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 08: Scrawny Year Old Aaron",
+    "vo": "scrawny year old aaron boy is nothing more than an incident bug who ruined business"
+   },
+   {
+    "id": 9,
+    "duration": 3.67,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p013_warrior_writing_speech_bubble_character_holding.webp",
+    "panelRight": "c06_p038_three_masked_figures_in_a_dark.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 09: Brothel Needs Squashed Set",
+    "vo": "at the brothel and needs to be squashed to set an example with"
+   },
+   {
+    "id": 10,
+    "duration": 4.83,
+    "motion": "slide_up",
+    "panelLeft": "c06_p026_warrior_asks_emperor_why_alive.webp",
+    "panelRight": "c06_p043_three_men_in_black_robes_one.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 10: Theatrical Cruelty Choguan Demands",
+    "vo": "theatrical cruelty choguan demands that zaha gave him three good reasons why he shouldn't"
+   },
+   {
+    "id": 11,
+    "duration": 4.3,
+    "motion": "slide_down",
+    "panelLeft": "c06_p036_warriors_fighting_swords_drawn_tables_benches.webp",
+    "panelRight": "c06_p040_three_masked_figures_in_black_robes.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 11: Executed Spot Men Finished",
+    "vo": "be executed on the spot before his men finished digging the grave"
+   },
+   {
+    "id": 12,
+    "duration": 4.53,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p034_man_with_long_black_hair_and.webp",
+    "panelRight": "c06_p007_man_with_long_hair_and_white.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 12: Looking Closely Zaha'S Face",
+    "vo": "but looking closely at zaha's face you see zero fear zero"
+   },
+   {
+    "id": 13,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c06_p008_warrior_in_battle_shouting_at_enemy.webp",
+    "panelRight": "c06_p009_warrior_in_battle_fist_clenched_speech.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 13: Panic Almost Clinical Level",
+    "vo": "panic and an almost clinical level of disappointment when choguan"
+   },
+   {
+    "id": 14,
+    "duration": 4.53,
+    "motion": "pan_left",
+    "panelLeft": "c06_p010_warrior_holding_sword_smiling.webp",
+    "panelRight": "c06_p027_warrior_holding_a_sword_asking_if.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 14: Reaches Forward Grab Boy'S",
+    "vo": "reaches forward to grab our boy's collar zaha doesn't bother with grand"
+   },
+   {
+    "id": 15,
+    "duration": 4.37,
+    "motion": "zoom_out",
+    "panelLeft": "c06_p021_warrior_in_combat_sword_slicing_through.webp",
+    "panelRight": "c06_p012_warrior_in_battle_sword_ugh.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 15: Martial Speeches Imperceptible Blur",
+    "vo": "martial speeches in an imperceptible blur of speed he draws"
+   },
+   {
+    "id": 16,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c06_p023_warrior_being_stabbed_by_another.webp",
+    "panelRight": "c06_p030_warrior_in_battle_shouting_kurgh.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 16: Cold Steel Dagger Acquired",
+    "vo": "the cold steel dagger acquired from the blacksmith and dries it straight through choguan's"
+   },
+   {
+    "id": 17,
+    "duration": 3.75,
+    "motion": "pulse_zoom",
+    "panelLeft": "c06_p025_warrior_in_red_robe_shouting_ugh.webp",
+    "panelRight": "c06_p031_warrior_in_red_robe_holding_hand.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 17: Outstretched Hand Pinning Palm",
+    "vo": "outstretched hand pinning his palm to the wooden tabletop with a"
+   },
+   {
+    "id": 18,
+    "duration": 4.58,
+    "motion": "slide_down",
+    "panelLeft": "c06_p019_warrior_in_combat_sword_drawn_intense.webp",
+    "panelRight": "c06_p032_warrior_pointing_finger_threatening.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 18: Sickening Splintering Thud Screaming",
+    "vo": "sickening splintering thud before the screaming gangster can even process the"
+   },
+   {
+    "id": 19,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p020_warrior_in_combat_sword_drawn_intense.webp",
+    "panelRight": "c06_p033_warrior_being_attacked_sword_drawn_blood.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 19: Pain Zaha Delivers Flurry",
+    "vo": "pain zaha delivers a flurry of precision slashes that systematically sever his tendons"
+   },
+   {
+    "id": 20,
+    "duration": 4.75,
+    "motion": "slide_up",
+    "panelLeft": "c06_p042_man_in_black_uniform_speaks_to.webp",
+    "panelRight": "c06_p037_warrior_in_black_cloak_and_mask.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 20: Dropping Burly Enforcer Knees",
+    "vo": "dropping the burly enforcer to his knees in the dirt this is where we see the profound"
+   },
+   {
+    "id": 21,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c06_p047_warrior_in_black_robe_holding_sword.webp",
+    "panelRight": "c06_p049_man_with_long_black_hair_holding.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 21: Moral Distinction Separates Crazy",
+    "vo": "moral distinction that separates the crazy demon from ordinary"
+   },
+   {
+    "id": 22,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p028_emperor_speaking_dark_hair_red_eyes.webp",
+    "panelRight": "c06_p034_man_with_long_black_hair_and.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 22: Martial Sociopaths While World",
+    "vo": "martial sociopaths while the world labels zaha and unhinged"
+   },
+   {
+    "id": 23,
+    "duration": 4.27,
+    "motion": "slide_up",
+    "panelLeft": "c06_p013_warrior_writing_speech_bubble_character_holding.webp",
+    "panelRight": "c06_p046_man_in_traditional_clothing_points_at.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 23: Lunatic Boy Actually Operates",
+    "vo": "lunatic our boy actually operates under a remarkably clear unforgiving"
+   },
+   {
+    "id": 24,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c06_p024_warrior_threatens_character_denies.webp",
+    "panelRight": "c06_p048_warriors_running_emperor_speaking_character_holding.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 24: Moral Compass Doesn'T Strike",
+    "vo": "moral compass he doesn't strike out of petty vengeance"
+   },
+   {
+    "id": 25,
+    "duration": 4.67,
+    "motion": "zoom_out",
+    "panelLeft": "c06_p015_warrior_in_red_robe_and_black.webp",
+    "panelRight": "c06_p022_warrior_in_battle_shouting_blood_speech.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 25: Interrogates Choguan Past Crimes",
+    "vo": "he interrogates choguan about his past crimes confirming that this man was"
+   },
+   {
+    "id": 26,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c06_p050_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c06_p040_three_masked_figures_in_black_robes.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 26: Directly Responsible Kidnapping Vulnerable",
+    "vo": "directly responsible for kidnapping vulnerable villagers running human"
+   },
+   {
+    "id": 27,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c06_p053_warrior_in_robe_speech_bubble_your.webp",
+    "panelRight": "c06_p049_man_with_long_black_hair_holding.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 27: Trafficking Rings Murdering Innocent",
+    "vo": "trafficking rings and murdering innocent townspeople who couldn't pay extortion"
+   },
+   {
+    "id": 28,
+    "duration": 4.42,
+    "motion": "slide_down",
+    "panelLeft": "c06_p035_man_with_black_hair_and_red.webp",
+    "panelRight": "c06_p020_warrior_in_combat_sword_drawn_intense.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 28: Fees Zahaz Philosophy Skumbags",
+    "vo": "fees in zahaz philosophy skumbags who prey on the weak forfeit their right to"
+   },
+   {
+    "id": 29,
+    "duration": 4.45,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p033_warrior_being_attacked_sword_drawn_blood.webp",
+    "panelRight": "c06_p019_warrior_in_combat_sword_drawn_intense.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 29: Breathe Swift Clean Thrust",
+    "vo": "breathe and with a swift clean thrust of the throat he permanently terminates"
+   },
+   {
+    "id": 30,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c06_p043_three_men_in_black_robes_one.webp",
+    "panelRight": "c06_p038_three_masked_figures_in_a_dark.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 30: Chobuan'S Criminal Career Right",
+    "vo": "chobuan's criminal career right beside the hole he ordered dug the three"
+   },
+   {
+    "id": 31,
+    "duration": 4.2,
+    "motion": "slide_down",
+    "panelLeft": "c06_p045_warrior_speaking_threatening_bloodied_face_sword.webp",
+    "panelRight": "c06_p042_man_in_black_uniform_speaks_to.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 31: Masked Shovel Workers Freeze",
+    "vo": "masked shovel workers freeze in petrified silence dropping their"
+   },
+   {
+    "id": 32,
+    "duration": 4.49,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p037_warrior_in_black_cloak_and_mask.webp",
+    "panelRight": "c06_p044_warrior_in_white_robe_black_cat.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 32: Tools Realize Quiet Waiters",
+    "vo": "tools as they realize the quiet waiters standing over their boss's corpse"
+   },
+   {
+    "id": 33,
+    "duration": 4.29,
+    "motion": "slide_up",
+    "panelLeft": "c06_p041_warrior_speaking_character_in_mask.webp",
+    "panelRight": "c06_p040_three_masked_figures_in_black_robes.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 33: Apex Predator Instead Slaughtering",
+    "vo": "is an apex predator but instead of slaughtering the terrified"
+   },
+   {
+    "id": 34,
+    "duration": 4.43,
+    "motion": "pan_left",
+    "panelLeft": "c06_p046_man_in_traditional_clothing_points_at.webp",
+    "panelRight": "c06_p036_warriors_fighting_swords_drawn_tables_benches.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 34: Labors Zahat Orders Remove",
+    "vo": "labors zahat orders them to remove their masks immediately recognizing that these young men"
+   },
+   {
+    "id": 35,
+    "duration": 4.0,
+    "motion": "zoom_out",
+    "panelLeft": "c06_p039_warrior_with_knife_dead_by_himself.webp",
+    "panelRight": "c06_p087_man_with_white_hair_open_mouth.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 35: Aren'T Heart",
+    "vo": "aren't heart ha ha ha ha"
+   },
+   {
+    "id": 36,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c06_p056_man_with_long_hair_white_robe.webp",
+    "panelRight": "c06_p057_warrior_in_front_of_door_asking.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 36: Moment Reveals True",
+    "vo": "ha ha ha this moment reveals the true"
+   },
+   {
+    "id": 37,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c06_p078_man_in_kimono_talking_about_inn.webp",
+    "panelRight": "c06_p058_man_in_kimono_holding_sword.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 37: Genius Boy'S Chaotic Pragmatism",
+    "vo": "genius of our boy's chaotic pragmatism most regressed martial masters obsess"
+   },
+   {
+    "id": 38,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c06_p050_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c06_p059_warrior_in_conversation_crossed_arms_speech.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 38: Selfish Revenge Zahaha Immediately",
+    "vo": "over selfish revenge but zahaha immediately focuses on stabilizing"
+   },
+   {
+    "id": 39,
+    "duration": 4.72,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p049_man_with_long_black_hair_holding.webp",
+    "panelRight": "c06_p060_man_in_kimono_holding_sword_speech.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 39: Everyday Life Protecting Common",
+    "vo": "everyday life and protecting common folk when one of the young men timidly"
+   },
+   {
+    "id": 40,
+    "duration": 4.35,
+    "motion": "slide_up",
+    "panelLeft": "c06_p051_warrior_kneeling_emperor_speaking_chicken_cooking.webp",
+    "panelRight": "c06_p047_warrior_in_black_robe_holding_sword.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 40: Admits Nowhere Asks Ins",
+    "vo": "admits he has nowhere to go and asks if the ins kitchen has no opening zaha doesn't"
+   },
+   {
+    "id": 41,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c06_p052_warrior_in_black_robe_fist_clenched.webp",
+    "panelRight": "c06_p053_warrior_in_robe_speech_bubble_your.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 41: Laugh Conducts Deadpan Midnight",
+    "vo": "laugh he conducts a deadpan midnight job interview right over a fresh grave"
+   },
+   {
+    "id": 42,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p054_warrior_bows_emperor_speaks_warrior_stands.webp",
+    "panelRight": "c06_p061_warrior_in_conversation_with_emperor.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 42: Asking Kid Knows How",
+    "vo": "asking if the kid knows how to make authentic chicken noodle soup when the boy enthusiastically swears he"
+   },
+   {
+    "id": 43,
+    "duration": 3.9,
+    "motion": "slide_up",
+    "panelLeft": "c06_p055_man_in_robe_standing_at_door.webp",
+    "panelRight": "c06_p062_warrior_holding_sword_talking_about_usefulness.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 43: Make Delicious Broth Scratch",
+    "vo": "can make a delicious broth from scratch zaha hires him"
+   },
+   {
+    "id": 44,
+    "duration": 4.6,
+    "motion": "pan_left",
+    "panelLeft": "c06_p036_warriors_fighting_swords_drawn_tables_benches.webp",
+    "panelRight": "c06_p001_warriors_entering_monk_looking_on.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 44: Spot Thank Much Watching",
+    "vo": "on the spot thank you so much for watching this video and i'll"
+   },
+   {
+    "id": 45,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c06_p075_man_in_kimono_woman_in_white.webp",
+    "panelRight": "c06_p074_man_in_kimono_with_sword_asking.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 45: See Next Video Precision",
+    "vo": "see you in the next video and i precision zaha realizes that to"
+   },
+   {
+    "id": 46,
+    "duration": 4.17,
+    "motion": "pan_right",
+    "panelLeft": "c06_p065_man_with_microphone_character_with_speech.webp",
+    "panelRight": "c06_p019_warrior_in_combat_sword_drawn_intense.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 46: Survive Upcoming Storm Cannot",
+    "vo": "survive the upcoming storm he cannot just fight every battle alone"
+   },
+   {
+    "id": 47,
+    "duration": 4.83,
+    "motion": "pulse_zoom",
+    "panelLeft": "c06_p066_man_with_eye_patch_speech_bubble.webp",
+    "panelRight": "c06_p076_man_in_kimono_asking_for_money.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 47: Bare Knuckles Needs Functional",
+    "vo": "with bare knuckles he needs a functional intelligence network discipline"
+   },
+   {
+    "id": 48,
+    "duration": 4.17,
+    "motion": "slide_down",
+    "panelLeft": "c06_p044_warrior_in_white_robe_black_cat.webp",
+    "panelRight": "c06_p052_warrior_in_black_robe_fist_clenched.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 48: Subordinates Legitimate Economic Foundation",
+    "vo": "subordinates and a legitimate economic foundation to outmaneuver the black cat union"
+   },
+   {
+    "id": 49,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p081_old_man_in_white_robe_young.webp",
+    "panelRight": "c06_p082_warrior_in_blue_robe_with_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 49: Leadership Catches Wind Choguan'S",
+    "vo": "before their leadership catches wind of choguan's sudden disappearance"
+   },
+   {
+    "id": 50,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c06_p043_three_men_in_black_robes_one.webp",
+    "panelRight": "c06_p040_three_masked_figures_in_black_robes.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 50: Single Night Arboy Liquidated",
+    "vo": "in a single night arboy liquidated a sadistic mob enforcer saved three"
+   },
+   {
+    "id": 51,
+    "duration": 4.23,
+    "motion": "slide_down",
+    "panelLeft": "c06_p084_man_in_kimono_stands_in_front.webp",
+    "panelRight": "c06_p086_warrior_in_robe_shouting_fuck_ill.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 51: Misguided Youths Underworld Solved",
+    "vo": "misguided youths from the underworld and solved the ins kitchen staffing shortage but"
+   },
+   {
+    "id": 52,
+    "duration": 4.53,
+    "motion": "zoom_in",
+    "panelLeft": "c06_p087_man_with_white_hair_open_mouth.webp",
+    "panelRight": "c06_p088_woman_in_field_sword_yelling_ghost.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 52: Entire Regional Syndicate Looming",
+    "vo": "with an entire regional syndicate looming in the shadows this"
+   },
+   {
+    "id": 53,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c06_p083_warrior_in_white_robe_talking_sword.webp",
+    "panelRight": "c06_p080_warrior_in_robe_character_in_robe.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 53: Midnight Skirmish Merely Opening",
+    "vo": "midnight skirmish is merely the opening spark of an inevitable underworld war"
+   }
+  ]
+ },
+ "Chapter_007": {
+  "id": "Chapter_007",
+  "title": "Chapter 007",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 1329,
+  "duration": 216,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c07_p008_man_drinking_another_character_speaking.webp",
+    "panelRight": "c07_p009_warrior_drinking_from_cup_shouting.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 01: Sitting Across Banquet Table",
+    "vo": "sitting across a banquet table loaded with braised pork"
+   },
+   {
+    "id": 2,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p003_man_in_robe_other_in_suit.webp",
+    "panelRight": "c07_p004_man_in_lab_coat_holding_glass.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 02: Steaming Dumplings Fried Chicken",
+    "vo": "steaming dumplings and fried chicken our boy yizaha treats chau som thai to a"
+   },
+   {
+    "id": 3,
+    "duration": 4.3,
+    "motion": "slide_up",
+    "panelLeft": "c07_p005_man_in_kimono_holding_chopsticks_saying.webp",
+    "panelRight": "c07_p006_young_woman_scammers_selling_cheap_liquor.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 03: Dinner Feels Less Celebration",
+    "vo": "dinner that feels less like a celebration and more like a calculated"
+   },
+   {
+    "id": 4,
+    "duration": 4.49,
+    "motion": "pan_left",
+    "panelLeft": "c07_p002_man_in_kimono_holding_chopsticks_looking.webp",
+    "panelRight": "c07_p020_man_in_traditional_clothing_looking_serious.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 04: Psychological Interrogation Looking Trembling",
+    "vo": "psychological interrogation looking at the trembling brothel manager zaha"
+   },
+   {
+    "id": 5,
+    "duration": 4.46,
+    "motion": "zoom_out",
+    "panelLeft": "c07_p042_warrior_pointing_finger_saying_if_i.webp",
+    "panelRight": "c07_p026_warrior_in_conversation_discussing_cho_sampyung.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 05: Politely Urges Eat Fill",
+    "vo": "politely urges him to eat his fill casually pointing out that every single dish"
+   },
+   {
+    "id": 6,
+    "duration": 4.11,
+    "motion": "pan_right",
+    "panelLeft": "c07_p011_man_with_long_hair_asks_if.webp",
+    "panelRight": "c07_p033_man_in_robe_eating_another_in.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 06: Paid Blood Money Earned",
+    "vo": "was paid for with blood money earned by extorting young women and selling watered"
+   },
+   {
+    "id": 7,
+    "duration": 4.81,
+    "motion": "pulse_zoom",
+    "panelLeft": "c07_p013_warrior_in_battle.webp",
+    "panelRight": "c07_p014_warrior_in_battle_shouting_at_enemy.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 07: Gutter Wine Unsuspecting Patrons",
+    "vo": "down gutter wine to unsuspecting patrons watching some thai choke on his"
+   },
+   {
+    "id": 8,
+    "duration": 4.08,
+    "motion": "slide_down",
+    "panelLeft": "c07_p001_person_eating_food_with_chopsticks.webp",
+    "panelRight": "c07_p015_man_with_white_hair_and_black.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 08: Food Humiliated Silence Gives",
+    "vo": "food in humiliated silence gives us a fascinating look into our boys'"
+   },
+   {
+    "id": 9,
+    "duration": 4.25,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p017_warrior_in_battle_shouting_these_kinds.webp",
+    "panelRight": "c07_p018_warrior_in_battle_sword_scissors_shouting.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 09: Unorthodox Leadership Philosophy Zaha",
+    "vo": "unorthodox leadership philosophy zaha doesn't just want"
+   },
+   {
+    "id": 10,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c07_p019_warrior_in_battle_speaking_to_another.webp",
+    "panelRight": "c07_p040_emperor_speaking_warrior_in_room_character.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 10: Mindless Muscle Forces Subordinates",
+    "vo": "mindless muscle he forces his subordinates to confront the ugly reality of their past"
+   },
+   {
+    "id": 11,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c07_p008_man_drinking_another_character_speaking.webp",
+    "panelRight": "c07_p023_black_cat_union_member.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 11: Crimes Breaking Petty Criminal",
+    "vo": "crimes breaking down their petty criminal egos until they realize that their entire life"
+   },
+   {
+    "id": 12,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p024_warrior_speaking_character_holding_sword_warrior.webp",
+    "panelRight": "c07_p025_man_in_kimono_drinking_tea_another.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 12: Built Cheap Scams Somte",
+    "vo": "was built on cheap scams when somte snaps under the pressure"
+   },
+   {
+    "id": 13,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c07_p045_warrior_threatens_retires_to_mountains.webp",
+    "panelRight": "c07_p035_warrior_and_emperor_in_conversation.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 13: Threatens Quit Underworld Entirely",
+    "vo": "and threatens to quit the underworld entirely to hide in the mountains zaha doesn't raise"
+   },
+   {
+    "id": 14,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c07_p028_warrior_in_robe_asking_if_he.webp",
+    "panelRight": "c07_p027_man_eating_sushi_with_chopsticks.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 14: Voice Draw Blade Masterclass",
+    "vo": "his voice or draw a blade with masterclass"
+   },
+   {
+    "id": 15,
+    "duration": 4.38,
+    "motion": "zoom_out",
+    "panelLeft": "c07_p030_warrior_injured_eye_talking_to_emperor.webp",
+    "panelRight": "c07_p029_sungtae_speaks_confidently.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 15: Manipulation Boy Casually Mentions",
+    "vo": "manipulation our boy casually mentions that once they conquer the district he plans to expand"
+   },
+   {
+    "id": 16,
+    "duration": 4.62,
+    "motion": "pan_right",
+    "panelLeft": "c07_p065_three_men_in_robes_one_saying.webp",
+    "panelRight": "c07_p032_warrior_in_conversation_stealth_strategy.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 16: Three Separate Luxury Establishments",
+    "vo": "into three separate luxury establishments but since suntai wants to retire like"
+   },
+   {
+    "id": 17,
+    "duration": 4.38,
+    "motion": "pulse_zoom",
+    "panelLeft": "c07_p034_warrior_in_robe_asking_about_taking.webp",
+    "panelRight": "c07_p040_emperor_speaking_warrior_in_room_character.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 17: Coward Simply Find Smarter",
+    "vo": "a coward he will simply have to find a smarter manager the second real power and wealth"
+   },
+   {
+    "id": 18,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c07_p036_brothels_it_wont_be_possible.webp",
+    "panelRight": "c07_p037_warrior_in_robe_speaking_holding_bottle.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 18: Dangled Suntai Immediately Abandons",
+    "vo": "are dangled before him suntai immediately abandons his dreams of"
+   },
+   {
+    "id": 19,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p038_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c07_p039_man_with_white_hair_and_eye.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 19: Mountain Hermit Life Proudly",
+    "vo": "mountain hermit life proudly declaring that he is ready to serve for the"
+   },
+   {
+    "id": 20,
+    "duration": 4.46,
+    "motion": "slide_up",
+    "panelLeft": "c07_p099_man_with_long_hair_serious_expression.webp",
+    "panelRight": "c07_p012_warrior_eating_talking_about_food.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 20: Long Haul Manager Finish",
+    "vo": "long haul but before the manager can finish his drink zahah stands"
+   },
+   {
+    "id": 21,
+    "duration": 4.48,
+    "motion": "slide_down",
+    "panelLeft": "c07_p050_warrior_taking_off_clothes_asking_why.webp",
+    "panelRight": "c07_p043_man_in_robe_saying_to_get.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 21: Casually Begins Stripping Off",
+    "vo": "up and casually begins stripping off his outer garments right in the middle of the"
+   },
+   {
+    "id": 22,
+    "duration": 4.17,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p021_man_in_robe_and_woman_in.webp",
+    "panelRight": "c07_p007_hand_holding_chopsticks_with_a_text.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 22: Dining Hall Bluntly Ordering",
+    "vo": "dining hall bluntly ordering some tape to hand over his expensive blue silk robes"
+   },
+   {
+    "id": 23,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c07_p046_man_drinking_tea_another_man_looking.webp",
+    "panelRight": "c07_p047_sungtae_speaks_character_holds_chest_character.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 23: Baffled Manager Asks Why",
+    "vo": "when the baffled manager asks why an aaron boy needs high end"
+   },
+   {
+    "id": 24,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c07_p054_two_men_in_traditional_attire_one.webp",
+    "panelRight": "c07_p048_man_drinking_from_cup.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 24: Merchant Attire Zahah Doesn'T",
+    "vo": "merchant attire zahah doesn't waste time explaining in the martial"
+   },
+   {
+    "id": 25,
+    "duration": 4.17,
+    "motion": "zoom_out",
+    "panelLeft": "c07_p057_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c07_p051_man_with_white_hair_shocked_expression.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 25: Underworld Appearance Dictates Perception",
+    "vo": "underworld appearance dictates perception and walking into an enemy stronghold"
+   },
+   {
+    "id": 26,
+    "duration": 4.6,
+    "motion": "pan_right",
+    "panelLeft": "c07_p070_man_in_robe_character_in_background.webp",
+    "panelRight": "c07_p053_man_in_robe_with_white_hair.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 26: We'Ll Looking We'Re Looking",
+    "vo": "so we'll be looking at what we're looking at what"
+   },
+   {
+    "id": 27,
+    "duration": 4.26,
+    "motion": "pulse_zoom",
+    "panelLeft": "c07_p050_warrior_taking_off_clothes_asking_why.webp",
+    "panelRight": "c07_p056_warrior_demands_clothes_from_thief.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 27: We'Re Looking We'Re Looking",
+    "vo": "we're looking at what we're looking at what we're"
+   },
+   {
+    "id": 28,
+    "duration": 4.62,
+    "motion": "slide_down",
+    "panelLeft": "c07_p058_warrior_at_entrance.webp",
+    "panelRight": "c07_p067_two_men_in_robes_one_saying.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 28: Sash Boy Strolls Straight",
+    "vo": "to his sash our boy strolls straight into the private manner of"
+   },
+   {
+    "id": 29,
+    "duration": 4.36,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p060_man_tying_hair_character_speaking_warrior.webp",
+    "panelRight": "c07_p061_warrior_in_robe_with_question_mark.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 29: Choe Ruthless Eldest Brother",
+    "vo": "choe i the ruthless eldest brother of the cho crime syndicate slipping past"
+   },
+   {
+    "id": 30,
+    "duration": 4.36,
+    "motion": "slide_up",
+    "panelLeft": "c07_p062_man_in_kimono_smiling_holding_hands.webp",
+    "panelRight": "c07_p063_man_in_kimono_with_sword_another.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 30: Outer Guards Without Raising",
+    "vo": "the outer guards without raising a single alarm zaha walks into"
+   },
+   {
+    "id": 31,
+    "duration": 4.64,
+    "motion": "slide_down",
+    "panelLeft": "c07_p064_warrior_in_battle_speaking_to_another.webp",
+    "panelRight": "c07_p085_warrior_in_robe_sword_boots_sitting.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 31: Grand Council Chamber Takes",
+    "vo": "the grand council chamber and takes a seat directly on the massive master throne at the head of"
+   },
+   {
+    "id": 32,
+    "duration": 4.36,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p081_man_in_robe_leading_please_follow.webp",
+    "panelRight": "c07_p068_warrior_speaking_to_another_warning_about.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 32: Room Casually Resting Cheek",
+    "vo": "the room casually resting his cheek against his fist this is an"
+   },
+   {
+    "id": 33,
+    "duration": 4.14,
+    "motion": "slide_up",
+    "panelLeft": "c07_p069_warrior_in_robe_speech_bubble_soon.webp",
+    "panelRight": "c07_p091_warrior_in_robe_seated_asking_for.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 33: Elite Tactical Power Move",
+    "vo": "elite tactical power move by claiming the high seat before the owner"
+   },
+   {
+    "id": 34,
+    "duration": 4.7,
+    "motion": "pan_left",
+    "panelLeft": "c07_p086_imperial_hall_dignified_impressive.webp",
+    "panelRight": "c07_p072_man_in_robe_standing_talking.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 34: Even Arrives Zaha Instantly",
+    "vo": "even arrives zaha instantly forces the gang leader to look up at him stripping away his home turf it's been"
+   },
+   {
+    "id": 35,
+    "duration": 3.63,
+    "motion": "zoom_out",
+    "panelLeft": "c07_p073_man_with_dark_hair_speech_bubble.webp",
+    "panelRight": "c07_p074_ncient_chinese_building.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 35: Long Time It'S Long",
+    "vo": "a long time it's been a long time"
+   },
+   {
+    "id": 36,
+    "duration": 5.0,
+    "motion": "pan_right",
+    "panelLeft": "c07_p090_warrior_enters_emperor_speaks_warrior_leaves.webp",
+    "panelRight": "c07_p075_warrior_entering_saying_welcome.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 36: Finally Enters Gang Leader",
+    "vo": "finally enters the gang leader freezes in sheer"
+   },
+   {
+    "id": 37,
+    "duration": 4.42,
+    "motion": "pulse_zoom",
+    "panelLeft": "c07_p076_warrior_in_green_robe_asking_about.webp",
+    "panelRight": "c07_p077_warrior_speaking_to_another_asking_about.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 37: Disbelief Seeing Uninvited Guest",
+    "vo": "disbelief seeing an uninvited guest sitting comfortably in his personal seat of power with"
+   },
+   {
+    "id": 38,
+    "duration": 4.45,
+    "motion": "slide_down",
+    "panelLeft": "c07_p088_warrior_in_green_robe_standing_in.webp",
+    "panelRight": "c07_p044_warrior_in_robe_crossed_arms_speech.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 38: Legs Crossed Zero Intention",
+    "vo": "legs crossed and zero intention of standing up completely shatters"
+   },
+   {
+    "id": 39,
+    "duration": 4.55,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p079_warrior_apologizes_to_emperor.webp",
+    "panelRight": "c07_p082_man_in_kimono_others_in_background.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 39: Mental Equilibrium Assuming Mysterious",
+    "vo": "his mental equilibrium assuming this mysterious sharp dressed young man must be"
+   },
+   {
+    "id": 40,
+    "duration": 4.39,
+    "motion": "slide_up",
+    "panelLeft": "c07_p081_man_in_robe_leading_please_follow.webp",
+    "panelRight": "c07_p083_man_in_robe_ascending_stairs_lanterns.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 40: High Ranking Executive Regional",
+    "vo": "a high ranking executive from the regional black cat union cho il gwan tries"
+   },
+   {
+    "id": 41,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c07_p085_warrior_in_robe_sword_boots_sitting.webp",
+    "panelRight": "c07_p084_warrior_in_conversation_character_in_room.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 41: Maintain Diplomatic Respect Asking",
+    "vo": "to maintain diplomatic respect asking what executive rank the visitor holds within"
+   },
+   {
+    "id": 42,
+    "duration": 4.24,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p098_warrior_in_green_sitting_talking_green.webp",
+    "panelRight": "c07_p087_warrior_in_robe_sword_speech_bubble.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 42: Syndicate Sahah Slowly Looks",
+    "vo": "the syndicate sahah slowly looks up and amuse"
+   },
+   {
+    "id": 43,
+    "duration": 4.48,
+    "motion": "slide_up",
+    "panelLeft": "c07_p089_warrior_in_conversation_serious_expression.webp",
+    "panelRight": "c07_p093_warrior_in_battle_talking_to_someone.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 43: Smirk Playing Across Lips",
+    "vo": "smirk playing across his lips as he casually asks if the boss genuinely fails"
+   },
+   {
+    "id": 44,
+    "duration": 4.46,
+    "motion": "pan_left",
+    "panelLeft": "c07_p094_man_with_dark_hair_blue_robe.webp",
+    "panelRight": "c07_p095_warrior_speaking_to_another_warrior_in.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 44: Recognize Person Serves Tea",
+    "vo": "to recognize the person who serves him tea every morning leaning closer under"
+   },
+   {
+    "id": 45,
+    "duration": 4.4,
+    "motion": "zoom_out",
+    "panelLeft": "c07_p100_warrior_with_blue_eyes_and_scarred.webp",
+    "panelRight": "c07_p096_warrior_in_green_robe_speaking_with.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 45: Lantern Light Cho Ilgwan'S",
+    "vo": "the lantern light cho ilgwan's eyes widen an absolute horror as the terrifying"
+   },
+   {
+    "id": 46,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c07_p092_warrior_in_battle_black_cat_union.webp",
+    "panelRight": "c07_p016_man_with_eye_patch_and_flower.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 46: Realization Hits Freight Train",
+    "vo": "realization hits him like a freight train the man sitting on his throne isn't an elite mob boss"
+   },
+   {
+    "id": 47,
+    "duration": 4.1,
+    "motion": "pulse_zoom",
+    "panelLeft": "c07_p091_warrior_in_robe_seated_asking_for.webp",
+    "panelRight": "c07_p090_warrior_enters_emperor_speaks_warrior_leaves.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 47: Quiet Discarded Aaron Boy",
+    "vo": "but the quiet discarded aaron boy from the local tavern calling"
+   },
+   {
+    "id": 48,
+    "duration": 4.65,
+    "motion": "slide_down",
+    "panelLeft": "c07_p078_warrior_in_battle_sword_drawn_emperor.webp",
+    "panelRight": "c07_p088_warrior_in_green_robe_standing_in.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 48: Boy Completely Insane Cho",
+    "vo": "our boy completely insane cho il gwan reaches for his broadsword completely"
+   },
+   {
+    "id": 49,
+    "duration": 4.75,
+    "motion": "zoom_in",
+    "panelLeft": "c07_p044_warrior_in_robe_crossed_arms_speech.webp",
+    "panelRight": "c07_p010_man_in_kimono_speaking_holding_cup.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 49: Blind Fact Stepped Trap",
+    "vo": "blind to the fact that he just stepped into a trap where his fate has already been sealed"
+   }
+  ]
+ },
+ "Chapter_008": {
+  "id": "Chapter_008",
+  "title": "Chapter 008",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 1545,
+  "duration": 233,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.14,
+    "motion": "slide_down",
+    "panelLeft": "c08_p001_warrior_speaking_to_emperor.webp",
+    "panelRight": "c08_p002_warrior_with_intense_expression.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 01: Watching Younger Brother'S Executioner",
+    "vo": "watching his younger brother's executioner casually reclining on his personal"
+   },
+   {
+    "id": 2,
+    "duration": 4.19,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p014_warrior_in_battle.webp",
+    "panelRight": "c08_p003_man_with_black_hair_speech_bubble.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 02: Master Seat Cho Gwan",
+    "vo": "master seat cho il gwan completely loses his composure his face twisting"
+   },
+   {
+    "id": 3,
+    "duration": 4.17,
+    "motion": "slide_up",
+    "panelLeft": "c08_p005_warrior_with_bloodshot_eyes_dark_hair.webp",
+    "panelRight": "c08_p017_warrior_in_battle_shouting_ha.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 03: Violent Mixture Disbelief Blind",
+    "vo": "in a violent mixture of disbelief and blind rage he"
+   },
+   {
+    "id": 4,
+    "duration": 4.79,
+    "motion": "pan_left",
+    "panelLeft": "c08_p047_the_errand_boy_of_zaha_inn.webp",
+    "panelRight": "c08_p048_the_errand_boy_at_the_zaha.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 04: Cannot Accept Humiliating Reality",
+    "vo": "cannot accept the humiliating reality that an insignificant airen boy who"
+   },
+   {
+    "id": 5,
+    "duration": 4.21,
+    "motion": "zoom_out",
+    "panelLeft": "c08_p008_warrior_in_battle_sword_swinging_explosion.webp",
+    "panelRight": "c08_p009_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 05: Cleans Spilled Tea Copper",
+    "vo": "cleans spilled tea for copper coins walked into his compound and butchered his brother"
+   },
+   {
+    "id": 6,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c08_p011_warrior_in_battle_holding_sword_intense.webp",
+    "panelRight": "c08_p018_warrior_in_martial_stance_preparing_for.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 06: Lunging Forward Bloodthirsty Roar",
+    "vo": "lunging forward with a bloodthirsty roar the syndicate leader"
+   },
+   {
+    "id": 7,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c08_p004_warrior_in_battle_shouting_stop_with.webp",
+    "panelRight": "c08_p002_warrior_with_intense_expression.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 07: Channel'S Decades Accumulated Inner",
+    "vo": "channel's decades of accumulated inner strength into a devastating palm strike designed to"
+   },
+   {
+    "id": 8,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c08_p001_warrior_speaking_to_emperor.webp",
+    "panelRight": "c08_p030_warrior_in_battle_blood_on_face.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 08: Cave Boy'S Chest Yeezahod",
+    "vo": "cave in our boy's chest but yeezahod doesn't even bother"
+   },
+   {
+    "id": 9,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p015_warrior_in_battle_with_speech_bubble.webp",
+    "panelRight": "c08_p016_warrior_in_battle_holding_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 09: Rising Wooden Throne Cold",
+    "vo": "rising from the wooden throne with the cold effortless detachment of a"
+   },
+   {
+    "id": 10,
+    "duration": 4.29,
+    "motion": "slide_up",
+    "panelLeft": "c08_p026_man_in_traditional_clothing_with_a.webp",
+    "panelRight": "c08_p007_two_hands_highfiving_symbolizing_unity_or.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 10: Master Swatting Away Knowing",
+    "vo": "master swatting away in a knowing fly zahod casually raises an open"
+   },
+   {
+    "id": 11,
+    "duration": 4.13,
+    "motion": "slide_down",
+    "panelLeft": "c08_p019_warrior_in_battle_sword_flying_character.webp",
+    "panelRight": "c08_p020_man_falling_scissors_sparks.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 11: Palm Meets Incoming Strike",
+    "vo": "palm and meets the incoming strike dead on an explosive shockwave"
+   },
+   {
+    "id": 12,
+    "duration": 4.63,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p021_character_holding_a_sword_in_a.webp",
+    "panelRight": "c08_p009_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 12: Detonates Through Council Hall",
+    "vo": "detonates through the council hall shattering floorboards and sending choe il gwan"
+   },
+   {
+    "id": 13,
+    "duration": 4.29,
+    "motion": "slide_up",
+    "panelLeft": "c08_p012_warrior_in_battle_speaking_lost_in.webp",
+    "panelRight": "c08_p024_warrior_in_battle_shouting_keuk.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 13: Flying Backward Across Carpet",
+    "vo": "flying backward across the carpet gasping in horror as his fingers"
+   },
+   {
+    "id": 14,
+    "duration": 4.29,
+    "motion": "pan_left",
+    "panelLeft": "c08_p023_scissors_cutting_a_rope.webp",
+    "panelRight": "c08_p025_warrior_entering_a_temple.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 14: Tremble Agonizing Numbness Single",
+    "vo": "tremble with agonizing numbness this single clash shatters the"
+   },
+   {
+    "id": 15,
+    "duration": 4.67,
+    "motion": "zoom_out",
+    "panelLeft": "c08_p013_warrior_in_robe_sword_emperor_dialogue.webp",
+    "panelRight": "c08_p027_man_with_long_hair_finger_pointing.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 15: Mob Bosses' Entire World",
+    "vo": "mob bosses' entire world view by every law of martial progression a year"
+   },
+   {
+    "id": 16,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c08_p028_blood_splatter_character_coughing_sword_blood.webp",
+    "panelRight": "c08_p029_warrior_being_defeated_coughing_kneeling_emperor.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 16: Old Commoner Shouldn'T Possess",
+    "vo": "old commoner shouldn't possess internal energy denser than a seasoned"
+   },
+   {
+    "id": 17,
+    "duration": 4.0,
+    "motion": "pulse_zoom",
+    "panelLeft": "c08_p041_man_with_red_eyes_serious_expression.webp",
+    "panelRight": "c08_p032_warrior_in_blue_robe_talking_to.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 17: Warlord Zaha Isn'T Waken",
+    "vo": "warlord but zaha isn't just in a waken novice he carries"
+   },
+   {
+    "id": 18,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c08_p031_warrior_attacking_character_holding_sword_dialogue.webp",
+    "panelRight": "c08_p033_man_holding_a_sword_shouting_try.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 18: Compressed Primordial Essence Heavenly",
+    "vo": "the compressed primordial essence of the heavenly pearl and the combat refinement of"
+   },
+   {
+    "id": 19,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p034_warrior_slaps_emperor_says_youre_sloppy.webp",
+    "panelRight": "c08_p008_warrior_in_battle_sword_swinging_explosion.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 19: Thousand Life Death Wars",
+    "vo": "a thousand life and death wars before the terrified boss can draw his steel zaha"
+   },
+   {
+    "id": 20,
+    "duration": 4.21,
+    "motion": "slide_up",
+    "panelLeft": "c08_p025_warrior_entering_a_temple.webp",
+    "panelRight": "c08_p039_warrior_fallen_soldiers_in_background_dialogue.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 20: Closes Distance Ghost Flash",
+    "vo": "closes the distance in a ghost like flash seizing cho il"
+   },
+   {
+    "id": 21,
+    "duration": 4.1,
+    "motion": "slide_down",
+    "panelLeft": "c08_p042_black_cat_union_leader_changes_mind.webp",
+    "panelRight": "c08_p043_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 21: Gwan Throat Slamming Spine",
+    "vo": "gwan by the throat and slamming his spine against the reinforced pillar what"
+   },
+   {
+    "id": 22,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p035_emperor_speaking_character_looking_at_him.webp",
+    "panelRight": "c08_p044_four_men_in_uniform_one_with.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 22: Follows Cold Calculated Indictment",
+    "vo": "follows is a cold calculated indictment of the syndicates pathetic"
+   },
+   {
+    "id": 23,
+    "duration": 4.8,
+    "motion": "slide_up",
+    "panelLeft": "c08_p027_man_with_long_hair_finger_pointing.webp",
+    "panelRight": "c08_p041_man_with_red_eyes_serious_expression.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 23: Existence Zaha Looks Choking",
+    "vo": "existence zaha looks into the choking man's eyes and calls him fundamentally sloppy pointing"
+   },
+   {
+    "id": 24,
+    "duration": 4.45,
+    "motion": "pan_left",
+    "panelLeft": "c08_p046_man_in_blue_robe_surrounded_by.webp",
+    "panelRight": "c08_p049_warrior_in_corridor_talking_to_himself.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 24: True Strength Creates Order",
+    "vo": "out that true strength creates order and protects territory whereas"
+   },
+   {
+    "id": 25,
+    "duration": 4.12,
+    "motion": "zoom_out",
+    "panelLeft": "c08_p050_warrior_in_robe_sword_dialogue.webp",
+    "panelRight": "c08_p051_warrior_in_robe_serious_expression.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 25: Choow Family Spent Years",
+    "vo": "the choow family spent years praying on impoverished street vendors and selling out"
+   },
+   {
+    "id": 26,
+    "duration": 4.62,
+    "motion": "pan_right",
+    "panelLeft": "c08_p052_three_soldiers_in_green_uniforms_one.webp",
+    "panelRight": "c08_p053_emperor_speaking_looking_angry.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 26: Town Foreign Syndicates Line",
+    "vo": "their own town to foreign syndicates just to line their pockets in our boy's"
+   },
+   {
+    "id": 27,
+    "duration": 4.29,
+    "motion": "pulse_zoom",
+    "panelLeft": "c08_p054_two_soldiers_in_green_uniforms_one.webp",
+    "panelRight": "c08_p036_warrior_in_battle_blood_sword_boots.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 27: Eyes Ruler Parasitizes People",
+    "vo": "eyes a ruler who parasitizes his own people is worse than verman and"
+   },
+   {
+    "id": 28,
+    "duration": 4.38,
+    "motion": "slide_down",
+    "panelLeft": "c08_p057_warrior_killed_lord_character_asks_why.webp",
+    "panelRight": "c08_p058_warrior_in_a_room_asking_where.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 28: Brutal Downward Slam Pulverizes",
+    "vo": "with a brutal downward slam that pulverizes the stone floor he permanently"
+   },
+   {
+    "id": 29,
+    "duration": 4.46,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p059_warrior_in_corridor_soldiers_standing_emperor.webp",
+    "panelRight": "c08_p055_warriors_in_procession_leader_speaking_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 29: Closes Chow Family'S Reign",
+    "vo": "closes the chow family's reign of terror when the estate guards finally rush into"
+   },
+   {
+    "id": 30,
+    "duration": 4.38,
+    "motion": "slide_up",
+    "panelLeft": "c08_p045_warrior_in_corridor_orders_to_leave.webp",
+    "panelRight": "c08_p040_warrior_in_robe_angry_expression_text.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 30: Hall Drawn Savers Zahas",
+    "vo": "the hall with drawn savers zahas simply scoffs at their"
+   },
+   {
+    "id": 31,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c08_p037_ncient_chinese_building_with_lanterns.webp",
+    "panelRight": "c08_p076_ncient_japanese_house_night_mountains_trees.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 31: Uselessness Systematically Clearing Compound",
+    "vo": "uselessness systematically clearing out the compound seizing the gang's hidden slushbuns and disappearing into the"
+   },
+   {
+    "id": 32,
+    "duration": 4.12,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p060_warrior_returns_asks_about_going_to.webp",
+    "panelRight": "c08_p065_warrior_in_battle_speaking_strong_short.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 32: Night Authorities Even Realized",
+    "vo": "night before the authorities even realized a coup occurred returning to his"
+   },
+   {
+    "id": 33,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c08_p066_man_in_room_woman_in_mirror.webp",
+    "panelRight": "c08_p070_man_meditating_in_a_room.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 33: Humble Room End Zahas",
+    "vo": "humble room at the end zahas sits cross legged to consolidate his breakthrough"
+   },
+   {
+    "id": 34,
+    "duration": 4.2,
+    "motion": "pan_left",
+    "panelLeft": "c08_p067_warrior_standing_at_window_looking_out.webp",
+    "panelRight": "c08_p082_man_in_white_robe_meditating.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 34: Guiding Silver Cheat Through",
+    "vo": "guiding the silver cheat through his major maridians to complete a"
+   },
+   {
+    "id": 35,
+    "duration": 4.67,
+    "motion": "zoom_out",
+    "panelLeft": "c08_p086_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c08_p071_man_with_dark_hair_serious_expression.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 35: Legendary Martial Milestone Thank",
+    "vo": "legendary martial milestone thank you very much for watching this video and i'll see"
+   },
+   {
+    "id": 36,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c08_p077_butterflies_flying_around_a_house.webp",
+    "panelRight": "c08_p073_warrior_speaking_sword_castle_burning_boots.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 36: Next Video Thanks Watching",
+    "vo": "you in the next video thanks for watching and i'll see you inidians"
+   },
+   {
+    "id": 37,
+    "duration": 3.8,
+    "motion": "pulse_zoom",
+    "panelLeft": "c08_p074_man_in_robe_meditating.webp",
+    "panelRight": "c08_p075_ncient_chinese_building.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 37: Permanently Worked Flawed Techniques",
+    "vo": "were permanently worked by flawed techniques and chronic inflammation"
+   },
+   {
+    "id": 38,
+    "duration": 4.7,
+    "motion": "slide_down",
+    "panelLeft": "c08_p080_man_with_black_hair_and_a.webp",
+    "panelRight": "c08_p081_warrior_in_robe_speaking_approaching_darkness.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 38: Which Literal Root Cause",
+    "vo": "which was the literal root cause of his psychotic episodes and dissent into"
+   },
+   {
+    "id": 39,
+    "duration": 4.75,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p083_warrior_in_robe_confident_talking.webp",
+    "panelRight": "c08_p070_man_meditating_in_a_room.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 39: Madness Purging Those Blockages",
+    "vo": "madness but by purging those blockages right now on his youth he is actively laying"
+   },
+   {
+    "id": 40,
+    "duration": 4.04,
+    "motion": "slide_up",
+    "panelLeft": "c08_p027_man_with_long_hair_finger_pointing.webp",
+    "panelRight": "c08_p032_warrior_in_blue_robe_talking_to.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 40: Indestructible Heavenly Foundation Allow",
+    "vo": "an indestructible heavenly foundation that will allow him to reach realms"
+   },
+   {
+    "id": 41,
+    "duration": 4.21,
+    "motion": "slide_down",
+    "panelLeft": "c08_p084_warrior_in_messy_room.webp",
+    "panelRight": "c08_p085_warrior_in_robe_talking_about_smell.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 41: Far Beyond Mortal Limits",
+    "vo": "far beyond mortal limits most epic cultivation novels describe maroclensing"
+   },
+   {
+    "id": 42,
+    "duration": 4.83,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p086_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c08_p087_man_in_kimono_reacting_to_smell.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 42: Majestic Glowing Spiritual Awakening",
+    "vo": "as a majestic glowing spiritual awakening but the physical reality"
+   },
+   {
+    "id": 43,
+    "duration": 4.07,
+    "motion": "slide_up",
+    "panelLeft": "c08_p088_warrior_in_robes_talking_about_rotting.webp",
+    "panelRight": "c08_p089_warrior_in_room_surprised_by_emperor.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 43: Hilariously Grounded Biology Expelling",
+    "vo": "is hilariously grounded in biology expelling years of toxic"
+   },
+   {
+    "id": 44,
+    "duration": 4.6,
+    "motion": "pan_left",
+    "panelLeft": "c08_p090_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c08_p091_man_with_black_hair_and_star.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 44: Cellular Impurities Through Skin",
+    "vo": "cellular impurities through your skin produces an odor so horrifying it could"
+   },
+   {
+    "id": 45,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c08_p092_warrior_in_room_character_hugging_pillow.webp",
+    "panelRight": "c08_p093_warrior_outside_emperor_speaking_character_crying.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 45: Qualify War Crime Chassung",
+    "vo": "qualify as a war crime when chassung tae arrives the next morning to"
+   },
+   {
+    "id": 46,
+    "duration": 4.78,
+    "motion": "pan_right",
+    "panelLeft": "c08_p094_man_with_black_hair_angry_expression.webp",
+    "panelRight": "c08_p095_warrior_in_front_of_house_talking.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 46: Deliver Daily Intelligence Report",
+    "vo": "deliver his daily intelligence report he kicks up in the indoor only to violently gag on"
+   },
+   {
+    "id": 47,
+    "duration": 4.32,
+    "motion": "pulse_zoom",
+    "panelLeft": "c08_p085_warrior_in_robe_talking_about_smell.webp",
+    "panelRight": "c08_p068_bastard_orders_cha_sungtae_to_clean.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 47: Breath Tears Streamed Face",
+    "vo": "his own breath as tears streamed down his face covering his silk sleeves over"
+   },
+   {
+    "id": 48,
+    "duration": 4.32,
+    "motion": "slide_down",
+    "panelLeft": "c08_p084_warrior_in_messy_room.webp",
+    "panelRight": "c08_p069_warrior_asking_about_broom.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 48: Nose Horrified Manager Frantically",
+    "vo": "his nose the horrified manager frantically screams asking if the"
+   },
+   {
+    "id": 49,
+    "duration": 4.25,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p088_warrior_in_robes_talking_about_rotting.webp",
+    "panelRight": "c08_p087_man_in_kimono_reacting_to_smell.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 49: New Grandmaster Underworld Somehow",
+    "vo": "new grandmaster of the underworld somehow had an uncontrollable digestive accident inside"
+   },
+   {
+    "id": 50,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c08_p090_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c08_p089_warrior_in_room_surprised_by_emperor.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 50: Bedroom Staring Back Through",
+    "vo": "his bedroom staring back through the rancid haze with dead eye"
+   },
+   {
+    "id": 51,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c08_p091_man_with_black_hair_and_star.webp",
+    "panelRight": "c08_p041_man_with_red_eyes_serious_expression.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 51: Judgment Zahah Questions Whether",
+    "vo": "judgment zahah questions whether his right hand man truly values his life"
+   },
+   {
+    "id": 52,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c08_p093_warrior_outside_emperor_speaking_character_crying.webp",
+    "panelRight": "c08_p092_warrior_in_room_character_hugging_pillow.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 52: Proving Even Single Handedly",
+    "vo": "proving that even after single handedly overthrowing a criminal empire dealing"
+   },
+   {
+    "id": 53,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c08_p095_warrior_in_front_of_house_talking.webp",
+    "panelRight": "c08_p094_man_with_black_hair_angry_expression.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 53: Insolent Subordinate Remains Boy'S",
+    "vo": "with an insolent subordinate remains our boy's most exhausting daily challenge"
+   }
+  ]
+ },
+ "Chapter_009": {
+  "id": "Chapter_009",
+  "title": "Chapter 009",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 1778,
+  "duration": 218,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.14,
+    "motion": "slide_down",
+    "panelLeft": "c09_p033_woman_in_bathtub_wooden_tub_lanterns.webp",
+    "panelRight": "c09_p042_man_in_hot_tub_talking_wet.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 01: Soaking Steaming Wooden Tub",
+    "vo": "soaking in a steaming wooden tub filled with fragrant hot water our boy"
+   },
+   {
+    "id": 2,
+    "duration": 4.36,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p029_woman_with_red_eyes_red_hair.webp",
+    "panelRight": "c09_p005_warrior_crying_tears_falling.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 02: Yizahah Closes Eyes Letting",
+    "vo": "yizahah closes his eyes letting out a satisfied sigh as the lingering stench of his"
+   },
+   {
+    "id": 3,
+    "duration": 4.17,
+    "motion": "slide_up",
+    "panelLeft": "c09_p006_warrior_hugging_another_saying_dont_come.webp",
+    "panelRight": "c09_p007_warrior_in_traditional_attire_old_man.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 03: Maroclensing Finally Washes Away",
+    "vo": "maroclensing finally washes away chau suntai had literally"
+   },
+   {
+    "id": 4,
+    "duration": 4.53,
+    "motion": "pan_left",
+    "panelLeft": "c09_p009_warrior_in_battle_sword_drawn_fighting.webp",
+    "panelRight": "c09_p014_warrior_in_bath_emperor_in_room.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 04: Drawn Knife Earlier Threatening",
+    "vo": "drawn a knife earlier threatening our boy from across the room and screaming that no"
+   },
+   {
+    "id": 5,
+    "duration": 4.3,
+    "motion": "zoom_out",
+    "panelLeft": "c09_p008_warrior_in_battle_shouting_i_swear.webp",
+    "panelRight": "c09_p011_woman_in_traditional_attire_red_and.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 05: Civilized Human Being Ever",
+    "vo": "civilized human being should ever smell like an open sewer forcing zahah"
+   },
+   {
+    "id": 6,
+    "duration": 4.07,
+    "motion": "pan_right",
+    "panelLeft": "c09_p010_warrior_in_bath_talking_to_someone.webp",
+    "panelRight": "c09_p020_emperor_speaking_to_warrior_in_bath.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 06: Take Brothel'S Premiere Bath",
+    "vo": "to take over the brothel's premiere bath suite to make the scene"
+   },
+   {
+    "id": 7,
+    "duration": 4.76,
+    "motion": "pulse_zoom",
+    "panelLeft": "c09_p004_warrior_in_bath_talking_water_drops.webp",
+    "panelRight": "c09_p016_warrior_in_red_cloak_speaking_with.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 07: Even Absurd Cortazane Cheh",
+    "vo": "even more absurd cortazane cheh hayang enters to gently scrub the water across"
+   },
+   {
+    "id": 8,
+    "duration": 4.07,
+    "motion": "slide_down",
+    "panelLeft": "c09_p024_man_with_long_hair_sweat_and.webp",
+    "panelRight": "c09_p030_man_with_black_hair_speech_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 08: Shoulders Creating Atmosphere Make",
+    "vo": "his shoulders creating an atmosphere that would make any young man blush but"
+   },
+   {
+    "id": 9,
+    "duration": 4.1,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p026_warrior_in_bath_emperor_speaking_character.webp",
+    "panelRight": "c09_p021_bastard_keeps_asking_for_things.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 09: Watching Zaha'S Internal Thoughts",
+    "vo": "watching zaha's internal thoughts gives us a hilarious deeply"
+   },
+   {
+    "id": 10,
+    "duration": 4.83,
+    "motion": "slide_up",
+    "panelLeft": "c09_p023_warrior_bows_emperor_speaks_character_thanks.webp",
+    "panelRight": "c09_p025_warrior_in_battle_character_speaking_emperor.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 10: Relatable Glimpse Fractured Psychology",
+    "vo": "relatable glimpse into his fractured psychology even surrounded by warm"
+   },
+   {
+    "id": 11,
+    "duration": 4.44,
+    "motion": "slide_down",
+    "panelLeft": "c09_p031_woman_in_kimono_surprised_expression.webp",
+    "panelRight": "c09_p032_woman_in_bath_warrior_in_background.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 11: Water Beautiful Woman Boy",
+    "vo": "water and a beautiful woman our boy cannot stop dwelling on the memory of the demon"
+   },
+   {
+    "id": 12,
+    "duration": 4.22,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p028_warrior_in_battle_sweating_shouting.webp",
+    "panelRight": "c09_p027_warrior_with_tattooed_arm_speech_bubble.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 12: Cult Executioner Roasting Terrible",
+    "vo": "cult executioner roasting his terrible dating history on the cliff edge"
+   },
+   {
+    "id": 13,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c09_p034_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c09_p035_emperor_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 13: Realizes Bitter Irritation Assassin",
+    "vo": "he realizes with bitter irritation that the assassin was completely right throughout"
+   },
+   {
+    "id": 14,
+    "duration": 4.17,
+    "motion": "pan_left",
+    "panelLeft": "c09_p022_warrior_in_red_robe_talking_to.webp",
+    "panelRight": "c09_p015_warrior_in_battle.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 14: Entire Past Life Feared",
+    "vo": "his entire past life as the feared crazy demon women"
+   },
+   {
+    "id": 15,
+    "duration": 4.4,
+    "motion": "zoom_out",
+    "panelLeft": "c09_p084_warrior_with_sword_intense_expression.webp",
+    "panelRight": "c09_p017_woman_saying_no_need_for_you.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 15: Never Fell Honey Traps",
+    "vo": "never fell for honey traps around him because he gave off the intense terrifying aura"
+   },
+   {
+    "id": 16,
+    "duration": 4.25,
+    "motion": "pan_right",
+    "panelLeft": "c09_p039_warrior_in_red_robe_shouting_urgent.webp",
+    "panelRight": "c09_p038_emperor_speaking_character_thinking_burning_castle.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 16: Unhinged Homicidal Maniac Tries",
+    "vo": "of an unhinged homicidal maniac just as he tries to banish"
+   },
+   {
+    "id": 17,
+    "duration": 4.55,
+    "motion": "pulse_zoom",
+    "panelLeft": "c09_p040_warrior_in_bathhouse_talking_to_sungtae.webp",
+    "panelRight": "c09_p041_warrior_in_bath_emperor_speaking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 17: Insult Mind Bathhouse Doors",
+    "vo": "the insult from his mind the bathhouse doors slam open with"
+   },
+   {
+    "id": 18,
+    "duration": 4.45,
+    "motion": "slide_down",
+    "panelLeft": "c09_p019_host_greets_people_expects_behavior.webp",
+    "panelRight": "c09_p044_warriors_burning_castle.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 18: Violent Urgency Chase Sung",
+    "vo": "violent urgency chase sung tae bursts into the steam his silver hair disheveled and"
+   },
+   {
+    "id": 19,
+    "duration": 4.04,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p013_warrior_in_red_robe_with_speech.webp",
+    "panelRight": "c09_p014_warrior_in_bath_emperor_in_room.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 19: Face Pale Absolute Panic",
+    "vo": "his face pale with absolute panic as he screams that a massive"
+   },
+   {
+    "id": 20,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c09_p020_emperor_speaking_to_warrior_in_bath.webp",
+    "panelRight": "c09_p001_ncient_chinesestyle_building.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 20: Blaze Broken Zaha Lazily",
+    "vo": "blaze has broken out when zaha lazily asks why the manager is losing his"
+   },
+   {
+    "id": 21,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c09_p052_warrior_in_battle_shouting_what_its.webp",
+    "panelRight": "c09_p051_warrior_in_battle_talking_to_someone.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 21: Mind Little Smoke Sung",
+    "vo": "mind over a little smoke sung thai drops the punchline the"
+   },
+   {
+    "id": 22,
+    "duration": 4.21,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p043_fire_consuming_building.webp",
+    "panelRight": "c09_p018_warrior_in_battle_talking_to_someone.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 22: Fire Didn'T Start Anywhere",
+    "vo": "fire didn't start anywhere in the entertainment district someone just torched zaha's"
+   },
+   {
+    "id": 23,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c09_p057_warrior_in_black_hat_talking_to.webp",
+    "panelRight": "c09_p056_two_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 23: Private Quarters End Tactical",
+    "vo": "private quarters at the end this tactical escalation highlights the"
+   },
+   {
+    "id": 24,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c09_p059_warrior_in_battle_holding_sword.webp",
+    "panelRight": "c09_p060_warrior_in_battle_speaking_sword_boots.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 24: Classic Cowardice Criminal Underworld",
+    "vo": "classic cowardice of the criminal underworld whenever mob enforcers realize"
+   },
+   {
+    "id": 25,
+    "duration": 4.47,
+    "motion": "zoom_out",
+    "panelLeft": "c09_p062_warrior_in_robe_talking_to_another.webp",
+    "panelRight": "c09_p061_warrior_in_battle_shouting_whatz.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 25: Cannot Defeat Opponent Direct",
+    "vo": "they cannot defeat an opponent in a direct martial confrontation they instinctively"
+   },
+   {
+    "id": 26,
+    "duration": 4.2,
+    "motion": "pan_right",
+    "panelLeft": "c09_p064_warrior_speaking_fighting_himself.webp",
+    "panelRight": "c09_p065_warrior_in_conversation_burning_castle_in.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 26: Resort Arson Hoping Burn",
+    "vo": "resort to arson hoping to burn the threat alive while they sleep"
+   },
+   {
+    "id": 27,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c09_p067_two_warriors_in_robes_one_in.webp",
+    "panelRight": "c09_p102_two_men_in_long_robes_one.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 27: Rather Risk Blade Throat",
+    "vo": "rather than risk a blade to the throat stepping outside in fresh robes with damp"
+   },
+   {
+    "id": 28,
+    "duration": 4.46,
+    "motion": "slide_down",
+    "panelLeft": "c09_p070_warrior_speaking_sword_speech_bubble_brothers.webp",
+    "panelRight": "c09_p068_warrior_in_battle_witness_to_death.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 28: Hair Zaha Arrives Smoking",
+    "vo": "hair zaha arrives at the smoking ruins of his courtyard only to find"
+   },
+   {
+    "id": 29,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p078_warrior_in_battle_sword_drawn_emperor.webp",
+    "panelRight": "c09_p086_warrior_in_battle_sword_drawn_dark.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 29: Arrogant Swordsman Vibrant Yellow",
+    "vo": "an arrogant swordsman in vibrant yellow silk waiting with a drawn broad"
+   },
+   {
+    "id": 30,
+    "duration": 4.21,
+    "motion": "slide_up",
+    "panelLeft": "c09_p075_warrior_orders_to_draw_sword.webp",
+    "panelRight": "c09_p073_warrior_in_white_robe_talking_sword.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 30: Sword Puffed Classic Miram",
+    "vo": "sword puffed up with classic miram arrogance the yellow robed mercenary commands our"
+   },
+   {
+    "id": 31,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c09_p077_warrior_in_battle_shouting_you_dare.webp",
+    "panelRight": "c09_p076_man_in_kimono_says_i_dont.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 31: Boy Draw Weapon Honorable",
+    "vo": "boy to draw his weapon for an honorable duel zaha looks him up"
+   },
+   {
+    "id": 32,
+    "duration": 4.14,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p079_warrior_in_battle_fist_clenched_powerful.webp",
+    "panelRight": "c09_p058_warrior_in_robe_with_speech_bubble.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 32: Clinical Boredom Calmly Stating",
+    "vo": "and down with clinical boredom calmly stating that using a forge steel"
+   },
+   {
+    "id": 33,
+    "duration": 4.52,
+    "motion": "slide_up",
+    "panelLeft": "c09_p074_warrior_in_battle_talking_to_another.webp",
+    "panelRight": "c09_p055_warrior_in_battle_shouting_what.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 33: Blade Against Someone Mediocre",
+    "vo": "blade against someone of his mediocre caliber would be an insult to the art of"
+   },
+   {
+    "id": 34,
+    "duration": 4.19,
+    "motion": "pan_left",
+    "panelLeft": "c09_p085_warrior_in_battle_shouting_haa.webp",
+    "panelRight": "c09_p048_warrior_in_battle_shouting_who_is.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 34: Swordsmanship Enraged Blatant Disrespect",
+    "vo": "swordsmanship enraged by the blatant disrespect the mercenary lunges"
+   },
+   {
+    "id": 35,
+    "duration": 4.14,
+    "motion": "zoom_out",
+    "panelLeft": "c09_p087_warrior_in_battle_sword_exclamation_mark.webp",
+    "panelRight": "c09_p088_brothers_ahead_were_sloppy.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 35: Forward High Velocity Downward",
+    "vo": "forward with a high velocity downward slash designed to cleave our"
+   },
+   {
+    "id": 36,
+    "duration": 4.6,
+    "motion": "pan_right",
+    "panelLeft": "c09_p071_warrior_in_robe_character_in_robe.webp",
+    "panelRight": "c09_p120_two_eyes_with_red_pupils_dark.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 36: Buoyant Half Eyes Reincarnated",
+    "vo": "buoyant half but in the eyes of a reincarnated grandmaster the"
+   },
+   {
+    "id": 37,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c09_p093_warrior_in_battle_kneeling_blood.webp",
+    "panelRight": "c09_p091_warrior_in_battle_boots_walking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 37: Strike Hopelessly Telegraphed Slipping",
+    "vo": "strike is hopelessly telegraphed slipping inside the blade's arc by a fraction"
+   },
+   {
+    "id": 38,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c09_p082_character_is_falling_possibly_injured.webp",
+    "panelRight": "c09_p094_warrior_holding_sword_wearing_robe_standing.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 38: Inch Zahat Plants Explosive",
+    "vo": "of an inch zahat plants an explosive open pawn counter strike directly into"
+   },
+   {
+    "id": 39,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p096_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c09_p098_man_in_black_hat_says_i.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 39: Swordsmanman Solar Plexus Kinetic",
+    "vo": "the swordsmanman solar plexus the kinetic shockwave blasting the grown man feet"
+   },
+   {
+    "id": 40,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c09_p100_warrior_in_battle_shouting_at_enemy.webp",
+    "panelRight": "c09_p099_warrior_in_traditional_attire_holding_sword.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 40: Through Air Crashing Onto",
+    "vo": "through the air before crashing him onto the scorched dirt as the mercenary rises"
+   },
+   {
+    "id": 41,
+    "duration": 4.36,
+    "motion": "slide_down",
+    "panelLeft": "c09_p103_warrior_holding_sword_dark_background.webp",
+    "panelRight": "c09_p105_warrior_speaking_saying_nice_and_let.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 41: Mud Gasping Air Shattered",
+    "vo": "in the mud gasping for air with shattered ribs zaha looks"
+   },
+   {
+    "id": 42,
+    "duration": 4.36,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p106_warrior_in_battle_emperor_speaking_burning.webp",
+    "panelRight": "c09_p107_warrior_with_sword_angry_expression.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 42: Mild Disgust Telling Stop",
+    "vo": "down at him and mild disgust telling him to stop overreacting because that strike"
+   },
+   {
+    "id": 43,
+    "duration": 4.29,
+    "motion": "slide_up",
+    "panelLeft": "c09_p108_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c09_p109_warrior_in_battle_sword_swinging_fire.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 43: Didn'T Even Use Fraction",
+    "vo": "didn't even use a fraction of his genuine strength in a world full"
+   },
+   {
+    "id": 44,
+    "duration": 4.36,
+    "motion": "pan_left",
+    "panelLeft": "c09_p063_warrior_in_battle_emperor_speaking_character.webp",
+    "panelRight": "c09_p045_warriors_in_traditional_attire_one_holding.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 44: Theatrical Warriors Obsessed Flashy",
+    "vo": "of theatrical warriors obsessed with flashy poses our boy"
+   },
+   {
+    "id": 45,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c09_p112_warrior_in_battle_shouting_hmm.webp",
+    "panelRight": "c09_p113_warrior_in_battle_shouting_haaaa.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 45: Continues Prove Raw Kinetic",
+    "vo": "continues to prove that raw kinetic efficiency will always fold arrogance into the dirt"
+   },
+   {
+    "id": 46,
+    "duration": 4.29,
+    "motion": "pan_right",
+    "panelLeft": "c09_p115_warrior_in_battle_sword_drawn_fiery.webp",
+    "panelRight": "c09_p116_redeyed_figure_with_laser_beam.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 46: Nealing Groaning Mercenary Zahat",
+    "vo": "nealing over the groaning mercenary zahat inspects the bronze medallion"
+   },
+   {
+    "id": 47,
+    "duration": 4.29,
+    "motion": "pulse_zoom",
+    "panelLeft": "c09_p117_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c09_p118_warrior_in_battle_sword_drawn_fiery.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 47: Hanging Belt Realizing Arson",
+    "vo": "hanging from his belt realizing that this arson attack wasn't a random hit"
+   },
+   {
+    "id": 48,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c09_p119_warrior_in_black_robe_exclamation_mark.webp",
+    "panelRight": "c09_p102_two_men_in_long_robes_one.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 48: Regional Black Rabbit Union",
+    "vo": "the regional black rabbit union has officially mobilized their external enforcers"
+   },
+   {
+    "id": 49,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c09_p097_warrior_in_flames_shouting_bastards.webp",
+    "panelRight": "c09_p110_warrior_in_battle_sword_swinging_fire.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 49: Looking Toward Northern Road",
+    "vo": "and looking toward the northern road where the smoke rises into the night sky our boy"
+   },
+   {
+    "id": 50,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c09_p125_warrior_in_kimono_with_sword_dark.webp",
+    "panelRight": "c09_p121_warrior_in_traditional_attire_standing_with.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 50: Prepares Take Fight Straight",
+    "vo": "prepares to take this fight straight to the syndicates front doorstep"
+   }
+  ]
+ },
+ "Chapter_010": {
+  "id": "Chapter_010",
+  "title": "Chapter 010",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 1996,
+  "duration": 229,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c10_p029_the_zaha_training_inn.webp",
+    "panelRight": "c10_p002_warriors_in_battle_burning_castle.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 01: Flames Roar Against Night",
+    "vo": "flames roar against the night sky as the zaha in burns into"
+   },
+   {
+    "id": 2,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p001_warriors_in_battle_fire_smoke_boots.webp",
+    "panelRight": "c10_p003_warrior_in_battle_burning_scene.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 02: Pile Smoldering Embers Real",
+    "vo": "a pile of smoldering embers but the real spectacle isn't the fire it's the"
+   },
+   {
+    "id": 3,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c10_p090_warrior_in_traditional_attire_talking_standing.webp",
+    "panelRight": "c10_p006_warrior_with_eye_patch_talking_about.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 03: Total Collapse Town'S Criminal",
+    "vo": "total collapse of the town's criminal hierarchy standing in the middle"
+   },
+   {
+    "id": 4,
+    "duration": 4.29,
+    "motion": "pan_left",
+    "panelLeft": "c10_p008_man_with_white_hair_shocked_expression.webp",
+    "panelRight": "c10_p009_warriors_in_robes_serious_expressions.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 04: Blazing Courtyard Boy Yizaha",
+    "vo": "of the blazing courtyard our boy yizaha looks down at the defeated yellow"
+   },
+   {
+    "id": 5,
+    "duration": 4.57,
+    "motion": "zoom_out",
+    "panelLeft": "c10_p010_warrior_in_battle_speaking_to_someone.webp",
+    "panelRight": "c10_p011_warriors_in_battle_stance_eyes_wide.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 05: Robed Swordsman Turns Chou",
+    "vo": "robed swordsman who turns out to be chou sam pyeong the youngest brother"
+   },
+   {
+    "id": 6,
+    "duration": 4.14,
+    "motion": "pan_right",
+    "panelLeft": "c10_p015_warrior_in_red_robe_talking_to.webp",
+    "panelRight": "c10_p012_warrior_leading_troops_soldiers_listening_emperor.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 06: Notorious Chou Family Less",
+    "vo": "of the notorious chou family in less than hours our"
+   },
+   {
+    "id": 7,
+    "duration": 4.6,
+    "motion": "pulse_zoom",
+    "panelLeft": "c10_p005_man_in_red_robe_with_white.webp",
+    "panelRight": "c10_p109_black_cat_union_cho_brothers_care.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 07: Boy Systematically Wiped Three",
+    "vo": "boy systematically wiped out all three ruling mob brothers leaving the local"
+   },
+   {
+    "id": 8,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c10_p018_warrior_contemplating_killing_someone.webp",
+    "panelRight": "c10_p017_man_in_front_of_crowd_talking.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 08: Gangsters Wandering Streets Headless",
+    "vo": "gangsters wandering the streets like headless chickens faw sung thai"
+   },
+   {
+    "id": 9,
+    "duration": 4.2,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p020_warrior_speaking_character_asking_boots_walking.webp",
+    "panelRight": "c10_p019_warriors_gathered_emperor_speaking_swords_drawn.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 09: Watches Edge Crowd Chills",
+    "vo": "watches from the edge of the crowd with chills running down his spine finally realizing"
+   },
+   {
+    "id": 10,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c10_p022_warrior_in_battle_speaking_boots_walking.webp",
+    "panelRight": "c10_p023_warrior_in_red_robe_speech_bubble.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 10: Scrawny Kid Used Sweep",
+    "vo": "that the scrawny kid who used to sweep tavern floors has completely conquered the"
+   },
+   {
+    "id": 11,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c10_p025_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c10_p024_man_in_red_robe_with_speech.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 11: Prefectures Underworld Without Breaking",
+    "vo": "prefectures underworld without breaking a single drop of sweat most ordinary"
+   },
+   {
+    "id": 12,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p027_two_men_discussing_martial_arts_training.webp",
+    "panelRight": "c10_p028_two_men_in_robes_one_with.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 12: Martial Masters Weeping Loss",
+    "vo": "martial masters would be weeping over the loss of their property but"
+   },
+   {
+    "id": 13,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c10_p030_emperor_orders_construction_warrior_questions_about.webp",
+    "panelRight": "c10_p031_warrior_in_red_robe_sword_speech.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 13: Boy Brilliantly Turns Disaster",
+    "vo": "our boy brilliantly turns a disaster into an unprecedented economic upgrade"
+   },
+   {
+    "id": 14,
+    "duration": 4.43,
+    "motion": "pan_left",
+    "panelLeft": "c10_p039_warrior_and_old_man_conversing.webp",
+    "panelRight": "c10_p032_warrior_speaking_holding_sword.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 14: Since Old Wooden Shack",
+    "vo": "since his old wooden shack is gone he simply confiscates the finest luxury sweets"
+   },
+   {
+    "id": 15,
+    "duration": 4.07,
+    "motion": "zoom_out",
+    "panelLeft": "c10_p034_warrior_in_robe_speech_bubble_hao.webp",
+    "panelRight": "c10_p035_warrior_speaking_discussing_organization_creation.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 15: Entire Entertainment District Without",
+    "vo": "in the entire entertainment district without paying a single"
+   },
+   {
+    "id": 16,
+    "duration": 4.1,
+    "motion": "pan_right",
+    "panelLeft": "c10_p037_man_with_eye_patch_question_mark.webp",
+    "panelRight": "c10_p036_warrior_in_red_robe_holding_sword.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 16: Copper Standing Amidst Smoke",
+    "vo": "copper standing amidst the smoke zaha officially announces the birth of a new organization"
+   },
+   {
+    "id": 17,
+    "duration": 4.73,
+    "motion": "pulse_zoom",
+    "panelLeft": "c10_p040_warrior_in_traditional_attire_talking_dark.webp",
+    "panelRight": "c10_p038_warrior_in_battle_emperor_speaking.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 17: Low Sect How Wider",
+    "vo": "the low down sect or how one in the wider lore of"
+   },
+   {
+    "id": 18,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c10_p041_man_in_traditional_attire_gazes_into.webp",
+    "panelRight": "c10_p042_warrior_in_conversation_asking_for_life.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 18: Miram High End Mighty",
+    "vo": "miram high end mighty sect sneer at the low down sect as a pathetic collective"
+   },
+   {
+    "id": 19,
+    "duration": 4.62,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p044_man_with_white_hair_surprised_expression.webp",
+    "panelRight": "c10_p043_warrior_in_battle_speaking_to_someone.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 19: Beggars Courtesans Cooks Street",
+    "vo": "of beggars courtesans cooks and street urchins but"
+   },
+   {
+    "id": 20,
+    "duration": 4.29,
+    "motion": "slide_up",
+    "panelLeft": "c10_p046_two_men_in_robes_one_with.webp",
+    "panelRight": "c10_p047_japanese_house_with_lanterns.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 20: Strategic Historical Standpoint Zaha",
+    "vo": "from a strategic and historical standpoint zaha knows that common workers are"
+   },
+   {
+    "id": 21,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c10_p052_man_in_kimono_writing_holding_pen.webp",
+    "panelRight": "c10_p058_man_with_long_black_hair_wearing.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 21: True Bloodstream Society Thanks",
+    "vo": "the true bloodstream of society thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching thanks for watching courtesans cooks and street urchins but from a strategic and historical standpoint zaha knows that common workers are the true bloodstream of society they hear every secret see every transaction"
+   },
+   {
+    "id": 22,
+    "duration": 4.6,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p033_warrior_and_emperor_in_conversation.webp",
+    "panelRight": "c10_p014_warrior_in_robe_talking_with_speech.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 22: Control Entire Flow Information",
+    "vo": "and control the entire flow of information across the continent when song"
+   },
+   {
+    "id": 23,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c10_p053_people_gathered_mountains_birds_flying_sun.webp",
+    "panelRight": "c10_p054_emperor_speaking_to_warriors.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 23: Tae Timidly Asks Whether",
+    "vo": "tae timidly asks whether he should start addressing zaha as the sect leader"
+   },
+   {
+    "id": 24,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c10_p056_emperor_with_red_eyes_dark_hair.webp",
+    "panelRight": "c10_p057_man_in_white_robe_hands_clasped.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 24: Boy Simply Tells Whatever",
+    "vo": "our boy simply tells him to do whatever he wants but then suntai asks"
+   },
+   {
+    "id": 25,
+    "duration": 4.52,
+    "motion": "zoom_out",
+    "panelLeft": "c10_p059_warrior_in_red_robe_emperor_speaking.webp",
+    "panelRight": "c10_p063_two_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 25: Deeply Vulnerable Serious Question",
+    "vo": "a deeply vulnerable serious question why did zahas"
+   },
+   {
+    "id": 26,
+    "duration": 4.39,
+    "motion": "pan_right",
+    "panelLeft": "c10_p060_emperor_speaking_discussing_strategy.webp",
+    "panelRight": "c10_p061_warrior_in_kimono_talking_going_to.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 26: Spare Life Ruthlessly Executed",
+    "vo": "spare his life when he ruthlessly executed the choe brothers instead"
+   },
+   {
+    "id": 27,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c10_p068_man_with_white_hair_speech_bubble.webp",
+    "panelRight": "c10_p079_man_with_speech_bubble_saying_truth.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 27: Giving Dramatic Speech Redemption",
+    "vo": "of giving a dramatic speech about redemption or friendship zahad deadpans right back that"
+   },
+   {
+    "id": 28,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c10_p045_warrior_in_battle_talking_to_someone.webp",
+    "panelRight": "c10_p065_man_with_white_hair_and_eye.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 28: Kept Manager Alive Purely",
+    "vo": "he kept the manager alive purely so he would have someone entertaining to"
+   },
+   {
+    "id": 29,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p067_warrior_in_battle_holding_sword.webp",
+    "panelRight": "c10_p066_warrior_in_robes_emperor_boots_walking.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 29: Mess Surface Sounds Unhinged",
+    "vo": "mess with on the surface it sounds like an unhinged joke but psychologically"
+   },
+   {
+    "id": 30,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c10_p070_warrior_in_white_robe_seated_men.webp",
+    "panelRight": "c10_p069_chinese_painting_of_plum_blossoms.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 30: Pure Tactical Genius Keeping",
+    "vo": "it is pure tactical genius by keeping his subordinates permanently off"
+   },
+   {
+    "id": 31,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c10_p072_chinese_gate_with_broken_panels.webp",
+    "panelRight": "c10_p073_warrior_in_a_room_with_lanterns.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 31: Balance Guessing True Intentions",
+    "vo": "balance and guessing his true intentions zaha ensures that nobody ever dares to"
+   },
+   {
+    "id": 32,
+    "duration": 4.62,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p075_warrior_in_black_robe.webp",
+    "panelRight": "c10_p074_warrior_speaking_long_hair_black_robe.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 32: Plot Betrayal Moving Operations",
+    "vo": "plot a betrayal moving his operations into the lavish upper suites of the"
+   },
+   {
+    "id": 33,
+    "duration": 4.38,
+    "motion": "slide_up",
+    "panelLeft": "c10_p076_warrior_in_court_emperor_speaking_two.webp",
+    "panelRight": "c10_p078_warrior_in_discussion_with_another_asking.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 33: Brothel Boy Convenes High",
+    "vo": "brothel our boy convenes a high stakes council with the two remaining merchant guild elders"
+   },
+   {
+    "id": 34,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c10_p080_two_men_in_hats_one_holding.webp",
+    "panelRight": "c10_p081_warrior_in_discussion_with_another_asking.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 34: Pair Greedy Corrupt Officials",
+    "vo": "a pair of greedy corrupt officials who previously funded the chobrothers"
+   },
+   {
+    "id": 35,
+    "duration": 4.2,
+    "motion": "zoom_out",
+    "panelLeft": "c10_p082_two_samurai_in_conversation.webp",
+    "panelRight": "c10_p084_two_men_in_black_robes_one.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 35: Illegal Rackets Sitting Comfortably",
+    "vo": "illegal rackets sitting comfortably across from the sweating"
+   },
+   {
+    "id": 36,
+    "duration": 4.65,
+    "motion": "pan_right",
+    "panelLeft": "c10_p085_warrior_in_robe_talking_looking_at.webp",
+    "panelRight": "c10_p086_two_men_in_black_robes_one.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 36: Bureaucrats Zahad Delivers Masterclass",
+    "vo": "bureaucrats zahad delivers a masterclass and aggressive deadline negotiation he"
+   },
+   {
+    "id": 37,
+    "duration": 4.32,
+    "motion": "pulse_zoom",
+    "panelLeft": "c10_p087_warriors_gathering_funds_calm_demeanor.webp",
+    "panelRight": "c10_p088_man_in_suit_with_speech_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 37: Places Hand Forge Steel",
+    "vo": "places his hand on his forge steel blade and casually informs them that they"
+   },
+   {
+    "id": 38,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c10_p115_miss_sun_returns.webp",
+    "panelRight": "c10_p089_warrior_killed_emperor.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 38: Until Hostess Returns Wine",
+    "vo": "have until the hostess returns with their wine to decide whether they will surrender"
+   },
+   {
+    "id": 39,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p091_warrior_speaking_threatening.webp",
+    "panelRight": "c10_p092_warrior_in_battle_sword_closed_eyes.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 39: Commercial Assets Cooperate New",
+    "vo": "their commercial assets and cooperate with his new sect or fight him"
+   },
+   {
+    "id": 40,
+    "duration": 4.17,
+    "motion": "slide_up",
+    "panelLeft": "c10_p094_two_men_in_black_robes_one.webp",
+    "panelRight": "c10_p095_warrior_in_traditional_attire_gesturing.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 40: Death Right Corrupt Politicians",
+    "vo": "to the death right now corrupt politicians love to stall and make empty"
+   },
+   {
+    "id": 41,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c10_p096_woman_in_kimono_sword_red_door.webp",
+    "panelRight": "c10_p097_warriors_discussing_holding_snacks.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 41: Promises Placing Literal Five",
+    "vo": "promises but by placing a literal five minute timer on their mortality"
+   },
+   {
+    "id": 42,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p098_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c10_p099_woman_in_traditional_attire_bowing_speech.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 42: Zahas Shatters Defense Mechanisms",
+    "vo": "zahas shatters their defense mechanisms the moment miss sun's footsteps echo"
+   },
+   {
+    "id": 43,
+    "duration": 4.09,
+    "motion": "slide_up",
+    "panelLeft": "c10_p118_woman_in_kimono_red_carpet_door.webp",
+    "panelRight": "c10_p101_warrior_in_black_attire_crossed_arms.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 43: Outside Door Terrified Elders",
+    "vo": "outside the door the terrified elders completely fold breaking into"
+   },
+   {
+    "id": 44,
+    "duration": 4.7,
+    "motion": "pan_left",
+    "panelLeft": "c10_p100_warrior_in_court_emperor_speaking_lanterns.webp",
+    "panelRight": "c10_p104_warrior_in_robe_fist_raised_traditional.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 44: Nervous Sweats Plastering Fake",
+    "vo": "nervous sweats plastering fake smiles across their faces and desperately swearing that they will"
+   },
+   {
+    "id": 45,
+    "duration": 4.0,
+    "motion": "zoom_out",
+    "panelLeft": "c10_p120_warrior_with_black_cat_union_emperor.webp",
+    "panelRight": "c10_p062_warrior_in_white_robe_black_cat.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 45: Personally Smooth Relations Regional",
+    "vo": "personally smooth over all relations with the regional black cat"
+   },
+   {
+    "id": 46,
+    "duration": 4.7,
+    "motion": "pan_right",
+    "panelLeft": "c10_p108_warrior_in_battle_emperor_speaking_sword.webp",
+    "panelRight": "c10_p107_warrior_in_robe_speaking_holding_sword.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 46: Union Smiling Back Cold",
+    "vo": "union smiling back with cold predatory amusement zahah accepts their"
+   },
+   {
+    "id": 47,
+    "duration": 4.0,
+    "motion": "pulse_zoom",
+    "panelLeft": "c10_p071_emperor_speaking_red_robe_traditional_architecture.webp",
+    "panelRight": "c10_p111_three_men_in_robes_one_speaking.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 47: Total Surrender Knowing Foundation",
+    "vo": "total surrender knowing that the foundation of his underworld empire is officially"
+   },
+   {
+    "id": 48,
+    "duration": 4.8,
+    "motion": "slide_down",
+    "panelLeft": "c10_p113_two_men_in_traditional_clothing_one.webp",
+    "panelRight": "c10_p112_two_men_in_hats_one_with.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 48: Locked Place Deep Within",
+    "vo": "locked into place but deep within the surrounding mountains the true leaders of"
+   },
+   {
+    "id": 49,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p053_people_gathered_mountains_birds_flying_sun.webp",
+    "panelRight": "c10_p102_man_with_black_hair_and_a.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 49: Regional Syndicate Already Receiving",
+    "vo": "the regional syndicate are already receiving word that their provincial branch"
+   },
+   {
+    "id": 50,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c10_p117_emperor_speaking_eyes_glowing_red.webp",
+    "panelRight": "c10_p119_woman_with_long_hair_question_mark.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 50: Gone Completely Silent Setting",
+    "vo": "has gone completely silent setting up a massive collision course with a ruthless enemy that"
+   },
+   {
+    "id": 51,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c10_p121_warrior_in_robe_talking_holding_sword.webp",
+    "panelRight": "c10_p122_warriors_discussing_emperor_speaking_burning_castle.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 51: Operates Continental Scale Morning",
+    "vo": "operates on a continental scale and as the morning sun rises over"
+   },
+   {
+    "id": 52,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c10_p106_two_men_in_conversation_one_asking.webp",
+    "panelRight": "c10_p105_warrior_in_battle_speaking_sword_dark.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 52: City Newly Christian Sect",
+    "vo": "the city the newly christian sect leader is more than ready for war"
+   }
+  ]
+ },
+ "Chapter_011": {
+  "id": "Chapter_011",
+  "title": "Chapter 011",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 2225,
+  "duration": 232,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 3.71,
+    "motion": "slide_down",
+    "panelLeft": "c11_p001_warrior_in_battle_boots_walking.webp",
+    "panelRight": "c11_p002_warriors_fighting_in_front_of_palace.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 01: Watching Corrupt Merchant Guild",
+    "vo": "watching the two corrupt merchant guild elders bow their"
+   },
+   {
+    "id": 2,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p036_customer_acting_strange_warrior_asking_why.webp",
+    "panelRight": "c11_p041_warrior_calling_for_help_character_eating.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 02: Heads Terrified Submission Chasong",
+    "vo": "heads and terrified submission chasong thai cannot help but ask why our"
+   },
+   {
+    "id": 3,
+    "duration": 4.51,
+    "motion": "slide_up",
+    "panelLeft": "c11_p030_warrior_speaking_to_errand_boy.webp",
+    "panelRight": "c11_p005_master_of_twelve_heavenly_palm_slaughterer.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 03: Boy Zahah Let Walk",
+    "vo": "boy ye zahah let them walk out alive instead of executing them on the spot"
+   },
+   {
+    "id": 4,
+    "duration": 4.2,
+    "motion": "pan_left",
+    "panelLeft": "c11_p007_man_in_robe_with_crossed_arms.webp",
+    "panelRight": "c11_p008_emperor_asks_about_removal_of_something.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 04: Chobrothers Moment Highlights Sharps",
+    "vo": "like the chobrothers this moment highlights the sharps strategic"
+   },
+   {
+    "id": 5,
+    "duration": 4.57,
+    "motion": "zoom_out",
+    "panelLeft": "c11_p009_warrior_in_red_robe_talking_to.webp",
+    "panelRight": "c11_p010_clan_leader_speaks_warrior_in_battle.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 05: Intellect Operating Beneath Zahah'S",
+    "vo": "intellect operating beneath zahah's wild exterior killing low"
+   },
+   {
+    "id": 6,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c11_p011_warrior_in_front_of_temple_shouting.webp",
+    "panelRight": "c11_p012_warrior_in_battle_sword_drawn_enemy.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 06: Level Enforcers Thing Butchering",
+    "vo": "level enforcers is one thing but butchering prominent commercial leaders creates an administrative"
+   },
+   {
+    "id": 7,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c11_p027_warrior_agrees_to_fight_black_mystic.webp",
+    "panelRight": "c11_p006_man_in_black_robe_warrior_in.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 07: Vacuum Forces Regional Superpowers",
+    "vo": "vacuum that forces regional superpowers specifically the black mystic"
+   },
+   {
+    "id": 8,
+    "duration": 4.46,
+    "motion": "slide_down",
+    "panelLeft": "c11_p015_warrior_in_courtyard_talking_about_making.webp",
+    "panelRight": "c11_p003_warrior_in_red_robe_crossed_arms.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 08: Union Intervene Directly Boys'",
+    "vo": "union to intervene directly in our boys' tactical assessment the regional syndicate"
+   },
+   {
+    "id": 9,
+    "duration": 4.37,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p023_warrior_speaking_to_another_discussing_care.webp",
+    "panelRight": "c11_p017_japanese_restaurant_with_lanterns.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 09: Doesn'T Care Collects Protection",
+    "vo": "doesn't care who collects the protection money and ill young prefecture as"
+   },
+   {
+    "id": 10,
+    "duration": 4.11,
+    "motion": "slide_up",
+    "panelLeft": "c11_p019_man_eating_with_chopsticks.webp",
+    "panelRight": "c11_p020_warrior_in_kimono_sword_and_armor.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 10: Long Quotas Paid Time",
+    "vo": "long as the quotas are paid on time and drawing the personal attention of the slaughterer the"
+   },
+   {
+    "id": 11,
+    "duration": 4.17,
+    "motion": "slide_down",
+    "panelLeft": "c11_p021_emperor_speaking_smiling_seated_looking_at.webp",
+    "panelRight": "c11_p022_warrior_in_kimono_sword_and_robe.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 11: Terrifying Grandmaster Heavenly Poms",
+    "vo": "terrifying grandmaster of the heavenly poms would be suicidal while"
+   },
+   {
+    "id": 12,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p024_warrior_in_conversation_discussing_consequences.webp",
+    "panelRight": "c11_p025_man_speaking_questioning_mentioning_past_against.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 12: Youthful Dantian Still Consolidating",
+    "vo": "his youthful dantian is still consolidating to keep the town running smoothly"
+   },
+   {
+    "id": 13,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c11_p026_two_men_in_traditional_clothing_one.webp",
+    "panelRight": "c11_p028_warrior_speaking_holding_sword_looking_surprised.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 13: Zaha Promotes Soon Tied",
+    "vo": "zaha promotes soon tied to acting administrator of the newly christened how"
+   },
+   {
+    "id": 14,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c11_p029_warrior_thanks_for_meal.webp",
+    "panelRight": "c11_p031_warrior_in_battle.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 14: Clan Tasking Auditing Brothel'S",
+    "vo": "clan tasking him with auditing the brothel's accounts and seizing all hidden"
+   },
+   {
+    "id": 15,
+    "duration": 4.0,
+    "motion": "zoom_out",
+    "panelLeft": "c11_p032_warrior_in_yellow_robe_offering_soup.webp",
+    "panelRight": "c11_p033_emperor_speaking_pointing_finger_looking_confused.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 15: Syndicate Assets Boy Couples",
+    "vo": "syndicate assets but our boy couples this corporate promotion with an unmistakable"
+   },
+   {
+    "id": 16,
+    "duration": 4.71,
+    "motion": "pan_right",
+    "panelLeft": "c11_p042_emperor_speaking_warning_to_be_careful.webp",
+    "panelRight": "c11_p078_warrior_in_battle_rain_warning.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 16: Death Threat Casually Warning",
+    "vo": "death threat casually warning some day that if a single silver coin goes missing from the"
+   },
+   {
+    "id": 17,
+    "duration": 4.43,
+    "motion": "pulse_zoom",
+    "panelLeft": "c11_p034_warrior_signs_up_emperor_speaks_character.webp",
+    "panelRight": "c11_p035_warrior_eating_asking_for_free_meal.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 17: Books Punishment Won'T Demotion",
+    "vo": "books the punishment won't be a demotion but an immediate grave beside"
+   },
+   {
+    "id": 18,
+    "duration": 4.06,
+    "motion": "slide_down",
+    "panelLeft": "c11_p037_person_eating_soup_with_chopsticks.webp",
+    "panelRight": "c11_p038_three_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 18: Chog Realizing New Ceo",
+    "vo": "chog one realizing that his new ceo considers capital punishment"
+   },
+   {
+    "id": 19,
+    "duration": 4.47,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p039_blackclad_figure_in_traditional_attire.webp",
+    "panelRight": "c11_p040_warrior_in_dark_intense_gaze.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 19: Standard Company Policy Ties",
+    "vo": "standard company policy some ties scurries off to manage the books with"
+   },
+   {
+    "id": 20,
+    "duration": 4.53,
+    "motion": "slide_up",
+    "panelLeft": "c11_p043_warrior_in_conversation_character_with_aching.webp",
+    "panelRight": "c11_p044_warrior_in_a_room_talking_to.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 20: Trembling Diligence Fully Aware",
+    "vo": "trembling diligence fully aware that stealing even pocket change from a"
+   },
+   {
+    "id": 21,
+    "duration": 4.47,
+    "motion": "slide_down",
+    "panelLeft": "c11_p045_warrior_in_robe_with_sword.webp",
+    "panelRight": "c11_p015_warrior_in_courtyard_talking_about_making.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 21: Reincarnated Madman Fastest Way",
+    "vo": "reincarnated madman is the fastest way to get erased from the mortal"
+   },
+   {
+    "id": 22,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p047_warrior_in_rain_dark_clouds_lanterns.webp",
+    "panelRight": "c11_p048_warrior_in_rain_asking_about_reconnaissance.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 22: Realm Later Afternoon Cold",
+    "vo": "realm later that afternoon a cold torrential downpour engulfs"
+   },
+   {
+    "id": 23,
+    "duration": 4.44,
+    "motion": "slide_up",
+    "panelLeft": "c11_p049_warrior_crying_rain_speech_bubble.webp",
+    "panelRight": "c11_p050_man_in_cloak_head_turned_dark.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 23: Prefecture Turning Dirt Streets",
+    "vo": "the prefecture turning the dirt streets into treacherous mud stepping outside"
+   },
+   {
+    "id": 24,
+    "duration": 4.41,
+    "motion": "pan_left",
+    "panelLeft": "c11_p055_warrior_speaking_burning_house_rain_crying.webp",
+    "panelRight": "c11_p051_warrior_in_rain_looking_at_sky.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 24: Tea House Forge Blade",
+    "vo": "the tea house with his forge blade strapped to his back zaha spots a sinister figure"
+   },
+   {
+    "id": 25,
+    "duration": 4.14,
+    "motion": "zoom_out",
+    "panelLeft": "c11_p056_man_in_hat_rain_speech_bubble.webp",
+    "panelRight": "c11_p052_black_reconnaissance_agent.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 25: Emerging Emerging Through Gray",
+    "vo": "emerging emerging through the gray mist wearing a drenched straw conical hat"
+   },
+   {
+    "id": 26,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c11_p053_warrior_in_battle_sword_rain_tears.webp",
+    "panelRight": "c11_p054_younger_twin_sword_demon_monk_rain.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 26: Black Assassin Robes Stranger",
+    "vo": "and black assassin robes the stranger identifies himself"
+   },
+   {
+    "id": 27,
+    "duration": 4.6,
+    "motion": "pulse_zoom",
+    "panelLeft": "c11_p057_warrior_in_rain_talking_to_another.webp",
+    "panelRight": "c11_p058_warrior_speaking_to_another_ripping_mouth.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 27: Woo Black Reconnaissance Demanding",
+    "vo": "as we so woo of the black reconnaissance demanding to know why"
+   },
+   {
+    "id": 28,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c11_p039_blackclad_figure_in_traditional_attire.webp",
+    "panelRight": "c11_p060_sword_and_a_castle_in_the.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 28: Tavern Errand Boy Audacity",
+    "vo": "a tavern errand boy had the audacity to execute their undercover operative"
+   },
+   {
+    "id": 29,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p061_two_men_in_battle_one_holding.webp",
+    "panelRight": "c11_p062_warrior_in_battle_sword_swinging_dust.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 29: Neon Syoke Looking Assassin",
+    "vo": "neon g syoke looking into the assassin shadowed"
+   },
+   {
+    "id": 30,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c11_p063_warrior_in_battle_boots_walking_sword.webp",
+    "panelRight": "c11_p064_warrior_in_battle_sword_swinging_rain.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 30: Face Zaha Immediately Recognizes",
+    "vo": "face zaha immediately recognizes him in his past life the infamous sword"
+   },
+   {
+    "id": 31,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c11_p065_warrior_in_battle_rain_shouting_bastard.webp",
+    "panelRight": "c11_p066_warrior_in_battle_sword_rain_tears.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 31: Demon Twins Notorious Underworld",
+    "vo": "demon twins were notorious underworld hitman who hunted our boy across"
+   },
+   {
+    "id": 32,
+    "duration": 4.55,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p067_warrior_in_battle_sword_clashed_sparks.webp",
+    "panelRight": "c11_p068_warrior_in_battle_sword_rain_boots.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 32: Northern Provinces Turned Fertilizer",
+    "vo": "the northern provinces before he turned them into fertilizer seeing that"
+   },
+   {
+    "id": 33,
+    "duration": 4.2,
+    "motion": "slide_up",
+    "panelLeft": "c11_p069_warrior_in_battle_boots_walking_sword.webp",
+    "panelRight": "c11_p070_warrior_in_battle_raining_sword_boots.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 33: Sone Several Years Younger",
+    "vo": "we sone wu is several years younger and hasn't yet reached his"
+   },
+   {
+    "id": 34,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c11_p073_master_warriors_rain_courtyard_swords.webp",
+    "panelRight": "c11_p087_martial_master_hiding_strength_warrior_ready.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 34: Peak Master Rank Zaha",
+    "vo": "peak master rank zaha meets the threat with pure comedic disdain"
+   },
+   {
+    "id": 35,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c11_p071_warrior_in_battle_rain_speech_bubble.webp",
+    "panelRight": "c11_p072_warrior_in_red_robe_sword_rain.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 35: Assassin Declares Boy Die",
+    "vo": "when the assassin declares that our boy will die in the mud for"
+   },
+   {
+    "id": 36,
+    "duration": 4.25,
+    "motion": "pan_right",
+    "panelLeft": "c11_p091_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c11_p074_man_in_rain_holding_umbrella.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 36: Burning Syndicates Local Investments",
+    "vo": "burning down the syndicates local investments zaha doesn't flinch instead"
+   },
+   {
+    "id": 37,
+    "duration": 4.42,
+    "motion": "pulse_zoom",
+    "panelLeft": "c11_p047_warrior_in_rain_dark_clouds_lanterns.webp",
+    "panelRight": "c11_p062_warrior_in_battle_sword_swinging_dust.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 37: Looks Man'S Dripping Straw",
+    "vo": "he looks up at the man's dripping straw hat completely ignores the death threat"
+   },
+   {
+    "id": 38,
+    "duration": 4.53,
+    "motion": "slide_down",
+    "panelLeft": "c11_p077_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c11_p079_warrior_in_red_robe_talking_rain.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 38: Starts Mercilessly Roasting Assassin'S",
+    "vo": "and starts mercilessly roasting the assassin's receding hairline pointing"
+   },
+   {
+    "id": 39,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p092_bald_man_in_a_dark_robe.webp",
+    "panelRight": "c11_p080_warrior_in_battle_rain_sword_mountains.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 39: Plans Going Fail Miserably",
+    "vo": "out that his plans are going to fail just as miserably as his bald scalp failed to hold on"
+   },
+   {
+    "id": 40,
+    "duration": 4.2,
+    "motion": "slide_up",
+    "panelLeft": "c11_p095_man_with_white_hair_and_yellow.webp",
+    "panelRight": "c11_p013_man_with_white_hair_and_eye.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 40: Hair Psychologically Classic Crazy",
+    "vo": "to hair psychologically this is classic crazy demon"
+   },
+   {
+    "id": 41,
+    "duration": 4.2,
+    "motion": "slide_down",
+    "panelLeft": "c11_p083_two_warriors_in_battle_one_holding.webp",
+    "panelRight": "c11_p068_warrior_in_battle_sword_rain_boots.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 41: Warfare While Ordinary Swordsmen",
+    "vo": "warfare while ordinary swordsmen spend minutes trying to look mysterious"
+   },
+   {
+    "id": 42,
+    "duration": 4.6,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p084_warrior_crying_rain_speech_bubble.webp",
+    "panelRight": "c11_p086_warrior_in_rain_emperor_speaking.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 42: Intimidating Rain Zaha Instantly",
+    "vo": "and intimidating in the rain zaha instantly shatters their ed brooding persona"
+   },
+   {
+    "id": 43,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c11_p088_two_warriors_in_battle_one_with.webp",
+    "panelRight": "c11_p085_emperor_kaiser_speaking.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 43: Personal Emotional Damage Unexpected",
+    "vo": "with personal emotional damage this unexpected confrontation marks"
+   },
+   {
+    "id": 44,
+    "duration": 4.2,
+    "motion": "pan_left",
+    "panelLeft": "c11_p089_warrior_in_battle_sword_drawn_eyes.webp",
+    "panelRight": "c11_p090_warrior_with_intense_expression.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 44: First External Test Fledgling",
+    "vo": "the first external test of the fledgling how clan proving"
+   },
+   {
+    "id": 45,
+    "duration": 4.0,
+    "motion": "zoom_out",
+    "panelLeft": "c11_p093_warrior_in_red_robe_with_sword.webp",
+    "panelRight": "c11_p094_warrior_with_sword_dialogue_about_identity.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 45: Zaha'S Aggressive Local Takeover",
+    "vo": "that zaha's aggressive local takeover has officially sent shockwaves beyond"
+   },
+   {
+    "id": 46,
+    "duration": 4.8,
+    "motion": "pan_right",
+    "panelLeft": "c11_p096_warrior_in_red_robe_sword_rain.webp",
+    "panelRight": "c11_p097_warrior_in_rain_speaking_to_another.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 46: Prefectures Borders Enraged Beyond",
+    "vo": "the prefectures borders enraged beyond reason by the bald joke"
+   },
+   {
+    "id": 47,
+    "duration": 4.57,
+    "motion": "pulse_zoom",
+    "panelLeft": "c11_p100_warrior_in_battle_sword_rain_shouting.webp",
+    "panelRight": "c11_p103_man_lying_down_rain_pouring_down.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 47: Sawn'T Woo Draws Jagged",
+    "vo": "we sawn't woo draws his jagged broadsword the rain hissing against cold steel"
+   },
+   {
+    "id": 48,
+    "duration": 3.83,
+    "motion": "slide_down",
+    "panelLeft": "c11_p099_warrior_in_battle_sword_drawn_dark.webp",
+    "panelRight": "c11_p098_warrior_in_battle_shouting_you.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 48: Dark Alley Transforms Lethal",
+    "vo": "as the dark alley transforms into a lethal execution"
+   },
+   {
+    "id": 49,
+    "duration": 4.74,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p101_warrior_in_battle_using_a_powerful.webp",
+    "panelRight": "c11_p102_warrior_in_battle_flying_sword_enemy.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 49: Ground Thanks Watching Don'T",
+    "vo": "ground thanks for watching and don't forget to like and subscribe for more videos"
+   },
+   {
+    "id": 50,
+    "duration": 4.46,
+    "motion": "slide_up",
+    "panelLeft": "c11_p104_man_in_rain_surprised_expression.webp",
+    "panelRight": "c11_p105_man_sleeping_in_rain.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 50: Don'T Forget Subscribe Moreard",
+    "vo": "and don't forget to like and subscribe for moreard completely unfazed by the"
+   },
+   {
+    "id": 51,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c11_p106_warrior_in_battle_crying_rain_speech.webp",
+    "panelRight": "c11_p107_warrior_in_rain_talking_to_emperor.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 51: Storm Standing Ready Prove",
+    "vo": "storm standing ready to prove that a seasoned apex predator never loses his edge"
+   },
+   {
+    "id": 52,
+    "duration": 4.14,
+    "motion": "zoom_in",
+    "panelLeft": "c11_p081_warrior_in_battle_sword_swinging_sky.webp",
+    "panelRight": "c11_p088_two_warriors_in_battle_one_with.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 52: Regardless Century Timeline Weather",
+    "vo": "regardless of what century timeline or weather conditions he finds himself"
+   },
+   {
+    "id": 53,
+    "duration": 4.86,
+    "motion": "slide_up",
+    "panelLeft": "c11_p080_warrior_in_battle_rain_sword_mountains.webp",
+    "panelRight": "c11_p100_warrior_in_battle_sword_rain_shouting.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 53: Fighting Steel Flashing Through",
+    "vo": "fighting in and with steel flashing through the storm the rain soaked dual begins"
+   }
+  ]
+ },
+ "Chapter_012": {
+  "id": "Chapter_012",
+  "title": "Chapter 012",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 2457,
+  "duration": 230,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.14,
+    "motion": "slide_down",
+    "panelLeft": "c12_p001_man_with_mud_on_clothes_rain.webp",
+    "panelRight": "c12_p002_warrior_in_rain_talking_to_another.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 01: Torrential Rain Thunders Against",
+    "vo": "torrential rain thunders against the cobblestone street as the"
+   },
+   {
+    "id": 2,
+    "duration": 4.36,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p090_warrior_with_fangs_threatening_death.webp",
+    "panelRight": "c12_p003_warrior_in_battle_emperor_speaking_guards.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 02: Life Death Standoff Begins",
+    "vo": "life and death standoff begins but before reson wu can swing"
+   },
+   {
+    "id": 3,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c12_p005_man_with_white_hair_speech_bubble.webp",
+    "panelRight": "c12_p004_warrior_in_rain_bald_man_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 03: Jagged Broadsword Tense Atmosphere",
+    "vo": "his jagged broadsword the tense atmosphere is completely ruined by pure"
+   },
+   {
+    "id": 4,
+    "duration": 4.43,
+    "motion": "pan_left",
+    "panelLeft": "c12_p007_bald_man_with_deep_scars_talking.webp",
+    "panelRight": "c12_p006_warrior_in_rain_sword_shivering.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 04: Slapstick Comedy Chasun Thai",
+    "vo": "slapstick comedy chasun thai desperately trying to prove his loyalty as the"
+   },
+   {
+    "id": 5,
+    "duration": 4.46,
+    "motion": "zoom_out",
+    "panelLeft": "c12_p009_man_in_traditional_clothing_with_a.webp",
+    "panelRight": "c12_p008_warrior_in_battle_sword_shouting_die.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 05: Newly Appointed Administrator How",
+    "vo": "newly appointed administrator of the how clan attempts to sneak up behind"
+   },
+   {
+    "id": 6,
+    "duration": 4.24,
+    "motion": "pan_right",
+    "panelLeft": "c12_p011_warrior_in_battle_sword_swinging_rain.webp",
+    "panelRight": "c12_p017_warrior_in_battle_sword_swinging_rain.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 06: Assassins Through Pouring Rain",
+    "vo": "the assassins through the pouring rain only to slip on the wet mud and face plant"
+   },
+   {
+    "id": 7,
+    "duration": 4.3,
+    "motion": "pulse_zoom",
+    "panelLeft": "c12_p013_fierce_menacing_figure_with_sharp_glowing.webp",
+    "panelRight": "c12_p012_blackhaired_warrior_with_red_eyes.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 07: Directly Brown Puddle Standing",
+    "vo": "directly into a brown puddle standing up with his expensive silk robes soaked"
+   },
+   {
+    "id": 8,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c12_p050_man_in_traditional_clothing_crying_in.webp",
+    "panelRight": "c12_p015_two_warriors_in_battle_one_with.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 08: Grime Brothel Manager Completely",
+    "vo": "in grime the brothel manager completely forgets about the armed assassins and starts"
+   },
+   {
+    "id": 9,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p016_bald_man_in_a_black_cloak.webp",
+    "panelRight": "c12_p014_bald_man_in_a_black_cloak.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 09: Furiously Whining Ruining Brand",
+    "vo": "furiously whining about ruining his brand new outfit watching his right hand man"
+   },
+   {
+    "id": 10,
+    "duration": 4.27,
+    "motion": "slide_up",
+    "panelLeft": "c12_p019_warrior_in_rain_talking_to_another.webp",
+    "panelRight": "c12_p018_warrior_in_battle_sword_drawn_snow.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 10: Bungalow Stealth Assassination Broad",
+    "vo": "bungalow stealth assassination in broad daylight zaha looks over with dead panned"
+   },
+   {
+    "id": 11,
+    "duration": 4.83,
+    "motion": "slide_down",
+    "panelLeft": "c12_p092_warrior_in_rain_asking_cha_sungtae.webp",
+    "panelRight": "c12_p021_warriors_in_rain_sword_raindrops_characters.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 11: Disbelief Asking Sante Genuinely",
+    "vo": "disbelief asking if sante genuinely believed that noisy clumsy maneuver"
+   },
+   {
+    "id": 12,
+    "duration": 4.32,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p023_warrior_in_battle_talking_to_himself.webp",
+    "panelRight": "c12_p022_warrior_in_rain_thinking_back_feeling.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 12: Ever Work Seasoned Killers",
+    "vo": "would ever work on seasoned killers song tai stubbornly argues that if the"
+   },
+   {
+    "id": 13,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c12_p025_warrior_holding_sword_text_you_are.webp",
+    "panelRight": "c12_p024_man_with_backpack_surprised_expression.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 13: Weather Dry Decapitated Both",
+    "vo": "weather had been dry he would have decapitated both assassins cleanly treating"
+   },
+   {
+    "id": 14,
+    "duration": 4.42,
+    "motion": "pan_left",
+    "panelLeft": "c12_p027_warrior_in_traditional_attire_holding_sword.webp",
+    "panelRight": "c12_p026_warrior_holding_sword_dark_background.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 14: Elite Underworld Ambush Minor",
+    "vo": "an elite underworld ambush like a minor inconvenience standing feet"
+   },
+   {
+    "id": 15,
+    "duration": 4.19,
+    "motion": "zoom_out",
+    "panelLeft": "c12_p011_warrior_in_battle_sword_swinging_rain.webp",
+    "panelRight": "c12_p017_warrior_in_battle_sword_swinging_rain.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 15: Away Weapons Drawn Sown",
+    "vo": "away with their weapons drawn we sown wu and his twin"
+   },
+   {
+    "id": 16,
+    "duration": 4.48,
+    "motion": "pan_right",
+    "panelLeft": "c12_p031_warrior_with_sword_looking_around.webp",
+    "panelRight": "c12_p030_warrior_and_emperor_in_discussion.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 16: Brother Trimble Volcanic Rage",
+    "vo": "brother trimble with volcanic rage their mind's short circuiting as they realize their targets"
+   },
+   {
+    "id": 17,
+    "duration": 4.67,
+    "motion": "pulse_zoom",
+    "panelLeft": "c12_p032_warrior_speaking_sword_in_hand.webp",
+    "panelRight": "c12_p034_warrior_in_rain_sword_rain_warrior.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 17: Casually Bickering Laundry Middle",
+    "vo": "are casually bickering about laundry in the middle of a deadly confrontation"
+   },
+   {
+    "id": 18,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c12_p035_two_warriors_in_rain_one_holding.webp",
+    "panelRight": "c12_p036_warrior_in_battle_sword_swinging_sparks.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 18: Taking Psychological Disrespect Whole",
+    "vo": "taking the psychological disrespect to a whole new level zahar gazes directly"
+   },
+   {
+    "id": 19,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p037_warrior_in_battle_sword_rain_castle.webp",
+    "panelRight": "c12_p039_warrior_in_battle_sword_swinging_rain.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 19: Weisson Wu'S Shivering Rain",
+    "vo": "at weisson wu's shivering rain soaked scalp hilariously remarking"
+   },
+   {
+    "id": 20,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c12_p048_man_with_long_hair_rain_red.webp",
+    "panelRight": "c12_p004_warrior_in_rain_bald_man_sword.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 20: Because Assassin Lacks Single",
+    "vo": "that because the assassin lacks a single strand of hair the heavy rain drops look like tiny dancers"
+   },
+   {
+    "id": 21,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c12_p041_warrior_in_battle_sword_swinging_rain.webp",
+    "panelRight": "c12_p042_warrior_in_rain_holding_sword.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 21: Performing Choreography Across Smooth",
+    "vo": "performing a choreography across his smooth dome that brutal"
+   },
+   {
+    "id": 22,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p043_man_with_black_hair_blue_eyes.webp",
+    "panelRight": "c12_p044_closeup_of_a_characters_eye_with.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 22: Roast Snaps Wieson Wu'S",
+    "vo": "roast snaps wieson wu's final thread of sanity screaming in"
+   },
+   {
+    "id": 23,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c12_p045_warrior_in_battle_sword_blood_red.webp",
+    "panelRight": "c12_p046_warrior_in_battle_sword_swinging_blood.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 23: Blind Fury Both Sword",
+    "vo": "blind fury both sword demon twins lunge forward and a"
+   },
+   {
+    "id": 24,
+    "duration": 4.6,
+    "motion": "pan_left",
+    "panelLeft": "c12_p036_warrior_in_battle_sword_swinging_sparks.webp",
+    "panelRight": "c12_p047_warrior_in_battle_sword_swinging_blood.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 24: Coordinated Pincere Attack Heavy",
+    "vo": "coordinated pincere attack their heavy blades whistling through the downpour with lethal"
+   },
+   {
+    "id": 25,
+    "duration": 4.83,
+    "motion": "zoom_out",
+    "panelLeft": "c12_p072_emperor_speaking_red_eyes_tears_sword.webp",
+    "panelRight": "c12_p049_warrior_in_battle_sword_in_hand.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 25: Intent Eyes Ordinary Martial",
+    "vo": "intent in the eyes of ordinary martial artists the sword demon twins are"
+   },
+   {
+    "id": 26,
+    "duration": 3.9,
+    "motion": "pan_right",
+    "panelLeft": "c12_p051_warrior_in_rain_fallen_enemy_raindrops.webp",
+    "panelRight": "c12_p050_man_in_traditional_clothing_crying_in.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 26: Terrifying Killers Synchronized Strikes",
+    "vo": "terrifying killers who synchronized strikes are mathematically impossible to"
+   },
+   {
+    "id": 27,
+    "duration": 4.67,
+    "motion": "pulse_zoom",
+    "panelLeft": "c12_p053_man_in_traditional_clothing_rain_long.webp",
+    "panelRight": "c12_p052_blood_on_pavement_text_rain.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 27: Evade Boy Yizaha Mastered",
+    "vo": "evade but to our boy yizaha who mastered the spatial geometry of combat"
+   },
+   {
+    "id": 28,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c12_p055_warrior_in_rain_talking_to_another.webp",
+    "panelRight": "c12_p048_man_with_long_hair_rain_red.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 28: Across Thousand Bloody Battlefields",
+    "vo": "across a thousand bloody battlefields their trajectories are as obvious"
+   },
+   {
+    "id": 29,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p057_warrior_in_rain_talking_about_shower.webp",
+    "panelRight": "c12_p058_two_samurai_in_rain_sword_in.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 29: Daylight Circulating Refined Silver",
+    "vo": "as daylight by circulating the refined silver kai through his armoridians"
+   },
+   {
+    "id": 30,
+    "duration": 4.14,
+    "motion": "slide_up",
+    "panelLeft": "c12_p059_emperor_speaking_to_his_brothers.webp",
+    "panelRight": "c12_p060_rainy_day_chinese_building_lanterns_octagonal.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 30: Zahak Condenses Internal Force",
+    "vo": "zahak condenses his internal force into the razor sharp edge of his"
+   },
+   {
+    "id": 31,
+    "duration": 4.61,
+    "motion": "slide_down",
+    "panelLeft": "c12_p027_warrior_in_traditional_attire_holding_sword.webp",
+    "panelRight": "c12_p021_warriors_in_rain_sword_raindrops_characters.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 31: Forged Blade Shifting Weight",
+    "vo": "forged blade shifting his weight by a fraction of an inch zahak lets the incoming steel slice through"
+   },
+   {
+    "id": 32,
+    "duration": 4.45,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p045_warrior_in_battle_sword_blood_red.webp",
+    "panelRight": "c12_p026_warrior_holding_sword_dark_background.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 32: Empty Raindrops Executing Single",
+    "vo": "empty raindrops before executing a single blinding horizontal draw"
+   },
+   {
+    "id": 33,
+    "duration": 4.47,
+    "motion": "slide_up",
+    "panelLeft": "c12_p066_warrior_in_battle_sword_drawn_dark.webp",
+    "panelRight": "c12_p046_warrior_in_battle_sword_swinging_blood.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 33: Unleashes Arc Crimson Sword",
+    "vo": "that unleashes an arc of crimson sword key the compressed kinetic wave cuts"
+   },
+   {
+    "id": 34,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c12_p067_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c12_p049_warrior_in_battle_sword_in_hand.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 34: Through Storm Severing Weapons",
+    "vo": "through the storm severing their weapons and cleanly cutting down both"
+   },
+   {
+    "id": 35,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c12_p091_warrior_in_rain_shouting_bring_it.webp",
+    "panelRight": "c12_p097_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 35: Elite Assassins Boots Even",
+    "vo": "elite assassins before their boots even hit the ground the heavy rain instantly"
+   },
+   {
+    "id": 36,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c12_p095_warriors_fighting_blood_swords_battle.webp",
+    "panelRight": "c12_p051_warrior_in_rain_fallen_enemy_raindrops.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 36: Washes Crimson Blood Stone",
+    "vo": "washes the crimson blood down the stone gutters leaving our boy standing immaculate"
+   },
+   {
+    "id": 37,
+    "duration": 4.73,
+    "motion": "pulse_zoom",
+    "panelLeft": "c12_p052_blood_on_pavement_text_rain.webp",
+    "panelRight": "c12_p075_warriors_in_battle_sword_fighting_flying.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 37: Untouched Amidst Downboard Seeing",
+    "vo": "and untouched amidst the downboard seeing the two legendary hitmen lying lifeless"
+   },
+   {
+    "id": 38,
+    "duration": 4.27,
+    "motion": "slide_down",
+    "panelLeft": "c12_p076_warrior_in_battle_fighting_with_enemy.webp",
+    "panelRight": "c12_p077_warrior_in_battle_flying_debris.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 38: Mud Mud Chung Tais",
+    "vo": "in the mud mud chung tais humorous pervado"
+   },
+   {
+    "id": 39,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p078_hand_holding_a_sword_with_a.webp",
+    "panelRight": "c12_p079_warrior_in_battle_flying_sparks_shouting.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 39: Completely Evaporates Replaced Absolute",
+    "vo": "completely evaporates replaced by absolute petrified reverence this"
+   },
+   {
+    "id": 40,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c12_p080_warriors_in_a_destroyed_room.webp",
+    "panelRight": "c12_p081_warrior_in_bath_speaking_to_enemy.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 40: Exact Moment Suntai'S Mindset",
+    "vo": "is the exact moment suntai's mindset permanently shifts he stops"
+   },
+   {
+    "id": 41,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c12_p082_emperor_speaking_eyes_wide_shocked.webp",
+    "panelRight": "c12_p020_man_crying_in_rain_saying_woah.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 41: Viewing Boy Lucky Unhinged",
+    "vo": "viewing our boy as a lucky unhinged kid and finally recognizes that"
+   },
+   {
+    "id": 42,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p084_warrior_in_battle_sword_drawn_emperor.webp",
+    "panelRight": "c12_p085_man_with_black_hair_serious_expression.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 42: Serving Mortal Warlord Operates",
+    "vo": "he is serving in a mortal warlord who operates on a plane of existence mortal"
+   },
+   {
+    "id": 43,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c12_p094_man_in_white_robe_falling_sword.webp",
+    "panelRight": "c12_p099_warrior_in_battle_sword_drawn_rain.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 43: Men Cannot Comprehend Falling",
+    "vo": "men cannot comprehend falling to his knees in the soaking rain the"
+   },
+   {
+    "id": 44,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c12_p087_man_with_dark_hair_speech_bubble.webp",
+    "panelRight": "c12_p086_warrior_in_red_robe_shouting_truth.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 44: Manager Bows Trembling Hands",
+    "vo": "manager bows with trembling hands stammering out his deepest gratitude for"
+   },
+   {
+    "id": 45,
+    "duration": 4.6,
+    "motion": "zoom_out",
+    "panelLeft": "c12_p089_warrior_in_battle_text_i_dont.webp",
+    "panelRight": "c12_p088_warrior_in_robe_old_man_in.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 45: Zahaz Hard Work Looking",
+    "vo": "zahaz hard work looking down at his shaking underling with cold detachment"
+   },
+   {
+    "id": 46,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c12_p093_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c12_p096_closeup_of_a_characters_intense_redeyed.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 46: Zahaz Wiped Rainwater Blade",
+    "vo": "zahaz wiped the rainwater from his blade casually telling the manager"
+   },
+   {
+    "id": 47,
+    "duration": 4.57,
+    "motion": "pulse_zoom",
+    "panelLeft": "c12_p098_rainstorm_house_blurry_figure.webp",
+    "panelRight": "c12_p101_warrior_in_red_robe_holding_sword.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 47: Stop Acting Unnaturally Polite",
+    "vo": "to stop acting so unnaturally polite and returned to his usual insulin"
+   },
+   {
+    "id": 48,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c12_p102_warrior_in_rain_talking_to_someone.webp",
+    "panelRight": "c12_p103_man_in_rain_question_mark.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 48: Self Zahaz World True",
+    "vo": "self in zahaz world true power doesn't need grovelling sycophants"
+   },
+   {
+    "id": 49,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p056_black_reconnaissance_above_black_mystic_union.webp",
+    "panelRight": "c12_p028_glowing_fiery_sword_with_a_black.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 49: Demands Competent Results Black",
+    "vo": "it demands competent results and with the black reconnaissance's elite vanguard"
+   },
+   {
+    "id": 50,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c12_p069_two_men_in_traditional_attire_holding.webp",
+    "panelRight": "c12_p100_warriors_preparing_for_attack.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 50: Officially Neutralized Rest Syndicates",
+    "vo": "officially neutralized the rest of the syndicates local foot soldiers are"
+   },
+   {
+    "id": 51,
+    "duration": 4.54,
+    "motion": "slide_down",
+    "panelLeft": "c12_p029_warrior_in_robe_and_cloak_monk.webp",
+    "panelRight": "c12_p020_man_crying_in_rain_saying_woah.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 51: Learn Happens Surround Reincarnated",
+    "vo": "about to learn what happens when they surround a reincarnated demon in the dead of night setting"
+   },
+   {
+    "id": 52,
+    "duration": 4.75,
+    "motion": "zoom_in",
+    "panelLeft": "c12_p010_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c12_p077_warrior_in_battle_flying_debris.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 52: Immediate Clash Cleanse Streets",
+    "vo": "up an immediate clash that will cleanse the streets of iliang once and for all"
+   }
+  ]
+ },
+ "Chapter_013": {
+  "id": "Chapter_013",
+  "title": "Chapter 013",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 2687,
+  "duration": 232,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c13_p023_warrior_in_battle_sword_blood_tears.webp",
+    "panelRight": "c13_p008_warrior_in_battle_sword_in_hand.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 01: Blood Sword Demon Twins",
+    "vo": "before the blood from the sword demon twins can even settle into"
+   },
+   {
+    "id": 2,
+    "duration": 4.2,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p003_warrior_in_rain_crying_speech_bubble.webp",
+    "panelRight": "c13_p004_warriors_in_battle_swords_drawn_rain.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 02: Rain Gutters Remaining Foot",
+    "vo": "the rain gutters the remaining foot soldiers of the black reconnaissance emerge from the"
+   },
+   {
+    "id": 3,
+    "duration": 4.68,
+    "motion": "slide_up",
+    "panelLeft": "c13_p001_warriors_gathered_rain_dark_sky_swords.webp",
+    "panelRight": "c13_p017_warrior_in_battle_rain_dark_sky.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 03: Dark Alleyways Drawing Daggers",
+    "vo": "dark alleyways drawing their daggers and surrounding chasun thai in a desperate attempt"
+   },
+   {
+    "id": 4,
+    "duration": 4.46,
+    "motion": "pan_left",
+    "panelLeft": "c13_p006_warriors_fighting_shouting_swords_shouting_swords.webp",
+    "panelRight": "c13_p007_warriors_attacking_shouting_attack_him_together.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 04: Salvage Failed Ambush Completely",
+    "vo": "to salvage their failed ambush completely dropping his tough"
+   },
+   {
+    "id": 5,
+    "duration": 4.24,
+    "motion": "zoom_out",
+    "panelLeft": "c13_p020_warrior_in_rain_character_speaking.webp",
+    "panelRight": "c13_p022_warriors_in_battle_rain_injured_character.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 05: Gangster Persona Brothel Manager",
+    "vo": "gangster persona the brothel manager frantically cowers behind a rain"
+   },
+   {
+    "id": 6,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c13_p010_warrior_in_battle_fist_glowing_flying.webp",
+    "panelRight": "c13_p002_warrior_in_battle_shouting_for_help.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 06: Barrel Shrieking Helpless Maiden",
+    "vo": "barrel shrieking like a helpless maiden in distress for boy to hurry up and"
+   },
+   {
+    "id": 7,
+    "duration": 4.0,
+    "motion": "pulse_zoom",
+    "panelLeft": "c13_p012_warrior_in_battle_fighting_multiple_enemies.webp",
+    "panelRight": "c13_p011_warrior_in_battle_sword_swinging_fiery.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 07: Save Life Watching Newly",
+    "vo": "save his life watching his newly appointed chief financial officer completely"
+   },
+   {
+    "id": 8,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c13_p005_warrior_in_battle_speaking_to_enemy.webp",
+    "panelRight": "c13_p013_warrior_falling_sword_swinging_chaos_explosion.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 08: Abandoned Personal Dignity Zaha",
+    "vo": "abandoned all personal dignity zaha looks over with deadpan"
+   },
+   {
+    "id": 9,
+    "duration": 4.21,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p019_man_with_white_hair_and_red.webp",
+    "panelRight": "c13_p028_man_with_white_hair_serious_expression.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 09: Exhaustion Dryly Asking Grown",
+    "vo": "exhaustion dryly asking if a grown man begging for his life has any"
+   },
+   {
+    "id": 10,
+    "duration": 4.46,
+    "motion": "slide_up",
+    "panelLeft": "c13_p016_warrior_stabbing_another_in_the_back.webp",
+    "panelRight": "c13_p018_warrior_speaking_character_crying_warrior_saying.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 10: Shame Left Soul Instead",
+    "vo": "shame left in his soul but instead of letting his subordinate get butchered in"
+   },
+   {
+    "id": 11,
+    "duration": 4.38,
+    "motion": "slide_down",
+    "panelLeft": "c13_p006_warriors_fighting_shouting_swords_shouting_swords.webp",
+    "panelRight": "c13_p015_warrior_in_battle_shouting_at_enemies.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 11: Mud Boy Calmly Strolls",
+    "vo": "the mud our boy calmly strolls straight into the center of the armed mob his bare"
+   },
+   {
+    "id": 12,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p024_warrior_in_rain_emperor_speaking_warrior.webp",
+    "panelRight": "c13_p025_sung_tae_says_yes.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 12: Hands Resting Loosely Sides",
+    "vo": "hands resting loosely at his sides believing that a scrawny tavern worker is"
+   },
+   {
+    "id": 13,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c13_p007_warriors_attacking_shouting_attack_him_together.webp",
+    "panelRight": "c13_p012_warrior_in_battle_fighting_multiple_enemies.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 13: Helpless Without Forged Sword",
+    "vo": "helpless without a forged sword in his grip the mob enforcers charge forward"
+   },
+   {
+    "id": 14,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c13_p073_warrior_in_robe_martial_arts_pose.webp",
+    "panelRight": "c13_p026_warrior_asks_about_killing.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 14: Together Screaming Sheer Numbers",
+    "vo": "together screaming that sheer numbers will overwhelm any lone martial artist"
+   },
+   {
+    "id": 15,
+    "duration": 4.2,
+    "motion": "zoom_out",
+    "panelLeft": "c13_p027_warrior_speaking_looking_angry.webp",
+    "panelRight": "c13_p029_warrior_in_battle_rain_speech_bubble.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 15: Follows Brutal Masterclass Pure",
+    "vo": "what follows is a brutal masterclass in pure"
+   },
+   {
+    "id": 16,
+    "duration": 4.37,
+    "motion": "pan_right",
+    "panelLeft": "c13_p030_two_men_in_traditional_clothing_rain.webp",
+    "panelRight": "c13_p036_man_in_robe_meditating_flames_traditional.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 16: Internal Palm Mechanics Rather",
+    "vo": "internal palm mechanics rather than relying on brute physical"
+   },
+   {
+    "id": 17,
+    "duration": 3.93,
+    "motion": "pulse_zoom",
+    "panelLeft": "c13_p032_man_in_a_robe_walks_through.webp",
+    "panelRight": "c13_p014_woman_kneeling_blood_on_ground_dead.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 17: Speech",
+    "vo": "[no speech]"
+   },
+   {
+    "id": 18,
+    "duration": 4.7,
+    "motion": "slide_down",
+    "panelLeft": "c13_p010_warrior_in_battle_fist_glowing_flying.webp",
+    "panelRight": "c13_p009_warrior_in_battle_shouting_sword_fire.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 18: Bypass Exterior Muscle",
+    "vo": "bypass exterior muscle to"
+   },
+   {
+    "id": 19,
+    "duration": 4.8,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p008_warrior_in_battle_sword_in_hand.webp",
+    "panelRight": "c13_p024_warrior_in_rain_emperor_speaking_warrior.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 19: Detonate Against Internal Bone",
+    "vo": "detonate against internal bone without taking a single step backward"
+   },
+   {
+    "id": 20,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c13_p011_warrior_in_battle_sword_swinging_fiery.webp",
+    "panelRight": "c13_p013_warrior_falling_sword_swinging_chaos_explosion.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 20: Boy Unleashes Rapid Flurry",
+    "vo": "our boy unleashes a rapid flurry of concussive palm strikes cracking against"
+   },
+   {
+    "id": 21,
+    "duration": 4.17,
+    "motion": "slide_down",
+    "panelLeft": "c13_p022_warriors_in_battle_rain_injured_character.webp",
+    "panelRight": "c13_p016_warrior_stabbing_another_in_the_back.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 21: Jaws Collar Bones Sternums",
+    "vo": "jaws collar bones and sternums with terrifying precision every strike"
+   },
+   {
+    "id": 22,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p001_warriors_gathered_rain_dark_sky_swords.webp",
+    "panelRight": "c13_p004_warriors_in_battle_swords_drawn_rain.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 22: Sends Grown Man Ragdolling",
+    "vo": "sends a grown man ragdolling across the wet cobblestones scattering the entire ambush"
+   },
+   {
+    "id": 23,
+    "duration": 3.71,
+    "motion": "slide_up",
+    "panelLeft": "c13_p030_two_men_in_traditional_clothing_rain.webp",
+    "panelRight": "c13_p032_man_in_a_robe_walks_through.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 23: Squad Bowling Pins Until",
+    "vo": "squad like bowling pins until the alley falls"
+   },
+   {
+    "id": 24,
+    "duration": 4.74,
+    "motion": "pan_left",
+    "panelLeft": "c13_p054_warrior_in_blue_robe_talking_to.webp",
+    "panelRight": "c13_p034_sun_comet_trees.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 24: Dead Silent Following Morning",
+    "vo": "dead silent the following morning breaks with clear blue skies the warm golden"
+   },
+   {
+    "id": 25,
+    "duration": 4.4,
+    "motion": "zoom_out",
+    "panelLeft": "c13_p078_warrior_in_street_old_man_standing.webp",
+    "panelRight": "c13_p045_warrior_in_traditional_attire_talking.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 25: Sunlight Washing Away Grim",
+    "vo": "sunlight washing away the grim violence of the night before standing amidst the charred"
+   },
+   {
+    "id": 26,
+    "duration": 4.24,
+    "motion": "pan_right",
+    "panelLeft": "c13_p046_master_artisan_ignoble_clan_leader_character.webp",
+    "panelRight": "c13_p047_three_men_in_traditional_clothing_conversing.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 26: Ruins Standing Amidst Charred",
+    "vo": "ruins standing amidst the charred ruin standing amidst the"
+   },
+   {
+    "id": 27,
+    "duration": 4.76,
+    "motion": "pulse_zoom",
+    "panelLeft": "c13_p048_warrior_meets_owner_of_dragon_head.webp",
+    "panelRight": "c13_p049_warrior_in_discussion_head_position_offered.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 27: Charred Ruin Standing Amidst",
+    "vo": "charred ruin standing amidst the charred ruin the master builder of"
+   },
+   {
+    "id": 28,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c13_p055_sung_tae_clan_leader_yes.webp",
+    "panelRight": "c13_p050_two_warriors_in_traditional_attire_one.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 28: Construction Clan Legendary Guild",
+    "vo": "the construction clan a legendary guild of craftsmen formerly known as the"
+   },
+   {
+    "id": 29,
+    "duration": 4.8,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p052_warrior_asking_favor_emperor_speaking.webp",
+    "panelRight": "c13_p053_warrior_discussing_building_barrack.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 29: Chaksek Specialize Erecting Heavily",
+    "vo": "chaksek who specialize in erecting heavily fortified defensible estates"
+   },
+   {
+    "id": 30,
+    "duration": 4.34,
+    "motion": "slide_up",
+    "panelLeft": "c13_p056_warrior_in_robes_talking_looking_around.webp",
+    "panelRight": "c13_p062_warrior_looking_for_jobs_talking_to.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 30: Looking Property Keen Architectural",
+    "vo": "looking over the property with keen architectural eyes the master builder promises"
+   },
+   {
+    "id": 31,
+    "duration": 3.86,
+    "motion": "slide_down",
+    "panelLeft": "c13_p059_man_in_robe_others_in_background.webp",
+    "panelRight": "c13_p060_warrior_in_front_of_building.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 31: Transform Burnt Wooden Shack",
+    "vo": "to transform the burnt wooden shack into a magnificent martial headquarters"
+   },
+   {
+    "id": 32,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p061_warrior_meets_another_warrior.webp",
+    "panelRight": "c13_p063_warrior_in_conversation_with_another_discussing.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 32: Command Respect Throughout Province",
+    "vo": "that will command respect throughout the province however the"
+   },
+   {
+    "id": 33,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c13_p064_warrior_with_long_hair_and_beard.webp",
+    "panelRight": "c13_p065_warrior_saying_yes_emperor_looking_confused.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 33: Builder Timidly Requests Small",
+    "vo": "builder timidly requests a small favor explaining that his laborers need proper on"
+   },
+   {
+    "id": 34,
+    "duration": 4.57,
+    "motion": "pan_left",
+    "panelLeft": "c13_p066_man_with_red_eyes_and_a.webp",
+    "panelRight": "c13_p067_warrior_with_crossed_arms_talking.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 34: Site Barracks Asking New",
+    "vo": "site barracks asking if the new clan leader can occasionally provide hot nutritious meals"
+   },
+   {
+    "id": 35,
+    "duration": 4.29,
+    "motion": "zoom_out",
+    "panelLeft": "c13_p068_warrior_in_kimono_talking_to_another.webp",
+    "panelRight": "c13_p069_warrior_with_red_hair_and_beard.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 35: Keep Morale High During",
+    "vo": "to keep morale high during construction this moment highlights the profound difference"
+   },
+   {
+    "id": 36,
+    "duration": 4.39,
+    "motion": "pan_right",
+    "panelLeft": "c13_p070_warrior_in_conversation_with_another.webp",
+    "panelRight": "c13_p071_man_with_hand_on_chin_thinking.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 36: Between Petty Mob Boss",
+    "vo": "between a petty mob boss and a true leader while"
+   },
+   {
+    "id": 37,
+    "duration": 4.42,
+    "motion": "pulse_zoom",
+    "panelLeft": "c13_p072_warrior_holding_a_dull_sword.webp",
+    "panelRight": "c13_p074_warrior_with_red_beard_and_staff.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 37: Tyrants Threaten Workers Beatings",
+    "vo": "other tyrants would threaten the workers with beatings to speed up production zaha instantly"
+   },
+   {
+    "id": 38,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c13_p075_emperor_kaiser_asks_what_matters.webp",
+    "panelRight": "c13_p076_warrior_with_red_eyes_dark_hair.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 38: Turns Chasong Thai Issues",
+    "vo": "turns to chasong thai and issues a clear generous directive every"
+   },
+   {
+    "id": 39,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p079_three_men_in_robes_walk_past.webp",
+    "panelRight": "c13_p077_warrior_in_robe_and_armor_talking.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 39: Single Evening Staff Three",
+    "vo": "single evening staff from the three local brothels must be dispatched to prepare lavish"
+   },
+   {
+    "id": 40,
+    "duration": 4.42,
+    "motion": "slide_up",
+    "panelLeft": "c13_p035_warriors_in_a_field_swords_drawn.webp",
+    "panelRight": "c13_p037_warriors_gather_mountains_in_background.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 40: Hot Bankwits Construction Crew",
+    "vo": "hot bankwits for the construction crew in our boys' grand design and in"
+   },
+   {
+    "id": 41,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c13_p082_man_with_long_black_hair_red.webp",
+    "panelRight": "c13_p084_man_with_long_black_hair_and.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 41: Never Place Sleep Ultimate",
+    "vo": "is never just a place to sleep it is the ultimate continental listening post"
+   },
+   {
+    "id": 42,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p042_two_men_in_robes_one_speaking.webp",
+    "panelRight": "c13_p043_warriors_walking_character_with_sword_boots.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 42: Where Traveling Martial Artists",
+    "vo": "where traveling martial artists gather to drink trade gossip and reveal"
+   },
+   {
+    "id": 43,
+    "duration": 4.1,
+    "motion": "slide_up",
+    "panelLeft": "c13_p044_construction_team.webp",
+    "panelRight": "c13_p038_building_construction_unfinished_structure_sunlight_clouds.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 43: Sect Secrets Treating Blue",
+    "vo": "sect secrets by treating blue collar laborers with genuine"
+   },
+   {
+    "id": 44,
+    "duration": 4.73,
+    "motion": "pan_left",
+    "panelLeft": "c13_p039_two_men_in_traditional_clothing_one.webp",
+    "panelRight": "c13_p040_man_in_robe_with_speech_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 44: Dignity Decent Wages Warm",
+    "vo": "dignity decent wages and warm food our boy doesn't just"
+   },
+   {
+    "id": 45,
+    "duration": 4.38,
+    "motion": "zoom_out",
+    "panelLeft": "c13_p041_man_with_black_hair_green_trees.webp",
+    "panelRight": "c13_p051_warrior_in_robe_speech_bubble_character.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 45: Hire Builders Earns Absolute",
+    "vo": "hire builders he earns the absolute unshakable loyalty of the working class backbone"
+   },
+   {
+    "id": 46,
+    "duration": 4.29,
+    "motion": "pan_right",
+    "panelLeft": "c13_p093_blackhaired_man_with_red_eyes.webp",
+    "panelRight": "c13_p057_man_with_white_hair_smiling_text.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 46: Young Prefecture Taste Smiles",
+    "vo": "of il young prefecture some taste smiles with genuine admiration"
+   },
+   {
+    "id": 47,
+    "duration": 4.0,
+    "motion": "pulse_zoom",
+    "panelLeft": "c13_p058_warrior_in_red_robe_sword_and.webp",
+    "panelRight": "c13_p055_sung_tae_clan_leader_yes.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 47: Finally Understanding Young Leader",
+    "vo": "finally understanding that their young leader is playing a grand benevolent game of"
+   },
+   {
+    "id": 48,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c13_p084_man_with_long_black_hair_and.webp",
+    "panelRight": "c13_p085_warrior_in_battle_swords_drawn_dialogue.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 48: Continental Influence Foundation Stones",
+    "vo": "continental influence but just as the foundation stones are being"
+   },
+   {
+    "id": 49,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p083_brothel_owner_yi_zaha.webp",
+    "panelRight": "c13_p086_warrior_in_battle_shouting_please_wait.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 49: Laid Ominous Rumours Arrive",
+    "vo": "laid ominous rumours arrive from the southern highways the iron fist gang and the"
+   },
+   {
+    "id": 50,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c13_p088_warrior_in_robe_praying_black_robe.webp",
+    "panelRight": "c13_p089_mystic_union.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 50: High Ranking Elders Black",
+    "vo": "high ranking elders of the black rabbit union have caught wind of the pre factor's sudden"
+   },
+   {
+    "id": 51,
+    "duration": 4.07,
+    "motion": "slide_down",
+    "panelLeft": "c13_p090_warrior_in_black_robe_speech_bubble.webp",
+    "panelRight": "c13_p091_executioner_smiling_talking.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 51: Silence Brutal Forcers Already",
+    "vo": "silence and their most brutal and forcers are already mobilizing to reclaim their lost"
+   },
+   {
+    "id": 52,
+    "duration": 4.76,
+    "motion": "zoom_in",
+    "panelLeft": "c13_p092_emperor_speaking_warrior_in_black_robe.webp",
+    "panelRight": "c13_p093_blackhaired_man_with_red_eyes.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 52: Territory Overwhelming Merciless Violence",
+    "vo": "territory with overwhelming merciless violence and as the dark storm"
+   },
+   {
+    "id": 53,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c13_p087_warrior_in_robes_sword_clouds_sky.webp",
+    "panelRight": "c13_p080_man_in_traditional_clothing_clouds_trees.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 53: Clouds Gather Horizon Boy",
+    "vo": "clouds gather on the horizon our boy prepares to greet them with open arms"
+   }
+  ]
+ },
+ "Chapter_014": {
+  "id": "Chapter_014",
+  "title": "Chapter 014",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 2919,
+  "duration": 225,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c14_p007_boss_of_iyang_prefecture_bowing.webp",
+    "panelRight": "c14_p037_warrior_in_robe_holding_sword_standing.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 01: Standing Along Bustling Thoroughfare",
+    "vo": "standing along the bustling thoroughfare of iliang prefecture"
+   },
+   {
+    "id": 2,
+    "duration": 4.62,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p018_master_of_golden_phoenix_pavilion.webp",
+    "panelRight": "c14_p056_golden_phoenix_pavilion_master_sitting.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 02: Boy Yizaha Approached Elite",
+    "vo": "our boy yizaha is approached by an elite emissary from the golden phoenix"
+   },
+   {
+    "id": 3,
+    "duration": 3.88,
+    "motion": "slide_up",
+    "panelLeft": "c14_p005_man_smiling_saying_you_can_just.webp",
+    "panelRight": "c14_p004_man_asking_if_he_has_to.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 03: Pavilion Influential Stronghold Operating",
+    "vo": "pavilion an influential stronghold operating directly under the regional"
+   },
+   {
+    "id": 4,
+    "duration": 4.7,
+    "motion": "pan_left",
+    "panelLeft": "c14_p046_warrior_bows_enters_black_mystic_union.webp",
+    "panelRight": "c14_p012_warrior_in_black_robe_talking_to.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 04: Black Mystic Union Dressed",
+    "vo": "black mystic union dressed in polished dark silk with an arrogant smirk plastered"
+   },
+   {
+    "id": 5,
+    "duration": 4.51,
+    "motion": "zoom_out",
+    "panelLeft": "c14_p035_man_with_closed_eyes_smiling_text.webp",
+    "panelRight": "c14_p009_man_with_speech_bubble_serious_expression.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 05: Across Face Envoy Delivers",
+    "vo": "across his face the envoy delivers an absolute ultimatum on behalf"
+   },
+   {
+    "id": 6,
+    "duration": 4.49,
+    "motion": "pan_right",
+    "panelLeft": "c14_p043_warrior_waiting_errand_boy_running_away.webp",
+    "panelRight": "c14_p047_mere_errand_boy_at_inn_is.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 06: Master Boy Wishes Continue",
+    "vo": "of his master if our boy wishes to continue operating as the local"
+   },
+   {
+    "id": 7,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c14_p013_warrior_in_hunting_ground_close_to.webp",
+    "panelRight": "c14_p014_warriors_in_town_swords_drawn_dialogue.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 07: Underworld Ruler Must Immediately",
+    "vo": "underworld ruler he must immediately travel to their mountainous state prostrate himself before"
+   },
+   {
+    "id": 8,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c14_p051_master_waiting_inside_warrior_inside_robe.webp",
+    "panelRight": "c14_p070_warrior_in_battle_kneeling_crying_master.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 08: Pavilion Master Pledge Total",
+    "vo": "the pavilion master and pledge total fealty to the union"
+   },
+   {
+    "id": 9,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p005_man_smiling_saying_you_can_just.webp",
+    "panelRight": "c14_p016_warrior_saying_im_not_going_to.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 09: Envoy Condescendingly Explains Complying",
+    "vo": "the envoy condescendingly explains that complying will guarantee his survival"
+   },
+   {
+    "id": 10,
+    "duration": 4.1,
+    "motion": "slide_up",
+    "panelLeft": "c14_p019_murderer_called_for_clan_leader.webp",
+    "panelRight": "c14_p020_warrior_in_conversation_with_another.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 10: Prevent Innocent Townspeople Being",
+    "vo": "and prevent innocent townspeople from being caught in a bloodbath but"
+   },
+   {
+    "id": 11,
+    "duration": 4.7,
+    "motion": "slide_down",
+    "panelLeft": "c14_p034_warrior_refuses_to_go_to_battle.webp",
+    "panelRight": "c14_p021_emperor_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 11: Refuses Option Left Flee",
+    "vo": "if he refuses the only option left is to flee the prefecture forever like a"
+   },
+   {
+    "id": 12,
+    "duration": 4.2,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p022_warrior_in_robe_talking_to_youths.webp",
+    "panelRight": "c14_p023_emperor_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 12: Whipped Dog Moment Showcases",
+    "vo": "whipped dog this moment showcases the brilliant psychological contrast"
+   },
+   {
+    "id": 13,
+    "duration": 4.74,
+    "motion": "slide_up",
+    "panelLeft": "c14_p024_warrior_speaking_emperor_kaiser_burning_castle.webp",
+    "panelRight": "c14_p025_warrior_in_battle_sword_drawn_eyes.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 13: Between Standard Martial Artists",
+    "vo": "between standard martial artists and the crazy demon any hot headed young"
+   },
+   {
+    "id": 14,
+    "duration": 4.06,
+    "motion": "pan_left",
+    "panelLeft": "c14_p026_emperor_speaking_warrior_in_background.webp",
+    "panelRight": "c14_p007_boss_of_iyang_prefecture_bowing.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 14: Protagonist Draw Blade Slaughter",
+    "vo": "protagonist would draw his blade and slaughter the messenger on the spot but"
+   },
+   {
+    "id": 15,
+    "duration": 4.6,
+    "motion": "zoom_out",
+    "panelLeft": "c14_p028_warrior_in_kimono_serious_conversation.webp",
+    "panelRight": "c14_p029_warrior_speaking_sword_castle_burning_boots.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 15: Zaha Operates Completely Different",
+    "vo": "zaha operates on a completely different level of strategic calculation he"
+   },
+   {
+    "id": 16,
+    "duration": 4.53,
+    "motion": "pan_right",
+    "panelLeft": "c14_p030_clan_leader_what.webp",
+    "panelRight": "c14_p031_red_cloth_draped_over_character.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 16: Understands Regional Syndicates Operate",
+    "vo": "understands that regional syndicates operate entirely on bureaucratic extortion they"
+   },
+   {
+    "id": 17,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c14_p032_monk_in_traditional_robes_speaking.webp",
+    "panelRight": "c14_p033_warrior_in_robe_speaking_to_another.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 17: Assume Errand Boy Eliminated",
+    "vo": "assume that an errand boy who eliminated the show brothers is merely an"
+   },
+   {
+    "id": 18,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c14_p035_man_with_closed_eyes_smiling_text.webp",
+    "panelRight": "c14_p036_warrior_in_battle_sword_drawn_fiery.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 18: Overconfident Street Brawler Easily",
+    "vo": "overconfident street brawler who can be easily intimidated by formal martial authority"
+   },
+   {
+    "id": 19,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p053_warrior_in_red_robe_looking_at.webp",
+    "panelRight": "c14_p059_warrior_in_robe_standing_looking_serious.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 19: Looking Envoy Eye Mild",
+    "vo": "looking the envoy in the eye with mild amusement zaha calmly replies that"
+   },
+   {
+    "id": 20,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c14_p037_warrior_in_robe_holding_sword_standing.webp",
+    "panelRight": "c14_p039_man_in_robe_hands_clasped_speech.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 20: Running Away Groveling Permanently",
+    "vo": "running away or groveling would permanently strip him of his manhood meaning he has no choice"
+   },
+   {
+    "id": 21,
+    "duration": 3.8,
+    "motion": "slide_down",
+    "panelLeft": "c14_p040_warrior_in_red_robe_entering_old.webp",
+    "panelRight": "c14_p041_mountains_with_sunset.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 21: Pay Master Personal Visit",
+    "vo": "but to pay their master a personal visit furthermore our boy"
+   },
+   {
+    "id": 22,
+    "duration": 4.8,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p042_two_men_in_front_of_wooden.webp",
+    "panelRight": "c14_p044_man_with_confused_expression.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 22: Dryley Remarks Terribly Inplayed",
+    "vo": "dryley remarks that it would be terribly inplayed to greet such an influential"
+   },
+   {
+    "id": 23,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c14_p002_empty_room_with_large_window.webp",
+    "panelRight": "c14_p045_warrior_walking_in_forest_talking_to.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 23: Figure Empty Handed Wearing",
+    "vo": "figure empty handed or wearing ordinary tavernwork clothes rather than letting the"
+   },
+   {
+    "id": 24,
+    "duration": 4.75,
+    "motion": "pan_left",
+    "panelLeft": "c14_p043_warrior_waiting_errand_boy_running_away.webp",
+    "panelRight": "c14_p048_warrior_walks_towards_character_says_im.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 24: Envoy Escort Captive Zaha",
+    "vo": "envoy escort him like a captive zaha tells the messenger to head back"
+   },
+   {
+    "id": 25,
+    "duration": 4.25,
+    "motion": "zoom_out",
+    "panelLeft": "c14_p049_warrior_in_kimono_standing_in_forest.webp",
+    "panelRight": "c14_p050_warrior_speaking_character_holding_sword_burning.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 25: First Prepare Tea Promising",
+    "vo": "first and prepare the tea promising to arrive under his own power"
+   },
+   {
+    "id": 26,
+    "duration": 4.31,
+    "motion": "pan_right",
+    "panelLeft": "c14_p014_warriors_in_town_swords_drawn_dialogue.webp",
+    "panelRight": "c14_p054_emperor_seated_by_fire_soldiers_in.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 26: Thank Much Watching Video",
+    "vo": "thank you very much for watching this video thank you very much for watching this video"
+   },
+   {
+    "id": 27,
+    "duration": 4.44,
+    "motion": "pulse_zoom",
+    "panelLeft": "c14_p055_man_with_dark_hair_and_red.webp",
+    "panelRight": "c14_p057_warrior_in_black_robe_with_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 27: Thank Watching Video Thank",
+    "vo": "thank you for watching this video thank you for his sash and strolls out of the city"
+   },
+   {
+    "id": 28,
+    "duration": 4.39,
+    "motion": "slide_down",
+    "panelLeft": "c14_p064_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c14_p041_mountains_with_sunset.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 28: Gates Beneath Glowing Orange",
+    "vo": "gates beneath the glowing orange sunset walking through the winding"
+   },
+   {
+    "id": 29,
+    "duration": 4.36,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p058_warrior_speaking_warrior_holding_sword_warrior.webp",
+    "panelRight": "c14_p060_man_with_long_hair_and_mustache.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 29: Mountain Roads Alone Zahah'S",
+    "vo": "mountain roads alone zahah's internal thoughts reveal the deep historical philosophy"
+   },
+   {
+    "id": 30,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c14_p061_warrior_in_conversation_with_emperor.webp",
+    "panelRight": "c14_p062_warrior_in_battle_shouting_at_enemy.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 30: Guides Actions Chaotic Landscape",
+    "vo": "that guides his actions in the chaotic landscape of king ho"
+   },
+   {
+    "id": 31,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c14_p063_man_with_dark_hair_and_red.webp",
+    "panelRight": "c14_p065_warrior_in_red_robe_seated_facing.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 31: Regional Syndicates Maintain Control",
+    "vo": "regional syndicates maintain control through a manufactured illusion of"
+   },
+   {
+    "id": 32,
+    "duration": 4.17,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p066_xmen_wolverine_vs_the_emperor_kaisers.webp",
+    "panelRight": "c14_p067_warrior_sits_asks_permission_character_asks.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 32: Absolute Dominance Relying Lavish",
+    "vo": "absolute dominance relying on lavish mountain compounds and armed garrisons to"
+   },
+   {
+    "id": 33,
+    "duration": 4.83,
+    "motion": "slide_up",
+    "panelLeft": "c14_p042_two_men_in_front_of_wooden.webp",
+    "panelRight": "c14_p069_three_men_in_traditional_attire_one.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 33: Terrify Local Leaders Submission",
+    "vo": "terrify local leaders into submission before a single punch is thrown to"
+   },
+   {
+    "id": 34,
+    "duration": 4.47,
+    "motion": "pan_left",
+    "panelLeft": "c14_p072_warrior_in_kimono_speech_bubble_saying.webp",
+    "panelRight": "c14_p073_warrior_in_fur_shouting_speaking_character.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 34: Reincarn Reincarnated Grandmaster Spent",
+    "vo": "a reincarn reincarnated grandmaster who spent his past life toppling imperial sex a"
+   },
+   {
+    "id": 35,
+    "duration": 4.2,
+    "motion": "zoom_out",
+    "panelLeft": "c14_p074_warrior_asks_emperor_about_age_emperor.webp",
+    "panelRight": "c14_p075_warrior_in_battle_shouting_fry_of.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 35: Fortified Mountain Manner Nothing",
+    "vo": "fortified mountain manner is nothing more than a convenient slaughterhouse"
+   },
+   {
+    "id": 36,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c14_p076_warrior_by_fire_choosing_fate.webp",
+    "panelRight": "c14_p077_warrior_in_red_robe_speech_bubble.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 36: Closed Doors Arriving Massive",
+    "vo": "with closed doors arriving before the massive iron gates of"
+   },
+   {
+    "id": 37,
+    "duration": 4.6,
+    "motion": "pulse_zoom",
+    "panelLeft": "c14_p078_fierce_angry_warrior_with_a_speech.webp",
+    "panelRight": "c14_p079_warrior_in_battle_speaking_difficult_to.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 37: Golden Phoenix Pavilion Boy",
+    "vo": "the golden phoenix pavilion our boy calmly announces his presence stepping through the portal"
+   },
+   {
+    "id": 38,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c14_p080_warrior_holding_sword_text_inn.webp",
+    "panelRight": "c14_p081_man_with_dark_hair_and_red.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 38: Relaxed Posture Noble Lord",
+    "vo": "with the relaxed posture of a noble lord inspecting a vacation villa the"
+   },
+   {
+    "id": 39,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p082_warrior_in_battle_sword_drawn_enemy.webp",
+    "panelRight": "c14_p083_warrior_in_battle_sword_swinging_intense.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 39: Courtyard Lined Dozens Elite",
+    "vo": "courtyard is lined with dozens of elite martial artists brandishing"
+   },
+   {
+    "id": 40,
+    "duration": 4.48,
+    "motion": "slide_up",
+    "panelLeft": "c14_p084_warrior_in_battle_sword_in_hand.webp",
+    "panelRight": "c14_p085_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 40: Drawn Spears Curved Simotars",
+    "vo": "drawn spears and curved simotars forming a suffocating gauntlet of"
+   },
+   {
+    "id": 41,
+    "duration": 4.36,
+    "motion": "slide_down",
+    "panelLeft": "c14_p091_warrior_holding_sword_standing_in_battle.webp",
+    "panelRight": "c14_p086_closeup_of_a_cats_eye_with.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 41: Lethal Intimidation Designed Break",
+    "vo": "lethal intimidation designed to break a man's courage standing atop the stone"
+   },
+   {
+    "id": 42,
+    "duration": 4.64,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p087_warrior_in_battle_red_eyes_sword.webp",
+    "panelRight": "c14_p088_warrior_in_battle_sword_swinging_dark.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 42: Pavilion Pavilion Master Himself",
+    "vo": "pavilion is the pavilion master himself a colossal broad shoulder titan draped"
+   },
+   {
+    "id": 43,
+    "duration": 4.14,
+    "motion": "slide_up",
+    "panelLeft": "c14_p089_warrior_in_battle_boots_walking_sword.webp",
+    "panelRight": "c14_p092_warrior_in_rage_shouting_what_in.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 43: Heady Bear Pelt Brandishing",
+    "vo": "and heady bear pelt and brandishing a massive iron executioner's blade sizing up"
+   },
+   {
+    "id": 44,
+    "duration": 4.31,
+    "motion": "pan_left",
+    "panelLeft": "c14_p093_man_with_question_mark.webp",
+    "panelRight": "c14_p096_man_with_dark_hair_and_red.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 44: Slender Young Man Flowing",
+    "vo": "the slender young man and flowing crimson silk the titan sneers and"
+   },
+   {
+    "id": 45,
+    "duration": 4.54,
+    "motion": "zoom_out",
+    "panelLeft": "c14_p094_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c14_p095_warrior_in_robe_talking_robe_fire.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 45: Disbelief Unable Reconcile Legendary",
+    "vo": "disbelief unable to reconcile the legendary rumors of a ruthless underworld conquer"
+   },
+   {
+    "id": 46,
+    "duration": 4.52,
+    "motion": "pan_right",
+    "panelLeft": "c14_p098_man_crying_chinese_characters_tears_sadness.webp",
+    "panelRight": "c14_p015_man_in_suit_with_speech_bubble.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 46: Boyish Face Airin Boy",
+    "vo": "with the boyish face of an in airin boy but staring back through the"
+   },
+   {
+    "id": 47,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c14_p011_man_in_traditional_clothing_smiling_hands.webp",
+    "panelRight": "c14_p010_warrior_in_kimono_dialogue_warrior_in.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 47: Ranks Armed Killers Zaha",
+    "vo": "ranks of armed killers zaha offers a thin predatory smile ready to teach this"
+   },
+   {
+    "id": 48,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c14_p008_man_with_red_eyes_asks_about.webp",
+    "panelRight": "c14_p063_man_with_dark_hair_and_red.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 48: Provincial Warlord Why Never",
+    "vo": "provincial warlord why you should never summon an unhinged demon to your"
+   },
+   {
+    "id": 49,
+    "duration": 4.17,
+    "motion": "zoom_in",
+    "panelLeft": "c14_p054_emperor_seated_by_fire_soldiers_in.webp",
+    "panelRight": "c14_p091_warrior_holding_sword_standing_in_battle.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 49: Dinner Table Especially Completely",
+    "vo": "dinner table especially when you are completely trapped inside your own locked courtyard"
+   },
+   {
+    "id": 50,
+    "duration": 4.7,
+    "motion": "slide_up",
+    "panelLeft": "c14_p096_man_with_dark_hair_and_red.webp",
+    "panelRight": "c14_p097_emperor_speaking_tears_streaming_down_face.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 50: Heavy Iron Gates Slams",
+    "vo": "and as the heavy iron gates slams shut with an ominous echo"
+   },
+   {
+    "id": 51,
+    "duration": 4.8,
+    "motion": "slide_down",
+    "panelLeft": "c14_p098_man_crying_chinese_characters_tears_sadness.webp",
+    "panelRight": "c14_p095_warrior_in_robe_talking_robe_fire.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 51: Behind Stage Set Absolute",
+    "vo": "behind him the stage is set for an absolute merciless bloodbath"
+   }
+  ]
+ },
+ "Chapter_015": {
+  "id": "Chapter_015",
+  "title": "Chapter 015",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 3144,
+  "duration": 234,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c15_p001_warrior_in_battle_enemy_in_distance.webp",
+    "panelRight": "c15_p002_warrior_in_battle_holding_sword_shouting.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 01: Earth Shattering Battle Cry",
+    "vo": "with an earth shattering battle cry that rattles the mountain rafters the golden"
+   },
+   {
+    "id": 2,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p003_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c15_p006_warrior_aiming_with_gun_dark_background.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 02: Phoenix Pavilion Master Launches",
+    "vo": "phoenix pavilion master launches his colossal bulk forward swinging"
+   },
+   {
+    "id": 3,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c15_p005_warrior_holding_sword_speaking_ill_make.webp",
+    "panelRight": "c15_p004_warrior_stands_questions.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 03: Massive Handed Executioners Blade",
+    "vo": "his massive two handed executioners blade in a catastrophic downward cleave"
+   },
+   {
+    "id": 4,
+    "duration": 4.43,
+    "motion": "pan_left",
+    "panelLeft": "c15_p022_warrior_in_battle_red_eyes_fiery.webp",
+    "panelRight": "c15_p024_four_men_in_black_hats_one.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 04: Designed Split Boy Clean",
+    "vo": "designed to split our boy clean down the middle in the eyes of ordinary"
+   },
+   {
+    "id": 5,
+    "duration": 4.24,
+    "motion": "zoom_out",
+    "panelLeft": "c15_p008_fierce_menacing_figure_with_sharp_teeth.webp",
+    "panelRight": "c15_p009_warrior_in_battle_sword_fire_chaos.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 05: Gang Enforcers Pound Warlord",
+    "vo": "gang enforcers a pound warlord draped in thick barepills wielding a"
+   },
+   {
+    "id": 6,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c15_p010_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c15_p011_warrior_in_battle_speaking_thirdrate_trash.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 06: Hundred Pounds Tempered Steel",
+    "vo": "hundred pounds of tempered steel is an unstoppable human"
+   },
+   {
+    "id": 7,
+    "duration": 4.67,
+    "motion": "pulse_zoom",
+    "panelLeft": "c15_p013_warrior_in_battle_sword_swinging_powerful.webp",
+    "panelRight": "c15_p025_man_with_bandana_blood_on_face.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 07: Juggernaut Tactical Martial Perspective",
+    "vo": "juggernaut but from a tactical and martial perspective relying purely"
+   },
+   {
+    "id": 8,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c15_p014_fierce_bloodied_demon_with_a_speech.webp",
+    "panelRight": "c15_p015_warrior_in_battle_sword_flying_shouting.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 08: Colossal Weight Wide Telegraph",
+    "vo": "on colossal weight and wide telegraph swings is the hallmark of an amateur who"
+   },
+   {
+    "id": 9,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p016_warrior_in_battle_sword_swinging_fire.webp",
+    "panelRight": "c15_p017_warrior_in_battle_red_flames_sword.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 09: Never Fought True Grandmaster",
+    "vo": "has never fought a true grandmaster once an attack begins the inertia"
+   },
+   {
+    "id": 10,
+    "duration": 4.1,
+    "motion": "slide_up",
+    "panelLeft": "c15_p018_warrior_in_battle_sword_qi_explosion.webp",
+    "panelRight": "c15_p019_warrior_in_battle_sword_swinging_fire.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 10: Prevents Wielder Changing Course",
+    "vo": "prevents the wielder from changing course leaving their internal organs completely exposed"
+   },
+   {
+    "id": 11,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c15_p020_warrior_with_bloodied_mouth_red_hair.webp",
+    "panelRight": "c15_p021_warrior_in_battle_sword_fire_red.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 11: Inside Line Counter Rather",
+    "vo": "to an inside line counter rather than meeting the crushing blow with"
+   },
+   {
+    "id": 12,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p023_warrior_in_red_robe_holding_sword.webp",
+    "panelRight": "c15_p008_fierce_menacing_figure_with_sharp_teeth.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 12: Foolish Head Block Zahat",
+    "vo": "a foolish head on block zahat executes the foundational evasive forms of"
+   },
+   {
+    "id": 13,
+    "duration": 4.58,
+    "motion": "slide_up",
+    "panelLeft": "c15_p024_four_men_in_black_hats_one.webp",
+    "panelRight": "c15_p012_warrior_in_battle_sword_blood_fire.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 13: Steel Lake'S Technique Gliding",
+    "vo": "the steel lake's technique gliding sideways by a mere fraction of an inch our boy lets"
+   },
+   {
+    "id": 14,
+    "duration": 4.08,
+    "motion": "pan_left",
+    "panelLeft": "c15_p030_warrior_in_boots_walking.webp",
+    "panelRight": "c15_p013_warrior_in_battle_sword_swinging_powerful.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 14: Whistling Steel Obliterate Granite",
+    "vo": "the whistling steel obliterate the granite flagstones beneath his boots"
+   },
+   {
+    "id": 15,
+    "duration": 4.67,
+    "motion": "zoom_out",
+    "panelLeft": "c15_p027_emperor_speaking_defeated_tears.webp",
+    "panelRight": "c15_p028_warrior_in_battle_speaking_sword_burning.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 15: Drawing Forged Blade Blur",
+    "vo": "before drawing his forged blade in a blur of blinding silver light in a terrifying"
+   },
+   {
+    "id": 16,
+    "duration": 4.0,
+    "motion": "pan_right",
+    "panelLeft": "c15_p029_warriors_in_traditional_attire_standing_in.webp",
+    "panelRight": "c15_p031_man_in_suit_with_speech_bubble.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 16: Display Surgical Marshal Precision",
+    "vo": "display of surgical marshal precision zahad ducks"
+   },
+   {
+    "id": 17,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c15_p032_warrior_in_battle_speaking_to_someone.webp",
+    "panelRight": "c15_p025_man_with_bandana_blood_on_face.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 17: Inside Giant'S Guard Severing",
+    "vo": "inside the giant's guard severing the tendon behind his knee disarming his heavy wrist"
+   },
+   {
+    "id": 18,
+    "duration": 4.75,
+    "motion": "slide_down",
+    "panelLeft": "c15_p035_man_pointing_finger_red_robe_dark.webp",
+    "panelRight": "c15_p036_man_with_tears_speech_bubble_two.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 18: Upward Flick Driving Clean",
+    "vo": "with an upward flick and driving a clean lethal thrust straight through the titan's throat before"
+   },
+   {
+    "id": 19,
+    "duration": 4.35,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p037_warrior_in_black_robe_kneeling_holding.webp",
+    "panelRight": "c15_p038_warriors_gathered_around_a_seated_figure.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 19: Dust Shattered Stone Even",
+    "vo": "the dust from the shattered stone can even settle the colossal pavilion master"
+   },
+   {
+    "id": 20,
+    "duration": 4.2,
+    "motion": "slide_up",
+    "panelLeft": "c15_p039_warriors_in_black_robes.webp",
+    "panelRight": "c15_p040_emperor_addressing_soldiers.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 20: Crashes Motionless Dirt Ground",
+    "vo": "crashes motionless into the dirt with a ground shaking thud his"
+   },
+   {
+    "id": 21,
+    "duration": 4.2,
+    "motion": "slide_down",
+    "panelLeft": "c15_p026_warrior_in_front_of_gate_warrior.webp",
+    "panelRight": "c15_p034_warrior_in_battle_emperor_speaking_boots.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 21: Terrifying Reputation Snuffed Less",
+    "vo": "terrifying reputation snuffed out in less than three seconds"
+   },
+   {
+    "id": 22,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p043_warrior_in_red_robe_yes.webp",
+    "panelRight": "c15_p044_warrior_meditating_holding_sword_fighting_others.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 22: Absolute Petrified Silence Descends",
+    "vo": "absolute petrified silence descends over the courtyard as dozens of elite pavilion"
+   },
+   {
+    "id": 23,
+    "duration": 4.79,
+    "motion": "slide_up",
+    "panelLeft": "c15_p045_warrior_in_robe_holding_sword.webp",
+    "panelRight": "c15_p046_warrior_in_red_robe_wind_in.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 23: Guards Freeze Sheer Horror",
+    "vo": "guards freeze and sheer horror their weapons trembling in their hands realizing"
+   },
+   {
+    "id": 24,
+    "duration": 4.21,
+    "motion": "pan_left",
+    "panelLeft": "c15_p033_men_in_black_hats_and_suits.webp",
+    "panelRight": "c15_p048_warrior_in_battle_emperor_speaking_character.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 24: Scrawny Errand Boy Capitated",
+    "vo": "that the scrawny errand boy just to capitated their supreme commander"
+   },
+   {
+    "id": 25,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c15_p049_warrior_demanding_to_kneel.webp",
+    "panelRight": "c15_p050_warrior_in_battle_emperor_speaking.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 25: Without Breaking Single Drop",
+    "vo": "without breaking a single drop of sweat the enforcers immediately drop"
+   },
+   {
+    "id": 26,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c15_p051_man_with_angry_expression_saying_please.webp",
+    "panelRight": "c15_p052_warrior_in_battle_talking_sword_burning.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 26: Spears Falling Prostrate Onto",
+    "vo": "their spears falling prostrate onto the stone floor and desperately begging for"
+   },
+   {
+    "id": 27,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c15_p053_emperor_speaking_warrior_in_black_red.webp",
+    "panelRight": "c15_p037_warrior_in_black_robe_kneeling_holding.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 27: Mercy Where See Darkly",
+    "vo": "mercy but this is where we see the darkly hilarious unhinged legal mind"
+   },
+   {
+    "id": 28,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c15_p056_emperor_speaking_with_red_eyes.webp",
+    "panelRight": "c15_p057_man_in_red_robe_black_robe.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 28: Crazy Demon Work Nervous",
+    "vo": "of the crazy demon at work when a nervous officer timidly looks up"
+   },
+   {
+    "id": 29,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p059_warrior_restrained_emperor_asks_about_strength.webp",
+    "panelRight": "c15_p081_warrior_kneeling_asking_for_help.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 29: Asks Spared Because Obeyed",
+    "vo": "and asks that they will be spared because they obeyed his order to kneel zaha looks"
+   },
+   {
+    "id": 30,
+    "duration": 4.58,
+    "motion": "slide_up",
+    "panelLeft": "c15_p058_emperor_speaking_to_warrior_kneeling_sword.webp",
+    "panelRight": "c15_p060_warrior_in_battle_red_eyes_speech.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 30: Dead Pan Confusion Casually",
+    "vo": "down with dead pan confusion casually pointing out that he promised"
+   },
+   {
+    "id": 31,
+    "duration": 3.75,
+    "motion": "slide_down",
+    "panelLeft": "c15_p041_warrior_in_red_robe_sword_black.webp",
+    "panelRight": "c15_p062_warrior_in_red_robe_kneeling_speaking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 31: Execute Anyone Refused Kneel",
+    "vo": "to execute anyone who refused to kneel but he never actually agreed to let anyone"
+   },
+   {
+    "id": 32,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p063_warrior_in_black_robe_surprised_expression.webp",
+    "panelRight": "c15_p064_warrior_speaking_black_mystic_union_allout.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 32: Live Because Bowed Watching",
+    "vo": "live just because they bowed watching the entire squad of hardened"
+   },
+   {
+    "id": 33,
+    "duration": 4.29,
+    "motion": "slide_up",
+    "panelLeft": "c15_p065_warrior_in_red_robe_speech_bubble.webp",
+    "panelRight": "c15_p066_warrior_in_robe_with_sword_speech.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 33: Killers Short Circuit Sheer",
+    "vo": "killers short circuit and sheer existential terror proves that our boys sharp"
+   },
+   {
+    "id": 34,
+    "duration": 4.67,
+    "motion": "pan_left",
+    "panelLeft": "c15_p067_swordsmen_in_black_robes.webp",
+    "panelRight": "c15_p068_person_holding_a_camera_with_a.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 34: Tongue Twisted Contract Logic",
+    "vo": "tongue and twisted contract logic are just as lethal as his"
+   },
+   {
+    "id": 35,
+    "duration": 4.53,
+    "motion": "zoom_out",
+    "panelLeft": "c15_p080_warrior_in_battle_sword_red_eyes.webp",
+    "panelRight": "c15_p088_man_with_dark_hair_speech_bubble.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 35: Sword Realizing Dealing Unpredictable",
+    "vo": "sword realizing they are dealing with an unpredictable madman who thrives on"
+   },
+   {
+    "id": 36,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c15_p073_warrior_in_front_of_soldiers.webp",
+    "panelRight": "c15_p079_warrior_in_black_robe_serious_expression.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 36: Psychological Chaos Sharp Eyed",
+    "vo": "psychological chaos a sharp eyed strategist steps to the front of the kneeling ranks boldly"
+   },
+   {
+    "id": 37,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c15_p061_warrior_in_front_of_soldiers.webp",
+    "panelRight": "c15_p093_soldiers_with_sina_or_zhuge_surnames.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 37: Arguing Execution Guaranteed Regardless",
+    "vo": "arguing that if execution is guaranteed regardless of submission the surviving soldiers"
+   },
+   {
+    "id": 38,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c15_p069_warrior_being_restrained_asking_about_black.webp",
+    "panelRight": "c15_p070_warrior_in_black_cloak_kneels_holding.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 38: Choice Mount Suicidal Last",
+    "vo": "will have no choice but to mount a suicidal last stand and fight"
+   },
+   {
+    "id": 39,
+    "duration": 4.21,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p071_emperor_speaking_surprised.webp",
+    "panelRight": "c15_p072_emperor_speaking_looking_angry.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 39: Bitter End Entried Man'S",
+    "vo": "to the bitter end entried by the man's courage and diplomatic composure"
+   },
+   {
+    "id": 40,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c15_p074_warrior_in_conversation_emperors_speech_warriors.webp",
+    "panelRight": "c15_p054_warrior_in_battle_speaking_boots_walking.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 40: Extreme Pressure Zaha Lowers",
+    "vo": "under extreme pressure zaha lowers his blade asking the negotiator"
+   },
+   {
+    "id": 41,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c15_p086_warrior_demanding_money_emperor_speaking_money.webp",
+    "panelRight": "c15_p076_emperor_crying_tears_streaming_down_his.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 41: Identify Himself State Proposal",
+    "vo": "to identify himself and state his proposal the man boughs with professional"
+   },
+   {
+    "id": 42,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p078_two_men_in_black_robes_one.webp",
+    "panelRight": "c15_p055_secret_inspector_speaking_to_inspector.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 42: Reverence Introducing Himself Cmab",
+    "vo": "reverence introducing himself as cmab the elite secret inspector assigned to"
+   },
+   {
+    "id": 43,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c15_p083_warrior_in_black_robe_talking_speaking.webp",
+    "panelRight": "c15_p077_warrior_killed_golden_phoenix_pavilion_master.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 43: Monitor Pavilions Intelligence Operations",
+    "vo": "monitor the pavilions intelligence operations"
+   },
+   {
+    "id": 44,
+    "duration": 4.8,
+    "motion": "pan_left",
+    "panelLeft": "c15_p084_warrior_leading_group_of_soldiers.webp",
+    "panelRight": "c15_p079_warrior_in_black_robe_serious_expression.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 44: Empire",
+    "vo": "from an empire b e e e e"
+   },
+   {
+    "id": 45,
+    "duration": 4.2,
+    "motion": "zoom_out",
+    "panelLeft": "c15_p088_man_with_dark_hair_speech_bubble.webp",
+    "panelRight": "c15_p093_soldiers_with_sina_or_zhuge_surnames.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 45: Administrator",
+    "vo": "e e e e e e administrator"
+   },
+   {
+    "id": 46,
+    "duration": 4.6,
+    "motion": "pan_right",
+    "panelLeft": "c15_p075_warrior_in_battle_talking_to_superior.webp",
+    "panelRight": "c15_p095_village_with_a_wooden_fence_mountains.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 46: Knows Secret Ledgers Communication",
+    "vo": "who knows the secret ledgers communication ciphers and shadow"
+   },
+   {
+    "id": 47,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c15_p086_warrior_demanding_money_emperor_speaking_money.webp",
+    "panelRight": "c15_p085_emperor_speaking_golden_phoenix_pavilion_warrior.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 47: Networks Black Mystic Union",
+    "vo": "networks of the black mystic union recognizing that seema b possesses"
+   },
+   {
+    "id": 48,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c15_p064_warrior_speaking_black_mystic_union_allout.webp",
+    "panelRight": "c15_p087_warrior_asks_if_accomplice_needs_to.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 48: Exact Administrative Intellect Needed",
+    "vo": "the exact administrative intellect needed to run a continental spy"
+   },
+   {
+    "id": 49,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p082_warrior_in_kimono_with_sword.webp",
+    "panelRight": "c15_p060_warrior_in_battle_red_eyes_speech.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 49: Web Zaha'S Eyes Gleam",
+    "vo": "web zaha's eyes gleam with predatory ambition realizing that instead of"
+   },
+   {
+    "id": 50,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c15_p090_soldier_sima_takes_charge.webp",
+    "panelRight": "c15_p084_warrior_leading_group_of_soldiers.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 50: Burning Compound Acquired Ultimate",
+    "vo": "burning down the compound he just acquired the ultimate brain to guide the low"
+   },
+   {
+    "id": 51,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c15_p091_soldier.webp",
+    "panelRight": "c15_p092_warrior_saying_yes_group_of_people.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 51: Sex Next Expansion Across",
+    "vo": "down sex next expansion across the entire southern region turning a bloody"
+   },
+   {
+    "id": 52,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c15_p089_warriors_in_camp_emperor_speaking_swords.webp",
+    "panelRight": "c15_p095_village_with_a_wooden_fence_mountains.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 52: Execution Birth Continental Shadow",
+    "vo": "execution into the birth of a continental shadow superpower and with cmb"
+   },
+   {
+    "id": 53,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c15_p047_two_figures_in_front_of_a.webp",
+    "panelRight": "c15_p094_warrior_speaking_to_emperor.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 53: Bowing Genuine Allegiance Boys",
+    "vo": "bowing and genuine allegiance our boys network expands exponentially"
+   }
+  ]
+ },
+ "Chapter_016": {
+  "id": "Chapter_016",
+  "title": "Chapter 016",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 3378,
+  "duration": 222,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c16_p013_warrior_and_emperor_in_conversation_looking.webp",
+    "panelRight": "c16_p002_warriors_in_front_of_building.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 01: Cover Night Heavy Wooden",
+    "vo": "under the cover of night heavy wooden wagons loaded with confiscated"
+   },
+   {
+    "id": 2,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p003_man_with_dark_hair_red_eyes.webp",
+    "panelRight": "c16_p004_warrior_in_conversation_speech_bubble_no.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 02: Gold Silver Ingots Secret",
+    "vo": "gold silver ingots and secret accounting ledgers roll quietly through the gates of"
+   },
+   {
+    "id": 3,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c16_p032_warrior_in_kimono_talking_to_another.webp",
+    "panelRight": "c16_p051_warrior_with_red_eyes_and_dark.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 03: Iliang Prefecture Marking Successful",
+    "vo": "iliang prefecture marking the successful hostile takeover of the golden"
+   },
+   {
+    "id": 4,
+    "duration": 4.67,
+    "motion": "pan_left",
+    "panelLeft": "c16_p052_warrior_in_red_robe_talking.webp",
+    "panelRight": "c16_p037_warrior_with_yellow_eyes_and_blonde.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 04: Phoenix Pavilion Walking Beside",
+    "vo": "phoenix pavilion walking beside the convoy secret inspector sima b looks"
+   },
+   {
+    "id": 5,
+    "duration": 4.52,
+    "motion": "zoom_out",
+    "panelLeft": "c16_p010_two_men_in_traditional_chinese_attire.webp",
+    "panelRight": "c16_p011_emperor_speaking_red_eyes_dark_hair.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 05: Boy Yizaha New Found",
+    "vo": "at our boy yizaha with a new found sense of awe realizing that this"
+   },
+   {
+    "id": 6,
+    "duration": 4.34,
+    "motion": "pan_right",
+    "panelLeft": "c16_p018_man_with_speech_bubble_saying_what.webp",
+    "panelRight": "c16_p022_man_with_white_hair_and_a.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 06: Young Man Didn'T Slaughter",
+    "vo": "young man didn't just slaughter an arrogant warlord he systematically dismantled"
+   },
+   {
+    "id": 7,
+    "duration": 4.3,
+    "motion": "pulse_zoom",
+    "panelLeft": "c16_p058_warrior_with_red_eyes_dark_hair.webp",
+    "panelRight": "c16_p007_warrior_in_battle_sword_drawn_determined.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 07: Entire Criminal Enterprise Less",
+    "vo": "an entire criminal enterprise in less than two hours but while"
+   },
+   {
+    "id": 8,
+    "duration": 4.3,
+    "motion": "slide_down",
+    "panelLeft": "c16_p017_warrior_speaking_to_master_funds_mentioned.webp",
+    "panelRight": "c16_p016_warrior_in_red_robe_asking_about.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 08: Ordinary Gangsters Immediately Blow",
+    "vo": "ordinary gangsters would immediately blow the loot on gambling and"
+   },
+   {
+    "id": 9,
+    "duration": 5.0,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p019_warrior_asking_for_money_warrior_saying.webp",
+    "panelRight": "c16_p053_warrior_and_monk_conversing.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 09: Expensive Wine Zaha Issues",
+    "vo": "expensive wine zaha issues a set of strict unprecedented operational guidelines"
+   },
+   {
+    "id": 10,
+    "duration": 4.2,
+    "motion": "slide_up",
+    "panelLeft": "c16_p005_warrior_agrees_to_protect_iyang_prefecture.webp",
+    "panelRight": "c16_p023_warrior_in_red_robe_holding_sword.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 10: Firmly Warned Seema Thug",
+    "vo": "he firmly warned seema b that any thug who causes trouble or harasses"
+   },
+   {
+    "id": 11,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c16_p024_warrior_in_robe_crying_im_going.webp",
+    "panelRight": "c16_p025_warrior_in_battle_speaking_red_eyes.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 11: Everyday Townspeople Executed Immediately",
+    "vo": "everyday townspeople will be executed immediately tasking the new"
+   },
+   {
+    "id": 12,
+    "duration": 4.46,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p026_warrior_in_red_robe_speech_bubble.webp",
+    "panelRight": "c16_p027_warrior_speaking_to_subordinate_torturing_subordination.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 12: Administrator Finding Legitimate Honest",
+    "vo": "administrator with finding legitimate honest employment for the dozens of former mob enforcers"
+   },
+   {
+    "id": 13,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c16_p029_warrior_in_battle_red_eyes_speech.webp",
+    "panelRight": "c16_p006_useless_bastards_should_get_something.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 13: Never Performed Honest Day",
+    "vo": "who have never performed an honest day of work in their lives in our"
+   },
+   {
+    "id": 14,
+    "duration": 3.93,
+    "motion": "pan_left",
+    "panelLeft": "c16_p031_warrior_in_red_robe_talking_traditional.webp",
+    "panelRight": "c16_p030_warrior_in_battle_speaking_city_in.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 14: Boys' Vision Gambling Dens",
+    "vo": "boys' vision the gambling dens and entertainment houses will no longer prey on"
+   },
+   {
+    "id": 15,
+    "duration": 4.75,
+    "motion": "zoom_out",
+    "panelLeft": "c16_p033_warrior_in_red_robe_old_man.webp",
+    "panelRight": "c16_p034_warrior_and_emperor_in_conversation.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 15: Desperate Locals Instead Being",
+    "vo": "desperate locals instead they are being transformed into legitimate commercial hubs"
+   },
+   {
+    "id": 16,
+    "duration": 4.42,
+    "motion": "pan_right",
+    "panelLeft": "c16_p059_two_warriors_one_with_red_hair.webp",
+    "panelRight": "c16_p046_four_characters_in_traditional_clothing_one.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 16: Listening Posts Where Information",
+    "vo": "and listening posts where information is harvested cleanly while protecting the"
+   },
+   {
+    "id": 17,
+    "duration": 4.58,
+    "motion": "pulse_zoom",
+    "panelLeft": "c16_p041_man_in_kimono_asks_about_conduct.webp",
+    "panelRight": "c16_p012_warrior_apologizes_emperor_listens.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 17: Vulnerable Seema Timidly Asks",
+    "vo": "vulnerable when seema b timidly asks what official name they should give"
+   },
+   {
+    "id": 18,
+    "duration": 4.46,
+    "motion": "slide_down",
+    "panelLeft": "c16_p040_warrior_in_robe_with_crossed_swords.webp",
+    "panelRight": "c16_p113_unlike_previous_life_becomes_successful_crazy.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 18: Rapidly Expanding Organization Zaha",
+    "vo": "to this rapidly expanding organization zaha looks up into the starry"
+   },
+   {
+    "id": 19,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p008_ignoble_clan_speaking_matchless_ignoble_clan.webp",
+    "panelRight": "c16_p084_warrior_speaking_red_eyes_dark_hair.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 19: Sky Casually Announces Birth",
+    "vo": "sky and casually announces the birth of the matchless ignoble clan"
+   },
+   {
+    "id": 20,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c16_p045_warrior_in_kimono_pointing_finger.webp",
+    "panelRight": "c16_p081_man_in_robe_hand_gesture_speech.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 20: Otherwise Known Low Sect",
+    "vo": "otherwise known as the low down sect seema b blinks in"
+   },
+   {
+    "id": 21,
+    "duration": 4.26,
+    "motion": "slide_down",
+    "panelLeft": "c16_p047_emperor_speaking_warrior_in_background.webp",
+    "panelRight": "c16_p015_two_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 21: Confusion Admitting Never Heard",
+    "vo": "confusion admitting he has never heard of such a faction in continental history to which our"
+   },
+   {
+    "id": 22,
+    "duration": 4.27,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p048_warrior_in_robe_with_speech_bubble.webp",
+    "panelRight": "c16_p050_warrior_admires_chicken_head_noodle_soup.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 22: Boy Dryly Replies Course",
+    "vo": "boy dryly replies that of course he hasn't because he literally just made the"
+   },
+   {
+    "id": 23,
+    "duration": 4.73,
+    "motion": "slide_up",
+    "panelLeft": "c16_p068_warriors_gathered_discussing_ignoble_clan.webp",
+    "panelRight": "c16_p038_three_characters_sit_in_a_circle.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 23: Name Spot Later Evening",
+    "vo": "name up on the spot later that evening the core leadership of the new clan gathers"
+   },
+   {
+    "id": 24,
+    "duration": 4.34,
+    "motion": "pan_left",
+    "panelLeft": "c16_p056_warriors_gathered_around_a_campfire.webp",
+    "panelRight": "c16_p100_warriors_gathered_around_a_fire.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 24: Around Crackling Bonfire Behind",
+    "vo": "around a crackling bonfire behind the construction site chasson thai ai semabi the"
+   },
+   {
+    "id": 25,
+    "duration": 4.51,
+    "motion": "zoom_out",
+    "panelLeft": "c16_p057_warrior_in_robe_seated_talking.webp",
+    "panelRight": "c16_p055_man_with_white_hair_speech_bubble.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 25: Master Blacksmith Head Construction",
+    "vo": "master blacksmith and the head of the construction guild sitting cross legged in"
+   },
+   {
+    "id": 26,
+    "duration": 3.89,
+    "motion": "pan_right",
+    "panelLeft": "c16_p043_four_men_in_traditional_robes_sit.webp",
+    "panelRight": "c16_p095_warriors_in_robes_one_speaking_another.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 26: Crimson Robes Zahad Drops",
+    "vo": "his crimson robes zahad drops his usual comedic banter and delivers"
+   },
+   {
+    "id": 27,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c16_p061_warrior_in_red_robe_talking_to.webp",
+    "panelRight": "c16_p060_two_men_in_traditional_attire_one.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 27: Profound Philosophical Manifesto Completely",
+    "vo": "a profound philosophical manifesto that completely silences the seasoned"
+   },
+   {
+    "id": 28,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c16_p063_warrior_in_robe_blue_eyes_speech.webp",
+    "panelRight": "c16_p062_warrior_and_emperor_discussing_supplies.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 28: Criminals Around Flames Grand",
+    "vo": "criminals around the flames in the grand bloody history of morm noble"
+   },
+   {
+    "id": 29,
+    "duration": 4.83,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p066_warrior_and_monk_in_conversation.webp",
+    "panelRight": "c16_p065_warrior_in_kimono_seated_holding_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 29: Righteous Sects Demonic Cults",
+    "vo": "righteous sects and demonic cults constantly slaughter each other in majestic mountain duels"
+   },
+   {
+    "id": 30,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c16_p072_warriors_in_battle_swords_blood_chaos.webp",
+    "panelRight": "c16_p067_warrior_in_red_robe_red_eyes.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 30: Collateral Damage Always Paid",
+    "vo": "but the collateral damage is always paid in the blood of ordinary working people"
+   },
+   {
+    "id": 31,
+    "duration": 4.14,
+    "motion": "slide_down",
+    "panelLeft": "c16_p075_man_lying_on_ground_bloodied_with.webp",
+    "panelRight": "c16_p073_warrior_walking_speech_bubble_character_holding.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 31: Tavernwaters Get Caught Crossfire",
+    "vo": "the tavernwaters who get caught in the crossfire the carriage drivers robbed on"
+   },
+   {
+    "id": 32,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p020_warrior_in_battle_speaking_red_eyes.webp",
+    "panelRight": "c16_p070_crazy_demon_demon_cult_murim_alliance.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 32: Highways Cooks Beaten Cold",
+    "vo": "the highways the cooks beaten for cold soup and the blacksmiths forced to forge"
+   },
+   {
+    "id": 33,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c16_p083_warrior_with_red_eyes_and_long.webp",
+    "panelRight": "c16_p074_crazy_demon.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 33: Weapons Without Pay Eyes",
+    "vo": "weapons without pay in the eyes of self proclaimed martial heroes"
+   },
+   {
+    "id": 34,
+    "duration": 4.71,
+    "motion": "pan_left",
+    "panelLeft": "c16_p076_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c16_p064_ignoble_clan_leader_questions_injustice.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 34: Working Class Completely Invisible",
+    "vo": "the working class is completely invisible disposable insects whose unjust deaths are"
+   },
+   {
+    "id": 35,
+    "duration": 4.29,
+    "motion": "zoom_out",
+    "panelLeft": "c16_p080_warrior_in_red_robe_dark_background.webp",
+    "panelRight": "c16_p042_warrior_in_red_robe_fire_speech.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 35: Never Investigated Avenged Looking",
+    "vo": "never investigated or avenged but looking around the fire with unyielding"
+   },
+   {
+    "id": 36,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c16_p009_warrior_with_blue_eyes_shouting_ignoble.webp",
+    "panelRight": "c16_p082_warrior_in_red_robe_talking_to.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 36: Conviction Zaha Declares Matchless",
+    "vo": "conviction zaha declares that the matchless ignoble clan exists to"
+   },
+   {
+    "id": 37,
+    "duration": 4.57,
+    "motion": "pulse_zoom",
+    "panelLeft": "c16_p112_redeyed_figure_with_long_hair_possibly.webp",
+    "panelRight": "c16_p085_warriors_in_conversation.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 37: Turn Broken System Upside",
+    "vo": "turn that broken system upside down as long as he draws breath"
+   },
+   {
+    "id": 38,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c16_p086_warriors_gathered_seated_talking_dark_setting.webp",
+    "panelRight": "c16_p087_man_in_red_robe_crossed_arms.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 38: Boy Promises Week Longer",
+    "vo": "our boy promises that the week will no longer die in silence if anyone in"
+   },
+   {
+    "id": 39,
+    "duration": 4.78,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p089_warrior_in_robe_emperor_in_robe.webp",
+    "panelRight": "c16_p088_warrior_in_red_robe_speech_bubble.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 39: Territory Harms Innocent Cometer",
+    "vo": "their territory harms an innocent cometer the low down sect will hunt them down"
+   },
+   {
+    "id": 40,
+    "duration": 4.22,
+    "motion": "slide_up",
+    "panelLeft": "c16_p091_two_figures_in_traditional_attire_one.webp",
+    "panelRight": "c16_p092_warrior_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 40: Demand Absolute Retribution Regardless",
+    "vo": "and demand absolute retribution regardless of how prestigious or powerful the"
+   },
+   {
+    "id": 41,
+    "duration": 4.8,
+    "motion": "slide_down",
+    "panelLeft": "c16_p093_warrior_in_red_robe_emperor_in.webp",
+    "panelRight": "c16_p094_warrior_in_battle.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 41: Culprit Might Staring Year",
+    "vo": "culprit might be staring at the year old aaron boy through the firelight"
+   },
+   {
+    "id": 42,
+    "duration": 4.45,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p014_emperor_warns_about_using_name_matchless.webp",
+    "panelRight": "c16_p044_warrior_in_red_robe_speech_bubble.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 42: Cynical Brothel Manager Calculating",
+    "vo": "the cynical brothel manager the calculating inspector and"
+   },
+   {
+    "id": 43,
+    "duration": 4.32,
+    "motion": "slide_up",
+    "panelLeft": "c16_p069_three_men_in_traditional_clothing_one.webp",
+    "panelRight": "c16_p054_two_men_in_kimono_one_saying.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 43: Hardened Craftsmen Feel Chills",
+    "vo": "the hardened craftsmen feel chills running down their spines for men"
+   },
+   {
+    "id": 44,
+    "duration": 4.23,
+    "motion": "pan_left",
+    "panelLeft": "c16_p103_dark_cloudy_sky_with_a_warrior.webp",
+    "panelRight": "c16_p114_warrior_in_robe_dark_background.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 44: Spent Entire Lives Stabbing",
+    "vo": "who spent their entire lives stabbing each other in the dark for copper coins being"
+   },
+   {
+    "id": 45,
+    "duration": 4.7,
+    "motion": "zoom_out",
+    "panelLeft": "c16_p102_clouds_and_rain.webp",
+    "panelRight": "c16_p049_warrior_with_intense_expression.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 45: Given Transcendent Righteous Purpose",
+    "vo": "given a transcendent righteous purpose transforms their loyalty into"
+   },
+   {
+    "id": 46,
+    "duration": 4.0,
+    "motion": "pan_right",
+    "panelLeft": "c16_p105_crazy_demon_difference_previous_life_boots.webp",
+    "panelRight": "c16_p104_man_in_red_robe_street_buildings.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 46: Steel Realize Young Master",
+    "vo": "steel they realize that their young master isn't just an unhinged demon"
+   },
+   {
+    "id": 47,
+    "duration": 4.75,
+    "motion": "pulse_zoom",
+    "panelLeft": "c16_p110_individual_pushes_opinion_becomes_revolutionary.webp",
+    "panelRight": "c16_p107_warrior_speaking_against_murim_alliance_and.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 47: Enjoys Violence Revolutionary Force",
+    "vo": "who enjoys violence he is a revolutionary force of nature building a sanctuary for the"
+   },
+   {
+    "id": 48,
+    "duration": 4.42,
+    "motion": "slide_down",
+    "panelLeft": "c16_p109_warrior_in_battle_shouting_this_is.webp",
+    "panelRight": "c16_p108_warrior_speaking_fighting_justice_martial_arts.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 48: Forgotten People King Unity",
+    "vo": "forgotten people of king ho but as unity solidifies around the"
+   },
+   {
+    "id": 49,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c16_p077_warrior_in_silhouette_dark_sky_red.webp",
+    "panelRight": "c16_p090_warrior_in_battle_looking_determined.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 49: Campfire Ominous Shadow Stirs",
+    "vo": "campfire an ominous shadow stirs deep within the southern mountains where the supreme leader of the"
+   },
+   {
+    "id": 50,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c16_p098_warrior_in_battle_emperor_speaking.webp",
+    "panelRight": "c16_p096_warrior_in_battle_sword_armor_shield.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 50: Black Mystic Union Received",
+    "vo": "black mystic union has just received a report that completely shatters his composure"
+   }
+  ]
+ },
+ "Chapter_017": {
+  "id": "Chapter_017",
+  "title": "Chapter 017",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 3600,
+  "duration": 240,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c17_p003_warriors_in_a_hall_seated_looking.webp",
+    "panelRight": "c17_p001_emperor_speaking_to_courtiers.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 01: Deep Within Subterranean Grand",
+    "vo": "deep within the subterranean grand hall of the"
+   },
+   {
+    "id": 2,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p002_black_mystic_union_master_seated.webp",
+    "panelRight": "c17_p005_warrior_in_black_robes_talking_about.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 02: Black Mystic Union Oppressive",
+    "vo": "black mystic union an oppressive suffocating silence smothers the cavernous chamber as dozens"
+   },
+   {
+    "id": 3,
+    "duration": 3.93,
+    "motion": "slide_up",
+    "panelLeft": "c17_p021_master_speaks_golden_phoenix_pavilion_martial.webp",
+    "panelRight": "c17_p020_golden_dragon_pavilion_master_so_goonpyeong.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 03: Elite Martial Commanders Sit",
+    "vo": "of elite martial commanders sit frozen in their high back"
+   },
+   {
+    "id": 4,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c17_p006_emperor_speaking_red_eyes_black_armor.webp",
+    "panelRight": "c17_p007_warrior_in_battle.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 04: Chairs Looming Atop Central",
+    "vo": "chairs looming atop the central dais on an obsidian throne is the union"
+   },
+   {
+    "id": 5,
+    "duration": 4.43,
+    "motion": "zoom_out",
+    "panelLeft": "c17_p011_warrior_in_mask_talking_to_another.webp",
+    "panelRight": "c17_p012_warrior_with_red_eyes_and_black.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 05: Master Himself Identity Concealed",
+    "vo": "master himself his identity concealed behind a menacing black and gold rabbit mask"
+   },
+   {
+    "id": 6,
+    "duration": 4.57,
+    "motion": "pan_right",
+    "panelLeft": "c17_p010_emperor_kaiser_speaking_warrior_in_battle.webp",
+    "panelRight": "c17_p009_emperor_speaking_to_courtiers.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 06: Glints Malevolently Flickering Torchlight",
+    "vo": "that glints malevolently under the flickering torchlight nealing at the foot of"
+   },
+   {
+    "id": 7,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c17_p030_warrior_in_dark_room_speech_bubble.webp",
+    "panelRight": "c17_p014_warrior_with_mask_red_eyes_and.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 07: Throne Blood Soaked Intelligence",
+    "vo": "the throne is a blood soaked intelligence scout trembling so violently his"
+   },
+   {
+    "id": 8,
+    "duration": 4.1,
+    "motion": "slide_down",
+    "panelLeft": "c17_p015_warrior_with_red_eyes_and_golden.webp",
+    "panelRight": "c17_p016_warrior_in_black_robe_seated_with.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 08: Forehead Repeatedly Bangs Against",
+    "vo": "forehead repeatedly bangs against the polished stone floor when"
+   },
+   {
+    "id": 9,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p089_warrior_in_conversation_holding_sword.webp",
+    "panelRight": "c17_p086_golden_phoenix_pavilion_master_killed_by.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 09: Union Master Coldly Demands",
+    "vo": "the union master coldly demands an explanation for the complete radio silence"
+   },
+   {
+    "id": 10,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c17_p024_warrior_speaking_opponent_easily_killed_golden.webp",
+    "panelRight": "c17_p017_warrior_in_court_emperor_speaking_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 10: Golden Phoenix Pavilion Scout",
+    "vo": "from the golden phoenix pavilion the scout stammeres out a report so absurd"
+   },
+   {
+    "id": 11,
+    "duration": 4.6,
+    "motion": "slide_down",
+    "panelLeft": "c17_p019_warrior_in_battle_holding_sword.webp",
+    "panelRight": "c17_p018_warrior_in_court_speaking_to_emperor.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 11: Several Commanders Stifled Disbelieving",
+    "vo": "that several commanders stifled disbelieving chuckles the pavilion was"
+   },
+   {
+    "id": 12,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p022_warrior_in_battle_sword_speech_bubble.webp",
+    "panelRight": "c17_p023_warrior_in_mask_speech_bubble_character.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 12: Completely Raided Wealth Imbezzled",
+    "vo": "completely raided its wealth imbezzled and the colossal bare pelt pavilion"
+   },
+   {
+    "id": 13,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c17_p008_n_errand_boy.webp",
+    "panelRight": "c17_p058_man_with_long_hair_speech_bubble.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 13: Master Beaten Death Year",
+    "vo": "master was beaten to death by a year old tavern aaron boy named"
+   },
+   {
+    "id": 14,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c17_p025_warrior_in_black_robe_sword_speech.webp",
+    "panelRight": "c17_p026_warrior_in_battle_red_background.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 14: Yizaha Watching Terrifying Union",
+    "vo": "yizaha watching the terrifying union master process this"
+   },
+   {
+    "id": 15,
+    "duration": 4.75,
+    "motion": "zoom_out",
+    "panelLeft": "c17_p027_warrior_in_conversation_sword_in_hand.webp",
+    "panelRight": "c17_p028_character_with_a_speech_bubble_saying.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 15: Information Master Class Psychological",
+    "vo": "information is a master class in psychological comedy for"
+   },
+   {
+    "id": 16,
+    "duration": 4.25,
+    "motion": "pan_right",
+    "panelLeft": "c17_p004_warrior_with_mask_and_red_eyes.webp",
+    "panelRight": "c17_p029_warrior_in_battle_sword_shouting_emperor.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 16: Several Long Seconds Supreme",
+    "vo": "several long seconds the supreme warlord merely blinks behind his mask his internal"
+   },
+   {
+    "id": 17,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c17_p030_warrior_in_dark_room_speech_bubble.webp",
+    "panelRight": "c17_p031_warrior_in_black_cloak_sword_in.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 17: Logic Breaking Repeats Scouts",
+    "vo": "logic breaking down as he repeats the scouts words aloud demanding to know if"
+   },
+   {
+    "id": 18,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c17_p040_japanese_sword_weapon_martial_arts_warrior.webp",
+    "panelRight": "c17_p032_vampire_throws_character_away.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 18: Executive Multi Proven Criminal",
+    "vo": "an executive of a multi proven criminal syndicate was genuinely slaughtered"
+   },
+   {
+    "id": 19,
+    "duration": 4.25,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p041_man_in_armor_noodle_soup_inn.webp",
+    "panelRight": "c17_p063_customer_orders_noodle_soup_chef_prepares.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 19: Kid Whose Primary Job",
+    "vo": "by a kid whose primary job description is sweeping tavern floors and carrying noodle"
+   },
+   {
+    "id": 20,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c17_p036_warrior_in_traditional_clothing_speaking_soup.webp",
+    "panelRight": "c17_p035_warrior_in_kimono_holding_bowl_of.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 20: Bowls Scout Tearfully Confirms",
+    "vo": "bowls the scout tearfully confirms that the aaron boy not only"
+   },
+   {
+    "id": 21,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c17_p038_man_eating_noodles_with_chopsticks.webp",
+    "panelRight": "c17_p037_two_men_in_a_traditional_japanese.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 21: Dropped Pavilion Master Three",
+    "vo": "dropped the pavilion master in three seconds flat but also captured their top inspector"
+   },
+   {
+    "id": 22,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p085_black_faction_man_speaking.webp",
+    "panelRight": "c17_p087_black_faction_members_move_in_groups.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 22: Seema Established Unauthorized Splinter",
+    "vo": "seema b and established an unauthorized splinter faction called the matchless"
+   },
+   {
+    "id": 23,
+    "duration": 4.13,
+    "motion": "slide_up",
+    "panelLeft": "c17_p042_warrior_in_a_room_talking_to.webp",
+    "panelRight": "c17_p043_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 23: Ignoble Clan Moment Brilliantly",
+    "vo": "ignoble clan this moment brilliantly exposes the"
+   },
+   {
+    "id": 24,
+    "duration": 4.2,
+    "motion": "pan_left",
+    "panelLeft": "c17_p044_warrior_in_conversation_with_a_man.webp",
+    "panelRight": "c17_p045_man_with_closed_eyes_talking.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 24: Profound Vulnerability Massive Underworld",
+    "vo": "profound vulnerability of massive underworld syndicates they spend"
+   },
+   {
+    "id": 25,
+    "duration": 4.57,
+    "motion": "zoom_out",
+    "panelLeft": "c17_p034_warrior_walking_in_front_of_building.webp",
+    "panelRight": "c17_p046_store_owner_giving_thumbs_up.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 25: Decades Building Terrifying Reputations",
+    "vo": "decades building terrifying reputations through bureaucratic terror yet when"
+   },
+   {
+    "id": 26,
+    "duration": 4.1,
+    "motion": "pan_right",
+    "panelLeft": "c17_p047_emperor_speaking_warrior_in_background_sword.webp",
+    "panelRight": "c17_p048_emperor_speaking_warrior_in_background.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 26: Confronted Chaotic Anomaly Completely",
+    "vo": "confronted with the chaotic anomaly who completely ignores their hierarchy their"
+   },
+   {
+    "id": 27,
+    "duration": 4.83,
+    "motion": "pulse_zoom",
+    "panelLeft": "c17_p049_warrior_speaking_to_emperor.webp",
+    "panelRight": "c17_p050_emperor_crying_speaking_tears_defeated.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 27: Entire System Paralyzes Bewilderment",
+    "vo": "entire system paralyzes in bewilderment realizing that allowing an air enboid"
+   },
+   {
+    "id": 28,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c17_p051_man_in_black_robe_asks_about.webp",
+    "panelRight": "c17_p052_warrior_in_conversation_serious_tone.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 28: Casually Annex Syndicate Territory",
+    "vo": "to casually annex syndicate territory would destroy their authority across"
+   },
+   {
+    "id": 29,
+    "duration": 4.64,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p053_warrior_in_battle_shouting_how_does.webp",
+    "panelRight": "c17_p054_warrior_speaking_to_emperor.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 29: Kangho Union Master Drops",
+    "vo": "kangho the union master drops his calm facade his killing intent flooding"
+   },
+   {
+    "id": 30,
+    "duration": 4.52,
+    "motion": "slide_up",
+    "panelLeft": "c17_p090_emperor_speaking_red_eyes_black_hair.webp",
+    "panelRight": "c17_p055_warrior_in_anger_shouting_your_nature.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 30: Chamber Glacial Pressure Officially",
+    "vo": "the chamber with glacial pressure he officially mobilizes the black"
+   },
+   {
+    "id": 31,
+    "duration": 4.13,
+    "motion": "slide_down",
+    "panelLeft": "c17_p013_emperor_orders_warrior_to_take_care.webp",
+    "panelRight": "c17_p057_man_thinking_speech_bubble_question_hmm.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 31: Reconnaissance'S Apex Enforcers Legendary",
+    "vo": "reconnaissance's apex enforcers the legendary twin ghosts of"
+   },
+   {
+    "id": 32,
+    "duration": 4.53,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p039_warrior_in_ilyang_prefecture_skilled.webp",
+    "panelRight": "c17_p059_warrior_in_battle_shouting_be_crazy.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 32: Ringed Blade Ordering Descend",
+    "vo": "the ringed blade ordering them to descend upon iliang prefecture and erase every living"
+   },
+   {
+    "id": 33,
+    "duration": 4.42,
+    "motion": "slide_up",
+    "panelLeft": "c17_p060_warrior_eating_noodles_another_person_in.webp",
+    "panelRight": "c17_p061_man_in_restaurant_asking_for_soup.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 33: Soul Connected Zaha Inn",
+    "vo": "soul connected to the zaha inn meanwhile hundreds of miles to the north"
+   },
+   {
+    "id": 34,
+    "duration": 4.25,
+    "motion": "pan_left",
+    "panelLeft": "c17_p064_warrior_in_battle_speaking_boots_walking.webp",
+    "panelRight": "c17_p065_warrior_speaking_payment_owner.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 34: Boy Zaha Completely Unconcerned",
+    "vo": "are boy ye z zaha is completely unconcerned by the"
+   },
+   {
+    "id": 35,
+    "duration": 4.0,
+    "motion": "zoom_out",
+    "panelLeft": "c17_p079_two_men_in_robes_one_with.webp",
+    "panelRight": "c17_p067_warrior_in_battle_talking_to_emperor.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 35: Impending Storm Sitting Freshly",
+    "vo": "impending storm sitting on the freshly laid wooden beams of the"
+   },
+   {
+    "id": 36,
+    "duration": 4.6,
+    "motion": "pan_right",
+    "panelLeft": "c17_p068_customer_has_eaten_come_and_get.webp",
+    "panelRight": "c17_p069_warrior_in_battle_talking_to_someone.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 36: Reconstructed Inn Zaha Coordinates",
+    "vo": "reconstructed inn zaha coordinates with semab to install subterranean defensive tunnels"
+   },
+   {
+    "id": 37,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c17_p070_warrior_in_battle_intense_expression.webp",
+    "panelRight": "c17_p034_warrior_walking_in_front_of_building.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 37: Fortified Escape Routes Treating",
+    "vo": "and fortified escape routes treating the upcoming syndicate invasion like an anticipated routine"
+   },
+   {
+    "id": 38,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c17_p072_warrior_holding_sword_preparing_for_battle.webp",
+    "panelRight": "c17_p073_warrior_in_conversation_seated_in_room.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 38: Delivery Ensure Inner Circle",
+    "vo": "delivery to ensure his inner circle can survive zaha"
+   },
+   {
+    "id": 39,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p074_warrior_in_conversation_with_emperor.webp",
+    "panelRight": "c17_p075_emperor_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 39: Subjects Chastassum Thai Agonizing",
+    "vo": "subjects chastassum thai to an agonizing executive martial boot camp forcing"
+   },
+   {
+    "id": 40,
+    "duration": 4.49,
+    "motion": "slide_up",
+    "panelLeft": "c17_p076_warrior_in_traditional_attire_holding_sword.webp",
+    "panelRight": "c17_p077_warrior_in_kitchen_asking_for_food.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 40: Silverhaired Manager Sprint Laps",
+    "vo": "the silverhaired manager to sprint laps across the courtyard while balancing"
+   },
+   {
+    "id": 41,
+    "duration": 4.11,
+    "motion": "slide_down",
+    "panelLeft": "c17_p078_man_with_angry_expression_speech_bubble.webp",
+    "panelRight": "c17_p079_two_men_in_robes_one_with.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 41: Boiling Tea Cups Head",
+    "vo": "boiling tea cups on his head zahas weeps into the"
+   },
+   {
+    "id": 42,
+    "duration": 4.31,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p080_warrior_with_kitchen_knife_surprised_expression.webp",
+    "panelRight": "c17_p081_emperor_speaking_serious_expression.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 42: Sawdust Begging Mercy Zahas",
+    "vo": "sawdust begging for mercy but zahas merely points out that surviving an assassin"
+   },
+   {
+    "id": 43,
+    "duration": 4.62,
+    "motion": "slide_up",
+    "panelLeft": "c17_p082_warrior_holding_cleaver_talking_character_in.webp",
+    "panelRight": "c17_p083_warrior_holding_a_knife.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 43: Strike Requires Disciplined Legwork",
+    "vo": "strike requires disciplined legwork not smooth excuses but"
+   },
+   {
+    "id": 44,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c17_p062_warrior_asking_for_spice_before_death.webp",
+    "panelRight": "c17_p088_warrior_in_battle_speaking_to_opponent.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 44: Boy'S Terrifying Preparation Happens",
+    "vo": "our boy's most terrifying preparation happens behind closed doors where he"
+   },
+   {
+    "id": 45,
+    "duration": 4.08,
+    "motion": "zoom_out",
+    "panelLeft": "c17_p046_store_owner_giving_thumbs_up.webp",
+    "panelRight": "c17_p091_warrior_in_battle_sword_drawn_eyes.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 45: Begins Experimenting Medicinal Herbs",
+    "vo": "begins experimenting with medicinal herbs and potent digestive roots gathered"
+   },
+   {
+    "id": 46,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c17_p092_warrior_holding_cleaver_saying_thrown_away.webp",
+    "panelRight": "c17_p093_warrior_in_battle_eye_closeup.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 46: Local Apothecaries Inzaha'S Unhinged",
+    "vo": "from local apothecaries inzaha's unhinged tactical"
+   },
+   {
+    "id": 47,
+    "duration": 4.25,
+    "motion": "pulse_zoom",
+    "panelLeft": "c17_p094_warrior_holding_sword_dark_background.webp",
+    "panelRight": "c17_p095_warrior_in_battle_sword_glowing_dark.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 47: Philosophy Why Waste Precious",
+    "vo": "philosophy why waste precious internal key clashing blades against dozens"
+   },
+   {
+    "id": 48,
+    "duration": 4.64,
+    "motion": "slide_down",
+    "panelLeft": "c17_p096_warrior_holding_sword_dark_background.webp",
+    "panelRight": "c17_p097_warrior_with_crossed_arms_holding_cleaver.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 48: Armored Henchmen Teaspoon Powdered",
+    "vo": "of armored henchmen when a teaspoon of powdered roots slipped into their water"
+   },
+   {
+    "id": 49,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p098_warrior_in_battle_sword_drawn_eyes.webp",
+    "panelRight": "c17_p099_warrior_in_battle_sword_swinging_sky.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 49: Supply Incapacitate Entire Army",
+    "vo": "supply can incapacitate an entire army in the nearest outhouse with the"
+   },
+   {
+    "id": 50,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c17_p100_warrior_in_battle_sword_drawn_enemy.webp",
+    "panelRight": "c17_p084_hand_holding_a_knife_with_a.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 50: Twin Ghosts Already Riding",
+    "vo": "twin ghosts already riding hard through the mountain passes and a legion of ruthless shadow operatives"
+   },
+   {
+    "id": 51,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c17_p088_warrior_in_battle_speaking_to_opponent.webp",
+    "panelRight": "c17_p091_warrior_in_battle_sword_drawn_eyes.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 51: Descending Prefecture Boy Smiles",
+    "vo": "descending on the prefecture our boy smiles into the darkness"
+   },
+   {
+    "id": 52,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c17_p092_warrior_holding_cleaver_saying_thrown_away.webp",
+    "panelRight": "c17_p012_warrior_with_red_eyes_and_black.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 52: Completely Ready Prove Wildest",
+    "vo": "completely ready to prove that the wildest predator in the province doesn't hide behind"
+   },
+   {
+    "id": 53,
+    "duration": 4.13,
+    "motion": "slide_up",
+    "panelLeft": "c17_p066_warrior_in_armor_with_bowl_of.webp",
+    "panelRight": "c17_p063_customer_orders_noodle_soup_chef_prepares.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 53: Expensive Gold Mask Serves",
+    "vo": "an expensive gold mask he serves noodles by day bruised biological"
+   },
+   {
+    "id": 54,
+    "duration": 4.7,
+    "motion": "pan_left",
+    "panelLeft": "c17_p070_warrior_in_battle_intense_expression.webp",
+    "panelRight": "c17_p094_warrior_holding_sword_dark_background.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 54: Warfare Night Rewrites Laws",
+    "vo": "warfare by night and rewrites the laws of king ho whenever he feels like"
+   },
+   {
+    "id": 55,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c17_p099_warrior_in_battle_sword_swinging_sky.webp",
+    "panelRight": "c17_p096_warrior_holding_sword_dark_background.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 55: Setting Clash Titans Shake",
+    "vo": "it setting up a clash of titans that will shake the underworld to its core"
+   }
+  ]
+ },
+ "Chapter_018": {
+  "id": "Chapter_018",
+  "title": "Chapter 018",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 3840,
+  "duration": 230,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c18_p025_warrior_in_battle_sword_clouds_sky.webp",
+    "panelRight": "c18_p014_warriors_walking_boots_on_pavement_text.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 01: Stepping Paved Street Beneath",
+    "vo": "stepping out into the paved street beneath the clear afternoon sky"
+   },
+   {
+    "id": 2,
+    "duration": 4.6,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p046_warrior_in_black_robe_martial_arts.webp",
+    "panelRight": "c18_p003_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 02: Boy Yizahah Suddenly Ambushed",
+    "vo": "our boy yizahah is suddenly ambushed by a terrifying martial"
+   },
+   {
+    "id": 3,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c18_p005_warrior_in_combat_sword_drawn_enemy.webp",
+    "panelRight": "c18_p004_warrior_blocking_knife_with_nodachi.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 03: Expert Brandishing Massive Six",
+    "vo": "expert brandishing a massive six foot no dachi that gleams like polished"
+   },
+   {
+    "id": 4,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c18_p007_warrior_in_battle_sword_drawn_eyes.webp",
+    "panelRight": "c18_p008_warrior_in_combat_swinging_sword_multiple.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 04: Ice Sun Formidable Warrior",
+    "vo": "ice under the sun this formidable warrior is sogun"
+   },
+   {
+    "id": 5,
+    "duration": 4.71,
+    "motion": "zoom_out",
+    "panelLeft": "c18_p030_man_with_black_hair_red_eyes.webp",
+    "panelRight": "c18_p038_warrior_in_black_robe_speech_bubble.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 05: Pyong High Ranking Vanguard",
+    "vo": "pyong a high ranking vanguard captain from the black mystic union whose"
+   },
+   {
+    "id": 6,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c18_p010_warrior_in_battle_sword_swinging_fiery.webp",
+    "panelRight": "c18_p009_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 06: Devastating Handed Sword Technique",
+    "vo": "devastating two handed sword technique has slaughtered dozens of rival seq masters"
+   },
+   {
+    "id": 7,
+    "duration": 4.52,
+    "motion": "pulse_zoom",
+    "panelLeft": "c18_p055_warrior_in_battle_looking_at_enemy.webp",
+    "panelRight": "c18_p012_warrior_in_battle_sword_drawn_intense.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 07: Across Southern Provinces Looking",
+    "vo": "across the southern provinces but looking closely at zahaz hans you witness"
+   },
+   {
+    "id": 8,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c18_p014_warriors_walking_boots_on_pavement_text.webp",
+    "panelRight": "c18_p015_warrior_in_battle_sword_drawn_enemy.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 08: Level Unhinged Disrespect Completely",
+    "vo": "a level of unhinged disrespect that completely shatters every traditional rule"
+   },
+   {
+    "id": 9,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p016_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c18_p017_warrior_holding_sword_intense_expression.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 09: Swordsmanship Rather Drawing Mastercrafted",
+    "vo": "of swordsmanship rather than drawing a mastercrafted steel sword our boy"
+   },
+   {
+    "id": 10,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c18_p062_warrior_in_black_robe_with_sword.webp",
+    "panelRight": "c18_p045_warrior_holding_cleaver_crossed_arms.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 10: Casually Steps Onto Cobblestones",
+    "vo": "casually steps onto the cobblestones holding an everyday rectangular kitchen"
+   },
+   {
+    "id": 11,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c18_p041_man_with_red_eyes_speech_bubble.webp",
+    "panelRight": "c18_p020_warrior_in_battle_sword_drawn_dark.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 11: Meat Cleaver Eyes Ordinary",
+    "vo": "meat cleaver in the eyes of ordinary martial artists bringing a household cooking tool"
+   },
+   {
+    "id": 12,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p021_warrior_in_battle_speaking_skills_insufficient.webp",
+    "panelRight": "c18_p023_warrior_in_battle_sword_drawn_enemy.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 12: Duel Against Six Foot",
+    "vo": "to a duel against a six foot military notici is literal suicide"
+   },
+   {
+    "id": 13,
+    "duration": 4.7,
+    "motion": "slide_up",
+    "panelLeft": "c18_p024_warrior_in_battle_sword_drawn_boots.webp",
+    "panelRight": "c18_p026_warrior_in_battle_talking_to_emperor.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 13: Yet Tactical Kinetic Standpoint",
+    "vo": "yet from a tactical and kinetic standpoint zahaz internal"
+   },
+   {
+    "id": 14,
+    "duration": 4.3,
+    "motion": "pan_left",
+    "panelLeft": "c18_p027_warrior_in_battle_speaking_to_someone.webp",
+    "panelRight": "c18_p028_warrior_in_battle_dialogue_castle_burning.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 14: Calculations Reveal Terrifying Depth",
+    "vo": "calculations reveal the terrifying depth of a true grandmaster he"
+   },
+   {
+    "id": 15,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c18_p044_warrior_in_combat_sword_drawn_enemy.webp",
+    "panelRight": "c18_p008_warrior_in_combat_swinging_sword_multiple.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 15: Coldly Analyzes Geometry Combat",
+    "vo": "coldly analyzes the geometry of combat recognizing that while so gun"
+   },
+   {
+    "id": 16,
+    "duration": 4.57,
+    "motion": "pan_right",
+    "panelLeft": "c18_p034_warrior_in_battle_sword_headgear_expression.webp",
+    "panelRight": "c18_p010_warrior_in_battle_sword_swinging_fiery.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 16: Pyeong'S Great Sword Possesses",
+    "vo": "pyeong's great sword possesses immense reach and destructive cutting momentum every oversized"
+   },
+   {
+    "id": 17,
+    "duration": 4.43,
+    "motion": "pulse_zoom",
+    "panelLeft": "c18_p031_warrior_in_battle_talking_to_another.webp",
+    "panelRight": "c18_p032_emperor_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 17: Weapon Suffers Fatal Blind",
+    "vo": "weapon suffers from a fatal blind spot known as the inner dead zone"
+   },
+   {
+    "id": 18,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c18_p016_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c18_p017_warrior_holding_sword_intense_expression.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 18: Once Swordsman Commits Full",
+    "vo": "once a swordsman commits to a full two handed swing the space directly"
+   },
+   {
+    "id": 19,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p035_warrior_in_kimono_serious_expression.webp",
+    "panelRight": "c18_p021_warrior_in_battle_speaking_skills_insufficient.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 19: Against Chest Completely Defenseless",
+    "vo": "against their chest is completely defenseless furthermore infusing high"
+   },
+   {
+    "id": 20,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c18_p039_man_with_long_black_hair_and.webp",
+    "panelRight": "c18_p040_emperor_with_intense_expression.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 20: Velocity Internal Key Brutal",
+    "vo": "velocity internal key into a brutal cleaver would simply"
+   },
+   {
+    "id": 21,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c18_p042_emperor_kaiser_speaking.webp",
+    "panelRight": "c18_p043_warrior_in_battle_shouting_red_background.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 21: Shatter Kitchen Tool Impact",
+    "vo": "shatter the kitchen tool on impact making raw defense an inefficient waste of"
+   },
+   {
+    "id": 22,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p071_warrior_wielding_sword_blue_energy_text.webp",
+    "panelRight": "c18_p072_sword_with_blue_energy_and_sparks.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 22: Energy Instead Relying Weapon",
+    "vo": "energy instead of relying on his weapon zaha relies on pure"
+   },
+   {
+    "id": 23,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c18_p047_warrior_in_battle_sword_armor_battle.webp",
+    "panelRight": "c18_p049_man_in_suit_with_speech_bubble.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 23: Microscopic Body Angling Spatial",
+    "vo": "microscopic body angling and spatial prediction as the massive blade comes"
+   },
+   {
+    "id": 24,
+    "duration": 4.17,
+    "motion": "pan_left",
+    "panelLeft": "c18_p015_warrior_in_battle_sword_drawn_enemy.webp",
+    "panelRight": "c18_p051_warrior_holding_sword_red_background.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 24: Whistling Blinding Flurry Arcs",
+    "vo": "whistling down in a blinding flurry of arcs capable of slicing through stone"
+   },
+   {
+    "id": 25,
+    "duration": 4.2,
+    "motion": "zoom_out",
+    "panelLeft": "c18_p052_warrior_in_robe_talking_to_another.webp",
+    "panelRight": "c18_p053_warrior_in_battle_holding_sword.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 25: Pillars Zahah Effortlessly Dances",
+    "vo": "pillars zahah effortlessly dances across the flagstones evading each"
+   },
+   {
+    "id": 26,
+    "duration": 4.8,
+    "motion": "pan_right",
+    "panelLeft": "c18_p054_emperor_speaking_serious_expression_dark_background.webp",
+    "panelRight": "c18_p056_man_with_black_hair_and_red.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 26: Strike Fractions Millimeter Every",
+    "vo": "strike by fractions of a millimeter every time so gunpion attempts"
+   },
+   {
+    "id": 27,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c18_p057_warrior_in_black_robe_holding_sword.webp",
+    "panelRight": "c18_p058_warrior_in_robe_speaking_holding_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 27: Accelerate Momentum Zahah Simply",
+    "vo": "to accelerate his momentum zahah simply taps the flat of the heavy blade"
+   },
+   {
+    "id": 28,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c18_p059_warrior_in_battle_sword_drawn_intense.webp",
+    "panelRight": "c18_p060_warrior_in_battle_stance_holding_sword.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 28: Cooking Knife Disrupting Swordsman'S",
+    "vo": "with his cooking knife disrupting the swordsman's center of gravity and forcing him"
+   },
+   {
+    "id": 29,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p061_man_with_black_hair_speech_bubble.webp",
+    "panelRight": "c18_p062_warrior_in_black_robe_with_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 29: Stumble Awkward Recoveries Completely",
+    "vo": "to stumble into awkward recoveries completely bewildered that"
+   },
+   {
+    "id": 30,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c18_p063_man_in_a_black_robe_uses.webp",
+    "panelRight": "c18_p064_warrior_in_a_kimono_points_a.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 30: Aaron Boy Pairing Elite",
+    "vo": "an aaron boy is pairing an elite no dachi with kitchenware so gunpion leaps backward"
+   },
+   {
+    "id": 31,
+    "duration": 4.17,
+    "motion": "slide_down",
+    "panelLeft": "c18_p034_warrior_in_battle_sword_headgear_expression.webp",
+    "panelRight": "c18_p066_emperors_eye_with_tears_sword_in.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 31: Cold Sweat Breath Ragged",
+    "vo": "and a cold sweat his breath ragged and his eyes wide with existential"
+   },
+   {
+    "id": 32,
+    "duration": 4.83,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p067_warrior_in_battle_with_fire.webp",
+    "panelRight": "c18_p068_warrior_in_battle_fighting_dying_speaking.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 32: Dread Trimbling Disbelief Captain",
+    "vo": "dread trimbling and disbelief the captain demands to know how a common waiter can"
+   },
+   {
+    "id": 33,
+    "duration": 4.07,
+    "motion": "slide_up",
+    "panelLeft": "c18_p070_warrior_in_flames_holding_sword.webp",
+    "panelRight": "c18_p073_warrior_in_battle_speaking_sword_boots.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 33: Predict Every Trajectory Secret",
+    "vo": "predict every trajectory of a secret union sword style hysterically"
+   },
+   {
+    "id": 34,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c18_p069_warriors_fighting_fiery_taste_burning_castle.webp",
+    "panelRight": "c18_p074_man_with_long_hair_and_a.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 34: Asking Zahha Secretly Legendary",
+    "vo": "asking if zahha is secretly one of the legendary heavenly generals disguised"
+   },
+   {
+    "id": 35,
+    "duration": 4.7,
+    "motion": "zoom_out",
+    "panelLeft": "c18_p075_warrior_in_battle_shouting_haap.webp",
+    "panelRight": "c18_p076_warrior_in_action_sword_drawn_shouting.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 35: Servant Zahha Gives Look",
+    "vo": "as a servant zahha gives him a look of profound exhaustion dryly"
+   },
+   {
+    "id": 36,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c18_p061_man_with_black_hair_speech_bubble.webp",
+    "panelRight": "c18_p078_warrior_in_battle_sword_swinging_blue.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 36: Pointing How Utterly Ridiculous",
+    "vo": "pointing out how utterly ridiculous it is to scream at someone to shut"
+   },
+   {
+    "id": 37,
+    "duration": 4.25,
+    "motion": "pulse_zoom",
+    "panelLeft": "c18_p079_warrior_in_battle_fire_sword_chaos.webp",
+    "panelRight": "c18_p080_warrior_in_battle_sword_drawn_fire.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 37: Immediately Demand Know",
+    "vo": "up and then immediately demand to know who they are in the very"
+   },
+   {
+    "id": 38,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c18_p081_warrior_in_battle_sword_swinging_fire.webp",
+    "panelRight": "c18_p082_warriors_in_battle_fire_flames_swords.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 38: Next Breath Boy Bluntly",
+    "vo": "next breath our boy bluntly explains that reading his movements isn't"
+   },
+   {
+    "id": 39,
+    "duration": 4.75,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p083_fire_and_sword_destruction_chaos_flames.webp",
+    "panelRight": "c18_p084_warrior_in_battle_fire_destruction.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 39: Magic Gunpion'S Footwork Predictable",
+    "vo": "magic so gunpion's footwork is so predictable and unrefined that any martial artist"
+   },
+   {
+    "id": 40,
+    "duration": 4.15,
+    "motion": "slide_up",
+    "panelLeft": "c18_p085_flame_rising_glowing_fiery_intense.webp",
+    "panelRight": "c18_p086_man_with_dark_hair_and_piercing.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 40: Functioning Eyes See Attacks",
+    "vo": "with functioning eyes could see his attacks coming from a mile"
+   },
+   {
+    "id": 41,
+    "duration": 4.6,
+    "motion": "slide_down",
+    "panelLeft": "c18_p087_warrior_in_battle_sword_swinging_sparks.webp",
+    "panelRight": "c18_p088_warrior_in_action_sword_swinging_flying.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 41: Away Humiliated Swordsman Readjust",
+    "vo": "away before the humiliated swordsman can readjust his grip they hot closes the distance"
+   },
+   {
+    "id": 42,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p089_warrior_falling_sword_swinging_chaos_chaos.webp",
+    "panelRight": "c18_p090_warrior_in_battle_flying_clouds_burning.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 42: Ghost Flash Slipping Directly",
+    "vo": "in a ghost like flash slipping directly into the dead zone and delivering an"
+   },
+   {
+    "id": 43,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c18_p080_warrior_in_battle_sword_drawn_fire.webp",
+    "panelRight": "c18_p092_warrior_in_battle_shouting_so_cool.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 43: Explosive Palm Strike Straight",
+    "vo": "explosive palm strike straight into the captain's chest shutting down his breathing and knocking"
+   },
+   {
+    "id": 44,
+    "duration": 4.25,
+    "motion": "pan_left",
+    "panelLeft": "c18_p095_warrior_falling_character_watching.webp",
+    "panelRight": "c18_p093_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 44: Unconscious Across Cobblestones Watching",
+    "vo": "him unconscious across the cobblestones watching from the"
+   },
+   {
+    "id": 45,
+    "duration": 4.55,
+    "motion": "zoom_out",
+    "panelLeft": "c18_p028_warrior_in_battle_dialogue_castle_burning.webp",
+    "panelRight": "c18_p096_emperor_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 45: Second Floor Balcony Neighboring",
+    "vo": "second floor balcony of a neighboring tea house an undercover marshal artist from a"
+   },
+   {
+    "id": 46,
+    "duration": 4.2,
+    "motion": "pan_right",
+    "panelLeft": "c18_p074_man_with_long_hair_and_a.webp",
+    "panelRight": "c18_p025_warrior_in_battle_sword_clouds_sky.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 46: Prominent Neutral Clan Clutches",
+    "vo": "prominent neutral clan clutches his tea cup with trembling fingers completely petrified as"
+   },
+   {
+    "id": 47,
+    "duration": 4.2,
+    "motion": "pulse_zoom",
+    "panelLeft": "c18_p019_closeup_of_a_characters_eye_suggesting.webp",
+    "panelRight": "c18_p018_warrior_in_battle_sword_drawn_red.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 47: Realizes Rumored Mad Arande",
+    "vo": "he realizes that the rumored mad arande boy of elyang prefecture isn't"
+   },
+   {
+    "id": 48,
+    "duration": 4.8,
+    "motion": "slide_down",
+    "panelLeft": "c18_p013_warriors_fighting_sword_battle_conflict.webp",
+    "panelRight": "c18_p011_warrior_in_a_dark_cloak_with.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 48: Urban Legend Apex Predator",
+    "vo": "an urban legend he is an apex predator toying with the most dangerous killers"
+   },
+   {
+    "id": 49,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p002_warrior_in_dark_sword_in_hand.webp",
+    "panelRight": "c18_p046_warrior_in_black_robe_martial_arts.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 49: Province Casually Treating High",
+    "vo": "in the province casually treating high stakes martial warfare like a quick"
+   },
+   {
+    "id": 50,
+    "duration": 4.38,
+    "motion": "slide_up",
+    "panelLeft": "c18_p093_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c18_p089_warrior_falling_sword_swinging_chaos_chaos.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 50: Break Between Morning Chores",
+    "vo": "break between morning chores and with the syndicates prized vanguard collapsed in the"
+   },
+   {
+    "id": 51,
+    "duration": 4.62,
+    "motion": "slide_down",
+    "panelLeft": "c18_p095_warrior_falling_character_watching.webp",
+    "panelRight": "c18_p096_emperor_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 51: Dirt Boy Prepares Drag",
+    "vo": "dirt our boy prepares to drag his newest captive into the back rooms ready"
+   },
+   {
+    "id": 52,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c18_p055_warrior_in_battle_looking_at_enemy.webp",
+    "panelRight": "c18_p052_warrior_in_robe_talking_to_another.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 52: Turn Another Dangerous Enemy",
+    "vo": "to turn another dangerous enemy into an invaluable asset for the growing low down sect"
+   }
+  ]
+ },
+ "Chapter_019": {
+  "id": "Chapter_019",
+  "title": "Chapter 019",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 4070,
+  "duration": 226,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c19_p042_warrior_in_bed_emperor_speaking_boots.webp",
+    "panelRight": "c19_p016_three_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 01: Inside Lavish Second Floor",
+    "vo": "inside the lavish second floor bed chambers of the"
+   },
+   {
+    "id": 2,
+    "duration": 4.6,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p003_warrior_in_red_robe_sword_emperor.webp",
+    "panelRight": "c19_p002_warrior_in_room_emperor_speaking_character.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 02: Plum Blossom Brothel Unconscious",
+    "vo": "plum blossom brothel an unconscious so gun pion ly sprawled across a silk"
+   },
+   {
+    "id": 3,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c19_p010_warrior_with_blood_on_face_asking.webp",
+    "panelRight": "c19_p023_warrior_in_battle_blood_on_face.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 03: Mattress Face Swollen Bruised",
+    "vo": "mattress his face swollen and bruised from our boys' concussive palm strike standing at"
+   },
+   {
+    "id": 4,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c19_p024_warrior_in_kimono_talking_to_another.webp",
+    "panelRight": "c19_p041_warrior_and_emperor_in_conversation.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 04: Foot Bed Arms Crossed",
+    "vo": "the foot of the bed with his arms crossed yizahah casually gestures toward"
+   },
+   {
+    "id": 5,
+    "duration": 4.67,
+    "motion": "zoom_out",
+    "panelLeft": "c19_p005_warrior_waking_up_shouting_wake_the.webp",
+    "panelRight": "c19_p052_warrior_in_conversation_warrior_in_background.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 05: Slumbering Swordsmen Tells Chassung",
+    "vo": "the slumbering swordsmen and tells chassung thai to wake him up what follows"
+   },
+   {
+    "id": 6,
+    "duration": 4.58,
+    "motion": "pan_right",
+    "panelLeft": "c19_p011_three_men_in_traditional_clothing_one.webp",
+    "panelRight": "c19_p012_warrior_in_battle_speaking_to_enemy.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 06: Moment Pure Comedic Catharsis",
+    "vo": "is a moment of pure comedic catharsis having spent days living in terror"
+   },
+   {
+    "id": 7,
+    "duration": 4.42,
+    "motion": "pulse_zoom",
+    "panelLeft": "c19_p013_warrior_in_black_robe_seated_looking.webp",
+    "panelRight": "c19_p014_warrior_in_conversation_asking_about_ranking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 07: Regional Syndicate Assassins Silverhaired",
+    "vo": "of regional syndicate assassins the silverhaired brothal manager ceases the opportunity"
+   },
+   {
+    "id": 8,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c19_p029_warrior_in_battle_character_speaking_boots.webp",
+    "panelRight": "c19_p016_three_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 08: Hysterical Enthusiasm Releishing Intoxicating",
+    "vo": "with hysterical enthusiasm releishing the intoxicating power trip"
+   },
+   {
+    "id": 9,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p035_man_with_black_hair_and_a.webp",
+    "panelRight": "c19_p018_warrior_in_battle_speaking_sword_armor.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 09: Slapping Elite Assassin Diced",
+    "vo": "of slapping and elite assassin who could have diced him into sushi in our"
+   },
+   {
+    "id": 10,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c19_p019_warrior_in_red_robe_talking_with.webp",
+    "panelRight": "c19_p020_two_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 10: Earlier Song Furiously Pummeled",
+    "vo": "earlier song ty furiously pummeled the unconscious captain across both"
+   },
+   {
+    "id": 11,
+    "duration": 4.62,
+    "motion": "slide_down",
+    "panelLeft": "c19_p021_man_with_white_hair_speech_bubble.webp",
+    "panelRight": "c19_p034_warrior_in_robe_text_ah_i.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 11: Cheeks Caffeinated Baker Needing",
+    "vo": "cheeks like an over caffeinated baker needing dough screaming"
+   },
+   {
+    "id": 12,
+    "duration": 4.51,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p024_warrior_in_kimono_talking_to_another.webp",
+    "panelRight": "c19_p025_warrior_in_battle_sword_swinging_red.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 12: Top Lungs Barks Isn'T",
+    "vo": "at the top of his lungs some ty barks that this isn't a luxury vacation"
+   },
+   {
+    "id": 13,
+    "duration": 4.49,
+    "motion": "slide_up",
+    "panelLeft": "c19_p005_warrior_waking_up_shouting_wake_the.webp",
+    "panelRight": "c19_p027_warrior_in_combat_shouting_strange.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 13: Resort Demands Intruder Wake",
+    "vo": "resort and demands the intruder wake the hell up gasping"
+   },
+   {
+    "id": 14,
+    "duration": 4.21,
+    "motion": "pan_left",
+    "panelLeft": "c19_p028_warrior_in_battle.webp",
+    "panelRight": "c19_p029_warrior_in_battle_character_speaking_boots.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 14: Air Joltes Awake Gunpion",
+    "vo": "for air as he joltes awake so gunpion clutches his throbbing"
+   },
+   {
+    "id": 15,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c19_p007_warrior_in_battle_shouting_gasp.webp",
+    "panelRight": "c19_p006_warrior_in_combat_injured_crying.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 15: Jaw Staring Wide Eyed",
+    "vo": "jaw staring wide eyed around the room in absolute bewilderment as he realizes he hasn't"
+   },
+   {
+    "id": 16,
+    "duration": 4.29,
+    "motion": "pan_right",
+    "panelLeft": "c19_p013_warrior_in_black_robe_seated_looking.webp",
+    "panelRight": "c19_p031_warrior_in_red_robe_talking_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 16: Buried Shallow Grave Standing",
+    "vo": "been buried in a shallow grave standing above him"
+   },
+   {
+    "id": 17,
+    "duration": 4.71,
+    "motion": "pulse_zoom",
+    "panelLeft": "c19_p032_warrior_being_beaten_character_speaking.webp",
+    "panelRight": "c19_p033_clan_leader_speaking_warrior_in_background.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 17: Unblinking Analytical Stare Zaha",
+    "vo": "with an unblinking analytical stare zaha gets straight to business cutting through all"
+   },
+   {
+    "id": 18,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c19_p034_warrior_in_robe_text_ah_i.webp",
+    "panelRight": "c19_p035_man_with_black_hair_and_a.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 18: Pleasantries Interrogate Captain Regarding",
+    "vo": "pleasantries to interrogate the captain regarding the current wearabouts of the great rock"
+   },
+   {
+    "id": 19,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p036_warrior_in_robe_emperor_no.webp",
+    "panelRight": "c19_p037_man_says_really_then_then_should.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 19: Shasa Terrifying Slaughterer Heavenly",
+    "vo": "shasa the terrifying slaughterer of the heavenly palms so"
+   },
+   {
+    "id": 20,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c19_p038_dark_figure_with_a_menacing_expression.webp",
+    "panelRight": "c19_p039_man_with_red_eyes_dark_hair.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 20: Gunpyeong Swallows Nervously Admitting",
+    "vo": "gunpyeong swallows nervously admitting that even the supreme union master"
+   },
+   {
+    "id": 21,
+    "duration": 4.71,
+    "motion": "slide_down",
+    "panelLeft": "c19_p040_warrior_in_battle_blood_on_face.webp",
+    "panelRight": "c19_p041_warrior_and_emperor_in_conversation.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 21: Rarely Knows Slatterers' Movements",
+    "vo": "rarely knows the slatterers' movements as the grand master wanderer's king ho as an"
+   },
+   {
+    "id": 22,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p043_man_with_black_hair_speech_bubble.webp",
+    "panelRight": "c19_p044_warrior_speaking_to_enemy_threatening_to.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 22: Autonomous Force Pure Devastation",
+    "vo": "autonomous force of pure devastation seeing that the swordsman has exhausted his"
+   },
+   {
+    "id": 23,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c19_p033_clan_leader_speaking_warrior_in_background.webp",
+    "panelRight": "c19_p045_warrior_in_conversation_with_emperor.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 23: Immediate Strategic Value Boy",
+    "vo": "immediate strategic value our boy shifts into executive recruitment"
+   },
+   {
+    "id": 24,
+    "duration": 4.43,
+    "motion": "pan_left",
+    "panelLeft": "c19_p046_man_speaking_planning_to_subdue_character.webp",
+    "panelRight": "c19_p047_warrior_in_battle_speaking_to_someone.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 24: Mode Casually Offering Gunpyeong",
+    "vo": "mode casually offering so gunpyeong the position of chief"
+   },
+   {
+    "id": 25,
+    "duration": 4.38,
+    "motion": "zoom_out",
+    "panelLeft": "c19_p048_warrior_in_robe_emperor_in_robe.webp",
+    "panelRight": "c19_p049_emperor_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 25: Combat Instructor Newly Formed",
+    "vo": "combat instructor for the newly formed matchless ignoble clan the"
+   },
+   {
+    "id": 26,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c19_p050_warrior_asks_if_he_should_go.webp",
+    "panelRight": "c19_p051_warrior_speaking_emperor_looking_warrior_leaving.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 26: Elite",
+    "vo": "elite no d o d o d o d o d o"
+   },
+   {
+    "id": 27,
+    "duration": 4.52,
+    "motion": "pulse_zoom",
+    "panelLeft": "c19_p052_warrior_in_conversation_warrior_in_background.webp",
+    "panelRight": "c19_p053_man_with_black_hair_and_red.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 27: Assassin Being Asked Train",
+    "vo": "d o assassin is being asked to train tavernwaters kitchen"
+   },
+   {
+    "id": 28,
+    "duration": 4.27,
+    "motion": "slide_down",
+    "panelLeft": "c19_p054_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c19_p055_warrior_in_battle_emperor_speaking_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 28: Scullions Brothel Security Guards",
+    "vo": "scullions and brothel security guards in military swordplay but"
+   },
+   {
+    "id": 29,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p045_warrior_in_conversation_with_emperor.webp",
+    "panelRight": "c19_p057_warrior_in_kimono_emperor_in_kimono.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 29: Where Zaha Deploys Signature",
+    "vo": "this is where zaha deploys his signature weapon of aggressive"
+   },
+   {
+    "id": 30,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c19_p058_person_with_red_eyes_and_black.webp",
+    "panelRight": "c19_p059_warrior_in_red_robe_emperor_in.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 30: Psychological Coercion Coldly Explains",
+    "vo": "psychological coercion he coldly explains that so gunpion has two distinct"
+   },
+   {
+    "id": 31,
+    "duration": 4.44,
+    "motion": "slide_down",
+    "panelLeft": "c19_p060_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c19_p061_character_in_despair.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 31: Career Options Reject Offer",
+    "vo": "career options he can reject the offer walk out the front door"
+   },
+   {
+    "id": 32,
+    "duration": 4.49,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p062_warrior_in_battle_sword_drawn_intense.webp",
+    "panelRight": "c19_p064_warrior_with_mask_text_kill_yourself.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 32: Attempt Explain Black Mystic",
+    "vo": "and attempt to explain to the black mystic union why he lost his squad surrendered his territory"
+   },
+   {
+    "id": 33,
+    "duration": 4.15,
+    "motion": "slide_up",
+    "panelLeft": "c19_p065_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c19_p053_man_with_black_hair_and_red.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 33: Handed Prized Dodgy Which",
+    "vo": "and handed over his prized no dodgy which will result in his his immediate"
+   },
+   {
+    "id": 34,
+    "duration": 4.58,
+    "motion": "pan_left",
+    "panelLeft": "c19_p067_emperor_speaking_looking_hungry_unable_to.webp",
+    "panelRight": "c19_p068_warrior_in_conversation_with_another_holding.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 34: Agonizing Execution Treason Accept",
+    "vo": "agonizing execution for treason or he can accept the instructor job enjoy"
+   },
+   {
+    "id": 35,
+    "duration": 4.52,
+    "motion": "zoom_out",
+    "panelLeft": "c19_p069_warrior_holding_scythe_emperor_speaking_burning.webp",
+    "panelRight": "c19_p070_warrior_in_battle_emperor_speaking_noodles.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 35: Three Hot Meals Day",
+    "vo": "three hot meals a day receive full legal immunity under the crazy demon's protection and"
+   },
+   {
+    "id": 36,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c19_p071_warrior_in_battle_sword_drawn_confused.webp",
+    "panelRight": "c19_p072_emperor_speaking_holding_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 36: Help Train Unhinged Shadow",
+    "vo": "help train the most unhinged shadow syndicate the continent has ever seen faced"
+   },
+   {
+    "id": 37,
+    "duration": 4.46,
+    "motion": "pulse_zoom",
+    "panelLeft": "c19_p073_hand_holding_coins_with_a_speech.webp",
+    "panelRight": "c19_p074_restaurant_employee_speaking_to_customer.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 37: Undeniable Reality Loyalty Union",
+    "vo": "with the undeniable reality that loyalty to the union equals a gruesome death sentence while working for"
+   },
+   {
+    "id": 38,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c19_p084_warrior_offers_soup_character_asks_about.webp",
+    "panelRight": "c19_p075_two_men_in_traditional_attire_one.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 38: Crazy Aaron Boy Offers",
+    "vo": "the crazy aaron boy offers survival survival and decent benefits"
+   },
+   {
+    "id": 39,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p076_man_eating_noodles_with_chopsticks.webp",
+    "panelRight": "c19_p078_warrior_in_robe_talking_to_another.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 39: Gunpione'S Pride Evaporates Bouses",
+    "vo": "so gunpione's pride evaporates and he bouses head in a reluctance of mission this"
+   },
+   {
+    "id": 40,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c19_p080_emperor_speaking_goodbye_to_subordinates.webp",
+    "panelRight": "c19_p081_warrior_in_battle_sword_drawn_intense.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 40: Acquisition Completes Trifecta Zahaz",
+    "vo": "acquisition completes the trifecta of zahaz core organization cima b"
+   },
+   {
+    "id": 41,
+    "duration": 4.2,
+    "motion": "slide_down",
+    "panelLeft": "c19_p082_warrior_in_yellow_robe_talking_to.webp",
+    "panelRight": "c19_p083_man_in_yellow_robe_pouring_soup.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 41: Command'S Intelligence Chassum Thai",
+    "vo": "command's intelligence chassum thai manages finances and so gunpione"
+   },
+   {
+    "id": 42,
+    "duration": 4.6,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p085_man_in_traditional_attire_holding_pots.webp",
+    "panelRight": "c19_p086_man_with_long_hair_speech_bubble.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 42: Oversees Martial Training Looking",
+    "vo": "oversees martial training looking at his assembled command staff zahaz"
+   },
+   {
+    "id": 43,
+    "duration": 4.45,
+    "motion": "slide_up",
+    "panelLeft": "c19_p087_warrior_eating_soup_talking_to_someone.webp",
+    "panelRight": "c19_p088_warrior_in_yellow_robe_holding_chopsticks.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 43: Realizes While Deeply Flawed",
+    "vo": "realizes that while they are all deeply flawed criminals their shared fear of his"
+   },
+   {
+    "id": 44,
+    "duration": 4.55,
+    "motion": "pan_left",
+    "panelLeft": "c19_p089_bone_soup_in_bowl.webp",
+    "panelRight": "c19_p090_man_with_fur_hat_crying_text.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 44: Wrath Binds Tighter Sacred",
+    "vo": "wrath binds them tighter than any sacred oath but before the ink can dry on the new"
+   },
+   {
+    "id": 45,
+    "duration": 4.2,
+    "motion": "zoom_out",
+    "panelLeft": "c19_p038_dark_figure_with_a_menacing_expression.webp",
+    "panelRight": "c19_p092_warrior_holding_sword_preparing_for_battle.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 45: Instructors Employment Contract Chilling",
+    "vo": "instructors employment contract chilling news echoes through the prefectures out"
+   },
+   {
+    "id": 46,
+    "duration": 4.0,
+    "motion": "pan_right",
+    "panelLeft": "c19_p093_warrior_in_traditional_attire_holding_sword.webp",
+    "panelRight": "c19_p094_darkhaired_man_with_red_eyes_serious.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 46: Outposts Dreaded Twin Ghosts",
+    "vo": "her outposts the dreaded twin ghosts of the ringed blade have officially entered"
+   },
+   {
+    "id": 47,
+    "duration": 4.8,
+    "motion": "pulse_zoom",
+    "panelLeft": "c19_p066_warrior_in_battle_sword_drawn_clouds.webp",
+    "panelRight": "c19_p096_dark_intense_menacing.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 47: City Gates Armed Terrifying",
+    "vo": "the city gates armed with terrifying nine ring sabers that emit"
+   },
+   {
+    "id": 48,
+    "duration": 4.2,
+    "motion": "slide_down",
+    "panelLeft": "c19_p062_warrior_in_battle_sword_drawn_intense.webp",
+    "panelRight": "c19_p098_warrior_in_conversation_with_two_men.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 48: Hypnotic Acoustic Vibrations Designed",
+    "vo": "hypnotic acoustic vibrations designed to rupture an opponent's"
+   },
+   {
+    "id": 49,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c19_p064_warrior_with_mask_text_kill_yourself.webp",
+    "panelRight": "c19_p081_warrior_in_battle_sword_drawn_intense.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 49: Internal Key These Notorious",
+    "vo": "internal key these notorious executioners have come with direct orders to slaughter"
+   },
+   {
+    "id": 50,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c19_p039_man_with_red_eyes_dark_hair.webp",
+    "panelRight": "c19_p072_emperor_speaking_holding_sword.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 50: Every Living Soul Connected",
+    "vo": "every living soul connected to the zaha inn leaving our boy smiling as he unsheeds"
+   },
+   {
+    "id": 51,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c19_p092_warrior_holding_sword_preparing_for_battle.webp",
+    "panelRight": "c19_p058_person_with_red_eyes_and_black.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 51: Steel Show Why True",
+    "vo": "his steel to show them why true terror has no face setting up an immediate street battle"
+   }
+  ]
+ },
+ "Chapter_020": {
+  "id": "Chapter_020",
+  "title": "Chapter 020",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 4296,
+  "duration": 226,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.14,
+    "motion": "slide_down",
+    "panelLeft": "c20_p001_three_men_eating_one_with_chopsticks.webp",
+    "panelRight": "c20_p008_warrior_eating_talking_about_death.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 01: Shock Entire Province Moment",
+    "vo": "that will shock the entire province the moment we sunwoo"
+   },
+   {
+    "id": 2,
+    "duration": 4.52,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p003_warrior_eating_pork_rib_soup.webp",
+    "panelRight": "c20_p004_warrior_in_battle.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 02: Goo Yang Zoo Realize",
+    "vo": "and goo yang zoo realize this is not some random back alley scrub they can"
+   },
+   {
+    "id": 3,
+    "duration": 3.83,
+    "motion": "slide_up",
+    "panelLeft": "c20_p005_emperor_eating_warrior_looking_at_him.webp",
+    "panelRight": "c20_p006_warrior_in_battle_sword_drawn_serious.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 03: Bully They'Re Entire Demeanor",
+    "vo": "bully they're entire demeanor shifts from cocky predators to"
+   },
+   {
+    "id": 4,
+    "duration": 4.83,
+    "motion": "pan_left",
+    "panelLeft": "c20_p039_two_men_watching_a_character_fall.webp",
+    "panelRight": "c20_p007_warrior_in_battle.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 04: Cornered Wolves Chase Time",
+    "vo": "cornered wolves chase on time meanwhile is still on the muddy ground giving an oscar"
+   },
+   {
+    "id": 5,
+    "duration": 4.67,
+    "motion": "zoom_out",
+    "panelLeft": "c20_p009_warrior_in_conversation_bone_in_bowl.webp",
+    "panelRight": "c20_p010_black_mystic_union_master_appears.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 05: Worthy Performance Playing Dead",
+    "vo": "worthy performance of playing dead secretly hoping both sides wipe each other out so he can"
+   },
+   {
+    "id": 6,
+    "duration": 4.29,
+    "motion": "pan_right",
+    "panelLeft": "c20_p012_warrior_in_conversation_discussing_attack_on.webp",
+    "panelRight": "c20_p015_warrior_eating_bone_talking_to_others.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 06: Loot Bodies Back Running",
+    "vo": "loot the bodies and go back to running his shady side hustles but zahah sees right"
+   },
+   {
+    "id": 7,
+    "duration": 4.34,
+    "motion": "pulse_zoom",
+    "panelLeft": "c20_p018_warrior_in_kimono_talking_to_another.webp",
+    "panelRight": "c20_p013_warrior_in_battle_red_eyes_speech.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 07: Through Theatrical Nonsense Immediately",
+    "vo": "through the theatrical nonsense and immediately tells him to quit faking and stand"
+   },
+   {
+    "id": 8,
+    "duration": 3.8,
+    "motion": "slide_down",
+    "panelLeft": "c20_p038_man_with_question_mark_boots_walking.webp",
+    "panelRight": "c20_p011_two_men_in_kimono_one_holding.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 08: Which Completely Shatters Dramatic",
+    "vo": "up which completely shatters the dramatic thank you very much for watching this video see you"
+   },
+   {
+    "id": 9,
+    "duration": 4.77,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p014_warrior_in_battle_talking_boots_walking.webp",
+    "panelRight": "c20_p019_warrior_in_conversation_with_emperor.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 09: Next Video Tactical Perspective",
+    "vo": "in the next video a tactical perspective is"
+   },
+   {
+    "id": 10,
+    "duration": 4.51,
+    "motion": "slide_up",
+    "panelLeft": "c20_p075_warrior_in_black_robe_with_sword.webp",
+    "panelRight": "c20_p051_warrior_in_robe_holding_sword_talking.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 10: How Zahah Manipulates Spatial",
+    "vo": "how zahah manipulates their spatial positioning we sun wu and"
+   },
+   {
+    "id": 11,
+    "duration": 4.49,
+    "motion": "slide_down",
+    "panelLeft": "c20_p052_three_men_in_suits_one_with.webp",
+    "panelRight": "c20_p031_warrior_in_dark_room_holding_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 11: Yangsu Rely Heavy Ringed",
+    "vo": "gu yangsu rely on heavy ringed blades weapons that require"
+   },
+   {
+    "id": 12,
+    "duration": 4.8,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p024_clouds_with_vertical_lines.webp",
+    "panelRight": "c20_p025_ncient_chinese_palace.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 12: Wide Arcs Significant Kinetic",
+    "vo": "wide arcs significant kinetic wind up and massive rotational clearance to generate"
+   },
+   {
+    "id": 13,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c20_p043_warriors_walking_boots_on_pavement_chinese.webp",
+    "panelRight": "c20_p027_warrior_in_front_of_building.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 13: Lethal Slicing Power Cramped",
+    "vo": "lethal slicing power in a cramped cobblestone street soaked"
+   },
+   {
+    "id": 14,
+    "duration": 4.46,
+    "motion": "pan_left",
+    "panelLeft": "c20_p103_warriors_in_battle_sword_swinging_chaos.webp",
+    "panelRight": "c20_p029_warrior_in_battle_fighting_with_sword.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 14: Rental Downpour Having Guys",
+    "vo": "into a rental downpour having two guys swinging giant butcher clevers at the"
+   },
+   {
+    "id": 15,
+    "duration": 4.14,
+    "motion": "zoom_out",
+    "panelLeft": "c20_p036_character_in_boots_walks_on_a.webp",
+    "panelRight": "c20_p030_door_with_keyhole_doorbell_and_sound.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 15: Exact Target Actually Act",
+    "vo": "exact same target is actually an act of liability because their strike"
+   },
+   {
+    "id": 16,
+    "duration": 4.67,
+    "motion": "pan_right",
+    "panelLeft": "c20_p034_warrior_in_battle_sword_drawn_wooden.webp",
+    "panelRight": "c20_p032_warrior_demanding_door_be_opened.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 16: Zones Constantly Collide Restrict",
+    "vo": "zones constantly collide and restrict each other's footwork zahah understands"
+   },
+   {
+    "id": 17,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c20_p096_futuristic_mechanical_figure_with_a_sword.webp",
+    "panelRight": "c20_p035_warrior_in_action_sword_drawn_ancient.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 17: Mechanical Flaw Instantly Deliberately",
+    "vo": "this mechanical flaw instantly and deliberately moves between their blind spots"
+   },
+   {
+    "id": 18,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c20_p037_man_in_traditional_clothing_stands_under.webp",
+    "panelRight": "c20_p042_man_shouting_intruder_with_a_shocked.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 18: Yang Soo Clamps Zahah'S",
+    "vo": "when gu yang soo clamps down on zahah's whip and we soon woo"
+   },
+   {
+    "id": 19,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p100_warrior_in_battle_using_energy.webp",
+    "panelRight": "c20_p040_warrior_in_action_boots_walking_sword.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 19: Rushes Sever Cord Burst",
+    "vo": "rushes in to sever the cord with a burst of internal energy they think they just"
+   },
+   {
+    "id": 20,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c20_p022_warrior_speaking_discussing_safety_mentioning_subordinates.webp",
+    "panelRight": "c20_p041_three_men_in_black_robes_one.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 20: Neutralize Main Tool Looking",
+    "vo": "neutralize his main tool but looking over at the dragonhead smithy where master jim is is watching from"
+   },
+   {
+    "id": 21,
+    "duration": 4.07,
+    "motion": "slide_down",
+    "panelLeft": "c20_p026_warrior_and_emperor_in_conversation.webp",
+    "panelRight": "c20_p044_warriors_in_battle_swords_drawn_emperor.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 21: Window Zaha Dryly Comments",
+    "vo": "the window zaha dryly comments that so much for an unbreakable"
+   },
+   {
+    "id": 22,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p046_longhaired_figure_in_black_soldiers_in.webp",
+    "panelRight": "c20_p098_warrior_with_sword_dark_background.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 22: Belief Casually Tossing Ruined",
+    "vo": "belief casually tossing the ruined leather aside without a shred of panic that is when"
+   },
+   {
+    "id": 23,
+    "duration": 4.8,
+    "motion": "slide_up",
+    "panelLeft": "c20_p020_warrior_in_battle.webp",
+    "panelRight": "c20_p086_warrior_in_black_robe_sword_in.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 23: Zaha Draws Black Dragon",
+    "vo": "zaha draws the black dragon sword and the entire atmosphere turns"
+   },
+   {
+    "id": 24,
+    "duration": 4.06,
+    "motion": "pan_left",
+    "panelLeft": "c20_p050_warrior_in_battle_speaking_in_speech.webp",
+    "panelRight": "c20_p064_closeup_of_a_characters_eye_with.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 24: Suffocating Moment Internal Key",
+    "vo": "suffocating the moment internal key surges through the steel"
+   },
+   {
+    "id": 25,
+    "duration": 4.48,
+    "motion": "zoom_out",
+    "panelLeft": "c20_p101_blue_axe_glowing_text_warrior_sword.webp",
+    "panelRight": "c20_p067_three_men_in_suits_serious_expressions.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 25: Blade Begins Glowing Deep",
+    "vo": "the blade begins glowing with a deep crimson radiance sizzling furiously as cold"
+   },
+   {
+    "id": 26,
+    "duration": 4.47,
+    "motion": "pan_right",
+    "panelLeft": "c20_p054_man_with_black_hair_red_eyes.webp",
+    "panelRight": "c20_p053_warrior_in_robe_talking_dark_background.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 26: Rain Drops Vaporize Contact",
+    "vo": "rain drops vaporize on contact into a fine purple mist"
+   },
+   {
+    "id": 27,
+    "duration": 4.6,
+    "motion": "pulse_zoom",
+    "panelLeft": "c20_p056_warrior_in_battle.webp",
+    "panelRight": "c20_p057_warrior_in_mask_emperor_speaking_warrior.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 27: Someday Staring Mud Jaw",
+    "vo": "someday is staring from the mud with his jaw practically glued to"
+   },
+   {
+    "id": 28,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c20_p076_warrior_speaking_to_another_asking_about.webp",
+    "panelRight": "c20_p058_warrior_speaking_to_another_threateningly.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 28: Pavement Completely Awestruck Asking",
+    "vo": "the pavement completely awestruck asking why the steel is glowing like an active volcanic"
+   },
+   {
+    "id": 29,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p061_warrior_in_front_of_army_talking.webp",
+    "panelRight": "c20_p059_warrior_with_red_eyes_and_mask.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 29: Forge Zaha Being Unapologetic",
+    "vo": "forge zaha being the unapologetic dead pan troll that"
+   },
+   {
+    "id": 30,
+    "duration": 4.51,
+    "motion": "slide_up",
+    "panelLeft": "c20_p062_warrior_in_front_of_emperor_talking.webp",
+    "panelRight": "c20_p063_warrior_in_battle_sword_red_background.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 30: Nonchalantly Claims Exactly Why",
+    "vo": "he is nonchalantly claims that this is exactly why his name is zaha which translates"
+   },
+   {
+    "id": 31,
+    "duration": 4.09,
+    "motion": "slide_down",
+    "panelLeft": "c20_p065_three_men_in_black_robes_one.webp",
+    "panelRight": "c20_p049_rakshasas_slave_rabbit.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 31: Purple Sunset Turning Essentially",
+    "vo": "to purple sunset turning what is essentially forbidden demonic"
+   },
+   {
+    "id": 32,
+    "duration": 4.7,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p100_warrior_in_battle_using_energy.webp",
+    "panelRight": "c20_p066_warrior_speaking_saying_the_insect_or.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 32: Cultivation Completely Made Branding",
+    "vo": "cultivation into a completely made up branding excuse right on the spot in"
+   },
+   {
+    "id": 33,
+    "duration": 4.3,
+    "motion": "slide_up",
+    "panelLeft": "c20_p069_man_in_robes_soldiers_dark_sky.webp",
+    "panelRight": "c20_p068_warrior_in_battle_speaking_sword_armor.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 33: Reality Zaha Channeling Firechicken",
+    "vo": "reality zaha is channeling the firechicken chi the supreme"
+   },
+   {
+    "id": 34,
+    "duration": 4.63,
+    "motion": "pan_left",
+    "panelLeft": "c20_p071_warrior_in_mask_with_red_eyes.webp",
+    "panelRight": "c20_p070_two_men_in_black_robes_one.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 34: Thermal Force Purple Cloud",
+    "vo": "thermal force of the purple cloud divine art turning every swipe into super"
+   },
+   {
+    "id": 35,
+    "duration": 4.17,
+    "motion": "zoom_out",
+    "panelLeft": "c20_p073_group_of_people_in_formal_attire.webp",
+    "panelRight": "c20_p074_warrior_in_mask_dialogue_about_death.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 35: Heated Kinetic Pressure Waves",
+    "vo": "heated kinetic pressure waves instead of wasting precious internal reserves on"
+   },
+   {
+    "id": 36,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c20_p083_warriors_walking_boots_sword_dark_setting.webp",
+    "panelRight": "c20_p098_warrior_with_sword_dark_background.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 36: Condensed Sword Aura Zaha",
+    "vo": "condensed sword aura zaha unleashes wild blades of compressed"
+   },
+   {
+    "id": 37,
+    "duration": 4.62,
+    "motion": "pulse_zoom",
+    "panelLeft": "c20_p077_warrior_in_battle_talking_to_someone.webp",
+    "panelRight": "c20_p078_man_in_suit_with_speech_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 37: Heat Wind Directly Faces",
+    "vo": "heat wind directly into their faces scorching their skin and blinding their vision"
+   },
+   {
+    "id": 38,
+    "duration": 4.52,
+    "motion": "slide_down",
+    "panelLeft": "c20_p099_warrior_in_battle_sword_fire_smoke.webp",
+    "panelRight": "c20_p080_man_in_a_cloak_stands_in.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 38: While Torrential Rain Robs",
+    "vo": "while the torrential rain robs them of their balance when we sunwoo tries to"
+   },
+   {
+    "id": 39,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p103_warriors_in_battle_sword_swinging_chaos.webp",
+    "panelRight": "c20_p081_warrior_in_black_robe_talking_to.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 39: Force Desperate Overhead Execution",
+    "vo": "force a desperate overhead execution stroke zahah slips beneath the guard"
+   },
+   {
+    "id": 40,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c20_p104_warrior_in_battle_surrounded_by_onlookers.webp",
+    "panelRight": "c20_p085_emperor_speaking_to_his_subjects.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 40: Terrifying Mechanical Precision Driving",
+    "vo": "with terrifying mechanical precision driving his blade straight through the man's throat"
+   },
+   {
+    "id": 41,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c20_p087_warrior_in_battle_shouting_at_enemy.webp",
+    "panelRight": "c20_p088_emperor_with_red_eyes_and_golden.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 41: Reversing Momentum Sever Guying",
+    "vo": "before reversing the momentum to sever guying su's torso in"
+   },
+   {
+    "id": 42,
+    "duration": 4.8,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p039_two_men_watching_a_character_fall.webp",
+    "panelRight": "c20_p106_warrior_in_battle_speaking_red_background.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 42: Continuous Red Arc Twin",
+    "vo": "one continuous red arc the twin ghosts of the ringed blade collapse into the"
+   },
+   {
+    "id": 43,
+    "duration": 4.53,
+    "motion": "slide_up",
+    "panelLeft": "c20_p090_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c20_p091_warrior_accepts_challenge_emperor_speaks_warrior.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 43: Muddy Crimson Puddle Terrifying",
+    "vo": "muddy crimson puddle their terrifying underworld reputation wiped clean"
+   },
+   {
+    "id": 44,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c20_p025_ncient_chinese_palace.webp",
+    "panelRight": "c20_p094_warrior_in_battle_shouting_at_enemy.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 44: Less Minutes Chasom Thai",
+    "vo": "in less than two minutes chasom thai is left trembling where he sits realizing"
+   },
+   {
+    "id": 45,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c20_p017_warrior_in_conversation_asking_about_time.webp",
+    "panelRight": "c20_p095_warrior_shouting_shut_up.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 45: Trying Double Cross Man",
+    "vo": "that trying to double cross this man would be equivalent to speedrunning his"
+   },
+   {
+    "id": 46,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c20_p027_warrior_in_front_of_building.webp",
+    "panelRight": "c20_p079_warrior_in_front_of_emperor.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 46: Funeral Zaha Even Glance",
+    "vo": "own funeral but zaha does not even glance back at the bodies he simply"
+   },
+   {
+    "id": 47,
+    "duration": 4.61,
+    "motion": "pulse_zoom",
+    "panelLeft": "c20_p037_man_in_traditional_clothing_stands_under.webp",
+    "panelRight": "c20_p084_warriors_in_black_robes_swords_standing.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 47: Wiped Crimson Rain Face",
+    "vo": "wiped the crimson rain from his face looks at the ruined street and calmly announces that it"
+   },
+   {
+    "id": 48,
+    "duration": 4.39,
+    "motion": "slide_down",
+    "panelLeft": "c20_p041_three_men_in_black_robes_one.webp",
+    "panelRight": "c20_p107_warrior_in_mask_speech_bubble.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 48: Time Take Hot Bath",
+    "vo": "is time to go take a hot bath treating a lethal gang war like"
+   },
+   {
+    "id": 49,
+    "duration": 4.17,
+    "motion": "zoom_in",
+    "panelLeft": "c20_p089_warrior_in_black_attire_talking_to.webp",
+    "panelRight": "c20_p072_warrior_in_a_room_speaking_to.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 49: Annoying Chore Between Lunch",
+    "vo": "an annoying chore between lunch and dinner it proves that in the brutal jing"
+   },
+   {
+    "id": 50,
+    "duration": 4.58,
+    "motion": "slide_up",
+    "panelLeft": "c20_p055_warriors_in_black_robes_red_background.webp",
+    "panelRight": "c20_p021_warrior_in_meeting_emperor_speaking_boots.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 50: Scariest Martial Artist Never",
+    "vo": "who the scariest martial artist is never the loudest brute but the one who can"
+   },
+   {
+    "id": 51,
+    "duration": 4.75,
+    "motion": "slide_down",
+    "panelLeft": "c20_p048_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c20_p047_warrior_in_mask_red_eyes_black.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 51: Dismantle Elite Killers Effortless",
+    "vo": "dismantle elite killers with effortless chill and zero remorse"
+   }
+  ]
+ },
+ "Chapter_021": {
+  "id": "Chapter_021",
+  "title": "Chapter 021",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 4522,
+  "duration": 231,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c21_p036_warrior_in_battle_sword_black_mystic.webp",
+    "panelRight": "c21_p014_warrior_in_battle_sword_flying_cityscape.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 01: Think Zahak Finally Enjoy",
+    "vo": "just when you think zahak can finally enjoy a peaceful steam filled soak"
+   },
+   {
+    "id": 2,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p007_warrior_handing_weapon_character_speaking_weapon.webp",
+    "panelRight": "c21_p004_man_with_black_hair_and_red.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 02: Turning Elite Killers Fertilizer",
+    "vo": "after turning two elite killers into fertilizer the zhanghu decides"
+   },
+   {
+    "id": 3,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c21_p005_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c21_p006_warrior_holding_sword_speech_bubble_saying.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 03: Remind Rest Exist Wicked",
+    "vo": "to remind him that rest does not exist for the wicked while relaxing in the"
+   },
+   {
+    "id": 4,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c21_p023_warrior_in_battle_sword_swinging_rain.webp",
+    "panelRight": "c21_p016_warrior_in_battle_sword_drawn_fallen.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 04: Hot Tub Listening Heavy",
+    "vo": "hot tub listening to the heavy rain pattern against the wooden roof the"
+   },
+   {
+    "id": 5,
+    "duration": 4.52,
+    "motion": "zoom_out",
+    "panelLeft": "c21_p019_emperor_kaiser_speaking.webp",
+    "panelRight": "c21_p015_warrior_holding_sword_dark_background.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 05: Entire Hallway Suddenly Falls",
+    "vo": "entire hallway suddenly falls dead silent an unnatural lack of background"
+   },
+   {
+    "id": 6,
+    "duration": 4.48,
+    "motion": "pan_right",
+    "panelLeft": "c21_p009_man_with_long_black_hair_wearing.webp",
+    "panelRight": "c21_p008_warrior_holding_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 06: Noise Immediately Sets Off",
+    "vo": "noise that immediately sets off his seasoned combat instincts instead"
+   },
+   {
+    "id": 7,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c21_p040_warrior_in_battle_shouting_at_enemy.webp",
+    "panelRight": "c21_p048_warrior_in_battle_shouting_losing.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 07: Panicking Shouting Help Scrambling",
+    "vo": "of panicking shouting for help or scrambling for armor zaha just"
+   },
+   {
+    "id": 8,
+    "duration": 4.48,
+    "motion": "slide_down",
+    "panelLeft": "c21_p037_warrior_in_battle_sword_drawn_dark.webp",
+    "panelRight": "c21_p013_black_figure_with_red_eyes_and.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 08: Sits Completely Naked Steaming",
+    "vo": "sits there completely naked in the steaming water calmly waiting to see"
+   },
+   {
+    "id": 9,
+    "duration": 4.19,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p075_warrior_in_courtyard_dark_clouds_lanterns.webp",
+    "panelRight": "c21_p020_warrior_in_battle_sword_swinging_dark.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 09: Which Suicidal Clowns Decided",
+    "vo": "which suicidal clowns decided today was a good day to meet their"
+   },
+   {
+    "id": 10,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c21_p050_warriors_in_a_courtyard_holding_swords.webp",
+    "panelRight": "c21_p070_warriors_in_uniform_leader_speaking_soldiers.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 10: Ancestors Door Kicks Open",
+    "vo": "ancestors the door kicks open with a deafening crash revealing song ugm and ugm"
+   },
+   {
+    "id": 11,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c21_p049_warrior_shouting_black_mask_red_eyes.webp",
+    "panelRight": "c21_p053_warrior_in_mask_shouting_hurry_up.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 11: Ugmgm Goo Top Enforcers",
+    "vo": "and ugmgm goo the top enforcers from the rival brothel pavilion who foolishly"
+   },
+   {
+    "id": 12,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p021_warrior_in_battle_sword_drawn_intense.webp",
+    "panelRight": "c21_p022_warrior_in_battle_sword_reflection_sky.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 12: Figured Catching Mad Demon",
+    "vo": "figured catching a mad demon in his birthday suit was their ultimate"
+   },
+   {
+    "id": 13,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c21_p024_warrior_in_battle_sword_glowing_enemy.webp",
+    "panelRight": "c21_p026_warrior_in_battle_sword_flying_dust.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 13: Golden Ticket Glory Attacking",
+    "vo": "golden ticket to glory but attacking an unarmed martial artist means"
+   },
+   {
+    "id": 14,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c21_p031_warrior_in_battle_sword_glowing_dark.webp",
+    "panelRight": "c21_p032_warrior_in_battle_sword_swinging_fiery.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 14: Absolutely Nothing Man Turn",
+    "vo": "absolutely nothing when the man can turn an ordinary wooden bathtub into a"
+   },
+   {
+    "id": 15,
+    "duration": 4.2,
+    "motion": "zoom_out",
+    "panelLeft": "c21_p062_warrior_in_battle_with_fire_and.webp",
+    "panelRight": "c21_p039_warrior_in_battle_sword_swinging_fire.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 15: Lethal Fragmentation Grenade Gathering",
+    "vo": "lethal fragmentation grenade gathering the thermal pressure of the fire chicken"
+   },
+   {
+    "id": 16,
+    "duration": 4.57,
+    "motion": "pan_right",
+    "panelLeft": "c21_p027_warrior_in_battle_sword_energy_energy.webp",
+    "panelRight": "c21_p030_warriors_in_battle_sword_drawn_fiery.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 16: Cheese Through Palms Zahar",
+    "vo": "cheese through his palms zahar rips a thick oak plank straight out of"
+   },
+   {
+    "id": 17,
+    "duration": 4.43,
+    "motion": "pulse_zoom",
+    "panelLeft": "c21_p029_warrior_in_battle_sword_swinging_energy.webp",
+    "panelRight": "c21_p042_warrior_in_battle_sword_swinging_fiery.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 17: Tub Frame Blasting Explosive",
+    "vo": "the tub frame blasting an explosive shockwave of scolding water"
+   },
+   {
+    "id": 18,
+    "duration": 4.6,
+    "motion": "slide_down",
+    "panelLeft": "c21_p025_warrior_in_battle_sword_swinging_fire.webp",
+    "panelRight": "c21_p038_warrior_in_battle_flying_sword_emperor.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 18: Jagged Splinters Directly Faces",
+    "vo": "and jagged splinters directly into their faces while both assassins are"
+   },
+   {
+    "id": 19,
+    "duration": 4.6,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p044_warrior_in_battle_character_speaking_burning.webp",
+    "panelRight": "c21_p045_warrior_in_battle_sword_drawn_fighting.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 19: Blinded Gasping Reeling Impact",
+    "vo": "blinded gasping and reeling from the impact zahar charges forward"
+   },
+   {
+    "id": 20,
+    "duration": 4.47,
+    "motion": "slide_up",
+    "panelLeft": "c21_p056_warrior_in_battle_sword_swinging_fiery.webp",
+    "panelRight": "c21_p058_warrior_in_battle_sword_swinging_flying.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 20: Completely Bare Knuckled Swinging",
+    "vo": "completely bare knuckled swinging the heavy wooden board like a two handed brutal war"
+   },
+   {
+    "id": 21,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c21_p057_warrior_speaking_bloodied_face_dark_background.webp",
+    "panelRight": "c21_p069_warrior_in_battle_sword_in_mouth.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 21: Club Follows Scene Pure",
+    "vo": "club what follows is a scene of pure unadulterated savagery"
+   },
+   {
+    "id": 22,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p041_warrior_holding_sword_text_have_you.webp",
+    "panelRight": "c21_p043_warrior_in_battle_sword_boots_character.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 22: Belongs Underground Horror Movie",
+    "vo": "that belongs in an underground horror movie song ugm tries to counter"
+   },
+   {
+    "id": 23,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c21_p017_warrior_in_battle_holding_sword.webp",
+    "panelRight": "c21_p018_warrior_holding_sword_red_background.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 23: Desperate Sword Thrust Zahar",
+    "vo": "with a desperate sword thrust but zahar kicks him in the solar plexus so hard"
+   },
+   {
+    "id": 24,
+    "duration": 4.29,
+    "motion": "pan_left",
+    "panelLeft": "c21_p029_warrior_in_battle_sword_swinging_energy.webp",
+    "panelRight": "c21_p027_warrior_in_battle_sword_energy_energy.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 24: Ribs Implode Perry'S Gu'S",
+    "vo": "his ribs implode perry's u g and gu's wrist with the timber and"
+   },
+   {
+    "id": 25,
+    "duration": 4.51,
+    "motion": "zoom_out",
+    "panelLeft": "c21_p046_warrior_in_battle_sword_thought_bubble.webp",
+    "panelRight": "c21_p047_warrior_holding_sword_black_cloak_lightning.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 25: Begins Beating Both Men",
+    "vo": "begins beating both men with ferocious rhythmic overhead strikes"
+   },
+   {
+    "id": 26,
+    "duration": 4.53,
+    "motion": "pan_right",
+    "panelLeft": "c21_p068_warrior_in_flames_burning_castle_boots.webp",
+    "panelRight": "c21_p054_clan_leader_wait.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 26: Fighting Survive Deliberately Using",
+    "vo": "he is not just fighting to survive he is deliberately using psychological terror"
+   },
+   {
+    "id": 27,
+    "duration": 4.17,
+    "motion": "pulse_zoom",
+    "panelLeft": "c21_p057_warrior_speaking_bloodied_face_dark_background.webp",
+    "panelRight": "c21_p052_warriors_in_conversation_serious_expressions.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 27: Turn Bloodied Remains Permanent",
+    "vo": "to turn their bloodied remains into a permanent billboard for anyone else"
+   },
+   {
+    "id": 28,
+    "duration": 4.62,
+    "motion": "slide_down",
+    "panelLeft": "c21_p065_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c21_p066_warrior_in_battle_flying_sword_fiery.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 28: Iliang Prefecture Thinks Stepping",
+    "vo": "in iliang prefecture who thinks about stepping out of line by the time"
+   },
+   {
+    "id": 29,
+    "duration": 4.38,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p067_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c21_p055_clan_leader_warrior_burning_castle_boots.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 29: Wooden Planks Lenders Useless",
+    "vo": "the wooden planks lenders into useless kindling both enforcers are reduced to"
+   },
+   {
+    "id": 30,
+    "duration": 4.17,
+    "motion": "slide_up",
+    "panelLeft": "c21_p072_warrior_in_robe_with_sword.webp",
+    "panelRight": "c21_p073_warrior_in_battle_sword_in_hand.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 30: Lifeless Pulp Bathhouse Floor",
+    "vo": "lifeless pulp on the bathhouse floor their dark blood draining steadily into the sewer"
+   },
+   {
+    "id": 31,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c21_p010_warrior_holding_sword_talking_returning_it.webp",
+    "panelRight": "c21_p074_warrior_in_battle_sword_drawn_intense.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 31: Grates Below Still Completely",
+    "vo": "grates below still completely unclosed and dripping wet zahop"
+   },
+   {
+    "id": 32,
+    "duration": 4.56,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p061_warrior_dodging_sword_subordinates_hit_by.webp",
+    "panelRight": "c21_p077_warrior_and_young_man_in_contemplation.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 32: Picks Discarded Blade Steps",
+    "vo": "picks up a discarded blade steps out into the hallway and casually asks a terrified maiden for"
+   },
+   {
+    "id": 33,
+    "duration": 4.44,
+    "motion": "slide_up",
+    "panelLeft": "c21_p009_man_with_long_black_hair_wearing.webp",
+    "panelRight": "c21_p004_man_with_black_hair_and_red.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 33: Pair Pants Finished Light",
+    "vo": "a pair of pants like he just finished a light morningmorning cardio workout when"
+   },
+   {
+    "id": 34,
+    "duration": 4.17,
+    "motion": "pan_left",
+    "panelLeft": "c21_p071_warrior_in_battle_powerful_enemy_intense.webp",
+    "panelRight": "c21_p070_warriors_in_uniform_leader_speaking_soldiers.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 34: Tracks Chau Sontai Outside",
+    "vo": "he tracks down chau sontai who was outside getting ambushed by their surviving subordinates"
+   },
+   {
+    "id": 35,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c21_p052_warriors_in_conversation_serious_expressions.webp",
+    "panelRight": "c21_p076_warrior_speaking_fighting_against_demonic_path.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 35: Zaha Pins Cold Tip",
+    "vo": "zaha pins the cold tip of his sword right under sontai's"
+   },
+   {
+    "id": 36,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c21_p034_emperor_speaking_warrior_in_background_burning.webp",
+    "panelRight": "c21_p046_warrior_in_battle_sword_thought_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 36: Chin Demanding Immediate Explanation",
+    "vo": "chin demanding an immediate explanation sontai is sweating"
+   },
+   {
+    "id": 37,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c21_p047_warrior_holding_sword_black_cloak_lightning.webp",
+    "panelRight": "c21_p051_warrior_in_black_robe_threatening_gesture.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 37: Bullets Stammering Told Those",
+    "vo": "bullets stammering that he told those idiots zaha was a dangerous lunatic but they refused"
+   },
+   {
+    "id": 38,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c21_p055_clan_leader_warrior_burning_castle_boots.webp",
+    "panelRight": "c21_p033_warriors_discussing_errand_boy_mentioned.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 38: Listen Common Sense Interaction",
+    "vo": "to listen to common sense this interaction showcases zaha's"
+   },
+   {
+    "id": 39,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p078_red_moon_with_stars.webp",
+    "panelRight": "c21_p077_warrior_and_young_man_in_contemplation.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 39: Brilliant Leadership Psychology Instead",
+    "vo": "brilliant leadership psychology instead of executing"
+   },
+   {
+    "id": 40,
+    "duration": 4.75,
+    "motion": "slide_up",
+    "panelLeft": "c21_p071_warrior_in_battle_powerful_enemy_intense.webp",
+    "panelRight": "c21_p075_warrior_in_courtyard_dark_clouds_lanterns.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 40: Sontai Forces Realize Viewing",
+    "vo": "sontai he forces him to realize that viewing zaha as just a simple errand boy is what"
+   },
+   {
+    "id": 41,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c21_p063_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c21_p064_warrior_in_battle_sword_fire_gasp.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 41: Got Comrades Slaughtered First",
+    "vo": "got their comrades slaughtered in the first place he orders"
+   },
+   {
+    "id": 42,
+    "duration": 4.62,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p065_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c21_p067_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 42: Sontai Aggressively Exaggerate Cruelty",
+    "vo": "sontai to aggressively exaggerate his cruelty to spread rumors that zahe"
+   },
+   {
+    "id": 43,
+    "duration": 4.93,
+    "motion": "slide_up",
+    "panelLeft": "c21_p066_warrior_in_battle_flying_sword_fiery.webp",
+    "panelRight": "c21_p052_warriors_in_conversation_serious_expressions.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 43: Uncontrollable Flesh Terring Monster",
+    "vo": "is an uncontrollable flesh terring monster whose wrath guarantees instant"
+   },
+   {
+    "id": 44,
+    "duration": 4.45,
+    "motion": "pan_left",
+    "panelLeft": "c21_p062_warrior_in_battle_with_fire_and.webp",
+    "panelRight": "c21_p058_warrior_in_battle_sword_swinging_flying.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 44: Death Criminal Underworld Fear",
+    "vo": "death in the criminal underworld fear is the only currency that"
+   },
+   {
+    "id": 45,
+    "duration": 4.25,
+    "motion": "zoom_out",
+    "panelLeft": "c21_p003_emperor_speaking_red_eyes_speech_bubble.webp",
+    "panelRight": "c21_p050_warriors_in_a_courtyard_holding_swords.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 45: Prevents Unnecessary Bloodshed Establishing",
+    "vo": "prevents unnecessary bloodshed by establishing an aura of absolute"
+   },
+   {
+    "id": 46,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c21_p010_warrior_holding_sword_talking_returning_it.webp",
+    "panelRight": "c21_p006_warrior_holding_sword_speech_bubble_saying.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 46: Madness Lesser Thugs Surrender",
+    "vo": "madness lesser thugs will surrender before a single punches thrown after confiscating sung"
+   },
+   {
+    "id": 47,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c21_p009_man_with_long_black_hair_wearing.webp",
+    "panelRight": "c21_p005_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 47: Tays Outer Robes Because'S",
+    "vo": "tays outer robes because's still needs a shirt zahha returns to the"
+   },
+   {
+    "id": 48,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c21_p014_warrior_in_battle_sword_flying_cityscape.webp",
+    "panelRight": "c21_p076_warrior_speaking_fighting_against_demonic_path.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 48: Brothel Shuts Business Day",
+    "vo": "brothel shuts down business for the day and closes his eyes in quiet meditation"
+   },
+   {
+    "id": 49,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p075_warrior_in_courtyard_dark_clouds_lanterns.webp",
+    "panelRight": "c21_p077_warrior_and_young_man_in_contemplation.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 49: Chaotic Journey Proving Genuine",
+    "vo": "his chaotic journey proving that genuine peace in jianghu is bought"
+   },
+   {
+    "id": 50,
+    "duration": 4.8,
+    "motion": "slide_up",
+    "panelLeft": "c21_p059_warrior_in_battle_sword_drawn_flying.webp",
+    "panelRight": "c21_p060_warrior_in_battle_sword_swinging_fiery.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 50: Exclusively Iron Blood Ultimate",
+    "vo": "exclusively with iron and blood it is the ultimate display of"
+   },
+   {
+    "id": 51,
+    "duration": 4.53,
+    "motion": "slide_down",
+    "panelLeft": "c21_p061_warrior_dodging_sword_subordinates_hit_by.webp",
+    "panelRight": "c21_p039_warrior_in_battle_sword_swinging_fire.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 51: Ruthless Survival Demonstrating True",
+    "vo": "ruthless survival demonstrating that when a true master throws hands even the most"
+   },
+   {
+    "id": 52,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c21_p058_warrior_in_battle_sword_swinging_flying.webp",
+    "panelRight": "c21_p068_warrior_in_flames_burning_castle_boots.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 52: Mundane Household Furniture Becomes",
+    "vo": "mundane household furniture becomes an instrument of absolute destruction"
+   }
+  ]
+ },
+ "Chapter_022": {
+  "id": "Chapter_022",
+  "title": "Chapter 022",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 4753,
+  "duration": 221,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 3.88,
+    "motion": "slide_down",
+    "panelLeft": "c22_p010_warrior_with_mask_blood_decision_boots.webp",
+    "panelRight": "c22_p011_warrior_in_courtyard_red_tree_broken.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 01: Dark Blood Still Drying",
+    "vo": "with the dark blood still drying on the bathhouse floor and the broken corpses"
+   },
+   {
+    "id": 2,
+    "duration": 4.62,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p003_warrior_speaking_to_leader_leader_speaking.webp",
+    "panelRight": "c22_p002_warriors_in_courtyard_mountain_in_background.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 02: Song Ugm Ugm Ugm",
+    "vo": "of song ugm and ugm and ugm goob being hauled out like discarded"
+   },
+   {
+    "id": 3,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c22_p005_warrior_in_battle_sword_speech_bubble.webp",
+    "panelRight": "c22_p004_man_with_black_hair_and_red.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 03: Garbage Bags Zahas Steps",
+    "vo": "garbage bags zahas steps out into the rain with chau song tai casually wearing song"
+   },
+   {
+    "id": 4,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c22_p030_warriors_walking_in_courtyard.webp",
+    "panelRight": "c22_p006_warriors_in_black_robes_one_with.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 04: Tai'S Confiscated Silk Coat",
+    "vo": "tai's confiscated silk coat because walking around half naked is terrible for"
+   },
+   {
+    "id": 5,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c22_p057_warrior_with_long_hair_text_soon.webp",
+    "panelRight": "c22_p008_finger_pointing_at_a_mask_with.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 05: Long Term Sect Branding",
+    "vo": "long term sect branding somte is having a full blown existential crisis"
+   },
+   {
+    "id": 6,
+    "duration": 4.62,
+    "motion": "pan_right",
+    "panelLeft": "c22_p009_rabbit_union_master_speaking.webp",
+    "panelRight": "c22_p012_warrior_in_battle_sword_dialogue_castle.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 06: Desperately Wondering How Earth",
+    "vo": "desperately wondering how on earth a simple errand boy who used to wed greasy"
+   },
+   {
+    "id": 7,
+    "duration": 4.42,
+    "motion": "pulse_zoom",
+    "panelLeft": "c22_p013_warrior_in_battle_sword_drawn_emperor.webp",
+    "panelRight": "c22_p014_two_men_in_traditional_attire_one.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 07: Soup Tavern Tables Became",
+    "vo": "soup of tavern tables became an unstoppable murder machine overnight thank you"
+   },
+   {
+    "id": 8,
+    "duration": 4.64,
+    "motion": "slide_down",
+    "panelLeft": "c22_p015_warrior_in_black_robe_with_mask.webp",
+    "panelRight": "c22_p016_warrior_in_mask_soldiers_cleaning_walls.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 08: Much Watching Video Thank",
+    "vo": "very much for watching this video thank you very much for watching this video thank you for"
+   },
+   {
+    "id": 9,
+    "duration": 4.32,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p017_warrior_in_mask_red_eyes_black.webp",
+    "panelRight": "c22_p018_warriors_in_black_robes_one_speaking.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 09: Watching Song Tai Zaha",
+    "vo": "watching this song tai what zaha understands is that brute force can clear out"
+   },
+   {
+    "id": 10,
+    "duration": 4.17,
+    "motion": "slide_up",
+    "panelLeft": "c22_p019_warrior_in_battle_talking_to_someone.webp",
+    "panelRight": "c22_p020_warrior_in_front_of_palace_character.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 10: Rivals Short Term Psychological",
+    "vo": "rivals in the short term but psychological dominance is what actually controls an"
+   },
+   {
+    "id": 11,
+    "duration": 4.76,
+    "motion": "slide_down",
+    "panelLeft": "c22_p021_group_of_men_in_meeting_confused.webp",
+    "panelRight": "c22_p022_warrior_in_black_robe_talking_about.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 11: Entire Criminal District Turns",
+    "vo": "entire criminal district he turns to sonte and gives him an"
+   },
+   {
+    "id": 12,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p034_master_orders_followers_to_follow_him.webp",
+    "panelRight": "c22_p030_warriors_walking_in_courtyard.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 12: Absolute Masterclass Underworld Public",
+    "vo": "absolute masterclass in underworld public relations he explicitly orders him to blow"
+   },
+   {
+    "id": 13,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c22_p023_warrior_in_front_of_temple_night.webp",
+    "panelRight": "c22_p024_master_black_rabbit_union_speaking.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 13: Zahaz Reputation Completely Proportion",
+    "vo": "zahaz reputation completely out of proportion to spread terrifying rumors"
+   },
+   {
+    "id": 14,
+    "duration": 4.36,
+    "motion": "pan_left",
+    "panelLeft": "c22_p025_warrior_in_battle_sword_great_rakshasa.webp",
+    "panelRight": "c22_p026_three_samurai_in_black_robes_swords.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 14: Every Street Hustler Gang",
+    "vo": "to every street hustler gang lieutenant and merchant and iliang prefecture zahaz"
+   },
+   {
+    "id": 15,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c22_p027_warrior_holding_sword_pink_energy_flying.webp",
+    "panelRight": "c22_p016_warrior_in_mask_soldiers_cleaning_walls.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 15: Unhinged Merciless Demon Eats",
+    "vo": "is an unhinged merciless demon who eats internal chi for breakfast and rips"
+   },
+   {
+    "id": 16,
+    "duration": 4.0,
+    "motion": "pan_right",
+    "panelLeft": "c22_p028_two_men_in_black_robes_one.webp",
+    "panelRight": "c22_p029_warrior_in_battle.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 16: People Apart Without Blinking",
+    "vo": "people apart without blinking in the brutal doggy"
+   },
+   {
+    "id": 17,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c22_p032_emperor_speaking_warriors_seated_dialogue_emperors.webp",
+    "panelRight": "c22_p033_warrior_in_battle_speaking_to_emperor.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 17: Doggy Doggy Doggy Doggy",
+    "vo": "doggy doggy doggy doggy doggy doggy doggy doggy doggy"
+   },
+   {
+    "id": 18,
+    "duration": 4.83,
+    "motion": "slide_down",
+    "panelLeft": "c22_p035_warrior_in_a_room_with_lanterns.webp",
+    "panelRight": "c22_p036_clan_leader_acknowledging_subordinates.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 18: Doggy Doggy Being Perceived",
+    "vo": "doggy doggy being perceived as an unpredictable lunatic with god tier martial"
+   },
+   {
+    "id": 19,
+    "duration": 4.38,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p037_warrior_in_battle_emperor_speaking.webp",
+    "panelRight": "c22_p038_warrior_in_robe_emperor_speaking_character.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 19: Arts Means People Obey",
+    "vo": "arts means people will obey out of sheer survival instinct before a single"
+   },
+   {
+    "id": 20,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c22_p039_emperor_speaking_to_group_of_officials.webp",
+    "panelRight": "c22_p040_man_with_red_eyes_speech_bubble.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 20: Blade Drawn Turning Plumb",
+    "vo": "blade is drawn turning to the pl plumb blossom pavilion zahas surveys the empty"
+   },
+   {
+    "id": 21,
+    "duration": 4.36,
+    "motion": "slide_down",
+    "panelLeft": "c22_p041_warrior_in_battle_shouting_sword_in.webp",
+    "panelRight": "c22_p042_warrior_in_room_emperor_speaking_sword.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 21: Tables Shuttered Windows Repeated",
+    "vo": "tables and shuttered windows the repeated violence has terrified normal"
+   },
+   {
+    "id": 22,
+    "duration": 4.3,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p043_warriors_in_a_meeting_discussing_strategy.webp",
+    "panelRight": "c22_p044_emperor_speaking_courtiers_listening.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 22: Patrons Away Turning Used",
+    "vo": "patrons away turning what used to be a buzzing entertainment hotspot into a"
+   },
+   {
+    "id": 23,
+    "duration": 4.4,
+    "motion": "slide_up",
+    "panelLeft": "c22_p073_warriors_in_meeting_discussing_business.webp",
+    "panelRight": "c22_p045_warrior_in_robe_sword_dialogue.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 23: Desolate Ghost Town Zahah",
+    "vo": "desolate ghost town zahah orders business shut down for the day not out"
+   },
+   {
+    "id": 24,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c22_p046_emperor_speaking_warrior_in_black_robe.webp",
+    "panelRight": "c22_p047_warrior_in_traditional_attire_red_background.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 24: Fear Let District Mourn",
+    "vo": "of fear but to let the district mourn its dead and reset"
+   },
+   {
+    "id": 25,
+    "duration": 4.6,
+    "motion": "zoom_out",
+    "panelLeft": "c22_p035_warrior_in_a_room_with_lanterns.webp",
+    "panelRight": "c22_p048_warrior_speaking_to_emperor.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 25: Chaotic Energy Night Azahas",
+    "vo": "its chaotic energy that night azahas sits in deep meditation"
+   },
+   {
+    "id": 26,
+    "duration": 4.63,
+    "motion": "pan_right",
+    "panelLeft": "c22_p049_warrior_in_robe_talking_to_another.webp",
+    "panelRight": "c22_p050_warrior_apologizes_character_looks_angry.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 26: Inside Chogi Ghul'S Former",
+    "vo": "inside chogi ghul's former quarters the delicate haunting sound of a woman singing"
+   },
+   {
+    "id": 27,
+    "duration": 4.57,
+    "motion": "pulse_zoom",
+    "panelLeft": "c22_p051_two_warriors_in_black_robes_one.webp",
+    "panelRight": "c22_p052_warrior_in_conversation_with_old_man.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 27: Drifts Through Quiet Wooden",
+    "vo": "drifts through the quiet wooden corridors it is the senior kurdistan"
+   },
+   {
+    "id": 28,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c22_p058_dark_figure_with_red_eyes_and.webp",
+    "panelRight": "c22_p061_warrior_in_conversation_masters_absence_red.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 28: Chi Haiang Performing Ancient",
+    "vo": "chi haiang performing an ancient folk melody about a lonely woman applying red powder by"
+   },
+   {
+    "id": 29,
+    "duration": 4.36,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p053_ncient_chinese_figure_praying.webp",
+    "panelRight": "c22_p055_warrior_speaking_holding_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 29: Moonlit Window Waiting Wanderer",
+    "vo": "the moonlit window waiting for a wanderer who never comes home the song"
+   },
+   {
+    "id": 30,
+    "duration": 4.48,
+    "motion": "slide_up",
+    "panelLeft": "c22_p056_warriors_in_a_room_talking_naturally.webp",
+    "panelRight": "c22_p059_warrior_in_conversation_lantern_in_background.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 30: Captures Bitter Sweet Transient",
+    "vo": "captures the bitter sweet transient reality of the entertainment district a"
+   },
+   {
+    "id": 31,
+    "duration": 3.67,
+    "motion": "slide_down",
+    "panelLeft": "c22_p060_warrior_in_conversation_with_emperor.webp",
+    "panelRight": "c22_p045_warrior_in_robe_sword_dialogue.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 31: Fragile World Where Vulnerable",
+    "vo": "fragile world where vulnerable people survive on hollow smiles and broken"
+   },
+   {
+    "id": 32,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p063_warrior_in_robe_with_speech_bubble.webp",
+    "panelRight": "c22_p064_rageful_character_with_bloodied_mouth_shouting.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 32: Promises Zaha Listens Silence",
+    "vo": "promises zaha listens in silence his chaotic past life flooding back"
+   },
+   {
+    "id": 33,
+    "duration": 4.62,
+    "motion": "slide_up",
+    "panelLeft": "c22_p065_warrior_sitting_emperor_looking_dialogue_box.webp",
+    "panelRight": "c22_p066_warrior_in_battle_talking_to_someone.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 33: Mind Reinforcing Internal Resolve",
+    "vo": "into his mind reinforcing his internal resolve to change the"
+   },
+   {
+    "id": 34,
+    "duration": 4.67,
+    "motion": "pan_left",
+    "panelLeft": "c22_p067_emperor_speaking_warrior_in_background_character.webp",
+    "panelRight": "c22_p068_warrior_speaking_to_master_masters_name.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 34: Tragic Fate City Previous",
+    "vo": "tragic fate of this city in his previous life this entire prefecture"
+   },
+   {
+    "id": 35,
+    "duration": 4.0,
+    "motion": "zoom_out",
+    "panelLeft": "c22_p058_dark_figure_with_red_eyes_and.webp",
+    "panelRight": "c22_p070_warriors_discussing_rebellion_old_man_enjoying.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 35: Squeezed Death Greedy Warlords",
+    "vo": "was squeezed to death by greedy warlords and shattered by petty"
+   },
+   {
+    "id": 36,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c22_p071_warrior_in_battle_speaking_getting_in.webp",
+    "panelRight": "c22_p072_warriors_in_traditional_attire_one_speaking.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 36: Turf Wars Leaving Workers",
+    "vo": "turf wars leaving workers courtesans and laborers starving in the gutters but"
+   },
+   {
+    "id": 37,
+    "duration": 4.57,
+    "motion": "pulse_zoom",
+    "panelLeft": "c22_p074_head_of_dark_faction_cant_speak.webp",
+    "panelRight": "c22_p075_two_men_in_traditional_attire_one.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 37: Time Around Zahha Establishing",
+    "vo": "this time around zahha is establishing the low down sect not to conquer"
+   },
+   {
+    "id": 38,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c22_p076_warrior_in_battle_fist_clenched.webp",
+    "panelRight": "c22_p077_warriors_in_a_dark_room_warrior.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 38: World Generic Megalomaniac Build",
+    "vo": "the world like some generic megalomaniac but to build an iron wall around the"
+   },
+   {
+    "id": 39,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p078_warrior_in_robes_dark_faction_duty.webp",
+    "panelRight": "c22_p079_warrior_speaking_to_enemy_character_holding.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 39: Weak New Regime Brothels",
+    "vo": "weak under his new regime the brothels will no longer be extortion traps"
+   },
+   {
+    "id": 40,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c22_p080_warrior_in_robe_talking_to_emperor.webp",
+    "panelRight": "c22_p081_warrior_in_black_robe_speaking_to.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 40: Workers Fed Every Thug",
+    "vo": "workers will be fed and every thug who tries to prey on the innocent will be brutally reminded"
+   },
+   {
+    "id": 41,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c22_p082_warrior_in_battle_sword_in_hand.webp",
+    "panelRight": "c22_p083_three_men_in_a_dark_room.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 41: Red Lanterns Hanging High",
+    "vo": "by the red lanterns are hanging high once again it is a"
+   },
+   {
+    "id": 42,
+    "duration": 3.89,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p084_emperor_speaking_students_listening_monk_standing.webp",
+    "panelRight": "c22_p085_warriors_in_a_dark_room_talking.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 42: Moment Calm Contemplation Bridges",
+    "vo": "moment of calm contemplation that bridges mindless violence with genuine"
+   },
+   {
+    "id": 43,
+    "duration": 4.82,
+    "motion": "slide_up",
+    "panelLeft": "c22_p086_warrior_in_robe_with_blood_on.webp",
+    "panelRight": "c22_p088_warrior_in_room_emperor_speaking_boots.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 43: Purpose Proving Beneath Zahaz",
+    "vo": "purpose proving that beneath zahaz unhinged exterior lies a"
+   },
+   {
+    "id": 44,
+    "duration": 4.43,
+    "motion": "pan_left",
+    "panelLeft": "c22_p089_man_with_black_hair_and_a.webp",
+    "panelRight": "c22_p067_emperor_speaking_warrior_in_background_character.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 44: Protector Seen Hell Refuses",
+    "vo": "protector who has seen hell and refuses to let history repeat itself by"
+   },
+   {
+    "id": 45,
+    "duration": 4.71,
+    "motion": "zoom_out",
+    "panelLeft": "c22_p074_head_of_dark_faction_cant_speak.webp",
+    "panelRight": "c22_p078_warrior_in_robes_dark_faction_duty.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 45: Transforming Fear Protective Shield",
+    "vo": "transforming fear into a protective shield he ensures that the red lanterns"
+   },
+   {
+    "id": 46,
+    "duration": 4.09,
+    "motion": "pan_right",
+    "panelLeft": "c22_p075_two_men_in_traditional_attire_one.webp",
+    "panelRight": "c22_p080_warrior_in_robe_talking_to_emperor.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 46: Illuminate Safe Haven Rather",
+    "vo": "will illuminate a safe haven rather than a slaughterhouse for"
+   },
+   {
+    "id": 47,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c22_p081_warrior_in_black_robe_speaking_to.webp",
+    "panelRight": "c22_p076_warrior_in_battle_fist_clenched.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 47: Downtrodden Entire City Learns",
+    "vo": "the downtrodden when an entire city learns to respect your boundaries"
+   },
+   {
+    "id": 48,
+    "duration": 4.66,
+    "motion": "slide_down",
+    "panelLeft": "c22_p071_warrior_in_battle_speaking_getting_in.webp",
+    "panelRight": "c22_p010_warrior_with_mask_blood_decision_boots.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 48: True Peace Begins Knows",
+    "vo": "true peace begins he knows the road ahead is drenched in blood but every single"
+   },
+   {
+    "id": 49,
+    "duration": 4.48,
+    "motion": "zoom_in",
+    "panelLeft": "c22_p088_warrior_in_room_emperor_speaking_boots.webp",
+    "panelRight": "c22_p079_warrior_speaking_to_enemy_character_holding.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 49: Step Forward Carved Absolute",
+    "vo": "step forward is carved with absolute conviction and purpose showing that a true"
+   },
+   {
+    "id": 50,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c22_p068_warrior_speaking_to_master_masters_name.webp",
+    "panelRight": "c22_p069_four_men_in_traditional_clothing_looking.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 50: Demon Fights Glory Protect",
+    "vo": "demon fights not for glory but to protect those who cannot protect themselves"
+   }
+  ]
+ },
+ "Chapter_023": {
+  "id": "Chapter_023",
+  "title": "Chapter 023",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 4974,
+  "duration": 237,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c23_p016_people_in_jianghu_holding_elixirs.webp",
+    "panelRight": "c23_p036_warrior_in_battle_using_fire_power.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 01: Chaotic Realm Jainhu People",
+    "vo": "in the chaotic realm of the jainhu people usually assume that absolute power"
+   },
+   {
+    "id": 2,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p030_heavenly_pearl_absorbing_pill_cultivation_technique.webp",
+    "panelRight": "c23_p033_warrior_in_martial_stance_glowing_energy.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 02: Comes Strictly Ancient Martial",
+    "vo": "comes strictly from ancient martial manuals divine heavenly elixirs and"
+   },
+   {
+    "id": 3,
+    "duration": 4.47,
+    "motion": "slide_up",
+    "panelLeft": "c23_p003_meeting_finished_time_wellspent.webp",
+    "panelRight": "c23_p004_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 03: Legendary Steel Swords Zaha",
+    "vo": "legendary steel swords but zaha understands a fundamental economic"
+   },
+   {
+    "id": 4,
+    "duration": 4.2,
+    "motion": "pan_left",
+    "panelLeft": "c23_p005_warrior_with_blood_on_face_speech.webp",
+    "panelRight": "c23_p006_warrior_in_black_cloak_sword_and.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 04: Truth Bloodthirsty Sect Leaders",
+    "vo": "truth that most bloodthirsty sect leaders completely overlook wars"
+   },
+   {
+    "id": 5,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c23_p007_man_with_wide_eyes_and_a.webp",
+    "panelRight": "c23_p008_man_with_tears_text_crying.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 05: Destroy Cities People Actually",
+    "vo": "destroy cities and the people who actually rebuild civilization from the ashes"
+   },
+   {
+    "id": 6,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c23_p009_black_rabbit_speaking_new_black_rabbit.webp",
+    "panelRight": "c23_p010_man_crying_tears_streaming_down_face.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 06: Architects Every Single Time",
+    "vo": "are the architects every single time a major clash breaks out between"
+   },
+   {
+    "id": 7,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c23_p011_warrior_in_black_robe_holding_a.webp",
+    "panelRight": "c23_p012_master_speaking_to_a_warrior.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 07: Orthodox Unorthodox Factions Entire",
+    "vo": "orthodox and unorthodox factions entire mountain fortresses grand"
+   },
+   {
+    "id": 8,
+    "duration": 4.24,
+    "motion": "slide_down",
+    "panelLeft": "c23_p029_fire_flames_red_black_dark_intense.webp",
+    "panelRight": "c23_p014_warrior_in_a_dimly_lit_room.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 08: Trading Pavilions Municipal Quarters",
+    "vo": "trading pavilions and municipal quarters get leveled or burned to the"
+   },
+   {
+    "id": 9,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p015_warrior_in_battle.webp",
+    "panelRight": "c23_p017_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 09: Ground Creating Immense Demand",
+    "vo": "ground creating immense demand for elite craftsmen who understand structural engineering"
+   },
+   {
+    "id": 10,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c23_p018_hand_opening_safe.webp",
+    "panelRight": "c23_p019_character_is_seen_kneeling_on_the.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 10: Masonry Mechanical Design Enter",
+    "vo": "masonry and mechanical design enter jan joss a young a"
+   },
+   {
+    "id": 11,
+    "duration": 4.13,
+    "motion": "slide_down",
+    "panelLeft": "c23_p020_warrior_in_action_sword_swinging_doors.webp",
+    "panelRight": "c23_p021_warrior_with_internal_energy.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 11: Sharp Sun Tanned Young",
+    "vo": "sharp sun tanned young contractor who who in zaha's previous life years"
+   },
+   {
+    "id": 12,
+    "duration": 4.53,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p022_man_holding_hand_to_face_text.webp",
+    "panelRight": "c23_p023_warrior_in_boots_walking.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 12: Future Rise Become Three",
+    "vo": "in the future would rise to become one of the three greatest architectural masterminds"
+   },
+   {
+    "id": 13,
+    "duration": 4.17,
+    "motion": "slide_up",
+    "panelLeft": "c23_p006_warrior_in_black_cloak_sword_and.webp",
+    "panelRight": "c23_p024_man_in_kimono_meditating_books_lantern.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 13: Entire Martial World Right",
+    "vo": "in the entire martial world right now though jossong is just a"
+   },
+   {
+    "id": 14,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c23_p025_man_with_black_hair_white_teeth.webp",
+    "panelRight": "c23_p026_warrior_meditating_chanting_in_korean.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 14: Brilliant Young Professional Recommended",
+    "vo": "brilliant young professional recommended by master gm from the dragonhead"
+   },
+   {
+    "id": 15,
+    "duration": 4.0,
+    "motion": "zoom_out",
+    "panelLeft": "c23_p027_invulnerable_golden_tortoise_technique.webp",
+    "panelRight": "c23_p028_warrior_in_battle_speaking_fire_flames.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 15: Smithy Arriving Charred Remnants",
+    "vo": "smithy arriving at the charred remnants of the zaha inn to bid on the comprehensive"
+   },
+   {
+    "id": 16,
+    "duration": 4.57,
+    "motion": "pan_right",
+    "panelLeft": "c23_p029_fire_flames_red_black_dark_intense.webp",
+    "panelRight": "c23_p031_warrior_speaking_elixir_energy_combined_with.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 16: Reconstruction Project Makes Initial",
+    "vo": "reconstruction project what makes their initial encounter so"
+   },
+   {
+    "id": 17,
+    "duration": 4.83,
+    "motion": "pulse_zoom",
+    "panelLeft": "c23_p042_man_in_robe_meditating_text_it.webp",
+    "panelRight": "c23_p043_man_with_speech_bubble_saying_no.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 17: Thoroughly Entertaining Josson'S Instant",
+    "vo": "thoroughly entertaining is josson's instant shameless entrepreneurial hustle the man"
+   },
+   {
+    "id": 18,
+    "duration": 4.27,
+    "motion": "slide_down",
+    "panelLeft": "c23_p032_two_hands_in_a_fist_with.webp",
+    "panelRight": "c23_p034_two_hands_holding_a_glowing_orb.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 18: Show Timid Laborer Bowing",
+    "vo": "does not show up as some timid laborer bowing in the mud but immediately addresses zaha"
+   },
+   {
+    "id": 19,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p065_emperor_speaking_using_great_absorption_technique.webp",
+    "panelRight": "c23_p035_hands_holding_fire_flames_glowing_glowing.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 19: Leader Having Heard Through",
+    "vo": "as leader having heard through the great vine that if he does an exceptional job he"
+   },
+   {
+    "id": 20,
+    "duration": 4.2,
+    "motion": "slide_up",
+    "panelLeft": "c23_p037_warrior_in_battle_sword_fire_dark.webp",
+    "panelRight": "c23_p038_two_hands_holding_a_cigarette.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 20: Might Appointed Official Permanent",
+    "vo": "might be appointed as the official permanent head of the newly minted architectural sect"
+   },
+   {
+    "id": 21,
+    "duration": 4.45,
+    "motion": "slide_down",
+    "panelLeft": "c23_p039_warrior_in_robe_talking_surprised.webp",
+    "panelRight": "c23_p040_warrior_absorbing_energy_from_heavenly_pearl.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 21: Zero Monthly Guild Taxes",
+    "vo": "with zero monthly guild taxes thanks for watching and"
+   },
+   {
+    "id": 22,
+    "duration": 4.53,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p041_warrior_in_battle_red_eyes_red.webp",
+    "panelRight": "c23_p044_warrior_meditating_talking_to_himself.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 22: Don'T Forget Subscribe Videos",
+    "vo": "don't forget to like and subscribe for more videos thanks for"
+   },
+   {
+    "id": 23,
+    "duration": 4.39,
+    "motion": "slide_up",
+    "panelLeft": "c23_p045_warrior_in_battle_talking_to_emperor.webp",
+    "panelRight": "c23_p046_mad_demon_heavens_pearl_absorption_technique.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 23: Watching Seeking Pointless Bloodshed",
+    "vo": "watching seeking pointless bloodshed he is an ambitious builder who"
+   },
+   {
+    "id": 24,
+    "duration": 4.43,
+    "motion": "pan_left",
+    "panelLeft": "c23_p047_warrior_in_battle_speaking_boots_walking.webp",
+    "panelRight": "c23_p048_man_in_black_robe_sitting_crosslegged.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 24: Knows How Survive Between",
+    "vo": "knows how to survive between warring factions through sharp communication"
+   },
+   {
+    "id": 25,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c23_p049_emperor_speaking_talking_about_fate.webp",
+    "panelRight": "c23_p050_man_falling_red_background_sword_dark.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 25: Flawless Craftsmanship Mutual Economic",
+    "vo": "flawless craftsmanship and mutual economic benefit jossong"
+   },
+   {
+    "id": 26,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c23_p051_warrior_in_battle_sword_fire_boots.webp",
+    "panelRight": "c23_p052_man_kneeling_holding_sword_dark_room.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 26: Surveys Elevated Hillside Lot",
+    "vo": "surveys the elevated hillside lot pointing out the incredible natural"
+   },
+   {
+    "id": 27,
+    "duration": 4.67,
+    "motion": "pulse_zoom",
+    "panelLeft": "c23_p053_warrior_in_battle_blood_on_face.webp",
+    "panelRight": "c23_p055_warrior_in_battle_holding_sword.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 27: Ventilation Picturesque Evening Sunset",
+    "vo": "ventilation and picturesque evening sunset views offering a massive vip"
+   },
+   {
+    "id": 28,
+    "duration": 4.38,
+    "motion": "slide_down",
+    "panelLeft": "c23_p056_character_with_glowing_red_hands.webp",
+    "panelRight": "c23_p057_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 28: Discount Clear Condition Zaha",
+    "vo": "discount under the clear condition that zaha guarantees physical protection for the labor crew"
+   },
+   {
+    "id": 29,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p058_warrior_in_action_purple_smoke_sword.webp",
+    "panelRight": "c23_p037_warrior_in_battle_sword_fire_dark.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 29: Provides Hot Evening Meals",
+    "vo": "and provides hot evening meals on site zaha agrees without"
+   },
+   {
+    "id": 30,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c23_p060_man_with_red_eyes_and_black.webp",
+    "panelRight": "c23_p061_warrior_in_battle_sword_fire_chaos.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 30: Second Thought Immediately Ordering",
+    "vo": "a second thought immediately ordering chasung tate to mobilize staff"
+   },
+   {
+    "id": 31,
+    "duration": 4.27,
+    "motion": "slide_down",
+    "panelLeft": "c23_p062_man_in_robe_kneeling_holding_scroll.webp",
+    "panelRight": "c23_p063_man_with_long_hair_and_a.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 31: Three Brothel Pavilions Every",
+    "vo": "from all three brothel pavilions every single evening to cook hot feasts for"
+   },
+   {
+    "id": 32,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p064_man_in_black_robe_speech_bubble.webp",
+    "panelRight": "c23_p066_red_moon_with_stars.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 32: Entire Construction Squad Somtai",
+    "vo": "the entire construction squad somtai feeling an instant wave of petty"
+   },
+   {
+    "id": 33,
+    "duration": 4.62,
+    "motion": "slide_up",
+    "panelLeft": "c23_p036_warrior_in_battle_using_fire_power.webp",
+    "panelRight": "c23_p039_warrior_in_robe_talking_surprised.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 33: Middle Management Jealousy Toward",
+    "vo": "middle management jealousy toward the newcomer puffs out his chest and proudly declares"
+   },
+   {
+    "id": 34,
+    "duration": 4.38,
+    "motion": "pan_left",
+    "panelLeft": "c23_p044_warrior_meditating_talking_to_himself.webp",
+    "panelRight": "c23_p041_warrior_in_battle_red_eyes_red.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 34: Himself Leader Rebirth Sect",
+    "vo": "himself the leader of the rebirth sect claiming total operational authority over"
+   },
+   {
+    "id": 35,
+    "duration": 3.75,
+    "motion": "zoom_out",
+    "panelLeft": "c23_p043_man_with_speech_bubble_saying_no.webp",
+    "panelRight": "c23_p042_man_in_robe_meditating_text_it.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 35: Entertainment District Look Subordinate",
+    "vo": "the entertainment district just so he does not look subordinate to a fresh young"
+   },
+   {
+    "id": 36,
+    "duration": 4.75,
+    "motion": "pan_right",
+    "panelLeft": "c23_p045_warrior_in_battle_talking_to_emperor.webp",
+    "panelRight": "c23_p046_mad_demon_heavens_pearl_absorption_technique.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 36: Carpenter Jossong Hits Ultimate",
+    "vo": "carpenter jossong hits him with the ultimate comedic reality check asking with"
+   },
+   {
+    "id": 37,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c23_p047_warrior_in_battle_speaking_boots_walking.webp",
+    "panelRight": "c23_p048_man_in_black_robe_sitting_crosslegged.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 37: Bright Smile Still Means",
+    "vo": "a bright smile if that still means some tie is strictly beneath leader zaha anyway"
+   },
+   {
+    "id": 38,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c23_p049_emperor_speaking_talking_about_fate.webp",
+    "panelRight": "c23_p050_man_falling_red_background_sword_dark.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 38: Which Deflateates Sontai'S Fragile",
+    "vo": "which deflateates sontai's fragile ego right on the spot zaha"
+   },
+   {
+    "id": 39,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p051_warrior_in_battle_sword_fire_boots.webp",
+    "panelRight": "c23_p052_man_kneeling_holding_sword_dark_room.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 39: Even Takes Captured Arsonist",
+    "vo": "even takes the captured arsonist thugs who originally torched his beloved in"
+   },
+   {
+    "id": 40,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c23_p053_warrior_in_battle_blood_on_face.webp",
+    "panelRight": "c23_p054_warrior_speaking_martial_art_creation_selfexploration.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 40: Puts Work Suntai'S Watchful",
+    "vo": "and puts them to work under suntai's watchful eye as hard"
+   },
+   {
+    "id": 41,
+    "duration": 4.8,
+    "motion": "slide_down",
+    "panelLeft": "c23_p055_warrior_in_battle_holding_sword.webp",
+    "panelRight": "c23_p056_character_with_glowing_red_hands.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 41: Manual Laborers Turning Criminal",
+    "vo": "manual laborers turning criminal restitution into literal community rebuilding"
+   },
+   {
+    "id": 42,
+    "duration": 4.07,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p042_man_in_robe_meditating_text_it.webp",
+    "panelRight": "c23_p058_warrior_in_action_purple_smoke_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 42: Jossong Casually Asks Zaha",
+    "vo": "when jossong casually asks zaha to treat him comfortably like"
+   },
+   {
+    "id": 43,
+    "duration": 4.12,
+    "motion": "slide_up",
+    "panelLeft": "c23_p048_man_in_black_robe_sitting_crosslegged.webp",
+    "panelRight": "c23_p060_man_with_red_eyes_and_black.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 43: Personal Friend Zaha Immediately",
+    "vo": "a personal friend zaha immediately drops all formalities and addresses"
+   },
+   {
+    "id": 44,
+    "duration": 4.67,
+    "motion": "pan_left",
+    "panelLeft": "c23_p047_warrior_in_battle_speaking_boots_walking.webp",
+    "panelRight": "c23_p062_man_in_robe_kneeling_holding_scroll.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 44: Simply Jassong Prompting Flustered",
+    "vo": "him simply as jassong prompting the flustered builder to reflexively call him"
+   },
+   {
+    "id": 45,
+    "duration": 4.67,
+    "motion": "zoom_out",
+    "panelLeft": "c23_p063_man_with_long_hair_and_a.webp",
+    "panelRight": "c23_p064_man_in_black_robe_speech_bubble.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 45: Big Brother Entire Sequence",
+    "vo": "big brother this entire sequence highlights the true genius of zaha's"
+   },
+   {
+    "id": 46,
+    "duration": 3.95,
+    "motion": "pan_right",
+    "panelLeft": "c23_p065_emperor_speaking_using_great_absorption_technique.webp",
+    "panelRight": "c23_p066_red_moon_with_stars.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 46: Grand Design Conquering Territory",
+    "vo": "grand design he is not just conquering territory through raw violence he"
+   },
+   {
+    "id": 47,
+    "duration": 4.71,
+    "motion": "pulse_zoom",
+    "panelLeft": "c23_p050_man_falling_red_background_sword_dark.webp",
+    "panelRight": "c23_p039_warrior_in_robe_talking_surprised.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 47: Assembling Complete Society Blue",
+    "vo": "is assembling a complete society of blue collar experts blacksmiths cooks builders"
+   },
+   {
+    "id": 48,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c23_p038_two_hands_holding_a_cigarette.webp",
+    "panelRight": "c23_p037_warrior_in_battle_sword_fire_dark.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 48: Street Level Operators Unstoppable",
+    "vo": "and street level operators into an unstoppable coalition under the banner"
+   },
+   {
+    "id": 49,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p036_warrior_in_battle_using_fire_power.webp",
+    "panelRight": "c23_p035_hands_holding_fire_flames_glowing_glowing.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 49: Low Sect While Arrogant",
+    "vo": "of the low down sect while arrogant noble plans view"
+   },
+   {
+    "id": 50,
+    "duration": 4.58,
+    "motion": "slide_up",
+    "panelLeft": "c23_p034_two_hands_holding_a_glowing_orb.webp",
+    "panelRight": "c23_p033_warrior_in_martial_stance_glowing_energy.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 50: Commoners Disposable Trash Zahar",
+    "vo": "commoners as disposable trash zahar recognizes that a sect built on honest"
+   },
+   {
+    "id": 51,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c23_p032_two_hands_in_a_fist_with.webp",
+    "panelRight": "c23_p062_man_in_robe_kneeling_holding_scroll.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 51: Labor Hot Food Fair",
+    "vo": "labor hot food and fair protection is far more durable than any empire"
+   },
+   {
+    "id": 52,
+    "duration": 4.3,
+    "motion": "zoom_in",
+    "panelLeft": "c23_p066_red_moon_with_stars.webp",
+    "panelRight": "c23_p029_fire_flames_red_black_dark_intense.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 52: Founded Purely Fear Investing",
+    "vo": "founded purely on fear by investing heavily in infrastructure"
+   },
+   {
+    "id": 53,
+    "duration": 4.2,
+    "motion": "slide_up",
+    "panelLeft": "c23_p028_warrior_in_battle_speaking_fire_flames.webp",
+    "panelRight": "c23_p027_invulnerable_golden_tortoise_technique.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 53: Craftsmanship Basic Human Dignity",
+    "vo": "craftsmanship and basic human dignity he lays the unbreakable foundation for"
+   },
+   {
+    "id": 54,
+    "duration": 5.0,
+    "motion": "pan_left",
+    "panelLeft": "c23_p009_black_rabbit_speaking_new_black_rabbit.webp",
+    "panelRight": "c23_p063_man_with_long_hair_and_a.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 54: Completely New Kind Underworld",
+    "vo": "a completely new kind of underworld order that can withstand any martial storm"
+   }
+  ]
+ },
+ "Chapter_024": {
+  "id": "Chapter_024",
+  "title": "Chapter 024",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 5211,
+  "duration": 228,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.1,
+    "motion": "slide_down",
+    "panelLeft": "c24_p013_warrior_in_mask_asking_about_girl.webp",
+    "panelRight": "c24_p023_warrior_in_black_robes_addressing_seated.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 01: Cynical Unspoken Role Martial",
+    "vo": "there is a cynical unspoken role in the martial world known as the"
+   },
+   {
+    "id": 2,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p003_man_with_broom_cherry_blossoms_dark.webp",
+    "panelRight": "c24_p004_warrior_in_traditional_attire_red_eyes.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 02: Law Equivalent Exchange Whenever",
+    "vo": "law of equivalent exchange whenever something exceptionally fortunate happens to you the"
+   },
+   {
+    "id": 3,
+    "duration": 4.21,
+    "motion": "slide_up",
+    "panelLeft": "c24_p005_warrior_in_black_robe_talking_about.webp",
+    "panelRight": "c24_p006_warrior_in_traditional_attire_speech_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 03: Universe Immediately Balances Cosmic",
+    "vo": "universe immediately balances the cosmic ledger by throwing a fresh batch"
+   },
+   {
+    "id": 4,
+    "duration": 4.62,
+    "motion": "pan_left",
+    "panelLeft": "c24_p007_warrior_speaking_black_mask_black_rabbit.webp",
+    "panelRight": "c24_p008_warrior_in_room_emperor_speaking.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 04: Absolute Clowns Directly Path",
+    "vo": "of absolute clowns directly into your path just moments after securing"
+   },
+   {
+    "id": 5,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c24_p045_emperor_speaking_warrior_in_background_lanterns.webp",
+    "panelRight": "c24_p010_warrior_in_meeting_with_emperor.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 05: Brilliant Young Architect Jan",
+    "vo": "the brilliant young architect jan jassong and making solid inspiring plans"
+   },
+   {
+    "id": 6,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c24_p011_warrior_approaching_emperor.webp",
+    "panelRight": "c24_p012_man_in_robe_with_hands_clasped.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 06: Rebuild Zaha Inn Zaha",
+    "vo": "to rebuild the zaha inn zaha finds his peaceful stroll interrupted"
+   },
+   {
+    "id": 7,
+    "duration": 4.0,
+    "motion": "pulse_zoom",
+    "panelLeft": "c24_p013_warrior_in_mask_asking_about_girl.webp",
+    "panelRight": "c24_p014_warrior_in_kimono_emperor_kneeling_figure.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 07: Messengers Dressed Pristine Matching",
+    "vo": "by two messengers dressed in pristine matching silk uniforms"
+   },
+   {
+    "id": 8,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c24_p015_warrior_speaking_character_in_black_and.webp",
+    "panelRight": "c24_p016_warrior_in_mask_emperor_speaking_sword.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 08: Practically Radiating Corporate Middlemanagement",
+    "vo": "practically radiating corporate middlemanagement arrogance the lead messenger a smug"
+   },
+   {
+    "id": 9,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p017_warrior_in_kimono_talking_hand_gesture.webp",
+    "panelRight": "c24_p018_emperor_speaking_warrior_in_background.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 09: Operator Named Hyak Rion",
+    "vo": "operator named hyak rion hong immediately blocks the cobblestone road and"
+   },
+   {
+    "id": 10,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c24_p019_two_men_in_hats_one_speaking.webp",
+    "panelRight": "c24_p021_master_of_the_union_speaking.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 10: Asks Speaking Sect Leader",
+    "vo": "asks if he is speaking to sect leader lizaha zaha true to his"
+   },
+   {
+    "id": 11,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c24_p010_warrior_in_meeting_with_emperor.webp",
+    "panelRight": "c24_p020_warrior_in_a_room_with_lanterns.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 11: Unbothered Deadpan Persona Casually",
+    "vo": "unbothered deadpan persona casually shakes his head and claims he is merely"
+   },
+   {
+    "id": 12,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p022_warrior_in_robes_holding_sword_serious.webp",
+    "panelRight": "c24_p023_warrior_in_black_robes_addressing_seated.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 12: Simple Errant Boy Got",
+    "vo": "a simple in errant boy who got lost on his way to fetch cooking groceries from"
+   },
+   {
+    "id": 13,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c24_p024_man_in_a_black_robe_with.webp",
+    "panelRight": "c24_p025_warrior_in_mask_talking_sword_in.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 13: Village Butcher Rion Hong",
+    "vo": "the village butcher rion hong size and deep annoyance clearly"
+   },
+   {
+    "id": 14,
+    "duration": 4.58,
+    "motion": "pan_left",
+    "panelLeft": "c24_p026_warrior_crying_character_speaking_dark_background.webp",
+    "panelRight": "c24_p027_warrior_in_black_robe_lit_by.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 14: Tired Dealing Provincial Backwater",
+    "vo": "tired of dealing with provincial backwater bumpkins and announces that he represents"
+   },
+   {
+    "id": 15,
+    "duration": 4.08,
+    "motion": "zoom_out",
+    "panelLeft": "c24_p028_warrior_in_black_shouting_im_going.webp",
+    "panelRight": "c24_p030_warrior_in_black_and_gold_armor.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 15: Mighty Black Rabbit Union",
+    "vo": "the mighty black rabbit union delivering an exclusive summons from"
+   },
+   {
+    "id": 16,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c24_p029_warrior_in_conversation_with_emperor.webp",
+    "panelRight": "c24_p031_warrior_in_battle_speaking_to_emperor.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 16: Bansawung Master Golden Phoenix",
+    "vo": "bansawung the master of the golden phoenix pavilion now from"
+   },
+   {
+    "id": 17,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c24_p032_woman_with_piercing_text_good_news.webp",
+    "panelRight": "c24_p033_brave_woman_do_you_have_anywhere.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 17: Tactical Narrative Standpoint Where",
+    "vo": "a tactical and narrative standpoint this is where zahaz"
+   },
+   {
+    "id": 18,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c24_p034_warrior_in_mask_talking_what_to.webp",
+    "panelRight": "c24_p035_warrior_in_robe_pointing_finger.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 18: Regression Knowledge Becomes Terrifying",
+    "vo": "regression knowledge becomes a terrifying advantage zahaz knows exactly"
+   },
+   {
+    "id": 19,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p036_emperor_speaking_holding_sword.webp",
+    "panelRight": "c24_p037_warrior_in_conversation_discussing_job_suitability.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 19: Bonsawung Without Needing Briefing",
+    "vo": "who bonsawung is without needing any briefing in his"
+   },
+   {
+    "id": 20,
+    "duration": 4.68,
+    "motion": "slide_up",
+    "panelLeft": "c24_p038_warrior_in_robe_speech_bubble_very.webp",
+    "panelRight": "c24_p039_masked_figure_with_a_finger_on.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 20: Past Life Saugung Greedy",
+    "vo": "past life saugung was a greedy psychopathic money freak who climbed the ranks of the"
+   },
+   {
+    "id": 21,
+    "duration": 4.42,
+    "motion": "slide_down",
+    "panelLeft": "c24_p040_man_with_long_hair_speech_bubble.webp",
+    "panelRight": "c24_p041_warrior_in_kimono_with_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 21: Unorthodox Faction Through Massive",
+    "vo": "unorthodox faction through massive bribes and illegal extortion rackets eventually running"
+   },
+   {
+    "id": 22,
+    "duration": 4.48,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p042_woman_in_black_speech_bubble_understood.webp",
+    "panelRight": "c24_p021_master_of_the_union_speaking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 22: Private Contract Killings Until",
+    "vo": "private contract killings until his own union discovered he was embezzling syndicate gold and chopped"
+   },
+   {
+    "id": 23,
+    "duration": 4.52,
+    "motion": "slide_up",
+    "panelLeft": "c24_p044_warrior_in_battle_sword_explosion_text.webp",
+    "panelRight": "c24_p045_emperor_speaking_warrior_in_background_lanterns.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 23: Five Pieces Sagaung'S Predatory",
+    "vo": "him into five pieces sagaung's predatory taxes were the exact catalyst"
+   },
+   {
+    "id": 24,
+    "duration": 4.13,
+    "motion": "pan_left",
+    "panelLeft": "c24_p046_emperor_speaking_hands_clasped_smiling.webp",
+    "panelRight": "c24_p047_warrior_in_battle_red_eyes_dark.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 24: Forced Lower Ranking Gangsters",
+    "vo": "that forced lower ranking gangsters to squeeze ilyang prefecture dry"
+   },
+   {
+    "id": 25,
+    "duration": 4.6,
+    "motion": "zoom_out",
+    "panelLeft": "c24_p048_warrior_with_long_hair_speech_bubble.webp",
+    "panelRight": "c24_p027_warrior_in_black_robe_lit_by.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 25: Creating Brutal Domino Effect",
+    "vo": "creating a brutal domino effect that crushed common laborers market"
+   },
+   {
+    "id": 26,
+    "duration": 4.27,
+    "motion": "pan_right",
+    "panelLeft": "c24_p051_warrior_holding_helmet_talking_about_face.webp",
+    "panelRight": "c24_p052_warrior_in_black_robe_holding_sword.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 26: Vendors Tavern Keepers Make",
+    "vo": "vendors and tavern keepers to make their polite invitation even more charming"
+   },
+   {
+    "id": 27,
+    "duration": 4.19,
+    "motion": "pulse_zoom",
+    "panelLeft": "c24_p053_warrior_in_a_robe_with_a.webp",
+    "panelRight": "c24_p054_warrior_collapses_emperor_asks_why.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 27: Second Messenger Unwrapped Blood",
+    "vo": "the second messenger unwrapped a blood soaked cloth bundle revealing the"
+   },
+   {
+    "id": 28,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c24_p055_emperor_speaking_warrior_lying_shocked_expression.webp",
+    "panelRight": "c24_p056_warrior_speaking_to_servant_girl.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 28: Freshly Severed Heads John",
+    "vo": "freshly severed heads of john pung and hong go look the corrupt local monitors zahah"
+   },
+   {
+    "id": 29,
+    "duration": 4.17,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p057_man_in_suit_with_speech_bubble.webp",
+    "panelRight": "c24_p058_warrior_in_dark_robes_emperor_in.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 29: Previously Forced Drink Liquor",
+    "vo": "had previously forced to drink liquor instead of executing ryan"
+   },
+   {
+    "id": 30,
+    "duration": 4.73,
+    "motion": "slide_up",
+    "panelLeft": "c24_p059_warrior_in_traditional_attire_kneeling_speaking.webp",
+    "panelRight": "c24_p060_warrior_in_battle_red_eyes_dark.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 30: Hong'S Smurks Insufferable Condescension",
+    "vo": "hong's smurks with insufferable condescension explaining that the monitors were"
+   },
+   {
+    "id": 31,
+    "duration": 4.42,
+    "motion": "slide_down",
+    "panelLeft": "c24_p061_vampire_with_red_eyes_and_fangs.webp",
+    "panelRight": "c24_p062_warrior_in_black_robe_seated_in.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 31: Tortured Beheaded Covering Prefectures",
+    "vo": "tortured and beheaded for covering up the prefectures rebellion but sa wong"
+   },
+   {
+    "id": 32,
+    "duration": 4.39,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p063_emperor_speaking_warrior_kneeling_character_in.webp",
+    "panelRight": "c24_p039_masked_figure_with_a_finger_on.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 32: Found Story Zaha Forcing",
+    "vo": "found the story of zaha forcing them to drink so hilariously absurd that he decided"
+   },
+   {
+    "id": 33,
+    "duration": 3.86,
+    "motion": "slide_up",
+    "panelLeft": "c24_p030_warrior_in_black_and_gold_armor.webp",
+    "panelRight": "c24_p041_warrior_in_kimono_with_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 33: Invite Audience Instead Sending",
+    "vo": "to invite him for an audience instead of sending death squads right away"
+   },
+   {
+    "id": 34,
+    "duration": 4.71,
+    "motion": "pan_left",
+    "panelLeft": "c24_p019_two_men_in_hats_one_speaking.webp",
+    "panelRight": "c24_p028_warrior_in_black_shouting_im_going.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 34: Messengers Mugli Advised Zaha",
+    "vo": "the messengers mugli advised zaha that if he is terrified he is"
+   },
+   {
+    "id": 35,
+    "duration": 4.43,
+    "motion": "zoom_out",
+    "panelLeft": "c24_p026_warrior_crying_character_speaking_dark_background.webp",
+    "panelRight": "c24_p045_emperor_speaking_warrior_in_background_lanterns.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 35: Welcomed Pack Bags Flee",
+    "vo": "welcomed to pack his bags and flee the territory like a stray dog claiming"
+   },
+   {
+    "id": 36,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c24_p060_warrior_in_battle_red_eyes_dark.webp",
+    "panelRight": "c24_p047_warrior_in_battle_red_eyes_dark.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 36: Save Both Sides Lot",
+    "vo": "it would save both sides a lot of unnecessary bloodshed for a"
+   },
+   {
+    "id": 37,
+    "duration": 4.29,
+    "motion": "pulse_zoom",
+    "panelLeft": "c24_p051_warrior_holding_helmet_talking_about_face.webp",
+    "panelRight": "c24_p049_warrior_in_dark_attire_holding_head.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 37: Split Second Zaha Lets",
+    "vo": "split second zaha lets out a microscopic flicker of genuine killing intent and the"
+   },
+   {
+    "id": 38,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c24_p063_emperor_speaking_warrior_kneeling_character_in.webp",
+    "panelRight": "c24_p052_warrior_in_black_robe_holding_sword.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 38: Guard Holding Severed Head'S",
+    "vo": "guard holding the severed head's instincts screams so violently that he"
+   },
+   {
+    "id": 39,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p050_man_with_long_hair_and_a.webp",
+    "panelRight": "c24_p053_warrior_in_a_robe_with_a.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 39: Grabs Round Hung Leaps",
+    "vo": "grabs round hung and leaps backward paces in pure panic it is a"
+   },
+   {
+    "id": 40,
+    "duration": 4.14,
+    "motion": "slide_up",
+    "panelLeft": "c24_p022_warrior_in_robes_holding_sword_serious.webp",
+    "panelRight": "c24_p055_emperor_speaking_warrior_lying_shocked_expression.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 40: Brilliant Psychological Beat Because",
+    "vo": "brilliant psychological beat because even when zaha looks like an unarmed scruffy youth"
+   },
+   {
+    "id": 41,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c24_p056_warrior_speaking_to_servant_girl.webp",
+    "panelRight": "c24_p041_warrior_in_kimono_with_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 41: High Level Martial Killers",
+    "vo": "high level martial killers consents the terrifying aura of an apex"
+   },
+   {
+    "id": 42,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p058_warrior_in_dark_robes_emperor_in.webp",
+    "panelRight": "c24_p059_warrior_in_traditional_attire_kneeling_speaking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 42: Predator Lurking Beneath Casual",
+    "vo": "predator lurking beneath his casual smirk zaha does not fl flinch at"
+   },
+   {
+    "id": 43,
+    "duration": 4.1,
+    "motion": "slide_up",
+    "panelLeft": "c24_p060_warrior_in_battle_red_eyes_dark.webp",
+    "panelRight": "c24_p061_vampire_with_red_eyes_and_fangs.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 43: Severed Heads Veiled Execution",
+    "vo": "the severed heads or the veiled execution threat instead he simply smiles"
+   },
+   {
+    "id": 44,
+    "duration": 4.75,
+    "motion": "pan_left",
+    "panelLeft": "c24_p051_warrior_holding_helmet_talking_about_face.webp",
+    "panelRight": "c24_p047_warrior_in_battle_red_eyes_dark.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 44: Absurdity Mid Tier Bureaucrat",
+    "vo": "at the absurdity of a mid tier bureaucrat telling the future mad demon to run"
+   },
+   {
+    "id": 45,
+    "duration": 4.25,
+    "motion": "zoom_out",
+    "panelLeft": "c24_p062_warrior_in_black_robe_seated_in.webp",
+    "panelRight": "c24_p063_emperor_speaking_warrior_kneeling_character_in.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 45: Away Rather Fleeing Zahad",
+    "vo": "away rather than fleeing zahad decides that if a corrupt syndicate"
+   },
+   {
+    "id": 46,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c24_p010_warrior_in_meeting_with_emperor.webp",
+    "panelRight": "c24_p008_warrior_in_room_emperor_speaking.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 46: Billionaire Wants See Private",
+    "vo": "billionaire wants to see him at his private mountain hunting villa he might as well walk"
+   },
+   {
+    "id": 47,
+    "duration": 4.24,
+    "motion": "pulse_zoom",
+    "panelLeft": "c24_p023_warrior_in_black_robes_addressing_seated.webp",
+    "panelRight": "c24_p035_warrior_in_robe_pointing_finger.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 47: Right Through Front Gates",
+    "vo": "right through the front gates crash the party and inspect whatever"
+   },
+   {
+    "id": 48,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c24_p030_warrior_in_black_and_gold_armor.webp",
+    "panelRight": "c24_p045_emperor_speaking_warrior_in_background_lanterns.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 48: Expensive Luxury Items Gold",
+    "vo": "expensive luxury items and gold bars are right for repossession he accepts the"
+   },
+   {
+    "id": 49,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p056_warrior_speaking_to_servant_girl.webp",
+    "panelRight": "c24_p061_vampire_with_red_eyes_and_fangs.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 49: Invitation Chilling Effortless Grace",
+    "vo": "invitation with a chilling effortless grace fully aware that when you invite"
+   },
+   {
+    "id": 50,
+    "duration": 4.25,
+    "motion": "slide_up",
+    "panelLeft": "c24_p031_warrior_in_battle_speaking_to_emperor.webp",
+    "panelRight": "c24_p060_warrior_in_battle_red_eyes_dark.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 50: Unhinged Lunatic Private Estate",
+    "vo": "an unhinged lunatic into your private estate you are the one trapped inside with"
+   },
+   {
+    "id": 51,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c24_p028_warrior_in_black_shouting_im_going.webp",
+    "panelRight": "c24_p027_warrior_in_black_robe_lit_by.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 51: Sets Stage Ruthless Confrontation",
+    "vo": "him it sets the stage for a ruthless confrontation where wealth"
+   },
+   {
+    "id": 52,
+    "duration": 4.75,
+    "motion": "zoom_in",
+    "panelLeft": "c24_p026_warrior_crying_character_speaking_dark_background.webp",
+    "panelRight": "c24_p025_warrior_in_mask_talking_sword_in.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 52: Status Meet Cold Reality",
+    "vo": "and status will meet the cold reality of absolute martial violence"
+   }
+  ]
+ },
+ "Chapter_025": {
+  "id": "Chapter_025",
+  "title": "Chapter 025",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 5439,
+  "duration": 219,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 3.88,
+    "motion": "slide_down",
+    "panelLeft": "c25_p026_warriors_in_front_of_a_mountain.webp",
+    "panelRight": "c25_p019_warriors_in_courtyard_emperor_speaking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 01: Zaha Arrives Secluded Mountain",
+    "vo": "when zaha arrives at the secluded mountain hunting cabin he is greeted"
+   },
+   {
+    "id": 2,
+    "duration": 4.46,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p003_dark_figure_in_a_robe_stands.webp",
+    "panelRight": "c25_p002_warriors_of_golden_dragon_pavilion_500.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 02: Sight Perfectly Sums Disgusting",
+    "vo": "by a sight that perfectly sums up the disgusting bloated excess of the"
+   },
+   {
+    "id": 3,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c25_p010_warrior_preparing_for_battle_wooden_sword.webp",
+    "panelRight": "c25_p014_warrior_in_battle_using_qinggong_wooden.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 03: Unorthodox Faction Roaring Bonfire",
+    "vo": "unorthodox faction a roaring bonfire long wooden tables overflowing with"
+   },
+   {
+    "id": 4,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c25_p038_master_there_are_no_heavens.webp",
+    "panelRight": "c25_p047_master_question_mark_warrior_question_mark.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 04: Roasted Game Meat Golden",
+    "vo": "roasted game meat and the golden phoenix pavilion master bon sau woon"
+   },
+   {
+    "id": 5,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c25_p007_warriors_performing_pushups_leader_speaking.webp",
+    "panelRight": "c25_p008_emperor_speaking_warrior_in_battle_burning.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 05: Lounging Heavy Wild Animal",
+    "vo": "lounging and heavy wild animal pelts like a provincial feudal"
+   },
+   {
+    "id": 6,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c25_p031_emperor_speaking_about_martial_arts_and.webp",
+    "panelRight": "c25_p009_warriors_in_front_of_temple.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 06: Warlord Sau Woon Looks",
+    "vo": "warlord sau woon looks considerably less like a refined martial artist"
+   },
+   {
+    "id": 7,
+    "duration": 4.29,
+    "motion": "pulse_zoom",
+    "panelLeft": "c25_p030_man_in_traditional_clothing_holding_book.webp",
+    "panelRight": "c25_p032_emperor_speaking_to_warrior_with_sword.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 07: Far Overgrown Wild Boar",
+    "vo": "and far more like an overgrown wild boar holding a hunting bow which"
+   },
+   {
+    "id": 8,
+    "duration": 4.21,
+    "motion": "slide_down",
+    "panelLeft": "c25_p012_warriors_in_battle_sword_armor_fighting.webp",
+    "panelRight": "c25_p013_warrior_in_a_room_with_cherry.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 08: Forces Zaha Suppress Genuine",
+    "vo": "forces zaha to suppress a genuine smirk the exact second he steps"
+   },
+   {
+    "id": 9,
+    "duration": 4.36,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p015_warriors_in_battle_emperor_speaking_boots.webp",
+    "panelRight": "c25_p016_warriors_battle_burning_castle_boots_character.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 09: Across Threshold Immediately Establish",
+    "vo": "across the threshold to immediately establish psychological dominance sao woon"
+   },
+   {
+    "id": 10,
+    "duration": 4.64,
+    "motion": "slide_up",
+    "panelLeft": "c25_p017_warrior_in_mask_text_its_easier.webp",
+    "panelRight": "c25_p018_emperor_orders_warriors_to_fight_faster.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 10: Armored Guards Slam Heavy",
+    "vo": "has his armored guards slam the heavy iron doors shut with a deafening thud"
+   },
+   {
+    "id": 11,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c25_p019_warriors_in_courtyard_emperor_speaking.webp",
+    "panelRight": "c25_p020_masked_figure_in_traditional_attire_possibly.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 11: Trapping Inside Arrogantly Demands",
+    "vo": "trapping them inside and arrogantly demands to know if this scruffy unimpressive kid is"
+   },
+   {
+    "id": 12,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p026_warriors_in_front_of_a_mountain.webp",
+    "panelRight": "c25_p021_warrior_in_mask_speech_bubble_good.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 12: Truly Errand Boy Dared",
+    "vo": "truly the errand boy who dared to pocket his three lucrative brothel"
+   },
+   {
+    "id": 13,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c25_p022_warrior_with_red_eyes_and_gold.webp",
+    "panelRight": "c25_p023_warrior_in_battle_emperor_speaking_boots.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 13: Pavilions Instead Bowing Trembling",
+    "vo": "pavilions instead of bowing trembling or standing nervously at"
+   },
+   {
+    "id": 14,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c25_p024_warrior_in_front_of_castle_sword.webp",
+    "panelRight": "c25_p025_warrior_in_black_robe_with_mask.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 14: Attention Zahak Casually Grabs",
+    "vo": "attention zahak casually grabs a heavy wooden chair drags it right up"
+   },
+   {
+    "id": 15,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c25_p030_man_in_traditional_clothing_holding_book.webp",
+    "panelRight": "c25_p028_two_men_in_traditional_attire_one.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 15: Roaring Fire Sits Directly",
+    "vo": "to the roaring fire and sits directly across from the boss with pure unfiltered"
+   },
+   {
+    "id": 16,
+    "duration": 4.56,
+    "motion": "pan_right",
+    "panelLeft": "c25_p039_man_in_black_robe_smartphone_surprised.webp",
+    "panelRight": "c25_p041_man_in_black_hat_and_mustache.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 16: Black Air Force Energy",
+    "vo": "black air force energy when salweng furiously barks asking who gave him permission"
+   },
+   {
+    "id": 17,
+    "duration": 4.31,
+    "motion": "pulse_zoom",
+    "panelLeft": "c25_p029_warrior_in_battle_red_eyes_dripping.webp",
+    "panelRight": "c25_p032_emperor_speaking_to_warrior_with_sword.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 17: Sit Demands Know Completely",
+    "vo": "to sit and demands to know if he has completely lost his mind zaha"
+   },
+   {
+    "id": 18,
+    "duration": 3.8,
+    "motion": "slide_down",
+    "panelLeft": "c25_p042_warrior_in_battle_speaking_red_eyes.webp",
+    "panelRight": "c25_p067_warrior_in_mask_red_eyes_speech.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 18: Looks Dead Eyes Simply",
+    "vo": "looks in dead in the eyes and simply replies yes with a stone cold"
+   },
+   {
+    "id": 19,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p033_man_in_kimono_reads_book_old.webp",
+    "panelRight": "c25_p034_warrior_in_battle.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 19: Completely Straight Face Realizing",
+    "vo": "completely straight face realizing that empty verbal threats will not intimidate"
+   },
+   {
+    "id": 20,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c25_p035_man_reading_book_dark_background_masked.webp",
+    "panelRight": "c25_p037_special_disciple_woman_stole_item_money.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 20: Kid Salweng Decides Pull",
+    "vo": "this kid salweng decides to pull a classic mob intimidation stunt he signals his"
+   },
+   {
+    "id": 21,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c25_p043_man_in_black_robe_holding_phone.webp",
+    "panelRight": "c25_p047_master_question_mark_warrior_question_mark.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 21: Beast Handler Bring Massive",
+    "vo": "beast handler to bring out a massive ravenous black hunting hound and orders zahah"
+   },
+   {
+    "id": 22,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p040_emperor_speaking_to_monk.webp",
+    "panelRight": "c25_p044_emperor_speaking_kneeling_receiving_money.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 22: Sit Floor Dog Commanding",
+    "vo": "to sit on the floor like a dog commanding the vicious beast to tear his throat"
+   },
+   {
+    "id": 23,
+    "duration": 4.25,
+    "motion": "slide_up",
+    "panelLeft": "c25_p045_emperor_speaking_accepting_fate.webp",
+    "panelRight": "c25_p046_two_men_in_traditional_clothing_one.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 23: Refuses Budge Where Advanced",
+    "vo": "out when he refuses to budge but this is where advanced martial"
+   },
+   {
+    "id": 24,
+    "duration": 4.46,
+    "motion": "pan_left",
+    "panelLeft": "c25_p048_ttendant_son_soso_speaking_smiling_looking.webp",
+    "panelRight": "c25_p049_master_speaks_two_men_in_robes.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 24: Physics Meets Absolute Street",
+    "vo": "physics meets absolute street level disrespect as the massive hound"
+   },
+   {
+    "id": 25,
+    "duration": 4.43,
+    "motion": "zoom_out",
+    "panelLeft": "c25_p050_warrior_in_battle_monkey_mask_emperor.webp",
+    "panelRight": "c25_p051_man_with_a_mustache_and_a.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 25: Lunges Forward Fain'S Beard",
+    "vo": "lunges forward with fain's beard zaha does not bother drawing a weapon or"
+   },
+   {
+    "id": 26,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c25_p052_man_reading_book_text_kaiyo.webp",
+    "panelRight": "c25_p053_red_monkey_with_red_wings.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 26: Even Flinching Backward Simply",
+    "vo": "even flinching backward he simply concentrates a microscopic highly dense"
+   },
+   {
+    "id": 27,
+    "duration": 4.43,
+    "motion": "pulse_zoom",
+    "panelLeft": "c25_p054_monkey_warrior_in_action.webp",
+    "panelRight": "c25_p055_hand_holding_book.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 27: Burst Fire Chicken Cheat",
+    "vo": "burst of fire chicken cheat into the tip of his index finger and flicks the charging dog"
+   },
+   {
+    "id": 28,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c25_p056_man_in_traditional_attire_holding_a.webp",
+    "panelRight": "c25_p057_warrior_in_traditional_attire_lanterns_court.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 28: Directly Wet Nose Kinetic",
+    "vo": "directly on its wet nose the kinetic shockwave sends the hundred pound beast"
+   },
+   {
+    "id": 29,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p060_emperor_and_warrior_in_room.webp",
+    "panelRight": "c25_p058_red_monkey_in_formal_attire.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 29: Flying Backward Across Room",
+    "vo": "flying backward across the room skating ten feet into the dirt"
+   },
+   {
+    "id": 30,
+    "duration": 3.81,
+    "motion": "slide_up",
+    "panelLeft": "c25_p059_warrior_in_mask_speaking_boots_walking.webp",
+    "panelRight": "c25_p061_monkey_warrior_in_traditional_attire_crossing.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 30: While Whining Pure Agony",
+    "vo": "while whining in pure agony the entire cabin goes"
+   },
+   {
+    "id": 31,
+    "duration": 4.83,
+    "motion": "slide_down",
+    "panelLeft": "c25_p062_warrior_with_braided_hair_speech_bubble.webp",
+    "panelRight": "c25_p063_warrior_in_mask_speech_bubble_question.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 31: Dead Silent Armored Guards",
+    "vo": "dead silent the armored guards are completely frozen the dog trainer is"
+   },
+   {
+    "id": 32,
+    "duration": 4.3,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p064_warrior_in_mask_emperor_in_robe.webp",
+    "panelRight": "c25_p065_injured_character_perfect_warrior_boots.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 32: Having Visible Existential Crisis",
+    "vo": "having a visible existential crisis and zahah just rests his chin on his"
+   },
+   {
+    "id": 33,
+    "duration": 4.45,
+    "motion": "slide_up",
+    "panelLeft": "c25_p066_warrior_in_front_of_emperor.webp",
+    "panelRight": "c25_p068_warrior_speaking_dark_faction_mess_boots.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 33: Palms Mocks Imitating Panting",
+    "vo": "palms mocks them by imitating a panting puppy and calmly asks zahah will"
+   },
+   {
+    "id": 34,
+    "duration": 4.42,
+    "motion": "pan_left",
+    "panelLeft": "c25_p069_warrior_in_traditional_attire_crossed_arms.webp",
+    "panelRight": "c25_p070_warrior_with_mask_red_eyes_and.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 34: Plans Offer Exchange Life",
+    "vo": "what he plans to offer and exchange for his own life zaha even"
+   },
+   {
+    "id": 35,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c25_p071_warrior_in_traditional_attire_talking_to.webp",
+    "panelRight": "c25_p072_warrior_in_traditional_attire_holding_sword.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 35: Starts Performing Impromptu Fortune",
+    "vo": "starts performing an impromptu fortune telling session bluntly revealing"
+   },
+   {
+    "id": 36,
+    "duration": 4.29,
+    "motion": "pan_right",
+    "panelLeft": "c25_p073_monkey_with_mask_dialogue_bubble_price.webp",
+    "panelRight": "c25_p074_warrior_in_battle_sword_in_hand.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 36: Sohwom'S Facial Structure Proves",
+    "vo": "that sohwom's facial structure proves he is destined to in bezel syndicate gold and"
+   },
+   {
+    "id": 37,
+    "duration": 4.51,
+    "motion": "pulse_zoom",
+    "panelLeft": "c25_p075_warrior_in_mask_speech_bubble_ill.webp",
+    "panelRight": "c25_p076_redeyed_demon_with_braided_hair.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 37: Get Hacked Five Bloody",
+    "vo": "get hacked into five bloody pieces by his own union masters hearing his"
+   },
+   {
+    "id": 38,
+    "duration": 4.2,
+    "motion": "slide_down",
+    "panelLeft": "c25_p062_warrior_with_braided_hair_speech_bubble.webp",
+    "panelRight": "c25_p067_warrior_in_mask_red_eyes_speech.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 38: Deepest Secretive Criminal Ambitions",
+    "vo": "deepest most secretive criminal ambitions predicted so casually"
+   },
+   {
+    "id": 39,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p060_emperor_and_warrior_in_room.webp",
+    "panelRight": "c25_p065_injured_character_perfect_warrior_boots.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 39: Teenage Kid Break Sawolm'S",
+    "vo": "by a teenage kid break sawolm's composure into a thousand pieces"
+   },
+   {
+    "id": 40,
+    "duration": 4.36,
+    "motion": "slide_up",
+    "panelLeft": "c25_p024_warrior_in_front_of_castle_sword.webp",
+    "panelRight": "c25_p063_warrior_in_mask_speech_bubble_question.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 40: Borefaced Boss Draws Heavy",
+    "vo": "the borefaced boss draws his heavy broadsword sneering that he"
+   },
+   {
+    "id": 41,
+    "duration": 4.48,
+    "motion": "slide_down",
+    "panelLeft": "c25_p064_warrior_in_mask_emperor_in_robe.webp",
+    "panelRight": "c25_p066_warrior_in_front_of_emperor.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 41: Originally Planned Keep Zaha",
+    "vo": "originally planned to keep zaha as a useful pet but now has to put him"
+   },
+   {
+    "id": 42,
+    "duration": 4.17,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p068_warrior_speaking_dark_faction_mess_boots.webp",
+    "panelRight": "c25_p069_warrior_in_traditional_attire_crossed_arms.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 42: Vermin Believe Letting Generic",
+    "vo": "down like vermin so ha does not believe in letting generic villains finish their"
+   },
+   {
+    "id": 43,
+    "duration": 4.3,
+    "motion": "slide_up",
+    "panelLeft": "c25_p070_warrior_with_mask_red_eyes_and.webp",
+    "panelRight": "c25_p071_warrior_in_traditional_attire_talking_to.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 43: Monologue Sawolwoon Even Finish",
+    "vo": "monologue before sawolwoon can even finish his sentence zah's"
+   },
+   {
+    "id": 44,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c25_p072_warrior_in_traditional_attire_holding_sword.webp",
+    "panelRight": "c25_p057_warrior_in_traditional_attire_lanterns_court.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 44: Left Boot Snaps Thunderous",
+    "vo": "left boot snaps out in a thunderous kick that shatters the man's"
+   },
+   {
+    "id": 45,
+    "duration": 4.3,
+    "motion": "zoom_out",
+    "panelLeft": "c25_p049_master_speaks_two_men_in_robes.webp",
+    "panelRight": "c25_p047_master_question_mark_warrior_question_mark.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 45: Forearm Guard Sending Obese",
+    "vo": "forearm guard sending the obese pavilion master crashing violently into his"
+   },
+   {
+    "id": 46,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c25_p074_warrior_in_battle_sword_in_hand.webp",
+    "panelRight": "c25_p076_redeyed_demon_with_braided_hair.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 46: Banquet Table Ultimate Lesson",
+    "vo": "own banquet table it is the ultimate lesson in underworld diplomacy"
+   },
+   {
+    "id": 47,
+    "duration": 4.0,
+    "motion": "pulse_zoom",
+    "panelLeft": "c25_p073_monkey_with_mask_dialogue_bubble_price.webp",
+    "panelRight": "c25_p059_warrior_in_mask_speaking_boots_walking.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 47: Never Try Place Psychological",
+    "vo": "never try to place psychological intimidation games with a lunatic who has already seen your"
+   },
+   {
+    "id": 48,
+    "duration": 4.71,
+    "motion": "slide_down",
+    "panelLeft": "c25_p061_monkey_warrior_in_traditional_attire_crossing.webp",
+    "panelRight": "c25_p060_emperor_and_warrior_in_room.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 48: Future Lived Through Demise",
+    "vo": "future lived through your demise and considers your entire life's ambition"
+   },
+   {
+    "id": 49,
+    "duration": 4.62,
+    "motion": "zoom_in",
+    "panelLeft": "c25_p009_warriors_in_front_of_temple.webp",
+    "panelRight": "c25_p013_warrior_in_a_room_with_cherry.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 49: Nothing Cheap Opening Joke",
+    "vo": "nothing more than a cheap opening joke when the dust settles and the room"
+   },
+   {
+    "id": 50,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c25_p056_man_in_traditional_attire_holding_a.webp",
+    "panelRight": "c25_p003_dark_figure_in_a_robe_stands.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 50: Catches Fire Man Left",
+    "vo": "catches fire only one man is left standing with zero regrets and absolute clarity"
+   }
+  ]
+ },
+ "Chapter_026": {
+  "id": "Chapter_026",
+  "title": "Chapter 026",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 5658,
+  "duration": 221,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c26_p024_warrior_in_black_robe_with_mask.webp",
+    "panelRight": "c26_p002_warrior_and_emperor_in_conversation.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 01: Brutal Hierarchy Unorthodox Faction",
+    "vo": "in the brutal hierarchy of the unorthodox faction there"
+   },
+   {
+    "id": 2,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p003_warrior_in_mask_speech_bubble_text.webp",
+    "panelRight": "c26_p004_warrior_in_black_mask_talking_to.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 02: Fundamental Psychological Dynamic Separates",
+    "vo": "is a fundamental psychological dynamic that separates true criminal empires from"
+   },
+   {
+    "id": 3,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c26_p005_woman_with_black_mask_text_about.webp",
+    "panelRight": "c26_p006_warrior_in_red_boots_and_black.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 03: Low Tier Rabble Genuine",
+    "vo": "low tier rabble genuine criminal brotherhood when an underground"
+   },
+   {
+    "id": 4,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c26_p054_warrior_in_battle_sword_blood_dialogue.webp",
+    "panelRight": "c26_p007_warrior_in_battle_talking_to_himself.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 04: Syndicate Genuinely Bound Blood",
+    "vo": "syndicate is genuinely bound by blood oaths and shared suffering losing"
+   },
+   {
+    "id": 5,
+    "duration": 4.07,
+    "motion": "zoom_out",
+    "panelLeft": "c26_p008_person_in_traditional_chinese_attire_with.webp",
+    "panelRight": "c26_p009_emperor_speaking_to_warrior.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 05: Comrade Triggers Irrational Vengeful",
+    "vo": "a comrade triggers an irrational vengeful rage that can"
+   },
+   {
+    "id": 6,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c26_p010_warrior_in_battle.webp",
+    "panelRight": "c26_p026_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 06: Overwhelm Even Superior Martial",
+    "vo": "overwhelm even superior martial masters through sheer collective fury"
+   },
+   {
+    "id": 7,
+    "duration": 4.63,
+    "motion": "pulse_zoom",
+    "panelLeft": "c26_p012_warrior_in_blue_robe_red_boots.webp",
+    "panelRight": "c26_p013_warrior_in_traditional_attire_pointing.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 07: Reckless Aggression Azaha Looks",
+    "vo": "and reckless aggression but azaha looks across the blood splattered hunting cabin at"
+   },
+   {
+    "id": 8,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c26_p014_black_panther_with_red_eyes_and.webp",
+    "panelRight": "c26_p015_warrior_in_ancient_setting_sword_drawn.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 08: Trembling Henchmen Kneeling Floor",
+    "vo": "the trembling henchmen kneeling on the floor he knows instantly that these cowards possess"
+   },
+   {
+    "id": 9,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p059_warrior_in_battle_sword_fire_emperor.webp",
+    "panelRight": "c26_p016_warrior_with_braided_hair_and_red.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 09: None Internal Fire Bloated",
+    "vo": "none of that internal fire their bloated boss bansaw wung"
+   },
+   {
+    "id": 10,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c26_p053_man_in_suit_and_mask_lying.webp",
+    "panelRight": "c26_p065_two_men_in_traditional_attire_talking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 10: Lying Dead Pool Gore",
+    "vo": "is lying dead in his own pool of gore and not a single one of these men is"
+   },
+   {
+    "id": 11,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c26_p019_warrior_in_robe_sword_castle_boots.webp",
+    "panelRight": "c26_p022_warrior_in_action_red_background_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 11: Reaching Sword Desperately Praying",
+    "vo": "reaching for a sword they are just desperately praying they do not end up on the evening"
+   },
+   {
+    "id": 12,
+    "duration": 3.87,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p020_elder_brother_speaking_character_in_traditional.webp",
+    "panelRight": "c26_p021_warrior_in_black_with_red_eyes.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 12: Slaughter Menu Instead Delivering",
+    "vo": "slaughter menu instead of delivering some melodramatic hero monologue"
+   },
+   {
+    "id": 13,
+    "duration": 4.8,
+    "motion": "slide_up",
+    "panelLeft": "c26_p023_hand_with_gloves_holds_a_mask.webp",
+    "panelRight": "c26_p024_warrior_in_black_robe_with_mask.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 13: Sahab Pulls Chair Banquet",
+    "vo": "sahab pulls up a chair to the banquet table grabs a piping hot whole roasted chicken"
+   },
+   {
+    "id": 14,
+    "duration": 4.75,
+    "motion": "pan_left",
+    "panelLeft": "c26_p025_dark_figure_with_red_eyes_and.webp",
+    "panelRight": "c26_p026_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 14: Begins Eating Absolute Chill",
+    "vo": "and begins eating with absolute chill treating the bloody massacre like a casual"
+   },
+   {
+    "id": 15,
+    "duration": 4.12,
+    "motion": "zoom_out",
+    "panelLeft": "c26_p027_warrior_in_battle_boots_walking.webp",
+    "panelRight": "c26_p028_warrior_in_traditional_attire_red_boots.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 15: Dinner Show Guards Nervously",
+    "vo": "dinner show when one of the guards nervously asks if they are going"
+   },
+   {
+    "id": 16,
+    "duration": 4.32,
+    "motion": "pan_right",
+    "panelLeft": "c26_p029_emperor_speaking_warrior_in_background_red.webp",
+    "panelRight": "c26_p030_warrior_in_battle_sword_swinging_flying.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 16: Spared Zaha Choose Calmly",
+    "vo": "to be spared zaha choose calmly and warns them that he never beats dogs"
+   },
+   {
+    "id": 17,
+    "duration": 4.8,
+    "motion": "pulse_zoom",
+    "panelLeft": "c26_p031_warrior_in_battle_sword_drawn_hanging.webp",
+    "panelRight": "c26_p032_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 17: While Eating Anyone Dares",
+    "vo": "while eating but if anyone dares interrupt his dinner with foolish heroic nonsense he will turn into a"
+   },
+   {
+    "id": 18,
+    "duration": 3.86,
+    "motion": "slide_down",
+    "panelLeft": "c26_p033_warrior_in_battle_holding_sword.webp",
+    "panelRight": "c26_p034_warriors_in_battle_sword_flying_shouting.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 18: Rabbit Wolf Make Deaths",
+    "vo": "rabbit wolf and make their deaths infinitely more gruesome than"
+   },
+   {
+    "id": 19,
+    "duration": 4.64,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p081_two_men_in_suits_one_with.webp",
+    "panelRight": "c26_p036_warrior_in_battle_sword_drawn_enemy.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 19: Bosses Sharp Eyed Man",
+    "vo": "their bosses that is when a sharp eyed man with a neat ponytail steps"
+   },
+   {
+    "id": 20,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c26_p037_warrior_in_battle_sword_drawn_emperor.webp",
+    "panelRight": "c26_p038_warrior_in_battle_sword_drawn_dark.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 20: Forward Introducing Himself Seema",
+    "vo": "forward introducing himself as seema b the pavilion's"
+   },
+   {
+    "id": 21,
+    "duration": 4.79,
+    "motion": "slide_down",
+    "panelLeft": "c26_p039_warrior_in_battle_sword_drawn_snowcovered.webp",
+    "panelRight": "c26_p040_black_suit_red_suit_fist_gasp.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 21: Secret Inspector Thing Might",
+    "vo": "secret inspector the thing that might be is clearly the only thing that might be clearly"
+   },
+   {
+    "id": 22,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p041_warrior_in_battle_red_eyes_sword.webp",
+    "panelRight": "c26_p042_warrior_in_action_sword_drawn_dark.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 22: Thing Might Clearly Thing",
+    "vo": "the only thing that might be clearly the only thing that might be clearly the only thing that might because"
+   },
+   {
+    "id": 23,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c26_p043_warrior_in_battle_boots_walking.webp",
+    "panelRight": "c26_p044_warrior_in_flight_cape_sword_enemy.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 23: Realized Early Zaha Deliberately",
+    "vo": "he realized early on that zaha was deliberately concealing his true"
+   },
+   {
+    "id": 24,
+    "duration": 4.67,
+    "motion": "pan_left",
+    "panelLeft": "c26_p045_warrior_in_battle_red_and_black.webp",
+    "panelRight": "c26_p046_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 24: Martial Realm Behind Harmless",
+    "vo": "martial realm behind the harmless facade of an in air end boy zaha loves"
+   },
+   {
+    "id": 25,
+    "duration": 4.62,
+    "motion": "zoom_out",
+    "panelLeft": "c26_p047_warrior_in_battle_red_and_black.webp",
+    "panelRight": "c26_p048_warrior_in_battle_red_mask_shouting.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 25: Seeing Someone Actually Understands",
+    "vo": "seeing someone who actually understands the art of hiding your true strength pointing"
+   },
+   {
+    "id": 26,
+    "duration": 4.21,
+    "motion": "pan_right",
+    "panelLeft": "c26_p049_warrior_holding_red_cloak.webp",
+    "panelRight": "c26_p050_warrior_in_battle_sword_drawn_text.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 26: Greasy Chicken Bone Directly",
+    "vo": "a greasy chicken bone directly at him zaha declares that sema"
+   },
+   {
+    "id": 27,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c26_p051_powerful_explosion_occurs_causing_a_cloud.webp",
+    "panelRight": "c26_p052_warrior_in_battle_sword_drawn_snowcovered.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 27: Facial Structure Military Strategist",
+    "vo": "b has the facial structure of a military strategist which officially qualifies him"
+   },
+   {
+    "id": 28,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c26_p055_warrior_in_action_flying_sword_battle.webp",
+    "panelRight": "c26_p056_warrior_in_battle_sword_drawn_fiery.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 28: Survive Zaha Drops Real",
+    "vo": "to survive but then zaha drops the real tactical dilemma on them"
+   },
+   {
+    "id": 29,
+    "duration": 4.18,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p073_warrior_in_black_mask_night_sky.webp",
+    "panelRight": "c26_p075_warriors_in_black_robes_standing_in.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 29: Lets Inevitably Run Back",
+    "vo": "if he lets them go they will inevitably run back to the black rabbit union report the"
+   },
+   {
+    "id": 30,
+    "duration": 4.25,
+    "motion": "slide_up",
+    "panelLeft": "c26_p057_warrior_in_battle_emperor_speaking_burning.webp",
+    "panelRight": "c26_p058_emperor_kaiser_speaking_warrior_in_battle.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 30: Murder Trigger Syndicate War",
+    "vo": "murder and trigger an all out syndicate war that will disrupt"
+   },
+   {
+    "id": 31,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c26_p060_warrior_in_battle_sword_drawn_red.webp",
+    "panelRight": "c26_p061_warrior_in_battle_fiery_duel_intense.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 31: Zaha'S Peace Seema Frantically",
+    "vo": "zaha's peace seema b frantically promises they will never report it but zaha"
+   },
+   {
+    "id": 32,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p062_warrior_in_battle_falling_boots_walking.webp",
+    "panelRight": "c26_p063_warrior_in_battle_sword_swinging_sky.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 32: Laughs Face Hitting Devastating",
+    "vo": "laughs in his face hitting him with a devastating psychological reality"
+   },
+   {
+    "id": 33,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c26_p064_woman_in_red_and_blue_eyes.webp",
+    "panelRight": "c26_p066_warrior_holding_glowing_orb.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 33: Check Zaha Explains Seema",
+    "vo": "check zaha explains that if seema b returns to the union completely"
+   },
+   {
+    "id": 34,
+    "duration": 4.44,
+    "motion": "pan_left",
+    "panelLeft": "c26_p067_warrior_in_courtyard_emperor_speaking_character.webp",
+    "panelRight": "c26_p068_warrior_examining_unconscious_character.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 34: Unharmed While Pavilion Master",
+    "vo": "unharmed while his pavilion master is chopped to pieces the union bosses will torture"
+   },
+   {
+    "id": 35,
+    "duration": 4.32,
+    "motion": "zoom_out",
+    "panelLeft": "c26_p069_warrior_in_battle_emperor_speaking_character.webp",
+    "panelRight": "c26_p070_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 35: Death Treason Utter Incompetence",
+    "vo": "him to death for treason and utter incompetence especially since sima b was"
+   },
+   {
+    "id": 36,
+    "duration": 4.37,
+    "motion": "pan_right",
+    "panelLeft": "c26_p071_warrior_saying_no_with_glowing_eyes.webp",
+    "panelRight": "c26_p072_warriors_in_traditional_attire_one_asking.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 36: Fully Complicit Sawns Illegal",
+    "vo": "fully complicit in sawns illegal and bezelman schemes desperate to"
+   },
+   {
+    "id": 37,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c26_p074_warrior_in_battle_emperor_speaking_burning.webp",
+    "panelRight": "c26_p076_warriors_in_traditional_attire_talking_castle.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 37: Save Skin Sima Pitches",
+    "vo": "save his skin sima b pitches a brilliant criminal scheme instead of reporting"
+   },
+   {
+    "id": 38,
+    "duration": 4.3,
+    "motion": "slide_down",
+    "panelLeft": "c26_p077_warrior_in_red_and_black_holding.webp",
+    "panelRight": "c26_p078_warrior_with_red_eyes_and_braided.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 38: Death Surviving Henchmen Jointly",
+    "vo": "the death all surviving henchmen will jointly loot the cabin secret gold"
+   },
+   {
+    "id": 39,
+    "duration": 4.64,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p079_warriors_in_traditional_attire_surprised_expression.webp",
+    "panelRight": "c26_p080_five_samurai_in_traditional_attire.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 39: Reserves Committing Mutual Capital",
+    "vo": "reserves committing a mutual capital crime that legally binds them all together in"
+   },
+   {
+    "id": 40,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c26_p081_two_men_in_suits_one_with.webp",
+    "panelRight": "c26_p082_figure_in_a_long_robe_stands.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 40: Permanent Silence Zahah Smiles",
+    "vo": "permanent silence zahah smiles thoroughly amused by how fast this"
+   },
+   {
+    "id": 41,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c26_p083_warrior_in_mask_text_this_is.webp",
+    "panelRight": "c26_p084_red_moon_with_stars.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 41: Corporate Auditor Transformed Underworld",
+    "vo": "corporate auditor transformed into an underworld conspirator by forcing them"
+   },
+   {
+    "id": 42,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p018_warrior_in_mask_preparing_for_battle.webp",
+    "panelRight": "c26_p017_warrior_in_battle_speaking_to_another.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 42: Steal Master'S Gold Pledging",
+    "vo": "to steal their own master's gold and pledging loyalty to his new order"
+   },
+   {
+    "id": 43,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c26_p046_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c26_p044_warrior_in_flight_cape_sword_enemy.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 43: Zahah Flips Entire Enemy",
+    "vo": "zahah flips an entire enemy garrison into compromised co conspirators"
+   },
+   {
+    "id": 44,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c26_p074_warrior_in_battle_emperor_speaking_burning.webp",
+    "panelRight": "c26_p073_warrior_in_black_mask_night_sky.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 44: Less Minutes Proving Once",
+    "vo": "in less than minutes proving once again that a master's strategist"
+   },
+   {
+    "id": 45,
+    "duration": 4.6,
+    "motion": "zoom_out",
+    "panelLeft": "c26_p019_warrior_in_robe_sword_castle_boots.webp",
+    "panelRight": "c26_p076_warriors_in_traditional_attire_talking_castle.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 45: Conquers Mind Long Conquering",
+    "vo": "conquers the mind long before conquering the body in the"
+   },
+   {
+    "id": 46,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c26_p077_warrior_in_red_and_black_holding.webp",
+    "panelRight": "c26_p078_warrior_with_red_eyes_and_braided.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 46: Treacherous Politics Jianghu Shared",
+    "vo": "treacherous politics of jianghu shared guilt is the strongest bond of all"
+   },
+   {
+    "id": 47,
+    "duration": 4.0,
+    "motion": "pulse_zoom",
+    "panelLeft": "c26_p079_warriors_in_traditional_attire_surprised_expression.webp",
+    "panelRight": "c26_p080_five_samurai_in_traditional_attire.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 47: Turning Enemies Obedient Subordinates",
+    "vo": "turning enemies into obedient subordinates overnight with"
+   },
+   {
+    "id": 48,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c26_p023_hand_with_gloves_holds_a_mask.webp",
+    "panelRight": "c26_p081_two_men_in_suits_one_with.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 48: Golden Hand Lives Spared",
+    "vo": "golden hand and their lives spared they have officially joined the madman's"
+   },
+   {
+    "id": 49,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c26_p083_warrior_in_mask_text_this_is.webp",
+    "panelRight": "c26_p084_red_moon_with_stars.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 49: Unstoppable Enterprise Learning True",
+    "vo": "unstoppable enterprise learning that true leadership is about manipulating greed into"
+   },
+   {
+    "id": 50,
+    "duration": 5.0,
+    "motion": "slide_up",
+    "panelLeft": "c26_p075_warriors_in_black_robes_standing_in.webp",
+    "panelRight": "c26_p072_warriors_in_traditional_attire_one_asking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 50: Absolute Survival Loyalty Real",
+    "vo": "absolute survival loyalty now the real expansion begins"
+   }
+  ]
+ },
+ "Chapter_027": {
+  "id": "Chapter_027",
+  "title": "Chapter 027",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 5879,
+  "duration": 216,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.22,
+    "motion": "slide_down",
+    "panelLeft": "c27_p012_man_writing_with_star_above.webp",
+    "panelRight": "c27_p002_woman_in_traditional_clothing_braided_hair.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 01: Heavy Wooden Wagons Loaded",
+    "vo": "when the heavy wooden wagons loaded with gold chests silk bundles and weapon crates"
+   },
+   {
+    "id": 2,
+    "duration": 4.38,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p015_old_man_asks_what_he_can.webp",
+    "panelRight": "c27_p003_warrior_in_battle_sword_drawn_enemy.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 02: Begin Rolling Courtyard Plumb",
+    "vo": "begin rolling into the courtyard of the plumb blossom pavilion chasong tai looks like"
+   },
+   {
+    "id": 3,
+    "duration": 3.9,
+    "motion": "slide_up",
+    "panelLeft": "c27_p004_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c27_p005_warrior_in_battle.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 03: Suffer Genuine Medical Emergency",
+    "vo": "he is about to suffer a genuine medical emergency his face"
+   },
+   {
+    "id": 4,
+    "duration": 4.64,
+    "motion": "pan_left",
+    "panelLeft": "c27_p006_emperor_speaking_holding_sword.webp",
+    "panelRight": "c27_p007_woman_with_green_earrings_red_background.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 04: Turns Completely Pale Hands",
+    "vo": "turns completely pale his hands tremble violently and he frantically rushes over to zaha"
+   },
+   {
+    "id": 5,
+    "duration": 4.71,
+    "motion": "zoom_out",
+    "panelLeft": "c27_p027_warrior_in_battle_sword_dialogue.webp",
+    "panelRight": "c27_p008_people_in_dark_suits_shadows_light.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 05: Asking Where Earth Syndicate",
+    "vo": "asking where on earth all this syndicate treasure came from terrified that his"
+   },
+   {
+    "id": 6,
+    "duration": 4.14,
+    "motion": "pan_right",
+    "panelLeft": "c27_p010_emperor_speaking_warriors_in_battle_golden.webp",
+    "panelRight": "c27_p009_warriors_in_meeting_question_mark_swords.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 06: Boss Graduated Street Brawling",
+    "vo": "boss has now graduated from street brawling to interstate grand larsoning"
+   },
+   {
+    "id": 7,
+    "duration": 4.6,
+    "motion": "pulse_zoom",
+    "panelLeft": "c27_p011_warrior_in_front_of_monk_monk.webp",
+    "panelRight": "c27_p012_man_writing_with_star_above.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 07: Zaha Leaning Casually Against",
+    "vo": "zaha leaning casually against the wooden railing with an unbothered smirk calmly"
+   },
+   {
+    "id": 8,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c27_p013_emperor_speaking_warrior_in_battle_character.webp",
+    "panelRight": "c27_p014_man_with_mustache_and_monocle_talking.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 08: Informs Simply Private Retirement",
+    "vo": "informs him that this is simply the private retirement fund of the late golden"
+   },
+   {
+    "id": 9,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p031_warrior_in_combat_emperor_speaking_sword.webp",
+    "panelRight": "c27_p025_man_with_red_hair_and_piercing.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 09: Phoenix Pavilion Master Bon",
+    "vo": "phoenix pavilion master bon sau woon and that every single silver in get will be"
+   },
+   {
+    "id": 10,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c27_p017_old_man_with_sword.webp",
+    "panelRight": "c27_p016_ngry_woman_with_red_eyes_and.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 10: Reinvested Directly Local Infrastructure",
+    "vo": "reinvested directly into local infrastructure worker salaries and the grand"
+   },
+   {
+    "id": 11,
+    "duration": 4.62,
+    "motion": "slide_down",
+    "panelLeft": "c27_p018_warrior_in_conversation_with_emperor.webp",
+    "panelRight": "c27_p019_warrior_in_battle_sword_speech_bubble.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 11: Reconstruction Zaha Inn Day",
+    "vo": "reconstruction of the zaha in inn some day is utterly bewildered asking"
+   },
+   {
+    "id": 12,
+    "duration": 4.38,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p034_warrior_with_a_sword_possibly_in.webp",
+    "panelRight": "c27_p043_woman_in_black_cloak_speaking_to.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 12: How Zahha Possibly Dare",
+    "vo": "how zahha could possibly dare to loot the black rabbit union warning him that"
+   },
+   {
+    "id": 13,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c27_p022_warrior_in_battle_instant_action.webp",
+    "panelRight": "c27_p021_redhaired_woman_with_red_eyes_and.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 13: Union Get Robbed Apex",
+    "vo": "the union does not get robbed there are the apex predators who track thieves down and beat"
+   },
+   {
+    "id": 14,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c27_p024_warrior_in_battle_red_eyes_blood.webp",
+    "panelRight": "c27_p023_emperor_speaking_character_with_long_hair.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 14: Gold Severed Bones Zahha",
+    "vo": "the gold out of their severed bones zahha hits him with"
+   },
+   {
+    "id": 15,
+    "duration": 4.42,
+    "motion": "zoom_out",
+    "panelLeft": "c27_p025_man_with_red_hair_and_piercing.webp",
+    "panelRight": "c27_p026_warrior_in_battle_speaking_holding_sword.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 15: Deadpan Comedic Logic Possible",
+    "vo": "the most deadpan comedic logic possible shrugging his shoulders and noting that since"
+   },
+   {
+    "id": 16,
+    "duration": 4.39,
+    "motion": "pan_right",
+    "panelLeft": "c27_p027_warrior_in_battle_sword_dialogue.webp",
+    "panelRight": "c27_p028_character_is_writing_chinese_characters_on.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 16: Also Exceptionally Good Beating",
+    "vo": "he is also exceptionally good at beating people up everything should balance out just fine"
+   },
+   {
+    "id": 17,
+    "duration": 4.26,
+    "motion": "pulse_zoom",
+    "panelLeft": "c27_p029_warrior_in_battle_speaking_without_being.webp",
+    "panelRight": "c27_p030_warrior_with_red_eyes_and_red.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 17: End Song Tai Groans",
+    "vo": "in the end when song tai groans in existential despair"
+   },
+   {
+    "id": 18,
+    "duration": 4.6,
+    "motion": "slide_down",
+    "panelLeft": "c27_p056_warrior_in_mask_red_eyes_black.webp",
+    "panelRight": "c27_p031_warrior_in_combat_emperor_speaking_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 18: Asking Entire Black Rabbit",
+    "vo": "asking what they will do if the entire black rabbit union mobilizes a ruthless"
+   },
+   {
+    "id": 19,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p035_master_asks_about_the_union.webp",
+    "panelRight": "c27_p032_warrior_in_battle_sword_drawn_emperor.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 19: Army March Young Prefecture",
+    "vo": "army to march on a young prefecture zaha casually suggests that he"
+   },
+   {
+    "id": 20,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c27_p057_warrior_in_torture_emperor_speaking.webp",
+    "panelRight": "c27_p033_warrior_kneeling_old_man_speaking.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 20: Simply Beat Union Leader",
+    "vo": "will simply beat up the union leader time to wooden pole torture him a little bit"
+   },
+   {
+    "id": 21,
+    "duration": 4.2,
+    "motion": "slide_down",
+    "panelLeft": "c27_p036_warrior_passes_emperor_speaks.webp",
+    "panelRight": "c27_p037_warrior_speaking_bounty_on_head_emperor.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 21: Force Work Air Envoy",
+    "vo": "or force him to work as an air envoy in the new tavern suntay stares"
+   },
+   {
+    "id": 22,
+    "duration": 3.8,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p038_warrior_in_robe_reading_standing_in.webp",
+    "panelRight": "c27_p039_warrior_speaking_to_another_looking_angry.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 22: Blankly Begging Zahah Least",
+    "vo": "at him blankly begging zahah to at least say something"
+   },
+   {
+    "id": 23,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c27_p040_warrior_speaking_red_hair_red_eyes.webp",
+    "panelRight": "c27_p041_sister_monkey_great_rakshasa_speaking.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 23: Sensible Realistic Staff Die",
+    "vo": "sensible and realistic so the staff does not die of sheer panic"
+   },
+   {
+    "id": 24,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c27_p042_warrior_in_a_room_talking_to.webp",
+    "panelRight": "c27_p044_warrior_in_robes_emperor_in_background.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 24: Suntay Know Course Zahah'S",
+    "vo": "what suntay does not know of course is that zahah's regression memory"
+   },
+   {
+    "id": 25,
+    "duration": 4.75,
+    "motion": "zoom_out",
+    "panelLeft": "c27_p045_warrior_with_braided_hair_red_eyes.webp",
+    "panelRight": "c27_p046_warrior_speaking_to_another_holding_a.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 25: Gives Absolute Tactical Overview",
+    "vo": "gives him an absolute tactical overview right now the black rabbit"
+   },
+   {
+    "id": 26,
+    "duration": 4.58,
+    "motion": "pan_right",
+    "panelLeft": "c27_p043_woman_in_black_cloak_speaking_to.webp",
+    "panelRight": "c27_p047_warrior_in_battle_speaking_looking_angry.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 26: Union Leader Locked Away",
+    "vo": "union leader is locked away in deep seclusion trying to break through a martial bottleneck"
+   },
+   {
+    "id": 27,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c27_p048_warrior_in_battle_red_eyes_red.webp",
+    "panelRight": "c27_p049_warrior_in_conversation_with_emperor.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 27: Cannot Bothered Provincial Borders",
+    "vo": "and cannot be bothered with provincial borders meaning zaha has a wide"
+   },
+   {
+    "id": 28,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c27_p050_warrior_in_mask_warrior_in_battle.webp",
+    "panelRight": "c27_p051_warrior_in_battle_talking_to_emperor.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 28: Operational Window Fortify Power",
+    "vo": "operational window to fortify his power base before the syndicate even"
+   },
+   {
+    "id": 29,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p052_warrior_in_battle_speaking_boots_walking.webp",
+    "panelRight": "c27_p053_warrior_with_red_eyes_asks_about.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 29: Realizes Southern Branch Fallen",
+    "vo": "realizes their southern branch has fallen but recognizing that his followers need"
+   },
+   {
+    "id": 30,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c27_p054_emperor_speaking_to_warrior_warrior_holding.webp",
+    "panelRight": "c27_p055_warrior_with_red_eyes_braided_hair.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 30: Wild Claims Zahawk Calls",
+    "vo": "more than wild claims zahawk calls a night time meeting by the campfire at"
+   },
+   {
+    "id": 31,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c27_p058_warrior_with_red_eyes_curse_poison.webp",
+    "panelRight": "c27_p059_ball_of_fire.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 31: Vacant Lot Gathering Tie",
+    "vo": "the vacant in lot gathering some tie the young architect young"
+   },
+   {
+    "id": 32,
+    "duration": 4.47,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p060_emperor_speaking_warrior_in_background_character.webp",
+    "panelRight": "c27_p061_warrior_in_battle_sword_speech_bubble.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 32: Jaw Song Blacksmith Master",
+    "vo": "jaw song and the blacksmith master gm looking at the crackling"
+   },
+   {
+    "id": 33,
+    "duration": 4.06,
+    "motion": "slide_up",
+    "panelLeft": "c27_p063_warrior_in_battle_emperor_speaking_boots.webp",
+    "panelRight": "c27_p064_warrior_eating_talking.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 33: Flames Zahawk Lays True",
+    "vo": "flames zahawk lays out the true philosophical foundation of"
+   },
+   {
+    "id": 34,
+    "duration": 4.54,
+    "motion": "pan_left",
+    "panelLeft": "c27_p065_warrior_in_mask_red_background_speech.webp",
+    "panelRight": "c27_p066_warrior_in_battle_red_eyes_speech.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 34: Low Low Sect While",
+    "vo": "the low low down sect while arrogant noble clans and righteous orthodox"
+   },
+   {
+    "id": 35,
+    "duration": 4.74,
+    "motion": "zoom_out",
+    "panelLeft": "c27_p067_warrior_in_robes_lying_down_sword.webp",
+    "panelRight": "c27_p068_warrior_in_battle.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 35: Hypocrites Treat Everyday Workers",
+    "vo": "hypocrites treat everyday workers like disposable ants zaha is building a"
+   },
+   {
+    "id": 36,
+    "duration": 3.86,
+    "motion": "pan_right",
+    "panelLeft": "c27_p070_warrior_with_mask_speech_bubble_neighborhood.webp",
+    "panelRight": "c27_p071_warrior_revealing_identity.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 36: Faction Made Entirely Working",
+    "vo": "faction made entirely of the working class cooks carpenters"
+   },
+   {
+    "id": 37,
+    "duration": 4.67,
+    "motion": "pulse_zoom",
+    "panelLeft": "c27_p072_warrior_in_battle_warrior_speaking_warrior.webp",
+    "panelRight": "c27_p073_warrior_speaking_to_woman_woman_saying.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 37: Blacksmiths Courtezzans Laborers Declares",
+    "vo": "blacksmiths courtezzans and laborers he declares that in his"
+   },
+   {
+    "id": 38,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c27_p074_sister_emperor_warrior_castle_boots_sword.webp",
+    "panelRight": "c27_p075_warrior_in_battle_sword_question_mark.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 38: Territory Hard Work Respected",
+    "vo": "territory hard work will be respected extortion will be punishable"
+   },
+   {
+    "id": 39,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p080_master_speaks_warrior_walks_poison_appears.webp",
+    "panelRight": "c27_p078_redeyed_warrior_with_green_earring.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 39: Death Outside Bully Ever",
+    "vo": "by death and no outside bully will ever be allowed to step on their dignity"
+   },
+   {
+    "id": 40,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c27_p081_warrior_with_mask_emperor_speech_bubble.webp",
+    "panelRight": "c27_p082_warrior_running_talking_about_shit.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 40: Again Speech Completely Transforms",
+    "vo": "again the speech completely transforms the energy of his men"
+   },
+   {
+    "id": 41,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c27_p083_warrior_in_battle_speaking_to_another.webp",
+    "panelRight": "c27_p084_warrior_in_battle_sword_swinging_forest.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 41: Stop Scenesaha Unpredictable Maniac",
+    "vo": "they stop scenesaha is just an unpredictable maniac and begin recognizing him as a"
+   },
+   {
+    "id": 42,
+    "duration": 4.24,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p071_warrior_revealing_identity.webp",
+    "panelRight": "c27_p020_warrior_in_battle_holding_sword.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 42: Genuine Revolutionary Leader Backs",
+    "vo": "genuine revolutionary leader who backs his unhinged humor with absolute"
+   },
+   {
+    "id": 43,
+    "duration": 4.58,
+    "motion": "slide_up",
+    "panelLeft": "c27_p015_old_man_asks_what_he_can.webp",
+    "panelRight": "c27_p059_ball_of_fire.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 43: Protective Power Starry Night",
+    "vo": "protective power the starry night the fire illuminates a rag tag group of"
+   },
+   {
+    "id": 44,
+    "duration": 4.42,
+    "motion": "pan_left",
+    "panelLeft": "c27_p073_warrior_speaking_to_woman_woman_saying.webp",
+    "panelRight": "c27_p077_warrior_orders_disciples_gets_young_women.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 44: Working Class Misfits Realize",
+    "vo": "working class misfits who realize they are no longer just surviving in the gutter"
+   },
+   {
+    "id": 45,
+    "duration": 4.33,
+    "motion": "zoom_out",
+    "panelLeft": "c27_p078_redeyed_warrior_with_green_earring.webp",
+    "panelRight": "c27_p079_warrior_running_away_three_figures_in.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 45: Laying Bricks Empire Shake",
+    "vo": "but laying the bricks for an empire that will shake the very foundations of the young who"
+   },
+   {
+    "id": 46,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c27_p080_master_speaks_warrior_walks_poison_appears.webp",
+    "panelRight": "c27_p081_warrior_with_mask_emperor_speech_bubble.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 46: Turns Chaotic Ambition Noble",
+    "vo": "it turns chaotic ambition into a noble brotherhood that"
+   },
+   {
+    "id": 47,
+    "duration": 4.5,
+    "motion": "pulse_zoom",
+    "panelLeft": "c27_p082_warrior_running_talking_about_shit.webp",
+    "panelRight": "c27_p083_warrior_in_battle_speaking_to_another.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 47: Cannot Broken Every Coin",
+    "vo": "cannot be broken with every coin counted and every promise sealed the dawn of"
+   },
+   {
+    "id": 48,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c27_p084_warrior_in_battle_sword_swinging_forest.webp",
+    "panelRight": "c27_p074_sister_emperor_warrior_castle_boots_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 48: New Order Rises Young",
+    "vo": "a new order rises over a young prefecture proving that a"
+   },
+   {
+    "id": 49,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c27_p008_people_in_dark_suits_shadows_light.webp",
+    "panelRight": "c27_p075_warrior_in_battle_sword_question_mark.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 49: True Madman Creates Destiny",
+    "vo": "true madman creates his own destiny while protecting his people with an iron fist"
+   }
+  ]
+ },
+ "Chapter_028": {
+  "id": "Chapter_028",
+  "title": "Chapter 028",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 6095,
+  "duration": 233,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c28_p008_warrior_in_black_robe_mask_long.webp",
+    "panelRight": "c28_p058_warrior_entering_room_saying_alright.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 01: Inside Shadowy Incense Clotted",
+    "vo": "inside the shadowy incense clotted war room of the black rabbit union headquarters"
+   },
+   {
+    "id": 2,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p003_street_scene_with_flying_characters.webp",
+    "panelRight": "c28_p002_warrior_in_action_boots_walking_sword.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 02: Scene Pure Corporate Underworld",
+    "vo": "a scene of pure corporate underworld humiliation is playing"
+   },
+   {
+    "id": 3,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c28_p009_warrior_in_mask_speech_bubble_text.webp",
+    "panelRight": "c28_p076_black_figure_with_glowing_eyes_and.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 03: Sitting Atop Carved Wooden",
+    "vo": "out sitting atop a carved wooden throne wearing his signature black rabbit mask with"
+   },
+   {
+    "id": 4,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c28_p014_warrior_with_red_eye_speech_bubble.webp",
+    "panelRight": "c28_p006_warrior_in_action_shouting_about_food.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 04: Hollow Eye Holes Supreme",
+    "vo": "hollow eye holes the supreme union leader summons his intelligence executives to get"
+   },
+   {
+    "id": 5,
+    "duration": 4.4,
+    "motion": "zoom_out",
+    "panelLeft": "c28_p007_woman_with_red_hair_and_green.webp",
+    "panelRight": "c28_p005_man_with_hand_on_stomach_text.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 05: Urgent Operational Status Report",
+    "vo": "an urgent operational status report on the golden phoenix"
+   },
+   {
+    "id": 6,
+    "duration": 4.6,
+    "motion": "pan_right",
+    "panelLeft": "c28_p023_warrior_in_battle_sword_drawn_enemy.webp",
+    "panelRight": "c28_p010_warrior_in_battle_shouting_at_someone.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 06: Pavilion Expects Hear Pavilion",
+    "vo": "pavilion what he expects to hear is that pavilion master bonso woon successfully"
+   },
+   {
+    "id": 7,
+    "duration": 4.0,
+    "motion": "pulse_zoom",
+    "panelLeft": "c28_p011_crazy_bastard.webp",
+    "panelRight": "c28_p012_warrior_with_red_eyes_and_braided.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 07: Crushed Insubordination Ilyang Prefecture",
+    "vo": "crushed the insubordination and ilyang prefecture and collected the quarterly"
+   },
+   {
+    "id": 8,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c28_p013_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c28_p015_warrior_in_battle_shouting_no_no.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 08: Extortion Gold Instead Menjur",
+    "vo": "extortion gold instead menjur beak nervously clears his"
+   },
+   {
+    "id": 9,
+    "duration": 4.62,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p016_masked_figure_in_dark_possibly_a.webp",
+    "panelRight": "c28_p017_character_is_crying_and_saying_its.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 09: Throat Drops Bomb Shatters",
+    "vo": "throat and drops a bomb that shatters the entire room's composure sao woon is dead"
+   },
+   {
+    "id": 10,
+    "duration": 4.29,
+    "motion": "slide_up",
+    "panelLeft": "c28_p018_warrior_in_pain_talking_about_stomach.webp",
+    "panelRight": "c28_p019_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 10: Mountain Hunting Lodge Thoroughly",
+    "vo": "his mountain hunting lodge was thoroughly raided and forensic traces show the elite"
+   },
+   {
+    "id": 11,
+    "duration": 4.1,
+    "motion": "slide_down",
+    "panelLeft": "c28_p020_street_with_buildings_clouds_sky_street.webp",
+    "panelRight": "c28_p003_street_scene_with_flying_characters.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 11: Pavilion Master Folded Less",
+    "vo": "pavilion master was folded in less than two minutes without mounting any meaningful resistance"
+   },
+   {
+    "id": 12,
+    "duration": 4.83,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p022_warrior_in_battle_sword_drawn_clouds.webp",
+    "panelRight": "c28_p023_warrior_in_battle_sword_drawn_enemy.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 12: Worse Yet Single Subordinate",
+    "vo": "worse yet not a single subordinate was killed every guard"
+   },
+   {
+    "id": 13,
+    "duration": 4.25,
+    "motion": "slide_up",
+    "panelLeft": "c28_p024_warrior_in_battle_sword_swinging_red.webp",
+    "panelRight": "c28_p025_warrior_in_battle_shouting_blood_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 13: Dog Handler Accountant Abandon",
+    "vo": "dog handler and accountant abandon their post and willingly defected to the"
+   },
+   {
+    "id": 14,
+    "duration": 4.58,
+    "motion": "pan_left",
+    "panelLeft": "c28_p008_warrior_in_black_robe_mask_long.webp",
+    "panelRight": "c28_p026_warrior_in_robe_walks_says_just.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 14: Enemy Happily Hauling Away",
+    "vo": "enemy happily hauling away the syndicate secret gold reserves when"
+   },
+   {
+    "id": 15,
+    "duration": 4.24,
+    "motion": "zoom_out",
+    "panelLeft": "c28_p014_warrior_with_red_eye_speech_bubble.webp",
+    "panelRight": "c28_p016_masked_figure_in_dark_possibly_a.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 15: Furious Union Leader Demands",
+    "vo": "the furious union leader demands to know what kind of legendary hidden master from a"
+   },
+   {
+    "id": 16,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c28_p009_warrior_in_mask_speech_bubble_text.webp",
+    "panelRight": "c28_p019_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 16: Rival Province Orchestrated Coup",
+    "vo": "rival province orchestrated this coup the executive's tremble in sheer embarrassment"
+   },
+   {
+    "id": 17,
+    "duration": 4.44,
+    "motion": "pulse_zoom",
+    "panelLeft": "c28_p031_portal_to_another_dimension.webp",
+    "panelRight": "c28_p032_characters_flying_through_the_air_trees.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 17: Thank Much Watching Video",
+    "vo": "thank you so much for watching this video and i'll see you in the next video"
+   },
+   {
+    "id": 18,
+    "duration": 4.36,
+    "motion": "slide_down",
+    "panelLeft": "c28_p011_crazy_bastard.webp",
+    "panelRight": "c28_p012_warrior_with_red_eyes_and_braided.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 18: Zaha Who'S Official Occupational",
+    "vo": "and zaha who's official occupational title is tavern aaron boy the"
+   },
+   {
+    "id": 19,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p015_warrior_in_battle_shouting_no_no.webp",
+    "panelRight": "c28_p013_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 19: Union Leader Lifts Rabbit",
+    "vo": "union leader lifts his rabbit mask in absolute vain popping frustration having"
+   },
+   {
+    "id": 20,
+    "duration": 4.09,
+    "motion": "slide_up",
+    "panelLeft": "c28_p008_warrior_in_black_robe_mask_long.webp",
+    "panelRight": "c28_p007_woman_with_red_hair_and_green.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 20: Complete Existential Crisis Fact",
+    "vo": "a complete existential crisis over the fact that a billion one criminal"
+   },
+   {
+    "id": 21,
+    "duration": 4.38,
+    "motion": "slide_down",
+    "panelLeft": "c28_p016_masked_figure_in_dark_possibly_a.webp",
+    "panelRight": "c28_p014_warrior_with_red_eye_speech_bubble.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 21: Syndicate Got Thoroughly Embarrassed",
+    "vo": "syndicate just got thoroughly embarrassed by a teenager who sweeps noodles off"
+   },
+   {
+    "id": 22,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p041_character_with_a_speech_bubble_saying.webp",
+    "panelRight": "c28_p042_warrior_in_forest_talking_to_another.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 22: Tavern Floors Meanwhile Back",
+    "vo": "tavern floors meanwhile back in iliang prefecture zaha is"
+   },
+   {
+    "id": 23,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c28_p043_man_with_braided_hair_and_red.webp",
+    "panelRight": "c28_p044_warrior_in_battle_holding_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 23: Completely Unconcerned Impending Syndicate",
+    "vo": "completely unconcerned with the impending syndicate retaliation focusing his"
+   },
+   {
+    "id": 24,
+    "duration": 4.57,
+    "motion": "pan_left",
+    "panelLeft": "c28_p045_warrior_in_battle_holding_sword_injured.webp",
+    "panelRight": "c28_p046_warrior_in_battle_holding_sword.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 24: Attention Something Far Practical",
+    "vo": "attention on something far more practical turning chastong tie into a competent fighter"
+   },
+   {
+    "id": 25,
+    "duration": 4.52,
+    "motion": "zoom_out",
+    "panelLeft": "c28_p047_warrior_in_battle_sword_explosion_fire.webp",
+    "panelRight": "c28_p048_warrior_speaking_to_emperor_holding_sword.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 25: Stops Playing Dead Every",
+    "vo": "so he stops playing dead every time an enemy draws a weapon zaha put some"
+   },
+   {
+    "id": 26,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c28_p049_warrior_in_battle_speaking_voice_question.webp",
+    "panelRight": "c28_p050_warrior_on_horseback_mountains_valley_clouds.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 26: Tie Through Unhinged Military",
+    "vo": "tie through an unhinged military style martial boot camp making"
+   },
+   {
+    "id": 27,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c28_p051_warrior_in_battle_shouting_to_hurry.webp",
+    "panelRight": "c28_p052_warrior_in_front_of_building.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 27: Run Laps Carrying Heavy",
+    "vo": "him run laps carrying heavy stone weights and drilling fundamental saber mechanics until some"
+   },
+   {
+    "id": 28,
+    "duration": 3.87,
+    "motion": "slide_down",
+    "panelLeft": "c28_p053_dove_flying_red_petals_light_lines.webp",
+    "panelRight": "c28_p054_ncient_chinese_warrior_amidst_red_flowers.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 28: Tie Coughing Dust Questioning",
+    "vo": "tie is coughing up dust and questioning all of his life choices what"
+   },
+   {
+    "id": 29,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p055_warrior_in_battle_shouting_why_is.webp",
+    "panelRight": "c28_p056_warrior_in_robe_sword_speech_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 29: Makes Training Sequence Brilliant",
+    "vo": "makes this training sequence so brilliant from a psychological perspective is"
+   },
+   {
+    "id": 30,
+    "duration": 4.65,
+    "motion": "slide_up",
+    "panelLeft": "c28_p059_warrior_in_traditional_attire_holding_sword.webp",
+    "panelRight": "c28_p060_warrior_in_robe_emperor_speaking_character.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 30: How Zahah'S Systematically Breaks",
+    "vo": "how zahah's systematically breaks sometimes cowardly mindset some"
+   },
+   {
+    "id": 31,
+    "duration": 4.75,
+    "motion": "slide_down",
+    "panelLeft": "c28_p061_person_with_red_hair_and_piercing.webp",
+    "panelRight": "c28_p062_man_in_robe_speaking_another_in.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 31: Day Used Being Sleazy",
+    "vo": "day is used to being a sleazy low tier extortionist who relies on bluffs"
+   },
+   {
+    "id": 32,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p063_warrior_holding_a_bone_saying_okami.webp",
+    "panelRight": "c28_p064_redhead_with_red_eyes_green_earrings.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 32: Dirty Tricks Zahah Forces",
+    "vo": "and dirty tricks but zahah forces him to understand that true martial confidence"
+   },
+   {
+    "id": 33,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c28_p065_warrior_speaking_to_another_with_sword.webp",
+    "panelRight": "c28_p066_plate_of_bones.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 33: Comes Physical Conditioning Spatial",
+    "vo": "comes from physical conditioning spatial awareness and absolute"
+   },
+   {
+    "id": 34,
+    "duration": 4.6,
+    "motion": "pan_left",
+    "panelLeft": "c28_p067_warrior_in_battle_speaking_looking_at.webp",
+    "panelRight": "c28_p068_warrior_in_battle_holding_bone.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 34: Ruthlessness Moment Strikes Zaha",
+    "vo": "ruthlessness when the moment strikes but zaha is not just training his muscles"
+   },
+   {
+    "id": 35,
+    "duration": 4.25,
+    "motion": "zoom_out",
+    "panelLeft": "c28_p069_three_characters_in_a_room_one.webp",
+    "panelRight": "c28_p070_warrior_eating_talking_about_deliciousness.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 35: Also Introducing Secret Weapon",
+    "vo": "he is also introducing his secret weapon digestive warfare remembering"
+   },
+   {
+    "id": 36,
+    "duration": 4.75,
+    "motion": "pan_right",
+    "panelLeft": "c28_p071_warrior_in_battle_character_holding_sword.webp",
+    "panelRight": "c28_p072_warrior_speaking_red_eyes_sword_speech.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 36: Bizarre Herbal Formula Previous",
+    "vo": "a bizarre herbal formula from his previous life involving rotten roots and intense laxative"
+   },
+   {
+    "id": 37,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c28_p073_warrior_in_battle_sword_red_eyes.webp",
+    "panelRight": "c28_p075_two_men_in_robes_one_with.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 37: Herbs Zaha Begins Conceptualizing",
+    "vo": "herbs zaha begins conceptualizing the heavenly golden pill an"
+   },
+   {
+    "id": 38,
+    "duration": 4.03,
+    "motion": "slide_down",
+    "panelLeft": "c28_p077_redhaired_woman_with_red_eyes_and.webp",
+    "panelRight": "c28_p078_man_in_traditional_attire_possibly_a.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 38: Unholy Concoction Designed Boost",
+    "vo": "unholy concoction designed not to boost internal qi but"
+   },
+   {
+    "id": 39,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p079_man_with_long_hair_red_eyes.webp",
+    "panelRight": "c28_p080_warrior_in_battle_shouting_taking_a.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 39: Completely Paralyze Enemy'S Gastrointestinal",
+    "vo": "to completely paralyze an enemy's gastrointestinal tract in the middle of combat"
+   },
+   {
+    "id": 40,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c28_p081_warrior_in_battle_sword_drawn_dark.webp",
+    "panelRight": "c28_p083_warrior_speaking_sword_in_hand_red.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 40: Zahar Reasons Matter How",
+    "vo": "zahar reasons that no matter how supreme an enemy's sword technique is nobody can"
+   },
+   {
+    "id": 41,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c28_p082_two_men_in_traditional_clothing_one.webp",
+    "panelRight": "c28_p084_emperor_speaking_warrior_in_background_woman.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 41: Maintain Refined Combat Stance",
+    "vo": "maintain a refined combat stance while violently fighting for control"
+   },
+   {
+    "id": 42,
+    "duration": 3.75,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p085_red_moon_with_stars.webp",
+    "panelRight": "c28_p048_warrior_speaking_to_emperor_holding_sword.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 42: Bowels Suntay Listens Master",
+    "vo": "of their bowels as suntay listens to his master described biological"
+   },
+   {
+    "id": 43,
+    "duration": 4.75,
+    "motion": "slide_up",
+    "panelLeft": "c28_p049_warrior_in_battle_speaking_voice_question.webp",
+    "panelRight": "c28_p069_three_characters_in_a_room_one.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 43: Warfare Disguised Sacred Taoist",
+    "vo": "warfare disguised as sacred taoist medicine he realizes with"
+   },
+   {
+    "id": 44,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c28_p070_warrior_eating_talking_about_deliciousness.webp",
+    "panelRight": "c28_p071_warrior_in_battle_character_holding_sword.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 44: Chilling Clarity Zaha Martial",
+    "vo": "chilling clarity that zaha is not just a martial genius he is an"
+   },
+   {
+    "id": 45,
+    "duration": 3.75,
+    "motion": "zoom_out",
+    "panelLeft": "c28_p072_warrior_speaking_red_eyes_sword_speech.webp",
+    "panelRight": "c28_p073_warrior_in_battle_sword_red_eyes.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 45: Absolute Certifiable Maniac Whose",
+    "vo": "absolute certifiable maniac whose tactical methods defy every convention"
+   },
+   {
+    "id": 46,
+    "duration": 4.58,
+    "motion": "pan_right",
+    "panelLeft": "c28_p074_sister_now_that_i_hear_it.webp",
+    "panelRight": "c28_p075_two_men_in_robes_one_with.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 46: Honorable Combat Highlights Unpredictable",
+    "vo": "of honorable combat it highlights the unpredictable brilliance of"
+   },
+   {
+    "id": 47,
+    "duration": 4.47,
+    "motion": "pulse_zoom",
+    "panelLeft": "c28_p076_black_figure_with_glowing_eyes_and.webp",
+    "panelRight": "c28_p077_redhaired_woman_with_red_eyes_and.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 47: Zaha'S Leadership Trains Allies",
+    "vo": "zaha's leadership he trains his allies with merciless discipline while preparing the most"
+   },
+   {
+    "id": 48,
+    "duration": 4.7,
+    "motion": "slide_down",
+    "panelLeft": "c28_p078_man_in_traditional_attire_possibly_a.webp",
+    "panelRight": "c28_p079_man_with_long_hair_red_eyes.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 48: Absurd Devastating Psychological Traps",
+    "vo": "absurd devastating psychological traps for the enemy's marching toward his gates proving that"
+   },
+   {
+    "id": 49,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p080_warrior_in_battle_shouting_taking_a.webp",
+    "panelRight": "c28_p081_warrior_in_battle_sword_drawn_dark.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 49: Madness Strategy Sides Coin",
+    "vo": "madness and strategy are two sides of the same coin under his"
+   },
+   {
+    "id": 50,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c28_p082_two_men_in_traditional_clothing_one.webp",
+    "panelRight": "c28_p083_warrior_speaking_sword_in_hand_red.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 50: Eccentric Guidance Cowardly Extortionist",
+    "vo": "eccentric guidance a cowardly extortionist is slowly being forged into a"
+   },
+   {
+    "id": 51,
+    "duration": 4.3,
+    "motion": "slide_down",
+    "panelLeft": "c28_p084_emperor_speaking_warrior_in_background_woman.webp",
+    "panelRight": "c28_p085_red_moon_with_stars.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 51: Discipline Lieutenant Ready Storm",
+    "vo": "discipline lieutenant ready for the storm ahead in this unforgiving world survival"
+   },
+   {
+    "id": 52,
+    "duration": 4.53,
+    "motion": "zoom_in",
+    "panelLeft": "c28_p068_warrior_in_battle_holding_bone.webp",
+    "panelRight": "c28_p051_warrior_in_battle_shouting_to_hurry.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 52: Belongs Those Fight Both",
+    "vo": "belongs only to those who can fight with both blade and brain and zaha is"
+   },
+   {
+    "id": 53,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c28_p050_warrior_on_horseback_mountains_valley_clouds.webp",
+    "panelRight": "c28_p065_warrior_speaking_to_another_with_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 53: Ready Teach Lesson Anyone",
+    "vo": "more than ready to teach that lesson to anyone foolish enough to test him"
+   }
+  ]
+ },
+ "Chapter_029": {
+  "id": "Chapter_029",
+  "title": "Chapter 029",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 6328,
+  "duration": 229,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c29_p019_warrior_in_conversation_emperor_speaking.webp",
+    "panelRight": "c29_p002_warrior_lying_on_floor_another_standing.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 01: Unwritten Iron Law Janku",
+    "vo": "there is an unwritten iron law in the janku the"
+   },
+   {
+    "id": 2,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p003_man_in_white_robe_man_in.webp",
+    "panelRight": "c29_p004_red_monkey_speaking_holding_a_weapon.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 02: Deadliest Assassins Rarely Look",
+    "vo": "deadliest assassins rarely look like shadowy ninjas lurking on rooftops they walk"
+   },
+   {
+    "id": 3,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c29_p014_warrior_with_red_eyes_and_braided.webp",
+    "panelRight": "c29_p015_man_in_traditional_attire_with_multiple.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 03: Straight Through Front Door",
+    "vo": "straight through the front door in broad daylight order a steaming bowl of noodles"
+   },
+   {
+    "id": 4,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c29_p005_warrior_speaking_holding_sword_new_sister.webp",
+    "panelRight": "c29_p006_emperor_asking_about_love.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 04: Politely Compliment Chef Drawing",
+    "vo": "and politely compliment the chef before drawing their cold steel"
+   },
+   {
+    "id": 5,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c29_p007_man_with_angry_expression_saying_bullshit.webp",
+    "panelRight": "c29_p008_warrior_holding_a_scroll_talking_about.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 05: Walsaha Relaxing Tunian Restaurant",
+    "vo": "walsaha is relaxing at the tunian restaurant and intimidating stoic"
+   },
+   {
+    "id": 6,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c29_p010_warrior_in_battle_speaking_holding_sword.webp",
+    "panelRight": "c29_p016_warrior_pointing_sword_red_background.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 06: Warrior Carrying Absurdly Long",
+    "vo": "warrior carrying an absurdly long no dachi broad sword calmly finishes"
+   },
+   {
+    "id": 7,
+    "duration": 4.43,
+    "motion": "pulse_zoom",
+    "panelLeft": "c29_p009_warrior_in_a_room_talking_to.webp",
+    "panelRight": "c29_p011_warrior_in_traditional_attire_talking_to.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 07: Meal Places Copper Coins",
+    "vo": "his meal places his copper coins on the wooden table and curtiously praises the kitchen"
+   },
+   {
+    "id": 8,
+    "duration": 4.17,
+    "motion": "slide_down",
+    "panelLeft": "c29_p012_man_in_robe_with_closed_eyes.webp",
+    "panelRight": "c29_p013_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 08: Cook Turning Directly Zaha",
+    "vo": "cook before turning directly to zaha the swordsman introduces himself"
+   },
+   {
+    "id": 9,
+    "duration": 4.73,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p002_warrior_lying_on_floor_another_standing.webp",
+    "panelRight": "c29_p004_red_monkey_speaking_holding_a_weapon.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 09: Gun Pyeong Elite Hitman",
+    "vo": "as so gun pyeong an elite hitman dispatched by the black mystic union"
+   },
+   {
+    "id": 10,
+    "duration": 4.24,
+    "motion": "slide_up",
+    "panelLeft": "c29_p014_warrior_with_red_eyes_and_braided.webp",
+    "panelRight": "c29_p015_man_in_traditional_attire_with_multiple.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 10: Casually Asks Errand Boy",
+    "vo": "and casually asks the errand boy to step outside into the"
+   },
+   {
+    "id": 11,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c29_p017_man_with_red_eyes_and_a.webp",
+    "panelRight": "c29_p018_warrior_in_battle_shouting_crazy_bastard.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 11: Courtyard Because Noodle Shop",
+    "vo": "courtyard because the noodle shop is far too cramped for proper high level swordplay"
+   },
+   {
+    "id": 12,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p019_warrior_in_conversation_emperor_speaking.webp",
+    "panelRight": "c29_p020_warrior_in_robe_emperor_speaking_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 12: Zhang Duq Trembling Behind",
+    "vo": "zhang duq su trembling behind the kitchen counter while clutching a giant metal pot lid"
+   },
+   {
+    "id": 13,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c29_p010_warrior_in_battle_speaking_holding_sword.webp",
+    "panelRight": "c29_p003_man_in_white_robe_man_in.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 13: Riot Shield Whispers Absolute",
+    "vo": "like a riot shield whispers in absolute terror"
+   },
+   {
+    "id": 14,
+    "duration": 4.33,
+    "motion": "pan_left",
+    "panelLeft": "c29_p005_warrior_speaking_holding_sword_new_sister.webp",
+    "panelRight": "c29_p008_warrior_holding_a_scroll_talking_about.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 14: Asking Zahah Possibly Survive",
+    "vo": "asking if zahah can possibly survive against this towering monster confessing"
+   },
+   {
+    "id": 15,
+    "duration": 4.17,
+    "motion": "zoom_out",
+    "panelLeft": "c29_p009_warrior_in_a_room_talking_to.webp",
+    "panelRight": "c29_p011_warrior_in_traditional_attire_talking_to.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 15: Accidentally Insulted Swordsman Earlier",
+    "vo": "that he accidentally insulted the swordsman earlier by asking if his weapon weapon"
+   },
+   {
+    "id": 16,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c29_p037_warrior_holding_plates.webp",
+    "panelRight": "c29_p045_warriors_in_traditional_robes_one_holding.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 16: Forged Southern Barbarians Zaha",
+    "vo": "was forged by southern barbarians zaha dryly tells him to keep holding"
+   },
+   {
+    "id": 17,
+    "duration": 4.57,
+    "motion": "pulse_zoom",
+    "panelLeft": "c29_p026_warrior_looking_forward_red_eyes_speech.webp",
+    "panelRight": "c29_p027_warrior_and_monk_conversing.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 17: Potlid Dear Life Calmly",
+    "vo": "that potlid for dear life and calmly steps out into the dirt"
+   },
+   {
+    "id": 18,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c29_p028_warrior_in_traditional_attire_blue_sky.webp",
+    "panelRight": "c29_p029_warrior_and_emperor_in_conversation.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 18: Alley Makes Gunpyeong Fascinating",
+    "vo": "alley what makes so gunpyeong such a fascinating combatant"
+   },
+   {
+    "id": 19,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p032_warrior_speaking_to_another_discussing_leeway.webp",
+    "panelRight": "c29_p033_warrior_in_white_robe_sword_forest.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 19: Weapon Choice Wields Colossal",
+    "vo": "is his weapon choice he wields a colossal japanese style dodachi a"
+   },
+   {
+    "id": 20,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c29_p016_warrior_pointing_sword_red_background.webp",
+    "panelRight": "c29_p035_warrior_in_battle_sword_spectators_leader.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 20: Massive Battlefield Blade Designed",
+    "vo": "massive battlefield blade designed for devastating rotational momentum"
+   },
+   {
+    "id": 21,
+    "duration": 4.48,
+    "motion": "slide_down",
+    "panelLeft": "c29_p044_man_in_traditional_attire_with_long.webp",
+    "panelRight": "c29_p071_man_in_traditional_clothing_with_long.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 21: Long Range Cleaving Power",
+    "vo": "and long range cleaving power that can bisect horse and armored rider in"
+   },
+   {
+    "id": 22,
+    "duration": 4.41,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p036_warrior_receiving_cup_from_another.webp",
+    "panelRight": "c29_p038_warrior_speaking_to_emperor.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 22: Single Swing Open Alley",
+    "vo": "a single swing in an open alley getting caught within the rotational radius of"
+   },
+   {
+    "id": 23,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c29_p039_warrior_walks_away_says_goodbye_leaves.webp",
+    "panelRight": "c29_p040_man_in_white_robe_group_of.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 23: Massive Blade Instant Death",
+    "vo": "that massive blade is instant death for ordinary fighters but zaha does not"
+   },
+   {
+    "id": 24,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c29_p057_warrior_in_battle_sword_forest_black.webp",
+    "panelRight": "c29_p043_warrior_in_battle_sword_drawn_dark.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 24: Bother Drawing Black Dragon",
+    "vo": "bother drawing the black dragon sword instead he casually pulls out a heavy iron kitchen"
+   },
+   {
+    "id": 25,
+    "duration": 4.39,
+    "motion": "zoom_out",
+    "panelLeft": "c29_p046_warrior_reading_document_talking_to_another.webp",
+    "panelRight": "c29_p047_warrior_in_battle_emperor_speaking_boots.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 25: Meat Cleaver Grabbed Restaurant",
+    "vo": "meat cleaver he grabbed from the restaurant prep table treating an elite assassin"
+   },
+   {
+    "id": 26,
+    "duration": 4.31,
+    "motion": "pan_right",
+    "panelLeft": "c29_p048_warrior_in_battle_emperor_speaking_boots.webp",
+    "panelRight": "c29_p049_warrior_in_battle_emperor_speaking_character.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 26: Duel Prepping Pork Ribs",
+    "vo": "duel like he is prepping pork ribs for the evening rush gunpiong is genuinely"
+   },
+   {
+    "id": 27,
+    "duration": 4.55,
+    "motion": "pulse_zoom",
+    "panelLeft": "c29_p050_warrior_in_battle.webp",
+    "panelRight": "c29_p051_warrior_in_boots_walking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 27: Baffled Level Absolute Disrespect",
+    "vo": "baffled by this level of absolute disrespect but as he launches a blinding two"
+   },
+   {
+    "id": 28,
+    "duration": 4.05,
+    "motion": "slide_down",
+    "panelLeft": "c29_p052_warrior_in_red_robe_sword_and.webp",
+    "panelRight": "c29_p053_master_black_pearl_fort_sets_bounty.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 28: Handed Diagonal Strike Meant",
+    "vo": "handed diagonal strike meant to sheer zaha in half"
+   },
+   {
+    "id": 29,
+    "duration": 4.63,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p054_warrior_in_forest_sword_boots_character.webp",
+    "panelRight": "c29_p055_warrior_in_battle_red_eyes_dark.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 29: Zaha'S Spatial Positioning Shines",
+    "vo": "zaha's spatial positioning shines with masterclass precision instead of backing away into"
+   },
+   {
+    "id": 30,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c29_p056_warriors_walking_in_forest.webp",
+    "panelRight": "c29_p058_warrior_in_conversation_with_emperor.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 30: Sword'S Lethal Strike Arc",
+    "vo": "the sword's lethal strike arc zaha steps directly into the dead"
+   },
+   {
+    "id": 31,
+    "duration": 4.48,
+    "motion": "slide_down",
+    "panelLeft": "c29_p059_man_in_traditional_clothing_crying_excuse.webp",
+    "panelRight": "c29_p060_warrior_aiming_bow_text_about_avoiding.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 31: Zone Near Hilt Using",
+    "vo": "zone near the hilt using the flat face of the heavy cleaver to deflect the kinetic momentum"
+   },
+   {
+    "id": 32,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p061_emperor_speaking_confused_action_inconsistent.webp",
+    "panelRight": "c29_p062_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 32: Harmlessly Cobblestones Chau Suntai",
+    "vo": "harmlessly into the cobblestones chau suntai who was hiding"
+   },
+   {
+    "id": 33,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c29_p063_warrior_speaking_to_subordinate.webp",
+    "panelRight": "c29_p064_warrior_with_speech_bubble.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 33: Behind Rain Barrel Trying",
+    "vo": "behind a rain barrel trying to gather the courage to intervene gets accidentally clipped"
+   },
+   {
+    "id": 34,
+    "duration": 4.43,
+    "motion": "pan_left",
+    "panelLeft": "c29_p065_two_men_in_dark_robes_one.webp",
+    "panelRight": "c29_p066_warrior_in_battle_sword_drawn_dialogue.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 34: Shockwave Collapses Onto Ground",
+    "vo": "by the shockwave and collapses onto the ground prompting zaha to walk over"
+   },
+   {
+    "id": 35,
+    "duration": 4.24,
+    "motion": "zoom_out",
+    "panelLeft": "c29_p067_warrior_speaking_to_emperor_warrior_looking.webp",
+    "panelRight": "c29_p068_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 35: Give Sumte Brisk Wake",
+    "vo": "and give sumte to brisk wake up slaps to snap him"
+   },
+   {
+    "id": 36,
+    "duration": 4.67,
+    "motion": "pan_right",
+    "panelLeft": "c29_p070_crazy_demon_mask_warrior_burning_castle.webp",
+    "panelRight": "c29_p072_red_moon_with_stars.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 36: Panic Zaha Looks Gun",
+    "vo": "out of his panic zaha looks gun piong in the eye and begins analyzing his combat"
+   },
+   {
+    "id": 37,
+    "duration": 4.42,
+    "motion": "pulse_zoom",
+    "panelLeft": "c29_p016_warrior_pointing_sword_red_background.webp",
+    "panelRight": "c29_p051_warrior_in_boots_walking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 37: Style Loud Dissecting Fundamental",
+    "vo": "style out loud dissecting the fundamental flaw in his footwork and pointing out that"
+   },
+   {
+    "id": 38,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c29_p039_warrior_walks_away_says_goodbye_leaves.webp",
+    "panelRight": "c29_p043_warrior_in_battle_sword_drawn_dark.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 38: While Nodachi Terrifying Maximum",
+    "vo": "while the nodachi is terrifying at maximum extension it leaves the"
+   },
+   {
+    "id": 39,
+    "duration": 4.52,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p054_warrior_in_forest_sword_boots_character.webp",
+    "panelRight": "c29_p055_warrior_in_battle_red_eyes_dark.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 39: Wielder Completely Vulnerable Close",
+    "vo": "wielder completely vulnerable in close quarters in fighting thank you very much for"
+   },
+   {
+    "id": 40,
+    "duration": 4.26,
+    "motion": "slide_up",
+    "panelLeft": "c29_p056_warriors_walking_in_forest.webp",
+    "panelRight": "c29_p057_warrior_in_battle_sword_forest_black.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 40: Watching Video I'Ll See",
+    "vo": "watching this video and i'll see you in the next video and i'll see"
+   },
+   {
+    "id": 41,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c29_p058_warrior_in_conversation_with_emperor.webp",
+    "panelRight": "c29_p059_man_in_traditional_clothing_crying_excuse.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 41: Nextdown Sect Noting Disciplined",
+    "vo": "you in the nextdown sect noting that his disciplined demeanor and"
+   },
+   {
+    "id": 42,
+    "duration": 4.34,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p071_man_in_traditional_clothing_with_long.webp",
+    "panelRight": "c29_p044_man_in_traditional_attire_with_long.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 42: Exceptional Blade Control Make",
+    "vo": "exceptional blade control make him the perfect man to train their rag tag"
+   },
+   {
+    "id": 43,
+    "duration": 4.38,
+    "motion": "slide_up",
+    "panelLeft": "c29_p036_warrior_receiving_cup_from_another.webp",
+    "panelRight": "c29_p060_warrior_aiming_bow_text_about_avoiding.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 43: Recruits Gunpion Stunned Expecting",
+    "vo": "recruits gunpion is stunned expecting a bloody death match but receiving a"
+   },
+   {
+    "id": 44,
+    "duration": 4.5,
+    "motion": "pan_left",
+    "panelLeft": "c29_p045_warriors_in_traditional_robes_one_holding.webp",
+    "panelRight": "c29_p037_warrior_holding_plates.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 44: Corporate Recruitment Pitch Unhinged",
+    "vo": "corporate recruitment pitch from an unhinged teenager holding a kitchen"
+   },
+   {
+    "id": 45,
+    "duration": 4.3,
+    "motion": "zoom_out",
+    "panelLeft": "c29_p033_warrior_in_white_robe_sword_forest.webp",
+    "panelRight": "c29_p068_warrior_in_battle_boots_walking_character.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 45: Cleaver Interaction Showcases Core",
+    "vo": "cleaver this interaction showcases the core beauty of zahaz character he"
+   },
+   {
+    "id": 46,
+    "duration": 4.53,
+    "motion": "pan_right",
+    "panelLeft": "c29_p029_warrior_and_emperor_in_conversation.webp",
+    "panelRight": "c29_p063_warrior_speaking_to_subordinate.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 46: Never Kills Talent Turn",
+    "vo": "never kills talent when he can turn enemies into valuable comrades by"
+   },
+   {
+    "id": 47,
+    "duration": 3.92,
+    "motion": "pulse_zoom",
+    "panelLeft": "c29_p065_two_men_in_dark_robes_one.webp",
+    "panelRight": "c29_p066_warrior_in_battle_sword_drawn_dialogue.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 47: Diffusing Duel Effortless Defense",
+    "vo": "diffusing the duel with effortless defense and psychological"
+   },
+   {
+    "id": 48,
+    "duration": 4.75,
+    "motion": "slide_down",
+    "panelLeft": "c29_p046_warrior_reading_document_talking_to_another.webp",
+    "panelRight": "c29_p032_warrior_speaking_to_another_discussing_leeway.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 48: Respect Zahah Secures Another",
+    "vo": "respect zahah secures another top tier powerhouse for his faction proving that true"
+   },
+   {
+    "id": 49,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p028_warrior_in_traditional_attire_blue_sky.webp",
+    "panelRight": "c29_p069_masked_figure_speaks_black_rabbit_union.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 49: Martial Supremacy Lies Bending",
+    "vo": "martial supremacy lies in bending hostile blades into protective"
+   },
+   {
+    "id": 50,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c29_p070_crazy_demon_mask_warrior_burning_castle.webp",
+    "panelRight": "c29_p072_red_moon_with_stars.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 50: Shields Instructor Secured Foundation",
+    "vo": "shields with an instructor secured the foundation grows ever stronger"
+   },
+   {
+    "id": 51,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c29_p061_emperor_speaking_confused_action_inconsistent.webp",
+    "panelRight": "c29_p052_warrior_in_red_robe_sword_and.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 51: Preparing Low Sect Inevitable",
+    "vo": "preparing the low down sect for the inevitable war with the regional syndicates"
+   },
+   {
+    "id": 52,
+    "duration": 5.0,
+    "motion": "zoom_in",
+    "panelLeft": "c29_p050_warrior_in_battle.webp",
+    "panelRight": "c29_p049_warrior_in_battle_emperor_speaking_character.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 52: Showing Brains Martial Insight",
+    "vo": "showing that brains and martial insight conquer raw ambition every time"
+   }
+  ]
+ },
+ "Chapter_030": {
+  "id": "Chapter_030",
+  "title": "Chapter 030",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 6557,
+  "duration": 229,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c30_p036_warrior_in_battle_sword_castle_on.webp",
+    "panelRight": "c30_p038_boat_with_red_and_blue_colors.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 01: Watching Supreme Martial Artists",
+    "vo": "watching two supreme martial artists clash in the middle of a"
+   },
+   {
+    "id": 2,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p049_warriors_walking_in_village.webp",
+    "panelRight": "c30_p044_ncient_city_of_black_sand_military.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 02: Dusty Alleyway Supposed Look",
+    "vo": "dusty alleyway is supposed to look like an ethereal cinematic"
+   },
+   {
+    "id": 3,
+    "duration": 4.2,
+    "motion": "slide_up",
+    "panelLeft": "c30_p005_woman_with_long_hair_sunset_river.webp",
+    "panelRight": "c30_p006_warrior_in_white_robe_flying_bird.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 03: Wuxia Ballet Wenzaha Involved",
+    "vo": "wuxia ballet but wenzaha is involved high level combat"
+   },
+   {
+    "id": 4,
+    "duration": 4.6,
+    "motion": "pan_left",
+    "panelLeft": "c30_p007_three_men_in_black_robes_one.webp",
+    "panelRight": "c30_p008_warrior_in_battle.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 04: Instantly Devals Chaotic Street",
+    "vo": "instantly devals into a chaotic street brawl that leaves"
+   },
+   {
+    "id": 5,
+    "duration": 4.6,
+    "motion": "zoom_out",
+    "panelLeft": "c30_p009_warriors_discussing_warrior_in_background_question.webp",
+    "panelRight": "c30_p010_man_with_long_hair_speech_bubble.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 05: Everyone Questioning Reality Duel",
+    "vo": "everyone questioning reality the duel between so gunpion's massive no"
+   },
+   {
+    "id": 6,
+    "duration": 4.2,
+    "motion": "pan_right",
+    "panelLeft": "c30_p011_three_men_in_robes_one_with.webp",
+    "panelRight": "c30_p032_emperor_speaking_sword_in_hand.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 06: Dachi Zaha'S Garlic Chopping",
+    "vo": "dachi and zaha's garlic chopping meat cleaver reaches its explosive climax"
+   },
+   {
+    "id": 7,
+    "duration": 4.43,
+    "motion": "pulse_zoom",
+    "panelLeft": "c30_p017_warrior_speaking_holding_sword_looking_angry.webp",
+    "panelRight": "c30_p035_warriors_in_battle_sword_drawn_sunset.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 07: Gunpion Unleashes Tempest Grayish",
+    "vo": "when gunpion unleashes a tempest of grayish sword key slicing through the"
+   },
+   {
+    "id": 8,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c30_p045_warrior_in_battle_red_eyes_dark.webp",
+    "panelRight": "c30_p014_warrior_in_conversation_warrior_in_background.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 08: Air Localized Hurricane Zahaz",
+    "vo": "air like a localized hurricane but zahaz does not even blink"
+   },
+   {
+    "id": 9,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p037_warrior_in_robe_flying_hair.webp",
+    "panelRight": "c30_p016_emperor_seated_warriors_around_boat_water.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 09: Channeling Vibrant Crimson Heat",
+    "vo": "channeling the vibrant crimson heat of the fire chick and she through the kitchen blade he shreds"
+   },
+   {
+    "id": 10,
+    "duration": 4.12,
+    "motion": "slide_up",
+    "panelLeft": "c30_p038_boat_with_red_and_blue_colors.webp",
+    "panelRight": "c30_p041_warrior_in_battle_sword_speech_bubble.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 10: Whirlwind Apart Wave Red",
+    "vo": "the whirlwind apart with a wave of red energy that looks like boiling"
+   },
+   {
+    "id": 11,
+    "duration": 4.38,
+    "motion": "slide_down",
+    "panelLeft": "c30_p033_warrior_with_arrow_sword_and_speech.webp",
+    "panelRight": "c30_p039_warrior_in_red_robe_surrounded_by.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 11: Chili Paste Smashing Flat",
+    "vo": "chili paste smashing the flat face of the cleaver directly into gunpiong's"
+   },
+   {
+    "id": 12,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p036_warrior_in_battle_sword_castle_on.webp",
+    "panelRight": "c30_p020_warrior_in_robe_shouting_at_son.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 12: Ribs Kinetic Shock Wave",
+    "vo": "ribs the kinetic shock wave sends the elite hitman flying through the air"
+   },
+   {
+    "id": 13,
+    "duration": 4.3,
+    "motion": "slide_up",
+    "panelLeft": "c30_p063_warrior_falling_text_eh.webp",
+    "panelRight": "c30_p065_blurry_image_of_a_gun.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 13: Arrow Crashing Cobblestones Rolling",
+    "vo": "like an arrow crashing into the cobblestones and rolling feet into the dirt"
+   },
+   {
+    "id": 14,
+    "duration": 4.63,
+    "motion": "pan_left",
+    "panelLeft": "c30_p050_warrior_in_battle_burning_castle_boots.webp",
+    "panelRight": "c30_p024_three_men_in_a_row_one.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 14: Zhang Duxu Watching Behind",
+    "vo": "zhang duxu watching from behind the restaurant door drops"
+   },
+   {
+    "id": 15,
+    "duration": 4.29,
+    "motion": "zoom_out",
+    "panelLeft": "c30_p046_warriors_on_boat_character_stops.webp",
+    "panelRight": "c30_p026_warrior_in_conversation_emperor_in_background.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 15: Giant Potlid Pure Shock",
+    "vo": "his giant potlid in pure shock covering his ears and wondering if"
+   },
+   {
+    "id": 16,
+    "duration": 4.29,
+    "motion": "pan_right",
+    "panelLeft": "c30_p042_emperor_asks_about_black_pearl_fort.webp",
+    "panelRight": "c30_p029_man_in_robe_speech_bubble_confused.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 16: Neighborhood Aaron Boy Secretly",
+    "vo": "his neighborhood aaron boy has secretly transformed into an ancient martial god"
+   },
+   {
+    "id": 17,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c30_p030_crazy_demon_from_past_character_in.webp",
+    "panelRight": "c30_p055_warriors_in_meeting_emperor_in_background.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 17: Happens Next Truly Defines",
+    "vo": "but what happens next is what truly defines zahaz unhinged"
+   },
+   {
+    "id": 18,
+    "duration": 4.67,
+    "motion": "slide_down",
+    "panelLeft": "c30_p012_man_with_long_black_hair_and.webp",
+    "panelRight": "c30_p034_unit_leader.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 18: Genius Instead Executing Gunpyeong",
+    "vo": "genius instead of executing gunpyeong with a clean finishing strike"
+   },
+   {
+    "id": 19,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p062_warrior_attacking_enemy_sword_swinging_blood.webp",
+    "panelRight": "c30_p036_warrior_in_battle_sword_castle_on.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 19: Zahaz Charges Forward Angry",
+    "vo": "zahaz charges forward like an angry bull and begins pummeling him with bare knuckle"
+   },
+   {
+    "id": 20,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c30_p040_warrior_in_white_robe_sword_sky.webp",
+    "panelRight": "c30_p067_warrior_in_robe_shouting_sword_in.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 20: Punches Turning Legendary Duel",
+    "vo": "punches turning a legendary duel of masters into"
+   },
+   {
+    "id": 21,
+    "duration": 4.3,
+    "motion": "slide_down",
+    "panelLeft": "c30_p041_warrior_in_battle_sword_speech_bubble.webp",
+    "panelRight": "c30_p057_warrior_speaking_to_geezers.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 21: Glorified Barfite Punch Punch",
+    "vo": "a glorified barfite punch punch punch angry bull and begins pummeling him with bare knuckle punches turning a legendary duel of masters into a glorified barfite punch punch punch rivmic and relentless"
+   },
+   {
+    "id": 22,
+    "duration": 4.8,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p039_warrior_in_red_robe_surrounded_by.webp",
+    "panelRight": "c30_p044_ncient_city_of_black_sand_military.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 22: Until Gunpyeong Bruised Coughing",
+    "vo": "until gunpyeong is bruised coughing blood and completely immobilized by"
+   },
+   {
+    "id": 23,
+    "duration": 4.2,
+    "motion": "slide_up",
+    "panelLeft": "c30_p025_master_crying_fort_master_in_front.webp",
+    "panelRight": "c30_p048_warriors_walking_on_bridge_talking_swords.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 23: Internal Injuries Duke Practically",
+    "vo": "internal injuries duke su is practically having"
+   },
+   {
+    "id": 24,
+    "duration": 4.7,
+    "motion": "pan_left",
+    "panelLeft": "c30_p054_man_with_green_hair_shocked_expression.webp",
+    "panelRight": "c30_p038_boat_with_red_and_blue_colors.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 24: Panic Attack Frantically Running",
+    "vo": "a panic attack frantically running over and begging zaha to stop before he commits"
+   },
+   {
+    "id": 25,
+    "duration": 4.12,
+    "motion": "zoom_out",
+    "panelLeft": "c30_p049_warriors_walking_in_village.webp",
+    "panelRight": "c30_p051_three_figures_in_front_of_a.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 25: Murder Broad Daylight Worried",
+    "vo": "murder and broad daylight worried that zaha has succumbed to permanent"
+   },
+   {
+    "id": 26,
+    "duration": 4.38,
+    "motion": "pan_right",
+    "panelLeft": "c30_p047_warrior_with_bandaged_face_talking.webp",
+    "panelRight": "c30_p069_warrior_with_crossed_swords_long_hair.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 26: Madness Zaha Grabs Gunpyeong",
+    "vo": "madness but zaha just grabs gunpyeong by his hair yanks' face up"
+   },
+   {
+    "id": 27,
+    "duration": 4.6,
+    "motion": "pulse_zoom",
+    "panelLeft": "c30_p041_warrior_in_battle_sword_speech_bubble.webp",
+    "panelRight": "c30_p027_warrior_in_battle_sword_drawn_eyes.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 27: Asks Feels Surrendering Yet",
+    "vo": "and asks if he feels like surrendering yet gunpyeong despite spitting blood"
+   },
+   {
+    "id": 28,
+    "duration": 4.15,
+    "motion": "slide_down",
+    "panelLeft": "c30_p031_warrior_in_battle_with_speech_bubble.webp",
+    "panelRight": "c30_p056_warrior_in_black_robes_axe_swords.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 28: Having Pride Dismantled Smirks",
+    "vo": "and having his pride dismantled smirks with stubborn defiance declaring that"
+   },
+   {
+    "id": 29,
+    "duration": 4.45,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p057_warrior_speaking_to_geezers.webp",
+    "panelRight": "c30_p088_warrior_in_red_robe_serious_expression.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 29: Rather Die Surrender Errand",
+    "vo": "he would rather die than surrender to an errand boy zahas miles"
+   },
+   {
+    "id": 30,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c30_p043_man_with_long_hair_and_red.webp",
+    "panelRight": "c30_p061_old_man_requests_to_sit_warrior.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 30: Genuine Admiration Treacherous Young",
+    "vo": "with genuine admiration in the treacherous young who were cowards change masters"
+   },
+   {
+    "id": 31,
+    "duration": 4.32,
+    "motion": "slide_down",
+    "panelLeft": "c30_p060_samurai_with_crossed_swords.webp",
+    "panelRight": "c30_p059_three_old_men_with_halos.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 31: Cheap Robes Seeing Man",
+    "vo": "like cheap robes seeing a man hold onto his principles even while catching a"
+   },
+   {
+    "id": 32,
+    "duration": 4.38,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p070_warrior_in_robes_shouting_others_in.webp",
+    "panelRight": "c30_p023_mouths.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 32: Bare Knuckle Beating Proves",
+    "vo": "bare knuckle beating proves his true character zahah delivers one"
+   },
+   {
+    "id": 33,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c30_p047_warrior_with_bandaged_face_talking.webp",
+    "panelRight": "c30_p066_emperor_speaking_warrior_in_background_sword.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 33: Final Crisp Slap Across",
+    "vo": "final crisp slap across the cheek that knocks gunpyeong out cold catching"
+   },
+   {
+    "id": 34,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c30_p013_warriors_gathered_emperor_speaking_warrior_in.webp",
+    "panelRight": "c30_p068_warrior_in_traditional_attire_serious_expression.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 34: Hits Dirt Announcing Likes",
+    "vo": "him before he hits the dirt and announcing that he likes this guy's"
+   },
+   {
+    "id": 35,
+    "duration": 4.71,
+    "motion": "zoom_out",
+    "panelLeft": "c30_p071_emperor_speaking_character_with_beard.webp",
+    "panelRight": "c30_p072_warrior_in_conversation_with_emperor.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 35: Stubborn Spirit Duksu Asks",
+    "vo": "stubborn spirit when duksu asks how zaha can like someone he just"
+   },
+   {
+    "id": 36,
+    "duration": 4.54,
+    "motion": "pan_right",
+    "panelLeft": "c30_p073_warrior_refuses_to_leave_emperor_threatens.webp",
+    "panelRight": "c30_p086_man_with_red_eyes_dark_hair.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 36: Beat Akoma Zaha Explains",
+    "vo": "beat into akoma zaha explains that a man's true worth is only revealed after he"
+   },
+   {
+    "id": 37,
+    "duration": 4.25,
+    "motion": "pulse_zoom",
+    "panelLeft": "c30_p078_warrior_refuses_money_refuses_to_give.webp",
+    "panelRight": "c30_p075_man_in_robe_seated_facing_others.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 37: Gets Face Beaten Refuses",
+    "vo": "gets his face beaten in and refuses to break that is when"
+   },
+   {
+    "id": 38,
+    "duration": 4.64,
+    "motion": "slide_down",
+    "panelLeft": "c30_p076_emperor_thanks_warrior_for_hard_work.webp",
+    "panelRight": "c30_p077_emperor_speaking_warrior_in_background_burning.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 38: Chasung Thai Casually Strolls",
+    "vo": "chasung thai casually strolls into the alley taking one look at the unconscious master"
+   },
+   {
+    "id": 39,
+    "duration": 4.36,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p087_three_men_in_traditional_attire_arms.webp",
+    "panelRight": "c30_p089_man_with_a_stern_expression_possibly.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 39: Sprawled Ground Nonchalantly Asking",
+    "vo": "sprawled on the ground and nonchalantly asking who zaha is beating up in broad daylight"
+   },
+   {
+    "id": 40,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c30_p081_warrior_in_robe_sword_speech_bubble.webp",
+    "panelRight": "c30_p080_warrior_speaking_threatening_family_bearing_cost.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 40: Time Treating Gang Violence",
+    "vo": "this time treating gang violence like a regular daily schedule zaha"
+   },
+   {
+    "id": 41,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c30_p083_emperor_speaking_warrior_in_background.webp",
+    "panelRight": "c30_p084_warrior_speaking_looking_annoyed.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 41: Orders Gunpyeong Carried Inside",
+    "vo": "orders gunpyeong carried inside to be fed and patched up preparing"
+   },
+   {
+    "id": 42,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p086_man_with_red_eyes_dark_hair.webp",
+    "panelRight": "c30_p082_two_men_with_long_beards_and.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 42: Turn Stubborn Hitman Backbone",
+    "vo": "to turn this stubborn hitman into the backbone of his faction it proves"
+   },
+   {
+    "id": 43,
+    "duration": 4.43,
+    "motion": "slide_up",
+    "panelLeft": "c30_p079_two_bearded_men_one_with_a.webp",
+    "panelRight": "c30_p075_man_in_robe_seated_facing_others.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 43: Zaha Conquer Rivals Tests",
+    "vo": "that zaha does not just conquer rivals he tests their soul"
+   },
+   {
+    "id": 44,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c30_p022_warriors_laughing_swords_boat_conversation.webp",
+    "panelRight": "c30_p021_two_men_in_conversation_one_pointing.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 44: Fire Forging Unbreakable Loyalty",
+    "vo": "under fire forging unbreakable loyalty through kinetic diplomacy"
+   },
+   {
+    "id": 45,
+    "duration": 4.5,
+    "motion": "zoom_out",
+    "panelLeft": "c30_p085_warrior_in_kimono_speaking_kicking_feet.webp",
+    "panelRight": "c30_p077_emperor_speaking_warrior_in_background_burning.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 45: Sheer Psychological Dominance Deep",
+    "vo": "sheer psychological dominance and a deep understanding of human conviction that"
+   },
+   {
+    "id": 46,
+    "duration": 4.79,
+    "motion": "pan_right",
+    "panelLeft": "c30_p055_warriors_in_meeting_emperor_in_background.webp",
+    "panelRight": "c30_p078_warrior_refuses_money_refuses_to_give.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 46: Transforms Former Adversaries Lifelong",
+    "vo": "transforms former adversaries into lifelong brothers in a cruel"
+   },
+   {
+    "id": 47,
+    "duration": 4.29,
+    "motion": "pulse_zoom",
+    "panelLeft": "c30_p080_warrior_speaking_threatening_family_bearing_cost.webp",
+    "panelRight": "c30_p081_warrior_in_robe_sword_speech_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 47: Martial World Driven Purely",
+    "vo": "martial world driven purely by transactional betrayal finding a"
+   },
+   {
+    "id": 48,
+    "duration": 4.68,
+    "motion": "slide_down",
+    "panelLeft": "c30_p083_emperor_speaking_warrior_in_background.webp",
+    "panelRight": "c30_p084_warrior_speaking_looking_annoyed.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 48: Warrior Real Spine Rarer",
+    "vo": "warrior with real spine is rarer than finding dragonjade and zahah will happily crack"
+   },
+   {
+    "id": 49,
+    "duration": 3.95,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p086_man_with_red_eyes_dark_hair.webp",
+    "panelRight": "c30_p068_warrior_in_traditional_attire_serious_expression.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 49: Few Ribs Recruit Honest",
+    "vo": "a few ribs to recruit an honest man into his inner circle with an"
+   },
+   {
+    "id": 50,
+    "duration": 4.69,
+    "motion": "slide_up",
+    "panelLeft": "c30_p074_emperor_speaking_serious_expression_long_beard.webp",
+    "panelRight": "c30_p087_three_men_in_traditional_attire_arms.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 50: Elite Swordsman Brought Fold",
+    "vo": "elite swordsman brought into the fold the low down sect is no longer just"
+   },
+   {
+    "id": 51,
+    "duration": 4.54,
+    "motion": "slide_down",
+    "panelLeft": "c30_p058_warrior_in_red_robe_holding_sword.webp",
+    "panelRight": "c30_p079_two_bearded_men_one_with_a.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 51: Loose Collection Street Thugs",
+    "vo": "a loose collection of street thugs but a rising syndicate capable of challenging the greatest powers"
+   },
+   {
+    "id": 52,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c30_p076_emperor_thanks_warrior_for_hard_work.webp",
+    "panelRight": "c30_p075_man_in_robe_seated_facing_others.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 52: Underworld Beginning Bloody Assent",
+    "vo": "in the underworld and this is only the beginning of their bloody assent"
+   }
+  ]
+ },
+ "Chapter_031": {
+  "id": "Chapter_031",
+  "title": "Chapter 031",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 6786,
+  "duration": 229,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c31_p022_warrior_in_battle.webp",
+    "panelRight": "c31_p023_warrior_in_battle_sword_swinging_boots.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 01: Treacherous Landscape Unorthodox Faction",
+    "vo": "in the treacherous landscape of the unorthodox faction capturing an"
+   },
+   {
+    "id": 2,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p003_warrior_in_red_robe_speech_bubble.webp",
+    "panelRight": "c31_p004_master_even_elders_crying.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 02: Elite Assassin Rival Syndicate",
+    "vo": "elite assassin from a rival syndicate usually means one of two grim outcomes"
+   },
+   {
+    "id": 3,
+    "duration": 4.47,
+    "motion": "slide_up",
+    "panelLeft": "c31_p005_fierce_bearded_figure_with_a_menacing.webp",
+    "panelRight": "c31_p006_three_warriors_in_battle_one_with.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 03: Brutal Limb Shattering Torture",
+    "vo": "brutal limb shattering torture or an immediate unceremonious execution"
+   },
+   {
+    "id": 4,
+    "duration": 4.2,
+    "motion": "pan_left",
+    "panelLeft": "c31_p007_warrior_in_robe_speech_bubble_red.webp",
+    "panelRight": "c31_p008_warrior_in_traditional_robe.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 04: Gunpion Slowly Regains Consciousness",
+    "vo": "so when so gunpion slowly regains consciousness inside"
+   },
+   {
+    "id": 5,
+    "duration": 4.75,
+    "motion": "zoom_out",
+    "panelLeft": "c31_p009_emperor_speaking_warrior_in_battle_burning.webp",
+    "panelRight": "c31_p010_warrior_in_battle_sword_drawn_eyes.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 05: Back Room Tavern Battered",
+    "vo": "the back room of the tavern battered bruised and with his proud warrior spirit"
+   },
+   {
+    "id": 6,
+    "duration": 4.25,
+    "motion": "pan_right",
+    "panelLeft": "c31_p011_emperor_speaking_holding_sword_looking_angry.webp",
+    "panelRight": "c31_p012_warrior_in_battle_sword_boots_character.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 06: Absolute Shambles Fully Expects",
+    "vo": "in absolute shambles he fully expects to meet a grizzly end"
+   },
+   {
+    "id": 7,
+    "duration": 4.43,
+    "motion": "pulse_zoom",
+    "panelLeft": "c31_p030_warriors_in_a_room_one_with.webp",
+    "panelRight": "c31_p034_warrior_with_red_hair_and_blue.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 07: Face Flushes Crimson Humiliation",
+    "vo": "his face flushes crimson with humiliation as he swallows his pride"
+   },
+   {
+    "id": 8,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c31_p013_warrior_in_battle_sword_drawn_emperor.webp",
+    "panelRight": "c31_p014_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 08: Barely Forces Himself Mumble",
+    "vo": "and barely forces himself to mumble a desperate plea to be spared"
+   },
+   {
+    "id": 9,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p035_man_with_long_black_hair_wearing.webp",
+    "panelRight": "c31_p015_man_in_suit_falling_sword_in.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 09: Zaha Sitting Across Half",
+    "vo": "zaha sitting across from him with a half eaten snack in hand immediately transforms"
+   },
+   {
+    "id": 10,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c31_p016_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c31_p017_warrior_in_battle_sword_explosion_character.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 10: High Stakes Life Death",
+    "vo": "the high stakes life or death interrogation into an unhinged comedy"
+   },
+   {
+    "id": 11,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c31_p018_warrior_in_battle_sword_fire_boots.webp",
+    "panelRight": "c31_p019_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 11: Routine Asks Gunpyeong Elderly",
+    "vo": "routine he asks gunpyeong if he has an elderly mother to support or a cute little"
+   },
+   {
+    "id": 12,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p020_warrior_in_action_flying_sword_martial.webp",
+    "panelRight": "c31_p021_warrior_in_battle_powerful_attack.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 12: Daughter Waiting Home Claiming",
+    "vo": "daughter waiting at home claiming that having a cute kid is an automatic vip"
+   },
+   {
+    "id": 13,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c31_p022_warrior_in_battle.webp",
+    "panelRight": "c31_p023_warrior_in_battle_sword_swinging_boots.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 13: Free Pass Newly Formed",
+    "vo": "free pass in his newly formed sect but since gunpyeong has neither"
+   },
+   {
+    "id": 14,
+    "duration": 3.75,
+    "motion": "pan_left",
+    "panelLeft": "c31_p054_emperor_speaking_looking_angry.webp",
+    "panelRight": "c31_p024_two_swords_in_a_dynamic_pose.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 14: Things Looking Exceptionally Grim",
+    "vo": "things are looking exceptionally grim for him gunpyeong"
+   },
+   {
+    "id": 15,
+    "duration": 4.82,
+    "motion": "zoom_out",
+    "panelLeft": "c31_p025_warrior_in_battle_holding_sword.webp",
+    "panelRight": "c31_p026_warrior_in_battle_sword_slicing_through.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 15: Solemnly Swears Sword Zahas",
+    "vo": "solemnly swears on his sword that if zahas spares his life he"
+   },
+   {
+    "id": 16,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c31_p076_sword_being_sliced_by_a_weapon.webp",
+    "panelRight": "c31_p027_blood_and_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 16: Never Step Foot Ilyang",
+    "vo": "will never step foot in ilyang prefecture again and will never raise a weapon against anyone"
+   },
+   {
+    "id": 17,
+    "duration": 4.67,
+    "motion": "pulse_zoom",
+    "panelLeft": "c31_p028_warrior_in_battle_sword_blood_chaos.webp",
+    "panelRight": "c31_p029_warrior_in_kimono_sword_blood_red.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 17: Connected Low Sect Where",
+    "vo": "connected to the low down sect this is where zahas strategic"
+   },
+   {
+    "id": 18,
+    "duration": 3.93,
+    "motion": "slide_down",
+    "panelLeft": "c31_p030_warriors_in_a_room_one_with.webp",
+    "panelRight": "c31_p031_warrior_in_battle_holding_sword.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 18: Genius Shines Brightly Through",
+    "vo": "genius shines brightly through his apparent madness channeling"
+   },
+   {
+    "id": 19,
+    "duration": 4.73,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p032_warrior_and_old_man_with_staff.webp",
+    "panelRight": "c31_p033_warriors_in_a_temple_one_holding.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 19: Legendary Taoist Strategist Jugaliang",
+    "vo": "the legendary taoist strategist jugaliang and his famous historical tactic"
+   },
+   {
+    "id": 20,
+    "duration": 4.52,
+    "motion": "slide_up",
+    "panelLeft": "c31_p034_warrior_with_red_hair_and_blue.webp",
+    "panelRight": "c31_p035_man_with_long_black_hair_wearing.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 20: Capturing Releasing Fierce Barbarian",
+    "vo": "of capturing and releasing a fierce barbarian king seven times"
+   },
+   {
+    "id": 21,
+    "duration": 4.14,
+    "motion": "slide_down",
+    "panelLeft": "c31_p046_darkhaired_figure_with_blood_on_their.webp",
+    "panelRight": "c31_p037_warrior_holding_sword_car_in_background.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 21: Win True Internal Loyalty",
+    "vo": "to win true internal loyalty zaha decides to let gunpyeong walk"
+   },
+   {
+    "id": 22,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p045_warriors_in_battle_sword_fire_boots.webp",
+    "panelRight": "c31_p047_warriors_in_combat_sword_fighting_blood.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 22: Away Completely Free Knows",
+    "vo": "away completely free he knows that true warriors cannot be forced"
+   },
+   {
+    "id": 23,
+    "duration": 4.48,
+    "motion": "slide_up",
+    "panelLeft": "c31_p038_warrior_in_action_sword_drawn_shouting.webp",
+    "panelRight": "c31_p039_warrior_in_combat_sword_drawn_red.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 23: Lifelong Obedience Through Raw",
+    "vo": "into lifelong obedience through raw physical fear alone you have to let"
+   },
+   {
+    "id": 24,
+    "duration": 4.06,
+    "motion": "pan_left",
+    "panelLeft": "c31_p040_warrior_in_battle_sword_blood_fighting.webp",
+    "panelRight": "c31_p041_warrior_in_battle_sword_swinging_blood.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 24: Experience Absolute Superiority Undeniable",
+    "vo": "them experience your absolute superiority and undeniable magnanimity until their"
+   },
+   {
+    "id": 25,
+    "duration": 4.55,
+    "motion": "zoom_out",
+    "panelLeft": "c31_p042_warrior_in_battle_sword_blood_explosion.webp",
+    "panelRight": "c31_p043_warrior_in_battle_boots_walking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 25: Warrior Conscience Compels Bend",
+    "vo": "own warrior conscience compels them to bend the knee zaha looks him dead in the"
+   },
+   {
+    "id": 26,
+    "duration": 4.65,
+    "motion": "pan_right",
+    "panelLeft": "c31_p068_man_with_blue_eyes_woman_with.webp",
+    "panelRight": "c31_p044_warrior_in_battle_sword_swinging_red.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 26: Eyes Delivers Unforgettable Warning",
+    "vo": "eyes and delivers an unforgettable warning he is free to go and train"
+   },
+   {
+    "id": 27,
+    "duration": 4.27,
+    "motion": "pulse_zoom",
+    "panelLeft": "c31_p046_darkhaired_figure_with_blood_on_their.webp",
+    "panelRight": "c31_p048_warrior_in_battle_sword_swinging_blood.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 27: Get Stronger Future Rematch",
+    "vo": "to get stronger for a future rematch but if zaha ever hears a single rumor"
+   },
+   {
+    "id": 28,
+    "duration": 4.44,
+    "motion": "slide_down",
+    "panelLeft": "c31_p049_man_with_blue_hair_and_green.webp",
+    "panelRight": "c31_p050_man_with_a_determined_expression_possibly.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 28: Gunpion Bullying Innocent Merchants",
+    "vo": "of gunpion bullying innocent merchants peasants or street workers he will mobilize a million"
+   },
+   {
+    "id": 29,
+    "duration": 3.89,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p051_bloodied_figures_weapons_blood_floor.webp",
+    "panelRight": "c31_p052_warrior_in_battle_blood_sword_shouting.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 29: Members Low Sect Hunt",
+    "vo": "members of the low down sect to hunt him down and tear him limb"
+   },
+   {
+    "id": 30,
+    "duration": 4.75,
+    "motion": "slide_up",
+    "panelLeft": "c31_p053_old_man_in_traditional_attire_seated.webp",
+    "panelRight": "c31_p056_warrior_in_battle_fighting_with_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 30: Limb Gunpion Gasps Shock",
+    "vo": "from limb when gunpion gasps and shock asking if the low down sect truly"
+   },
+   {
+    "id": 31,
+    "duration": 4.58,
+    "motion": "slide_down",
+    "panelLeft": "c31_p057_warrior_in_black_cloak_sword_drawn.webp",
+    "panelRight": "c31_p058_warrior_in_battle_sword_swinging_red.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 31: Million Members Zaha Unbotheredly",
+    "vo": "has a million members zaha unbotheredly clarifies that every single"
+   },
+   {
+    "id": 32,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p059_warrior_in_battle_sword_swinging_fiery.webp",
+    "panelRight": "c31_p060_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 32: Merchant Laborer World Belongs",
+    "vo": "merchant and laborer in the world belongs to his sect whether they realize it or"
+   },
+   {
+    "id": 33,
+    "duration": 4.08,
+    "motion": "slide_up",
+    "panelLeft": "c31_p061_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c31_p062_warrior_in_battle_sword_blood_explosion.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 33: Simply Because Zaha Decided",
+    "vo": "not simply because zaha decided so gunpion bows with"
+   },
+   {
+    "id": 34,
+    "duration": 4.68,
+    "motion": "pan_left",
+    "panelLeft": "c31_p063_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c31_p068_man_with_blue_eyes_woman_with.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 34: Profound Genuine Respect Swearing",
+    "vo": "profound genuine respect swearing to honor his sacred oath until the"
+   },
+   {
+    "id": 35,
+    "duration": 4.37,
+    "motion": "zoom_out",
+    "panelLeft": "c31_p065_warrior_in_battle_sword_swinging_fiery.webp",
+    "panelRight": "c31_p066_warrior_in_battle_sword_flying_dust.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 35: Day Dies Disappearing Mist",
+    "vo": "day he dies before disappearing into the mist as"
+   },
+   {
+    "id": 36,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c31_p067_warrior_in_battle_sword_swinging_fire.webp",
+    "panelRight": "c31_p069_warrior_in_battle_sword_fire_chaos.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 36: Gunpion Leaves Chasun Thai",
+    "vo": "gunpion leaves chasun thai pokes his head through the door habitually shaking"
+   },
+   {
+    "id": 37,
+    "duration": 4.51,
+    "motion": "pulse_zoom",
+    "panelLeft": "c31_p070_warrior_in_battle_sword_swinging_fire.webp",
+    "panelRight": "c31_p071_warrior_in_battle_shouting_ugh.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 37: Nervous Leg Asking Why",
+    "vo": "his nervous leg asking why on earth zahah lets such"
+   },
+   {
+    "id": 38,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c31_p073_man_lying_on_floor_sword_in.webp",
+    "panelRight": "c31_p074_two_men_in_battle_swords_drawn.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 38: Terrifying Hitman Zahah Mutters",
+    "vo": "a terrifying hitman go zahah mutters that lunatics should only"
+   },
+   {
+    "id": 39,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p075_warrior_in_battle_sword_swinging_sparks.webp",
+    "panelRight": "c31_p077_warrior_in_battle_sword_swinging_blood.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 39: Fight Lunatics Which Prompts",
+    "vo": "fight lunatics which prompts sanktai to instantly point his finger back and forth"
+   },
+   {
+    "id": 40,
+    "duration": 4.17,
+    "motion": "slide_up",
+    "panelLeft": "c31_p030_warriors_in_a_room_one_with.webp",
+    "panelRight": "c31_p061_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 40: Between Zahha Himself Agreement",
+    "vo": "between zahha and himself in agreement offended by the sheer"
+   },
+   {
+    "id": 41,
+    "duration": 4.84,
+    "motion": "slide_down",
+    "panelLeft": "c31_p059_warrior_in_battle_sword_swinging_fiery.webp",
+    "panelRight": "c31_p058_warrior_in_battle_sword_swinging_red.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 41: Disrespect Zahha Gathers Crimson",
+    "vo": "disrespect zahha gathers crimson fire chicken cheat into his fingertip demonstrating why pointing fingers"
+   },
+   {
+    "id": 42,
+    "duration": 4.13,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p064_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c31_p055_warrior_speaking_blood_on_face_red.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 42: Zhang Fatal Habit Threatening",
+    "vo": "in the zhang hu is a fatal habit by threatening to blast a"
+   },
+   {
+    "id": 43,
+    "duration": 4.54,
+    "motion": "slide_up",
+    "panelLeft": "c31_p026_warrior_in_battle_sword_slicing_through.webp",
+    "panelRight": "c31_p065_warrior_in_battle_sword_swinging_fiery.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 43: Hole Through Sun Ty'S",
+    "vo": "hole through sun ty's skull with internal fingerwind sun ty throws his hands"
+   },
+   {
+    "id": 44,
+    "duration": 4.39,
+    "motion": "pan_left",
+    "panelLeft": "c31_p049_man_with_blue_hair_and_green.webp",
+    "panelRight": "c31_p068_man_with_blue_eyes_woman_with.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 44: Sheer Panic Realizing Working",
+    "vo": "up and sheer panic realizing that working for zaha means living on a razor's edge"
+   },
+   {
+    "id": 45,
+    "duration": 4.21,
+    "motion": "zoom_out",
+    "panelLeft": "c31_p047_warriors_in_combat_sword_fighting_blood.webp",
+    "panelRight": "c31_p071_warrior_in_battle_shouting_ugh.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 45: Between Hilarious Camaraderie Instant",
+    "vo": "between hilarious camaraderie and instant death it is a brilliant sequence that"
+   },
+   {
+    "id": 46,
+    "duration": 4.29,
+    "motion": "pan_right",
+    "panelLeft": "c31_p035_man_with_long_black_hair_wearing.webp",
+    "panelRight": "c31_p051_bloodied_figures_weapons_blood_floor.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 46: Establishes Zaha'S Long Term",
+    "vo": "establishes zaha's long term chess game while rival syndicates"
+   },
+   {
+    "id": 47,
+    "duration": 4.75,
+    "motion": "pulse_zoom",
+    "panelLeft": "c31_p046_darkhaired_figure_with_blood_on_their.webp",
+    "panelRight": "c31_p074_two_men_in_battle_swords_drawn.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 47: Burn Bridges Zaha Cultivating",
+    "vo": "burn bridges zaha is cultivating legendary debts of honor proving that true"
+   },
+   {
+    "id": 48,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c31_p050_man_with_a_determined_expression_possibly.webp",
+    "panelRight": "c31_p076_sword_being_sliced_by_a_weapon.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 48: Kings Ruled Winning Respect",
+    "vo": "kings ruled by winning the respect of their deadliest enemies by sparing a"
+   },
+   {
+    "id": 49,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p077_warrior_in_battle_sword_swinging_blood.webp",
+    "panelRight": "c31_p078_warrior_with_blood_on_face_sword.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 49: Warrior Principle Plants Seed",
+    "vo": "warrior of principle he plants a seed that will bear fruit when the ultimate war"
+   },
+   {
+    "id": 50,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c31_p079_red_moon_with_stars.webp",
+    "panelRight": "c31_p062_warrior_in_battle_sword_blood_explosion.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 50: Underworld Begins Proving Mercy",
+    "vo": "for the underworld begins proving that mercy backed by overwhelming strength is the greatest"
+   },
+   {
+    "id": 51,
+    "duration": 4.29,
+    "motion": "slide_down",
+    "panelLeft": "c31_p060_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c31_p033_warriors_in_a_temple_one_holding.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 51: Weapon Forging Brotherhood Hostility",
+    "vo": "weapon of all forging brotherhood out of hostility as the road"
+   },
+   {
+    "id": 52,
+    "duration": 4.71,
+    "motion": "zoom_in",
+    "panelLeft": "c31_p058_warrior_in_battle_sword_swinging_red.webp",
+    "panelRight": "c31_p052_warrior_in_battle_blood_sword_shouting.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 52: Clears Vision Future Stands",
+    "vo": "clears his vision for the future stands tall and absolute"
+   }
+  ]
+ },
+ "Chapter_032": {
+  "id": "Chapter_032",
+  "title": "Chapter 032",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 7015,
+  "duration": 220,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c32_p024_warrior_in_black_cloak_sword_and.webp",
+    "panelRight": "c32_p012_warrior_in_battle_speaking_sword_boots.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 01: Hilarious Contrast Between High",
+    "vo": "the hilarious contrast between high stakes martial warfare and"
+   },
+   {
+    "id": 2,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p050_old_man_with_long_beard_young.webp",
+    "panelRight": "c32_p076_bloodied_face_speech_bubble_dark_hair.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 02: Everyday Provincial Life Ill",
+    "vo": "everyday provincial life and ill young prefecture is what makes zahaz such"
+   },
+   {
+    "id": 3,
+    "duration": 4.57,
+    "motion": "slide_up",
+    "panelLeft": "c32_p004_warrior_in_battle_sword_swinging_red.webp",
+    "panelRight": "c32_p005_warrior_in_battle_sword_swinging_shouting.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 03: Unforgettable Protagonist Right Sparing",
+    "vo": "an unforgettable protagonist right after sparing an elite hitman and"
+   },
+   {
+    "id": 4,
+    "duration": 3.8,
+    "motion": "pan_left",
+    "panelLeft": "c32_p006_warrior_in_battle_sword_blood_attack.webp",
+    "panelRight": "c32_p007_warrior_in_battle_red_energy_fist.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 04: Threatening Lieutenant Finger Wind",
+    "vo": "threatening his own lieutenant with finger wind execution what does"
+   },
+   {
+    "id": 5,
+    "duration": 4.7,
+    "motion": "zoom_out",
+    "panelLeft": "c32_p008_warrior_in_battle_sword_red_smoke.webp",
+    "panelRight": "c32_p009_warrior_with_sword_drawn_eyes_wide.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 05: Zahad Walks Straight Back",
+    "vo": "zahad do he walks straight back into the chunyang restaurant with portgrease"
+   },
+   {
+    "id": 6,
+    "duration": 4.64,
+    "motion": "pan_right",
+    "panelLeft": "c32_p011_man_with_blood_on_face_text.webp",
+    "panelRight": "c32_p048_man_with_blood_on_face_sword.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 06: Shirt Because Man Eaten",
+    "vo": "on his shirt because the man has not eaten lunch yet sitting at a"
+   },
+   {
+    "id": 7,
+    "duration": 4.46,
+    "motion": "pulse_zoom",
+    "panelLeft": "c32_p026_warrior_in_battle_breathing_rough.webp",
+    "panelRight": "c32_p010_two_warriors_in_battle_one_with.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 07: Rough Wooden Table Jongduk",
+    "vo": "rough wooden table with jongduk su and so gunpyeong the three of"
+   },
+   {
+    "id": 8,
+    "duration": 4.07,
+    "motion": "slide_down",
+    "panelLeft": "c32_p059_fingers_with_percentage_symbols.webp",
+    "panelRight": "c32_p013_warrior_in_action_sword_drawn_fighting.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 08: Dig Mountain Braised Pork",
+    "vo": "them dig into a mountain of braised pork ribs their fingers coated in glycening"
+   },
+   {
+    "id": 9,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p014_warrior_in_battle_sword_drawn_red.webp",
+    "panelRight": "c32_p015_warrior_in_battle_sword_blood_explosion.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 09: Pork Fat Gunpyeong Literally",
+    "vo": "pork fat gunpyeong who literally tried to slice zahha in half an"
+   },
+   {
+    "id": 10,
+    "duration": 4.1,
+    "motion": "slide_up",
+    "panelLeft": "c32_p016_warrior_in_battle_sword_swinging_dust.webp",
+    "panelRight": "c32_p017_warrior_in_battle_sword_swinging_blood.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 10: Hour Ago Sitting Awkwardly",
+    "vo": "hour ago is now sitting awkwardly across from him nibbling"
+   },
+   {
+    "id": 11,
+    "duration": 4.57,
+    "motion": "slide_down",
+    "panelLeft": "c32_p018_warrior_in_battle_sword_drawn_bloodied.webp",
+    "panelRight": "c32_p019_bloodied_face_red_eyes_blood_on.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 11: Tender Ribs While Sweating",
+    "vo": "on tender ribs while sweating bullets when zanzaha asks if the ribs are delicious"
+   },
+   {
+    "id": 12,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p020_warrior_in_battle_sword_fire_boots.webp",
+    "panelRight": "c32_p021_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 12: Gunpyeong Politely Says Yes",
+    "vo": "gunpyeong politely says yes only for zaha to roast him on"
+   },
+   {
+    "id": 13,
+    "duration": 4.44,
+    "motion": "slide_up",
+    "panelLeft": "c32_p032_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c32_p033_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 13: Spot Questioning Why Enemy",
+    "vo": "the spot questioning why an enemy hitman who refused to join the low down sect is getting"
+   },
+   {
+    "id": 14,
+    "duration": 4.51,
+    "motion": "pan_left",
+    "panelLeft": "c32_p022_warrior_in_battle_sword_swinging_flying.webp",
+    "panelRight": "c32_p023_character_with_black_hair_and_red.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 14: Vip Regular Customer Privileges",
+    "vo": "vip regular customer privileges duke su nag zaha to"
+   },
+   {
+    "id": 15,
+    "duration": 4.38,
+    "motion": "zoom_out",
+    "panelLeft": "c32_p049_man_with_red_hair_and_piercing.webp",
+    "panelRight": "c32_p064_blood_splatter_man_in_robe_bloodied.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 15: Let Man Eat Peace",
+    "vo": "let the man eat in peace creating this absurd family style domestic comedy in"
+   },
+   {
+    "id": 16,
+    "duration": 4.33,
+    "motion": "pan_right",
+    "panelLeft": "c32_p025_black_glove_blood_petals_sword.webp",
+    "panelRight": "c32_p027_warrior_in_battle_sword_flying_dust.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 16: Middle Brutal Gang War",
+    "vo": "the middle of a brutal gang war that is when zaha notices gunpion's"
+   },
+   {
+    "id": 17,
+    "duration": 4.6,
+    "motion": "pulse_zoom",
+    "panelLeft": "c32_p028_warrior_in_battle_huffing_and_puffing.webp",
+    "panelRight": "c32_p029_warrior_in_battle_sword_drawn_blood.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 17: Prized Weapon Nightblade Resting",
+    "vo": "prized weapon the nightblade resting quietly on the"
+   },
+   {
+    "id": 18,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c32_p030_warrior_in_battle_sword_emperor_boots.webp",
+    "panelRight": "c32_p031_warrior_in_battle_fighting_with_sword.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 18: Table Unorthodox Faction Nadachi",
+    "vo": "table in the unorthodox faction this nadachi is practically legendary"
+   },
+   {
+    "id": 19,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p044_warrior_in_battle_sword_drawn_intense.webp",
+    "panelRight": "c32_p034_warrior_in_battle_sword_drawn_bloodied.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 19: Forge Rare Southern Steel",
+    "vo": "forge from rare southern steel designed to channel intense swordwind gunpion"
+   },
+   {
+    "id": 20,
+    "duration": 4.56,
+    "motion": "slide_up",
+    "panelLeft": "c32_p035_warrior_in_battle_sword_red_light.webp",
+    "panelRight": "c32_p036_black_figure_in_dark_swirling_motion.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 20: Treats Handing Parting Soul",
+    "vo": "treats handing it over like parting with his own soul terrified that zahaw will"
+   },
+   {
+    "id": 21,
+    "duration": 4.36,
+    "motion": "slide_down",
+    "panelLeft": "c32_p037_warrior_in_battle_sword_blood_death.webp",
+    "panelRight": "c32_p038_warrior_in_battle_sword_blood_fallen.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 21: Snap Half Spite Zahaw",
+    "vo": "snap it in half out of spite zahaw casually wipes"
+   },
+   {
+    "id": 22,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p039_warrior_in_battle_holding_sword.webp",
+    "panelRight": "c32_p040_warrior_in_battle_sword_swinging_pink.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 22: Grease Office Fingers Trousers",
+    "vo": "the grease office fingers on his trousers draws the cold steel from its"
+   },
+   {
+    "id": 23,
+    "duration": 4.75,
+    "motion": "slide_up",
+    "panelLeft": "c32_p041_warrior_in_battle_sword_drawn_fire.webp",
+    "panelRight": "c32_p042_warrior_in_battle_sword_drawn_red.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 23: Scabbard Flicks Blade Microscopic",
+    "vo": "scabbard and flicks the blade with a microscopic touch of internal key the steel"
+   },
+   {
+    "id": 24,
+    "duration": 4.0,
+    "motion": "pan_left",
+    "panelLeft": "c32_p043_warrior_in_battle_powerful_attack.webp",
+    "panelRight": "c32_p045_warrior_in_battle_blood_splatter_sword.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 24: Rings Deep Resonant Hum",
+    "vo": "rings with a deep resonant hum that confirms its remarkable"
+   },
+   {
+    "id": 25,
+    "duration": 4.57,
+    "motion": "zoom_out",
+    "panelLeft": "c32_p046_warrior_in_battle_bloodied_and_defeated.webp",
+    "panelRight": "c32_p047_warrior_in_battle_shouting_guh.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 25: Metallurgical Balance Craftsmanship Zaha",
+    "vo": "metallurgical balance and craftsmanship zaha admits"
+   },
+   {
+    "id": 26,
+    "duration": 4.43,
+    "motion": "pan_right",
+    "panelLeft": "c32_p051_warrior_in_kimono_blood_on_robe.webp",
+    "panelRight": "c32_p052_emperor_speaking_warrior_in_blood_blood.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 26: Genuine Masterwork Hits Ultimate",
+    "vo": "it is a genuine masterwork but then hits him with the ultimate comedic disrespect he laughs"
+   },
+   {
+    "id": 27,
+    "duration": 4.29,
+    "motion": "pulse_zoom",
+    "panelLeft": "c32_p053_warrior_in_battle_sword_blood_castle.webp",
+    "panelRight": "c32_p054_warrior_speaking_sword_boots_castle_burning.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 27: Loud Points Legendary Treasured",
+    "vo": "out loud and points out that his legendary is this treasured sword is it"
+   },
+   {
+    "id": 28,
+    "duration": 4.71,
+    "motion": "slide_down",
+    "panelLeft": "c32_p055_warrior_with_red_eyes_speech_bubble.webp",
+    "panelRight": "c32_p056_closeup_of_a_characters_eye_possibly.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 28: Still Got Ass Handed",
+    "vo": "still got its ass handed to it by a standard household meat cleaver used for"
+   },
+   {
+    "id": 29,
+    "duration": 4.2,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p057_emperor_speaking_kneeling_sword_burning_castle.webp",
+    "panelRight": "c32_p058_warrior_begging_for_their_lives.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 29: Dicing Garlic Chopping Spring",
+    "vo": "dicing garlic and chopping spring onions duxu bursts into"
+   },
+   {
+    "id": 30,
+    "duration": 4.3,
+    "motion": "slide_up",
+    "panelLeft": "c32_p060_character_with_red_eyes_and_a.webp",
+    "panelRight": "c32_p061_closeup_of_a_hand_with_sharp.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 30: Roaring Laughter Alongside Zaha",
+    "vo": "roaring laughter alongside zaha but when he accidentally meets gunpion's cold assassin"
+   },
+   {
+    "id": 31,
+    "duration": 4.5,
+    "motion": "slide_down",
+    "panelLeft": "c32_p062_bloodied_text_red_and_black_dark.webp",
+    "panelRight": "c32_p063_warrior_in_red_robe_with_kanji.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 31: Stare Poor Tavern Keeper",
+    "vo": "stare the poor tavern keeper frees his mid left and ducks behind his"
+   },
+   {
+    "id": 32,
+    "duration": 4.38,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p065_man_with_blood_on_his_face.webp",
+    "panelRight": "c32_p066_two_men_in_dark_robes_one.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 32: Soup Pot Zaha Instantly",
+    "vo": "soup pot zaha instantly glares at gunpion demanding to know who"
+   },
+   {
+    "id": 33,
+    "duration": 4.62,
+    "motion": "slide_up",
+    "panelLeft": "c32_p067_warrior_in_robe_speech_bubble_become.webp",
+    "panelRight": "c32_p068_man_with_blood_on_his_face.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 33: Gave Permission Give Death",
+    "vo": "gave him permission to give death glares to his favorite noodle chef"
+   },
+   {
+    "id": 34,
+    "duration": 4.25,
+    "motion": "pan_left",
+    "panelLeft": "c32_p069_warrior_in_red_robe_blood_on.webp",
+    "panelRight": "c32_p070_warrior_in_battle_sword_blood_fighting.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 34: Forcing Terrifying Swordsmen Apologize",
+    "vo": "forcing the terrifying swordsmen to apologize and look at the cook with polite"
+   },
+   {
+    "id": 35,
+    "duration": 4.35,
+    "motion": "zoom_out",
+    "panelLeft": "c32_p071_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c32_p072_man_with_blood_on_his_face.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 35: Customer Manners Scene Provides",
+    "vo": "customer manners this scene provides profound insight into zahaz martial philosophy"
+   },
+   {
+    "id": 36,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c32_p074_two_men_in_combat_one_bleeding.webp",
+    "panelRight": "c32_p073_warrior_with_blood_on_face_sword.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 36: Regarding Weapons Men Jenghu",
+    "vo": "regarding weapons and men in the jenghu possessing a blade far"
+   },
+   {
+    "id": 37,
+    "duration": 4.57,
+    "motion": "pulse_zoom",
+    "panelLeft": "c32_p075_warrior_speaking_sword_blood_castle_burning.webp",
+    "panelRight": "c32_p076_bloodied_face_speech_bubble_dark_hair.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 37: Superior Martial Realm Makes",
+    "vo": "superior to your martial realm makes you a walking target for greedy"
+   },
+   {
+    "id": 38,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c32_p077_man_with_blood_on_his_face.webp",
+    "panelRight": "c32_p078_warrior_with_bloodied_hands_sword_and.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 38: Masters While Carrying Weapon",
+    "vo": "masters while carrying a weapon inferior to your skills leads to untimely death"
+   },
+   {
+    "id": 39,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p062_bloodied_text_red_and_black_dark.webp",
+    "panelRight": "c32_p080_warrior_in_traditional_attire_holding_sword.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 39: High Tier Weapons Clash",
+    "vo": "when high tier weapons clash a weapon is only as good as the"
+   },
+   {
+    "id": 40,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c32_p081_warrior_with_blood_on_face_text.webp",
+    "panelRight": "c32_p082_red_moon_with_stars.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 40: Internal Conviction Biological Precision",
+    "vo": "internal conviction and biological precision of the hand wielding it but as"
+   },
+   {
+    "id": 41,
+    "duration": 4.33,
+    "motion": "slide_down",
+    "panelLeft": "c32_p064_blood_splatter_man_in_robe_bloodied.webp",
+    "panelRight": "c32_p038_warrior_in_battle_sword_blood_fallen.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 41: Finish Meal Grim Intelligence",
+    "vo": "they finish the meal grim intelligence arrives from the northern border"
+   },
+   {
+    "id": 42,
+    "duration": 4.38,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p079_warrior_in_battle_sword_black_rabbit.webp",
+    "panelRight": "c32_p017_warrior_in_battle_sword_swinging_blood.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 42: Black Rabbit Union Officially",
+    "vo": "the black rabbit union has officially mobilized their vanguard forces to retaliate for"
+   },
+   {
+    "id": 43,
+    "duration": 4.34,
+    "motion": "slide_up",
+    "panelLeft": "c32_p070_warrior_in_battle_sword_blood_fighting.webp",
+    "panelRight": "c32_p071_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 43: Loss Gold Pavilions Piece",
+    "vo": "the loss of their gold and pavilions the piece of ilyang"
+   },
+   {
+    "id": 44,
+    "duration": 4.54,
+    "motion": "pan_left",
+    "panelLeft": "c32_p033_warrior_in_battle_sword_swinging_enemy.webp",
+    "panelRight": "c32_p032_warrior_in_battle_sword_swinging_enemy.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 44: Prefecture Expired Zahah Decides",
+    "vo": "prefecture has expired and zahah decides that instead of waiting behind wooden barricades for the enemy"
+   },
+   {
+    "id": 45,
+    "duration": 4.35,
+    "motion": "zoom_out",
+    "panelLeft": "c32_p074_two_men_in_combat_one_bleeding.webp",
+    "panelRight": "c32_p073_warrior_with_blood_on_face_sword.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 45: Surround Going Take Initiative",
+    "vo": "to surround them he is going to take the initiative grab a few executioner"
+   },
+   {
+    "id": 46,
+    "duration": 4.65,
+    "motion": "pan_right",
+    "panelLeft": "c32_p066_two_men_in_dark_robes_one.webp",
+    "panelRight": "c32_p075_warrior_speaking_sword_blood_castle_burning.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 46: Axes Bring War Straight",
+    "vo": "axes and bring the war straight to the syndicates front door he gathers his men checks"
+   },
+   {
+    "id": 47,
+    "duration": 4.32,
+    "motion": "pulse_zoom",
+    "panelLeft": "c32_p077_man_with_blood_on_his_face.webp",
+    "panelRight": "c32_p078_warrior_with_bloodied_hands_sword_and.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 47: Edge Steps Gathering Darkness",
+    "vo": "his edge and steps out into the gathering darkness ready to remind the"
+   },
+   {
+    "id": 48,
+    "duration": 4.14,
+    "motion": "slide_down",
+    "panelLeft": "c32_p080_warrior_in_traditional_attire_holding_sword.webp",
+    "panelRight": "c32_p081_warrior_with_blood_on_face_text.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 48: Underworld Why Playing Defense",
+    "vo": "underworld why playing defense is for cowards and offense is the"
+   },
+   {
+    "id": 49,
+    "duration": 4.49,
+    "motion": "zoom_in",
+    "panelLeft": "c32_p044_warrior_in_battle_sword_drawn_intense.webp",
+    "panelRight": "c32_p042_warrior_in_battle_sword_drawn_red.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 49: True Shield Laughter Fading",
+    "vo": "only true shield with laughter fading and battle lines drawn the hunt"
+   },
+   {
+    "id": 50,
+    "duration": 4.8,
+    "motion": "slide_up",
+    "panelLeft": "c32_p082_red_moon_with_stars.webp",
+    "panelRight": "c32_p053_warrior_in_battle_sword_blood_castle.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 50: Begins Across Rugged Borders",
+    "vo": "begins across the rugged borders paving the way for the ultimate showdown"
+   }
+  ]
+ },
+ "Chapter_033": {
+  "id": "Chapter_033",
+  "title": "Chapter 033",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 7235,
+  "duration": 222,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c33_p002_emperor_seated_soldiers_conversation_speech_bubble.webp",
+    "panelRight": "c33_p004_man_in_suit_talking_to_others.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 01: Sane Martial Artists Planning",
+    "vo": "most sane martial artists planning to attack a rival syndicate headquarters"
+   },
+   {
+    "id": 2,
+    "duration": 4.0,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p003_warrior_in_battle_blood_on_robe.webp",
+    "panelRight": "c33_p010_warrior_in_chair_speech_bubble_yes.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 02: Spend Weeks Gathering Intelligence",
+    "vo": "spend weeks gathering intelligence mapping out escape routes and organizing stealth"
+   },
+   {
+    "id": 3,
+    "duration": 4.6,
+    "motion": "slide_up",
+    "panelLeft": "c33_p026_warrior_in_robe_talking_holding_sword.webp",
+    "panelRight": "c33_p005_master_speaks_warrior_sits_character_looks.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 03: Night Raids Badzaha Operate",
+    "vo": "night raids badzaha does not operate on normal human"
+   },
+   {
+    "id": 4,
+    "duration": 4.73,
+    "motion": "pan_left",
+    "panelLeft": "c33_p006_warrior_in_battle_speaking_sword_boots.webp",
+    "panelRight": "c33_p012_warrior_holding_sword_speech_bubble.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 04: Logic Grabs Colossal Blacksmith'S",
+    "vo": "logic he grabs a colossal blacksmith's executioner brought ax slaps"
+   },
+   {
+    "id": 5,
+    "duration": 4.52,
+    "motion": "zoom_out",
+    "panelLeft": "c33_p008_warrior_asking_why_in_battle.webp",
+    "panelRight": "c33_p009_man_with_black_hair_red_eyes.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 05: Casually Shoulder Strolls Right",
+    "vo": "it casually over his shoulder and strolls right up to the massive fortified gates of the"
+   },
+   {
+    "id": 6,
+    "duration": 4.14,
+    "motion": "pan_right",
+    "panelLeft": "c33_p024_man_with_black_hair_and_red.webp",
+    "panelRight": "c33_p023_warriors_in_battle_warrior_in_conversation.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 06: Black Rabbit Union Broad",
+    "vo": "black rabbit union in broad daylight so gunpion who followed"
+   },
+   {
+    "id": 7,
+    "duration": 4.67,
+    "motion": "pulse_zoom",
+    "panelLeft": "c33_p021_warrior_in_red_robe_warrior_in.webp",
+    "panelRight": "c33_p007_warrior_in_red_robe_speaking_rampart.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 07: Along Witness Madness Firsthand",
+    "vo": "along to witness the madness firsthand suggests they breach the walls together but zahah tells"
+   },
+   {
+    "id": 8,
+    "duration": 4.48,
+    "motion": "slide_down",
+    "panelLeft": "c33_p058_warrior_in_black_headband_dark_background.webp",
+    "panelRight": "c33_p062_warrior_in_dark_robe_asking_why.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 08: Hang Back Watch Master",
+    "vo": "him to hang back and watch the master class unfold zahah knocks loudly on"
+   },
+   {
+    "id": 9,
+    "duration": 4.43,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p016_three_men_in_traditional_attire_one.webp",
+    "panelRight": "c33_p015_three_men_in_formal_attire_one.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 09: Heavy Iron Studded Gate",
+    "vo": "the heavy iron studded gate and when the gatekeeper peeks through the"
+   },
+   {
+    "id": 10,
+    "duration": 4.18,
+    "motion": "slide_up",
+    "panelLeft": "c33_p017_man_with_blood_on_face_tired.webp",
+    "panelRight": "c33_p014_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 10: People Asking Knocking Zahah",
+    "vo": "people asking who is knocking zahah introduces himself as lee zahah"
+   },
+   {
+    "id": 11,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c33_p022_warrior_speaking_pointing_blood_sword_captain.webp",
+    "panelRight": "c33_p011_warrior_in_battle_sword_blood_injured.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 11: Ilyang Prefecture Tells Open",
+    "vo": "from ilyang prefecture and tells him to open up before he splinters the"
+   },
+   {
+    "id": 12,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p028_warrior_in_battle_shouting_at_enemy.webp",
+    "panelRight": "c33_p019_three_men_in_robes_one_speaking.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 12: Timber Toothpicks Guard Laughs",
+    "vo": "timber into toothpicks when the guard laughs and starts shouting inside about an"
+   },
+   {
+    "id": 13,
+    "duration": 4.71,
+    "motion": "slide_up",
+    "panelLeft": "c33_p057_warriors_in_conversation_large_boot_character.webp",
+    "panelRight": "c33_p036_warrior_with_dark_hair_red_eyes.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 13: Arrogant Pale Faced Kid",
+    "vo": "arrogant pale faced kid making empty threats zaha loses patience leaves"
+   },
+   {
+    "id": 14,
+    "duration": 4.51,
+    "motion": "pan_left",
+    "panelLeft": "c33_p025_warriors_in_meeting_seated_traditional_setting.webp",
+    "panelRight": "c33_p033_characters_in_meeting_discussion_seating_arrangement.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 14: Feet Straight Onto Rooftop",
+    "vo": "feet straight onto the rooftop ridge and surveys the luxurious scholar style of state"
+   },
+   {
+    "id": 15,
+    "duration": 4.45,
+    "motion": "zoom_out",
+    "panelLeft": "c33_p031_warrior_in_battle_pointing_blood_sword.webp",
+    "panelRight": "c33_p018_warrior_in_kimono_holding_sword_talking.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 15: Seeing How Comfortably These",
+    "vo": "seeing how comfortably these extortionist parasites are living off"
+   },
+   {
+    "id": 16,
+    "duration": 4.42,
+    "motion": "pan_right",
+    "panelLeft": "c33_p032_warriors_in_conversation_serious_expressions.webp",
+    "panelRight": "c33_p045_three_men_in_suits_one_with.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 16: Stolen Blood Money Genuinely",
+    "vo": "stolen blood money genuinely annoys him as dozens of heavily armed"
+   },
+   {
+    "id": 17,
+    "duration": 3.83,
+    "motion": "pulse_zoom",
+    "panelLeft": "c33_p034_hand_holding_sword.webp",
+    "panelRight": "c33_p027_warrior_in_battle_sword_dialogue.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 17: Enforcers Rush Courtyard Hurling",
+    "vo": "enforcers rush into the courtyard hurling foul curses and drawing"
+   },
+   {
+    "id": 18,
+    "duration": 4.83,
+    "motion": "slide_down",
+    "panelLeft": "c33_p029_warrior_in_battle_emperor_speaking_character.webp",
+    "panelRight": "c33_p020_man_in_suit_talking_to_old.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 18: Sabers Zahah Drops Center",
+    "vo": "their sabers zahah drops down into the center of the pavilion with a deafening"
+   },
+   {
+    "id": 19,
+    "duration": 4.81,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p039_warrior_in_blood_kneeling_emperor_speaking.webp",
+    "panelRight": "c33_p040_man_in_robe_finger_pointing_speech.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 19: Thud Ultimate Display Psychological",
+    "vo": "thud in the ultimate display of psychological dominance zahah calmly drags a"
+   },
+   {
+    "id": 20,
+    "duration": 4.19,
+    "motion": "slide_up",
+    "panelLeft": "c33_p037_man_with_wide_eyes_holding_sword.webp",
+    "panelRight": "c33_p035_man_in_robe_with_hand_raised.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 20: Wooden Chair Middle Cobblestone",
+    "vo": "wooden chair into the middle of the cobblestone courtyard jams the massive executioner"
+   },
+   {
+    "id": 21,
+    "duration": 4.63,
+    "motion": "slide_down",
+    "panelLeft": "c33_p038_warrior_in_robe_speech_bubble_question.webp",
+    "panelRight": "c33_p041_warrior_in_traditional_attire_bloodstained_kimono.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 21: Axe Head Thank Much",
+    "vo": "axe head down into thank you so much for watching this video and"
+   },
+   {
+    "id": 22,
+    "duration": 4.32,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p060_man_with_tears_speech_bubble_ah.webp",
+    "panelRight": "c33_p042_man_in_robe_seated_talking.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 22: I'Ll See Next Video",
+    "vo": "i'll see you in the next video see you in the next"
+   },
+   {
+    "id": 23,
+    "duration": 4.52,
+    "motion": "slide_up",
+    "panelLeft": "c33_p043_warrior_in_battle_talking_holding_sword.webp",
+    "panelRight": "c33_p044_warrior_in_robe_holding_scroll_talking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 23: Video Disoriented Nobody Rushes",
+    "vo": "video disoriented nobody rushes in because the sheer aura of unbothered"
+   },
+   {
+    "id": 24,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c33_p048_warriors_in_traditional_attire_standing_in.webp",
+    "panelRight": "c33_p046_three_men_in_suits_one_with.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 24: Lunacy Makes Suspect Invisible",
+    "vo": "lunacy makes them suspect an invisible army is waiting in the wings"
+   },
+   {
+    "id": 25,
+    "duration": 4.3,
+    "motion": "zoom_out",
+    "panelLeft": "c33_p051_emperor_speaking_warrior_in_background_characters.webp",
+    "panelRight": "c33_p050_emperor_speaking_holding_sword.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 25: High Ranking Syndicate Executives",
+    "vo": "high ranking syndicate executives flood the courtyard forming a tight"
+   },
+   {
+    "id": 26,
+    "duration": 4.5,
+    "motion": "pan_right",
+    "panelLeft": "c33_p049_warrior_in_battle_sword_in_hand.webp",
+    "panelRight": "c33_p054_warrior_in_conversation_blood_on_clothes.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 26: Perimeter Followed Elderly Elder",
+    "vo": "perimeter followed by an elderly elder who asks if zahah came alone"
+   },
+   {
+    "id": 27,
+    "duration": 4.4,
+    "motion": "pulse_zoom",
+    "panelLeft": "c33_p047_warrior_with_blood_on_face_asking.webp",
+    "panelRight": "c33_p052_warrior_in_battle_holding_sword_red.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 27: Zahah Scoffs Telling Old",
+    "vo": "zahah scoffs telling the old fossil that he is not here to chat with decrepit minions"
+   },
+   {
+    "id": 28,
+    "duration": 4.6,
+    "motion": "slide_down",
+    "panelLeft": "c33_p059_warrior_in_black_robe_with_white.webp",
+    "panelRight": "c33_p069_samurai_stands_in_a_dimly_lit.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 28: Loudly Demands Rabbit Masked",
+    "vo": "and loudly demands the rabbit masked boss to step outside"
+   },
+   {
+    "id": 29,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p055_emperor_speaking_red_eyes_dark_hair.webp",
+    "panelRight": "c33_p053_warrior_with_bandaged_mouth_sword_in.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 29: Supreme Leader Black Rabbit",
+    "vo": "that is when the supreme leader of the black rabbit union emerges wearing"
+   },
+   {
+    "id": 30,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c33_p056_warrior_with_sword_and_speech_bubble.webp",
+    "panelRight": "c33_p009_man_with_black_hair_red_eyes.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 30: Signature Black Rabbit Mask",
+    "vo": "his signature black rabbit mask looking down from the grand balcony"
+   },
+   {
+    "id": 31,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c33_p019_three_men_in_robes_one_speaking.webp",
+    "panelRight": "c33_p030_emperor_speaking_character_with_speech_bubble.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 31: Leader Asks Disgust Scruffy",
+    "vo": "the leader asks with disgust if this scruffy teenager is the errand boy"
+   },
+   {
+    "id": 32,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p028_warrior_in_battle_shouting_at_enemy.webp",
+    "panelRight": "c33_p031_warrior_in_battle_pointing_blood_sword.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 32: Causing Trouble Zahat Respond",
+    "vo": "causing trouble zahat does not just respond he unleashes"
+   },
+   {
+    "id": 33,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c33_p027_warrior_in_battle_sword_dialogue.webp",
+    "panelRight": "c33_p063_warrior_kneeling_emperor_speaking.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 33: Devastating Psychological Verbal Assault",
+    "vo": "the most devastating psychological verbal assault in zhang hu history answering"
+   },
+   {
+    "id": 34,
+    "duration": 4.1,
+    "motion": "pan_left",
+    "panelLeft": "c33_p064_warrior_speaking_twelve_heavenly_generals_gold.webp",
+    "panelRight": "c33_p065_warrior_in_boots_walking.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 34: Question Question Zaha Asks",
+    "vo": "a question with a question zaha asks if he is the personal slave rabbit"
+   },
+   {
+    "id": 35,
+    "duration": 4.57,
+    "motion": "zoom_out",
+    "panelLeft": "c33_p068_warrior_in_a_robe_stands_over.webp",
+    "panelRight": "c33_p072_warrior_in_battle_talking_to_another.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 35: Regional Overlord Dana Chao",
+    "vo": "of the regional overlord dana chao openly mocking him as a cowardly rodent"
+   },
+   {
+    "id": 36,
+    "duration": 4.67,
+    "motion": "pan_right",
+    "panelLeft": "c33_p067_warrior_in_battle_martial_ability_rank.webp",
+    "panelRight": "c33_p073_emperor_speaking_finger_on_chin_speech.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 36: Hiding Behind Painted Leather",
+    "vo": "hiding behind painted leather who plays warlord in a rural prefecture while bowing"
+   },
+   {
+    "id": 37,
+    "duration": 4.33,
+    "motion": "pulse_zoom",
+    "panelLeft": "c33_p021_warrior_in_red_robe_warrior_in.webp",
+    "panelRight": "c33_p074_man_in_traditional_clothing_food_on.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 37: Beaten Dog Hire Powers",
+    "vo": "like a beaten dog to hire powers zaha then addresses the entire syndicate"
+   },
+   {
+    "id": 38,
+    "duration": 4.25,
+    "motion": "slide_down",
+    "panelLeft": "c33_p069_samurai_stands_in_a_dimly_lit.webp",
+    "panelRight": "c33_p032_warriors_in_conversation_serious_expressions.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 38: Loud Proclaiming Leader Warrior",
+    "vo": "out loud proclaiming that if their leader has the warrior honor to"
+   },
+   {
+    "id": 39,
+    "duration": 4.75,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p010_warrior_in_chair_speech_bubble_yes.webp",
+    "panelRight": "c33_p025_warriors_in_meeting_seated_traditional_setting.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 39: Fight Deserves Lead Hides",
+    "vo": "fight him one on one he deserves to lead them but if he hides behind his subordinates like"
+   },
+   {
+    "id": 40,
+    "duration": 4.14,
+    "motion": "slide_up",
+    "panelLeft": "c33_p007_warrior_in_red_robe_speaking_rampart.webp",
+    "panelRight": "c33_p038_warrior_in_robe_speech_bubble_question.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 40: Trembling Coward Nothing Incompetent",
+    "vo": "a trembling coward he is nothing more than an incompetent parasite in"
+   },
+   {
+    "id": 41,
+    "duration": 4.61,
+    "motion": "slide_down",
+    "panelLeft": "c33_p008_warrior_asking_why_in_battle.webp",
+    "panelRight": "c33_p013_warrior_in_chair_emperor_in_background.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 41: Fraud Gunpion Listening Perimeter",
+    "vo": "a fraud gunpion listening from the perimeter wall shakes his head"
+   },
+   {
+    "id": 42,
+    "duration": 4.25,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p070_man_eating_woman_watching_table_full.webp",
+    "panelRight": "c33_p066_gold_boar_mask.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 42: Utter Disbelief Entire Compound",
+    "vo": "and utter disbelief as the entire compound freezes in stunned silence"
+   },
+   {
+    "id": 43,
+    "duration": 4.8,
+    "motion": "slide_up",
+    "panelLeft": "c33_p065_warrior_in_boots_walking.webp",
+    "panelRight": "c33_p073_emperor_speaking_finger_on_chin_speech.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 43: Stripping Syndicate Boss Dignity",
+    "vo": "by stripping the syndicate boss of his dignity psychological authority"
+   },
+   {
+    "id": 44,
+    "duration": 4.32,
+    "motion": "pan_left",
+    "panelLeft": "c33_p061_warrior_slays_enemy_character_speaks_yeah.webp",
+    "panelRight": "c33_p062_warrior_in_dark_robe_asking_why.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 44: Institutional Credibility Front Entire",
+    "vo": "and institutional credibility in front of his entire garrison zaha forces a"
+   },
+   {
+    "id": 45,
+    "duration": 4.21,
+    "motion": "zoom_out",
+    "panelLeft": "c33_p033_characters_in_meeting_discussion_seating_arrangement.webp",
+    "panelRight": "c33_p071_man_eating_food_with_chopsticks.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 45: Life Death Duel Terms",
+    "vo": "life or death duel on his own terms setting up the most brutal leadership"
+   },
+   {
+    "id": 46,
+    "duration": 4.52,
+    "motion": "pan_right",
+    "panelLeft": "c33_p003_warrior_in_battle_blood_on_robe.webp",
+    "panelRight": "c33_p011_warrior_in_battle_sword_blood_injured.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 46: User Patient Criminal Underworld",
+    "vo": "user patient the criminal underworld has ever witnessed when pride is"
+   },
+   {
+    "id": 47,
+    "duration": 4.7,
+    "motion": "pulse_zoom",
+    "panelLeft": "c33_p054_warrior_in_conversation_blood_on_clothes.webp",
+    "panelRight": "c33_p047_warrior_with_blood_on_face_asking.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 47: Backed Against Wall Blood",
+    "vo": "backed against a wall only blood can settle the score and zaha is more than ready to"
+   },
+   {
+    "id": 48,
+    "duration": 4.11,
+    "motion": "slide_down",
+    "panelLeft": "c33_p005_master_speaks_warrior_sits_character_looks.webp",
+    "panelRight": "c33_p074_man_in_traditional_clothing_food_on.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 48: Show Entire City Real",
+    "vo": "show this entire city what real marshal power looks like in a world"
+   },
+   {
+    "id": 49,
+    "duration": 4.33,
+    "motion": "zoom_in",
+    "panelLeft": "c33_p042_man_in_robe_seated_talking.webp",
+    "panelRight": "c33_p040_man_in_robe_finger_pointing_speech.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 49: Ruled Raw Survival Man",
+    "vo": "ruled by raw survival the man who controls the room without throwing a single"
+   },
+   {
+    "id": 50,
+    "duration": 5.0,
+    "motion": "slide_up",
+    "panelLeft": "c33_p059_warrior_in_black_robe_with_white.webp",
+    "panelRight": "c33_p057_warriors_in_conversation_large_boot_character.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 50: Punch True Apex Predator",
+    "vo": "punch is the true apex predator and the slaughter is about to begin"
+   }
+  ]
+ },
+ "Chapter_034": {
+  "id": "Chapter_034",
+  "title": "Chapter 034",
+  "audioSrc": "full_movie.mp3",
+  "audioOffset": 7457,
+  "duration": 217.5,
+  "shots": [
+   {
+    "id": 1,
+    "duration": 4.0,
+    "motion": "slide_down",
+    "panelLeft": "c34_p016_brother_rabbit_its_been_a_while.webp",
+    "panelRight": "c34_p025_warrior_in_yellow_robe_black_mask.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 01: Tension Black Rabbit Union",
+    "vo": "the tension in the black rabbit union courtyard reaches an absolute"
+   },
+   {
+    "id": 2,
+    "duration": 4.67,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p004_man_with_sword_red_glove_sword.webp",
+    "panelRight": "c34_p013_warrior_in_battle_sword_in_hand.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 02: Boiling Point Supreme Leader",
+    "vo": "boiling point as the supreme leader draws his dark sword from its scabbard realizing that"
+   },
+   {
+    "id": 3,
+    "duration": 4.33,
+    "motion": "slide_up",
+    "panelLeft": "c34_p005_warrior_pouring_water_from_jug.webp",
+    "panelRight": "c34_p003_fat_man_asking_what_to_do.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 03: Unless Cuts Unhinged Air",
+    "vo": "unless he cuts down this unhinged air and boy in front of his entire syndicate"
+   },
+   {
+    "id": 4,
+    "duration": 4.25,
+    "motion": "pan_left",
+    "panelLeft": "c34_p006_emperor_speaking_gold_boar_not_afraid.webp",
+    "panelRight": "c34_p007_warrior_drinking_tea_talking_to_someone.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 04: Authority Permanently Dead Right",
+    "vo": "his authority is permanently dead right as the duel is about"
+   },
+   {
+    "id": 5,
+    "duration": 4.35,
+    "motion": "zoom_out",
+    "panelLeft": "c34_p008_heavenly_journey.webp",
+    "panelRight": "c34_p010_emperor_speaking_warrior_walking_food_on.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 05: Ignite Gunpiong Steps Forward",
+    "vo": "to ignite so gunpiong steps forward from the perimeter and solemnly offers his"
+   },
+   {
+    "id": 6,
+    "duration": 4.73,
+    "motion": "pan_right",
+    "panelLeft": "c34_p009_warrior_in_a_restaurant_eating_talking.webp",
+    "panelRight": "c34_p011_two_men_in_robes_one_speaking.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 06: Prized Nightblade Zaha Formally",
+    "vo": "prized nightblade to zaha formally acknowledging him as leader for the very first"
+   },
+   {
+    "id": 7,
+    "duration": 4.56,
+    "motion": "pulse_zoom",
+    "panelLeft": "c34_p032_three_figures_in_traditional_attire_one.webp",
+    "panelRight": "c34_p014_emperor_in_yellow_robe_talking_seated.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 07: Time Zaha Takes Legendary",
+    "vo": "time zaha takes the legendary no dachi with a smirk joking that while it"
+   },
+   {
+    "id": 8,
+    "duration": 4.31,
+    "motion": "slide_down",
+    "panelLeft": "c34_p015_emperor_speaking_warrior_in_background.webp",
+    "panelRight": "c34_p017_masked_figure_with_red_eyes.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 08: Slightly Better Kitchen Cleaver",
+    "vo": "is slightly better than a kitchen cleaver it will do the job just fine what follows"
+   },
+   {
+    "id": 9,
+    "duration": 4.3,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p018_fat_man_with_speech_bubble.webp",
+    "panelRight": "c34_p019_masked_figure_asks_if_this_is.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 09: Breathtaking Display High Level",
+    "vo": "is a breathtaking display of high level martial mechanics the union"
+   },
+   {
+    "id": 10,
+    "duration": 4.5,
+    "motion": "slide_up",
+    "panelLeft": "c34_p013_warrior_in_battle_sword_in_hand.webp",
+    "panelRight": "c34_p036_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 10: Leader Attacks Masterclass Refined",
+    "vo": "leader attacks with a masterclass of refined deceptive swordplay"
+   },
+   {
+    "id": 11,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c34_p022_hand_with_a_symbol_on_it.webp",
+    "panelRight": "c34_p023_warrior_in_yellow_robe_pointing_speaking.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 11: Switching Seamlessly Between Offense",
+    "vo": "switching seamlessly between offense and defense while laying subtle tactical traps to"
+   },
+   {
+    "id": 12,
+    "duration": 4.57,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p024_warrior_in_mask_red_eyes_and.webp",
+    "panelRight": "c34_p026_warrior_in_yellow_robe_talking_about.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 12: Exploit False Openings Zaha",
+    "vo": "exploit false openings but zaha does not fight like a"
+   },
+   {
+    "id": 13,
+    "duration": 4.0,
+    "motion": "slide_up",
+    "panelLeft": "c34_p008_heavenly_journey.webp",
+    "panelRight": "c34_p028_warrior_in_mask_talking_boots_walking.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 13: Textbook Martial Artist Combat",
+    "vo": "textbook martial artist his combat patterns are fluid indefinite and"
+   },
+   {
+    "id": 14,
+    "duration": 4.8,
+    "motion": "pan_left",
+    "panelLeft": "c34_p047_warrior_with_mask_red_eyes_and.webp",
+    "panelRight": "c34_p030_warrior_with_glowing_eyes_and_claws.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 14: Completely Formless Instead Rushing",
+    "vo": "completely formless instead of rushing for an immediate execution zaha deliberately"
+   },
+   {
+    "id": 15,
+    "duration": 4.4,
+    "motion": "zoom_out",
+    "panelLeft": "c34_p031_warrior_in_mask_text_i_feel.webp",
+    "panelRight": "c34_p032_three_figures_in_traditional_attire_one.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 15: Matches Leader Blow Blow",
+    "vo": "matches the leader blow for blow using his supreme regression insight to"
+   },
+   {
+    "id": 16,
+    "duration": 4.6,
+    "motion": "pan_right",
+    "panelLeft": "c34_p034_warrior_in_mask_sword_and_mask.webp",
+    "panelRight": "c34_p017_masked_figure_with_red_eyes.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 16: Memorize Every Cadence Sword",
+    "vo": "memorize every cadence and sword angle of dana shals' regional style"
+   },
+   {
+    "id": 17,
+    "duration": 4.34,
+    "motion": "pulse_zoom",
+    "panelLeft": "c34_p066_warrior_speaking_holding_sword_energy_absorption.webp",
+    "panelRight": "c34_p067_warrior_with_red_eyes_and_yellow.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 17: Clash Passes Trades Zahad",
+    "vo": "as the clash passes trades zahad gradually unleashes the"
+   },
+   {
+    "id": 18,
+    "duration": 4.46,
+    "motion": "slide_down",
+    "panelLeft": "c34_p052_warrior_in_battle_sword_drawn_shouting.webp",
+    "panelRight": "c34_p036_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 18: True Depths Internal Chi",
+    "vo": "true depths of the internal chi he cultivated from the heavenly pearl coating the nightblade"
+   },
+   {
+    "id": 19,
+    "duration": 4.4,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p037_two_men_in_traditional_robes_one.webp",
+    "panelRight": "c34_p028_warrior_in_mask_talking_boots_walking.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 19: Roaring Crimson Heat Union",
+    "vo": "in roaring crimson heat the union leader's face pales behind"
+   },
+   {
+    "id": 20,
+    "duration": 4.14,
+    "motion": "slide_up",
+    "panelLeft": "c34_p030_warrior_with_glowing_eyes_and_claws.webp",
+    "panelRight": "c34_p047_warrior_with_mask_red_eyes_and.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 20: Mask Realizes Suffocating Dread",
+    "vo": "his mask as he realizes with suffocating dread that this teenage aaron"
+   },
+   {
+    "id": 21,
+    "duration": 4.36,
+    "motion": "slide_down",
+    "panelLeft": "c34_p039_emperor_speaking_warrior_in_background.webp",
+    "panelRight": "c34_p040_fist_clenched_into_a_fist.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 21: Boy Toying Using Less",
+    "vo": "boy has been toying with him using less than half of his true"
+   },
+   {
+    "id": 22,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p013_warrior_in_battle_sword_in_hand.webp",
+    "panelRight": "c34_p069_warrior_in_battle_speaking_to_brother.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 22: Cultivation Cornered Wild Animal",
+    "vo": "cultivation cornered like a wild animal the boss desperately unleashes a lethal wave of"
+   },
+   {
+    "id": 23,
+    "duration": 4.67,
+    "motion": "slide_up",
+    "panelLeft": "c34_p066_warrior_speaking_holding_sword_energy_absorption.webp",
+    "panelRight": "c34_p048_warrior_in_black_cloak_sword_and.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 23: Condensed Sword Energy Aimed",
+    "vo": "condensed sword energy aimed directly toward gunpion's men hoping to force"
+   },
+   {
+    "id": 24,
+    "duration": 4.67,
+    "motion": "pan_left",
+    "panelLeft": "c34_p071_warrior_holding_sword_asking_about_other.webp",
+    "panelRight": "c34_p073_man_with_red_eyes_dark_cloak.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 24: Zaha Dodge Kill Defectors",
+    "vo": "zaha to dodge and kill the defectors banzaha does not dodge he steps straight"
+   },
+   {
+    "id": 25,
+    "duration": 4.42,
+    "motion": "zoom_out",
+    "panelLeft": "c34_p067_warrior_with_red_eyes_and_yellow.webp",
+    "panelRight": "c34_p049_warrior_in_mask_talking_amazing.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 25: Forward Unleashes Fiery Fragrance",
+    "vo": "forward and unleashes the fiery fragrance a blazing tidal wave of fire chicken"
+   },
+   {
+    "id": 26,
+    "duration": 4.25,
+    "motion": "pan_right",
+    "panelLeft": "c34_p050_warrior_in_black_robe_with_sword.webp",
+    "panelRight": "c34_p030_warrior_with_glowing_eyes_and_claws.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 26: Cheat Violently Obliterates Incoming",
+    "vo": "cheat that violently obliterates the incoming blade aura shattering the leader's"
+   },
+   {
+    "id": 27,
+    "duration": 4.57,
+    "motion": "pulse_zoom",
+    "panelLeft": "c34_p052_warrior_in_battle_sword_drawn_shouting.webp",
+    "panelRight": "c34_p053_warrior_in_battle_sword_in_hand.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 27: Sword Blasting Body Feet",
+    "vo": "sword and blasting his body feet backward into the stone fortress wall"
+   },
+   {
+    "id": 28,
+    "duration": 4.43,
+    "motion": "slide_down",
+    "panelLeft": "c34_p013_warrior_in_battle_sword_in_hand.webp",
+    "panelRight": "c34_p055_warrior_in_robe_sword_dialogue.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 28: Bone Crushing Force Union",
+    "vo": "with bone crushing force the union leader is left half buried"
+   },
+   {
+    "id": 29,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p047_warrior_with_mask_red_eyes_and.webp",
+    "panelRight": "c34_p028_warrior_in_mask_talking_boots_walking.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 29: Cracked Masonry Vomiting Dark",
+    "vo": "in the cracked masonry vomiting dark blood down the front of his wooden mask like"
+   },
+   {
+    "id": 30,
+    "duration": 4.31,
+    "motion": "slide_up",
+    "panelLeft": "c34_p057_old_man_with_speech_bubble.webp",
+    "panelRight": "c34_p075_emperor_speaking_to_warrior.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 30: Morbid Fresco Painting Zaha",
+    "vo": "a morbid fresco painting zaha turns to the petrified dearest and"
+   },
+   {
+    "id": 31,
+    "duration": 4.73,
+    "motion": "slide_down",
+    "panelLeft": "c34_p061_woman_with_mask_box_money_speech.webp",
+    "panelRight": "c34_p076_warrior_speaking_confident_stance.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 31: Nonchalantly Declares Air Boy",
+    "vo": "nonchalantly declares that the air and boy one offering to slaughter anyone who"
+   },
+   {
+    "id": 32,
+    "duration": 4.29,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p077_warrior_in_traditional_attire_looking_stern.webp",
+    "panelRight": "c34_p064_warrior_in_battle_emperor_speaking_character.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 32: Feels Avenging Boss Single",
+    "vo": "feels like avenging their boss but not a single enforcer dearest to"
+   },
+   {
+    "id": 33,
+    "duration": 4.38,
+    "motion": "slide_up",
+    "panelLeft": "c34_p065_warrior_in_mask_talking_speaking_warrior.webp",
+    "panelRight": "c34_p067_warrior_with_red_eyes_and_yellow.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 33: Breathe Walking Dying Leader",
+    "vo": "breathe walking over to the dying leader zaha pulls off the black rabbit mask"
+   },
+   {
+    "id": 34,
+    "duration": 4.4,
+    "motion": "pan_left",
+    "panelLeft": "c34_p042_legend_judge_kneeling_sword_mask_robe.webp",
+    "panelRight": "c34_p069_warrior_in_battle_speaking_to_brother.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 34: Revealing Trembling Broken Face",
+    "vo": "revealing a trembling broken face whispering for mercy zahah"
+   },
+   {
+    "id": 35,
+    "duration": 4.73,
+    "motion": "zoom_out",
+    "panelLeft": "c34_p071_warrior_holding_sword_asking_about_other.webp",
+    "panelRight": "c34_p068_emperor_speaking_to_a_warrior.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 35: Coldly Tells Surviving Means",
+    "vo": "coldly tells him that surviving means abandoning martial arts to live as"
+   },
+   {
+    "id": 36,
+    "duration": 4.21,
+    "motion": "pan_right",
+    "panelLeft": "c34_p073_man_with_red_eyes_dark_cloak.webp",
+    "panelRight": "c34_p041_warrior_in_black_robe_old_man.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 36: Humble Tavern Errand Boy",
+    "vo": "a humble tavern errand boy washing dishes and wiping tables until a"
+   },
+   {
+    "id": 37,
+    "duration": 4.27,
+    "motion": "pulse_zoom",
+    "panelLeft": "c34_p075_emperor_speaking_to_warrior.webp",
+    "panelRight": "c34_p076_warrior_speaking_confident_stance.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 37: Random Swordsman Cuts True",
+    "vo": "random swordsman cuts him down the true tragic reality of everyday commoners"
+   },
+   {
+    "id": 38,
+    "duration": 4.4,
+    "motion": "slide_down",
+    "panelLeft": "c34_p077_warrior_in_traditional_attire_looking_stern.webp",
+    "panelRight": "c34_p078_emperor_speaking_warrior_in_background_character.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 38: Young Man Even Process",
+    "vo": "in the young who before before the man can even process the offer"
+   },
+   {
+    "id": 39,
+    "duration": 4.5,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p079_warrior_in_chariot_night_speech_bubble.webp",
+    "panelRight": "c34_p036_warrior_in_battle_burning_castle_boots.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 39: Final Breath Escapes Zahha",
+    "vo": "his final breath escapes zahha turns around takes the rabbit mask"
+   },
+   {
+    "id": 40,
+    "duration": 4.79,
+    "motion": "slide_up",
+    "panelLeft": "c34_p047_warrior_with_mask_red_eyes_and.webp",
+    "panelRight": "c34_p028_warrior_in_mask_talking_boots_walking.webp",
+    "avatarPreset": "Serious.mp4",
+    "title": "Shot 40: Dripping Fresh Crimson Blood",
+    "vo": "dripping with fresh crimson blood places it firmly onto his own face and"
+   },
+   {
+    "id": 41,
+    "duration": 4.38,
+    "motion": "slide_down",
+    "panelLeft": "c34_p067_warrior_with_red_eyes_and_yellow.webp",
+    "panelRight": "c34_p066_warrior_speaking_holding_sword_energy_absorption.webp",
+    "avatarPreset": "Questioning.mp4",
+    "title": "Shot 41: Declares Paralyzed Syndicate Day",
+    "vo": "declares to the paralyzed syndicate that from this day forward he is the"
+   },
+   {
+    "id": 42,
+    "duration": 4.19,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p055_warrior_in_robe_sword_dialogue.webp",
+    "panelRight": "c34_p058_warrior_in_robe_talking_to_old.webp",
+    "avatarPreset": "Emphasizing.mp4",
+    "title": "Shot 42: New Supreme Leader Black",
+    "vo": "new supreme leader of the black rabbit union whether they like it or not because that"
+   },
+   {
+    "id": 43,
+    "duration": 4.14,
+    "motion": "slide_up",
+    "panelLeft": "c34_p042_legend_judge_kneeling_sword_mask_robe.webp",
+    "panelRight": "c34_p041_warrior_in_black_robe_old_man.webp",
+    "avatarPreset": "Concerned.mp4",
+    "title": "Shot 43: Simply Decided Entire Underworld",
+    "vo": "is simply what he decided with the entire underworld garrison kneeling"
+   },
+   {
+    "id": 44,
+    "duration": 4.67,
+    "motion": "pan_left",
+    "panelLeft": "c34_p072_two_men_in_a_forest_one.webp",
+    "panelRight": "c34_p071_warrior_holding_sword_asking_about_other.webp",
+    "avatarPreset": "Dramatic_Pause.mp4",
+    "title": "Shot 44: Terrified Submission Terrifying Regional",
+    "vo": "and terrified submission and the terrifying regional generals preparing to"
+   },
+   {
+    "id": 45,
+    "duration": 4.73,
+    "motion": "zoom_out",
+    "panelLeft": "c34_p073_man_with_red_eyes_dark_cloak.webp",
+    "panelRight": "c34_p059_heavenly_general_speaking_character_with_mustache.webp",
+    "avatarPreset": "Shocked.mp4",
+    "title": "Shot 45: March Iliang Prefecture Real",
+    "vo": "march on iliang prefecture the real war for the continent has officially begun"
+   },
+   {
+    "id": 46,
+    "duration": 4.4,
+    "motion": "pan_right",
+    "panelLeft": "c34_p075_emperor_speaking_to_warrior.webp",
+    "panelRight": "c34_p076_warrior_speaking_confident_stance.webp",
+    "avatarPreset": "Quiet_Laughter.mp4",
+    "title": "Shot 46: Enjoyed Absolute Cinematic Recap",
+    "vo": "if you enjoyed this absolute cinematic recap of the mad demon's reign smash"
+   },
+   {
+    "id": 47,
+    "duration": 4.32,
+    "motion": "pulse_zoom",
+    "panelLeft": "c34_p077_warrior_in_traditional_attire_looking_stern.webp",
+    "panelRight": "c34_p078_emperor_speaking_warrior_in_background_character.webp",
+    "avatarPreset": "Default_Talking.mp4",
+    "title": "Shot 47: Button Subscribe Channel Drop",
+    "vo": "that like button subscribe to the channel and drop a comment below telling the"
+   },
+   {
+    "id": 48,
+    "duration": 4.68,
+    "motion": "slide_down",
+    "panelLeft": "c34_p079_warrior_in_chariot_night_speech_bubble.webp",
+    "panelRight": "c34_p011_two_men_in_robes_one_speaking.webp",
+    "avatarPreset": "Explaining.mp4",
+    "title": "Shot 48: Witch Corrupt Villain Got",
+    "vo": "witch corrupt villain got disciplined the hardest by zahaz unhinged hands"
+   },
+   {
+    "id": 49,
+    "duration": 4.7,
+    "motion": "zoom_in",
+    "panelLeft": "c34_p069_warrior_in_battle_speaking_to_brother.webp",
+    "panelRight": "c34_p068_emperor_speaking_to_a_warrior.webp",
+    "avatarPreset": "Confident.mp4",
+    "title": "Shot 49: ",
+    "vo": ""
+   }
+  ]
+ }
+};
