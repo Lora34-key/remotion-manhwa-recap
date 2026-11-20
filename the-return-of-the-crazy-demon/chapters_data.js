@@ -8355,7 +8355,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.57,
     "motion": "zoom_in",
     "panelLeft": "c17_p002_black_mystic_union_master_seated.webp",
-    "panelRight": "c17_p005_warrior_in_black_robes_talking_about.webp",
+    "panelRight": "c17_p016_warrior_in_black_robe_seated_with.webp",
     "avatarPreset": "Shocked.mp4",
     "title": "Shot 02: Black Mystic Union Oppressive",
     "vo": "black mystic union an oppressive suffocating silence smothers the cavernous chamber as dozens"
@@ -8365,7 +8365,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 3.93,
     "motion": "slide_up",
     "panelLeft": "c17_p021_master_speaks_golden_phoenix_pavilion_martial.webp",
-    "panelRight": "c17_p020_golden_dragon_pavilion_master_so_goonpyeong.webp",
+    "panelRight": "c17_p018_warrior_in_court_speaking_to_emperor.webp",
     "avatarPreset": "Quiet_Laughter.mp4",
     "title": "Shot 03: Elite Martial Commanders Sit",
     "vo": "of elite martial commanders sit frozen in their high back"
@@ -8415,7 +8415,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.1,
     "motion": "slide_down",
     "panelLeft": "c17_p015_warrior_with_red_eyes_and_golden.webp",
-    "panelRight": "c17_p016_warrior_in_black_robe_seated_with.webp",
+    "panelRight": "c17_p005_warrior_in_black_robes_talking_about.webp",
     "avatarPreset": "Questioning.mp4",
     "title": "Shot 08: Forehead Repeatedly Bangs Against",
     "vo": "forehead repeatedly bangs against the polished stone floor when"
@@ -8445,7 +8445,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.6,
     "motion": "slide_down",
     "panelLeft": "c17_p019_warrior_in_battle_holding_sword.webp",
-    "panelRight": "c17_p018_warrior_in_court_speaking_to_emperor.webp",
+    "panelRight": "c17_p001_emperor_speaking_to_courtiers.webp",
     "avatarPreset": "Dramatic_Pause.mp4",
     "title": "Shot 11: Several Commanders Stifled Disbelieving",
     "vo": "that several commanders stifled disbelieving chuckles the pavilion was"
@@ -8624,8 +8624,8 @@ window.CHAPTERS_CONFIG = {
     "id": 29,
     "duration": 4.64,
     "motion": "zoom_in",
-    "panelLeft": "c17_p053_warrior_in_battle_shouting_how_does.webp",
-    "panelRight": "c17_p054_warrior_speaking_to_emperor.webp",
+    "panelLeft": "c17_p026_warrior_in_battle_red_background.webp",
+    "panelRight": "c17_p028_character_with_a_speech_bubble_saying.webp",
     "avatarPreset": "Emphasizing.mp4",
     "title": "Shot 29: Kangho Union Master Drops",
     "vo": "kangho the union master drops his calm facade his killing intent flooding"
@@ -8634,8 +8634,8 @@ window.CHAPTERS_CONFIG = {
     "id": 30,
     "duration": 4.52,
     "motion": "slide_up",
-    "panelLeft": "c17_p090_emperor_speaking_red_eyes_black_hair.webp",
-    "panelRight": "c17_p055_warrior_in_anger_shouting_your_nature.webp",
+    "panelLeft": "c17_p019_warrior_in_battle_holding_sword.webp",
+    "panelRight": "c17_p025_warrior_in_black_robe_sword_speech.webp",
     "avatarPreset": "Concerned.mp4",
     "title": "Shot 30: Chamber Glacial Pressure Officially",
     "vo": "the chamber with glacial pressure he officially mobilizes the black"
@@ -8645,7 +8645,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.13,
     "motion": "slide_down",
     "panelLeft": "c17_p013_emperor_orders_warrior_to_take_care.webp",
-    "panelRight": "c17_p057_man_thinking_speech_bubble_question_hmm.webp",
+    "panelRight": "c17_p031_warrior_in_black_cloak_sword_in.webp",
     "avatarPreset": "Dramatic_Pause.mp4",
     "title": "Shot 31: Reconnaissance'S Apex Enforcers Legendary",
     "vo": "reconnaissance's apex enforcers the legendary twin ghosts of"
@@ -9084,7 +9084,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.5,
     "motion": "zoom_in",
     "panelLeft": "c18_p035_warrior_in_kimono_serious_expression.webp",
-    "panelRight": "c18_p021_warrior_in_battle_speaking_skills_insufficient.webp",
+    "panelRight": "c18_p006_warrior_speaking_in_panel.webp",
     "avatarPreset": "Concerned.mp4",
     "title": "Shot 19: Against Chest Completely Defenseless",
     "vo": "against their chest is completely defenseless furthermore infusing high"
@@ -9154,7 +9154,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.8,
     "motion": "pan_right",
     "panelLeft": "c18_p054_emperor_speaking_serious_expression_dark_background.webp",
-    "panelRight": "c18_p056_man_with_black_hair_and_red.webp",
+    "panelRight": "c18_p022_hand_holding_a_sword.webp",
     "avatarPreset": "Serious.mp4",
     "title": "Shot 26: Strike Fractions Millimeter Every",
     "vo": "strike by fractions of a millimeter every time so gunpion attempts"
@@ -9234,7 +9234,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.4,
     "motion": "pan_left",
     "panelLeft": "c18_p069_warriors_fighting_fiery_taste_burning_castle.webp",
-    "panelRight": "c18_p074_man_with_long_hair_and_a.webp",
+    "panelRight": "c18_p037_man_in_kimono_with_dark_hair.webp",
     "avatarPreset": "Explaining.mp4",
     "title": "Shot 34: Asking Zahha Secretly Legendary",
     "vo": "asking if zahha is secretly one of the legendary heavenly generals disguised"
@@ -9334,7 +9334,7 @@ window.CHAPTERS_CONFIG = {
     "duration": 4.25,
     "motion": "pan_left",
     "panelLeft": "c18_p095_warrior_falling_character_watching.webp",
-    "panelRight": "c18_p093_warrior_in_battle_boots_walking_character.webp",
+    "panelRight": "c18_p091_warrior_holding_large_ball_surprised.webp",
     "avatarPreset": "Explaining.mp4",
     "title": "Shot 44: Unconscious Across Cobblestones Watching",
     "vo": "him unconscious across the cobblestones watching from the"
