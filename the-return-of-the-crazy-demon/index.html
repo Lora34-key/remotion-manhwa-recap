@@ -534,8 +534,8 @@
     <!-- Right Sidebar: Story Beats & Voiceover List -->
     <div class="sidebar-card">
       <div class="card-title">
-        <span>📜 Chapter 001 Master Timeline</span>
-        <span style="font-size: 0.72rem; color: var(--accent); font-weight: 600;">32 Shots • 02:26 (Max 4-5s)</span>
+        <span id="timeline_title">📜 Chapter 001 Master Timeline</span>
+        <span id="timeline_sub" style="font-size: 0.72rem; color: var(--accent); font-weight: 600;">53 Shots • 03:53 (Max 4-5s)</span>
       </div>
       <div id="beats_list" style="overflow-y: auto; padding-right: 4px; flex: 1;"></div>
     </div>
@@ -784,6 +784,10 @@
       if (bBadge) bBadge.innerText = `${BEATS.length} SHOTS • ${formatTime(totalDuration)} (MAX 4–5S/SHOT)`;
       const playBtn = document.getElementById('btn_play');
       if (playBtn) playBtn.innerText = `▶ Play ${currentChapter.title.split(':')[0]}`;
+      const tlTitle = document.getElementById('timeline_title');
+      if (tlTitle) tlTitle.innerText = `📜 ${currentChapter.title.split(':')[0]} Master Timeline`;
+      const tlSub = document.getElementById('timeline_sub');
+      if (tlSub) tlSub.innerText = `${BEATS.length} Shots • ${formatTime(totalDuration)} (Max 4-5s)`;
 
       const pLeft = document.getElementById('panel_left');
       if (pLeft) pLeft.removeAttribute('data-beat');
